@@ -29,13 +29,13 @@ const currentPath = Astro.url.pathname;
       </span>
     </a>
 
-    <!-- Nav links -->
+    <!-- Nav links + CTA -->
     <div class="nav-inner" id="nav-menu">
       <a href="/" class={`nav-link ${currentPath === '/' ? 'active' : ''}`}>Home</a>
 
       <div class="nav-dropdown-wrap">
-        <a href="/blog/" class="nav-link" aria-haspopup="true">
-          Blog
+        <a href="/blog/" class={`nav-link ${currentPath.startsWith('/blog') ? 'active' : ''}`} aria-haspopup="true">
+          Read
           <svg class="dropdown-chevron" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
         </a>
         <div class="nav-dropdown" role="menu">
@@ -46,6 +46,15 @@ const currentPath = Astro.url.pathname;
       </div>
 
       <a href="/about/" class={`nav-link ${currentPath === '/about/' ? 'active' : ''}`}>About</a>
+
+      <!-- Divider -->
+      <span class="nav-rule" aria-hidden="true"></span>
+
+      <!-- CTA -->
+      <a href="/blog/" class="nav-cta" aria-label="Browse all ideas">
+        <span class="nav-cta-main">Browse Ideas</span>
+        <span class="nav-cta-sub">Start Here</span>
+      </a>
     </div>
 
     <!-- Mobile toggle -->
@@ -58,11 +67,12 @@ const currentPath = Astro.url.pathname;
   <!-- Mobile nav -->
   <div id="mobile-nav" class="mobile-nav">
     <a href="/" class="mobile-link">Home</a>
-    <span class="mobile-cat-label">Blog</span>
+    <span class="mobile-cat-label">Read</span>
     {categories.map(cat => (
       <a href={cat.href} class="mobile-link mobile-link-sub">{cat.label}</a>
     ))}
     <a href="/about/" class="mobile-link">About</a>
+    <a href="/blog/" class="mobile-link mobile-link-cta">Browse Ideas →</a>
   </div>
 </header>
 
@@ -74,14 +84,11 @@ const currentPath = Astro.url.pathname;
   <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram" class="social-sidebar-btn">
     <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="2" y="2" width="20" height="20" rx="5"/><circle cx="12" cy="12" r="5"/><circle cx="17.5" cy="6.5" r="1" fill="currentColor" stroke="none"/></svg>
   </a>
-  <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" aria-label="Twitter / X" class="social-sidebar-btn">
-    <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.74l7.73-8.835L1.254 2.25H8.08l4.259 5.631 5.905-5.631Zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-  </a>
-  <a href="https://youtube.com" target="_blank" rel="noopener noreferrer" aria-label="YouTube" class="social-sidebar-btn">
-    <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.95-1.96C18.88 4 12 4 12 4s-6.88 0-8.59.46A2.78 2.78 0 0 0 1.46 6.42 29 29 0 0 0 1 12a29 29 0 0 0 .46 5.58 2.78 2.78 0 0 0 1.95 1.965C5.12 20 12 20 12 20s6.88 0 8.59-.455a2.78 2.78 0 0 0 1.95-1.965A29 29 0 0 0 23 12a29 29 0 0 0-.46-5.58zM9.75 15.02V8.98L15.5 12l-5.75 3.02z"/></svg>
-  </a>
   <a href="https://pinterest.co.uk" target="_blank" rel="noopener noreferrer" aria-label="Pinterest" class="social-sidebar-btn">
     <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
+  </a>
+  <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram stories" class="social-sidebar-btn">
+    <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M22.54 6.42a2.78 2.78 0 0 0-1.95-1.96C18.88 4 12 4 12 4s-6.88 0-8.59.46A2.78 2.78 0 0 0 1.46 6.42 29 29 0 0 0 1 12a29 29 0 0 0 .46 5.58 2.78 2.78 0 0 0 1.95 1.965C5.12 20 12 20 12 20s6.88 0 8.59-.455a2.78 2.78 0 0 0 1.95-1.965A29 29 0 0 0 23 12a29 29 0 0 0-.46-5.58zM9.75 15.02V8.98L15.5 12l-5.75 3.02z"/></svg>
   </a>
 </aside>
 
@@ -142,24 +149,44 @@ const currentPath = Astro.url.pathname;
     white-space: nowrap;
   }
 
-  .nav-inner { display: flex; align-items: center; }
+  /* Nav row */
+  .nav-inner {
+    display: flex;
+    align-items: center;
+    gap: 0;
+  }
 
   .nav-link {
+    position: relative;
     display: inline-flex;
     align-items: center;
     gap: 0.3rem;
     font-family: var(--font-body);
     font-size: 0.875rem;
-    color: rgba(255,255,255,0.8);
+    color: rgba(255,255,255,0.6);
     text-decoration: none;
-    padding: 0 0.9rem;
+    padding: 0 1rem;
     height: 72px;
     transition: color 200ms ease;
     white-space: nowrap;
   }
-  .nav-link:hover { color: var(--color-gold); text-decoration: none; }
-  .nav-link.active { color: var(--color-gold); }
+  .nav-link:hover { color: rgba(255,255,255,0.95); text-decoration: none; }
 
+  /* Active underline */
+  .nav-link.active {
+    color: rgba(255,255,255,0.95);
+  }
+  .nav-link.active::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 1rem;
+    right: 1rem;
+    height: 2px;
+    background: rgba(255,255,255,0.65);
+  }
+
+  /* Dropdown */
   .nav-dropdown-wrap { position: relative; display: flex; align-items: center; }
 
   .nav-dropdown {
@@ -198,6 +225,48 @@ const currentPath = Astro.url.pathname;
   }
   .nav-dropdown-item:hover { background: rgba(255,255,255,0.06); color: var(--color-gold); text-decoration: none; }
 
+  /* Vertical rule divider */
+  .nav-rule {
+    display: block;
+    width: 1px;
+    height: 28px;
+    background: rgba(255,255,255,0.18);
+    margin-inline: 1rem;
+    flex-shrink: 0;
+  }
+
+  /* CTA — BROWSE IDEAS / START HERE */
+  .nav-cta {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    text-decoration: none;
+    padding: 0 0.5rem;
+    gap: 0.1rem;
+    transition: opacity 200ms;
+  }
+  .nav-cta:hover { opacity: 0.8; text-decoration: none; }
+
+  .nav-cta-main {
+    font-family: var(--font-body);
+    font-size: 0.8rem;
+    font-weight: 800;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #fff;
+    line-height: 1;
+  }
+
+  .nav-cta-sub {
+    font-family: var(--font-body);
+    font-size: 0.62rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.38);
+    line-height: 1;
+  }
+
+  /* Mobile toggle */
   .mobile-toggle {
     display: none;
     flex-direction: column;
@@ -226,8 +295,18 @@ const currentPath = Astro.url.pathname;
     padding: 0.65rem 2rem;
     transition: color 200ms;
   }
-  .mobile-link:hover { color: var(--color-gold); text-decoration: none; }
+  .mobile-link:hover { color: #fff; text-decoration: none; }
   .mobile-link-sub { font-size: 0.85rem; color: rgba(255,255,255,0.5); padding-left: 2.75rem; padding-block: 0.45rem; }
+
+  .mobile-link-cta {
+    margin-top: 0.25rem;
+    border-top: 1px solid rgba(255,255,255,0.08);
+    padding-top: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    color: var(--color-gold);
+  }
+  .mobile-link-cta:hover { color: #fff; }
 
   .mobile-cat-label {
     display: block;
