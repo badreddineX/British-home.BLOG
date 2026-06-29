@@ -350,9 +350,11 @@ const related = allPosts
   .post-hero-social-btn {
     color: var(--color-heading);
     text-decoration: none;
-    transition: color var(--transition-base);
+    transition: color 200ms;
   }
-  .post-hero-social-btn:hover { color: var(--color-gold); text-decoration: none; }
+  .post-hero-social-btn:nth-child(1):hover { color: #1877F2; text-decoration: none; }
+  .post-hero-social-btn:nth-child(2):hover { color: #000000; text-decoration: none; }
+  .post-hero-social-btn:nth-child(3):hover { color: #E60023; text-decoration: none; }
 
   .post-hero-cat {
     display: block;
@@ -448,12 +450,9 @@ const related = allPosts
     transition: background-color var(--transition-base), color var(--transition-base), border-color var(--transition-base);
   }
 
-  .post-share-btn:hover {
-    background: var(--color-heading);
-    color: #fff;
-    border-color: var(--color-heading);
-    text-decoration: none;
-  }
+  .post-share-btn:nth-child(2):hover { background: #1877F2; color: #fff; border-color: #1877F2; text-decoration: none; }
+  .post-share-btn:nth-child(3):hover { background: #000000; color: #fff; border-color: #000000; text-decoration: none; }
+  .post-share-btn:nth-child(4):hover { background: #E60023; color: #fff; border-color: #E60023; text-decoration: none; }
 
   /* Content */
   .post-content-area { min-width: 0; }
