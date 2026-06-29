@@ -10,7 +10,8 @@ const sorted = allPosts.sort(
   (a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime()
 );
 
-const sliderPosts = sorted.slice(0, 3);
+const featured = sorted[0];
+const recent   = sorted.slice(1, 4);
 
 const livingRoom = sorted.filter(p => p.data.category?.toLowerCase().includes('living')).slice(0, 4);
 const bedroom    = sorted.filter(p => p.data.category?.toLowerCase().includes('bedroom')).slice(0, 4);
@@ -24,7 +25,7 @@ const col3 = kitchen.length    ? kitchen    : fallback;
 const col4 = makeovers.length  ? makeovers  : fallback;
 
 function fmtDate(d: string) {
-  return new Date(d).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+  return new Date(d).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
 }
 ---
 
@@ -41,58 +42,137 @@ function fmtDate(d: string) {
 
     <main>
 
-      <!-- ============ HERO SLIDER ============ -->
-      <section class="hero-slider" aria-label="Featured articles" aria-live="polite">
-        <div class="slider-track" id="slider-track">
-          {sliderPosts.map((post, i) => (
-            <div class="slide" aria-hidden={i !== 0 ? 'true' : 'false'} data-index={i}>
-              <div class="img-wrap slide-img-wrap">
-                <img
-                  src={post.data.image}
-                  alt={post.data.title}
-                  width="1400"
-                  height="700"
-                  loading={i === 0 ? 'eager' : 'lazy'}
-                  decoding="async"
-                  class="slide-img"
-                />
-                <a
-                  href={`https://pinterest.com/pin/create/button/?url=https://britishhomeinterior.co.uk/blog/${post.slug}/&media=https://britishhomeinterior.co.uk${post.data.image}&description=${encodeURIComponent(post.data.title)}`}
-                  class="pinterest-save"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  aria-label="Save to Pinterest"
-                >
-                  <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
-                  Save
-                </a>
-              </div>
-
-            </div>
-          ))}
+      <!-- ====== HERO VIDEO ====== -->
+      <section class="hero" aria-label="Welcome">
+        <!-- Video background — swap /videos/hero.mp4 for your own file -->
+        <div class="hero-media">
+          <video
+            class="hero-video"
+            autoplay
+            muted
+            loop
+            playsinline
+            poster={featured?.data.image ?? '/images/hero-poster.jpg'}
+          >
+            <!-- Add your video: <source src="/videos/hero.mp4" type="video/mp4"> -->
+          </video>
+          <!-- Fallback image when no video -->
+          {featured && (
+            <img
+              src={featured.data.image}
+              alt="British home interior"
+              class="hero-fallback"
+              width="1400"
+              height="700"
+              loading="eager"
+            />
+          )}
+          <div class="hero-overlay"></div>
         </div>
 
-        <!-- Dots -->
-        {sliderPosts.length > 1 && (
-          <div class="slider-dots" aria-hidden="true">
-            {sliderPosts.map((_, i) => (
-              <button class={`slider-dot ${i === 0 ? 'active' : ''}`} data-dot={i} aria-label={`Go to slide ${i + 1}`}></button>
-            ))}
+        <!-- Welcome card — left side -->
+        <div class="hero-card">
+          <div class="hero-avatar">
+            <img src="/images/author-photo.jpg" alt="British Home Interior" width="90" height="90" />
           </div>
-        )}
-
-        {sliderPosts.length > 1 && (
-          <>
-            <button class="slider-arrow slider-prev" id="slider-prev" aria-label="Previous slide">&#8592;</button>
-            <button class="slider-arrow slider-next" id="slider-next" aria-label="Next slide">&#8594;</button>
-          </>
-        )}
+          <h1 class="hero-welcome">Welcome!</h1>
+          <p class="hero-tagline">Your cosy corner of British home styling</p>
+          <a href="/blog/" class="hero-cta">Explore the Blog</a>
+        </div>
       </section>
 
-      <!-- ============ CATEGORY COLUMNS ============ -->
+      <!-- ====== FEATURED POST (dark bg) ====== -->
+      {featured && (
+        <section class="featured-section" aria-label="Featured post">
+          <div class="featured-inner">
+            <h2 class="featured-label">Featured Post</h2>
+            <div class="featured-card">
+              <a href={`/blog/${featured.slug}/`} class="featured-img-wrap img-wrap">
+                <img
+                  src={featured.data.image}
+                  alt={featured.data.title}
+                  width="620"
+                  height="420"
+                  loading="lazy"
+                  decoding="async"
+                />
+              </a>
+              <div class="featured-body">
+                <p class="featured-meta">
+                  <time datetime={featured.data.datePublished}>{fmtDate(featured.data.datePublished)}</time>
+                  &nbsp;·&nbsp;{featured.data.readTime ?? '5 min read'}
+                </p>
+                <a href={`/blog/${featured.slug}/`} class="featured-title-link">
+                  <h3 class="featured-title">{featured.data.title}</h3>
+                </a>
+                <p class="featured-excerpt">{featured.data.excerpt ?? featured.data.description}</p>
+                <a href={`/blog/${featured.slug}/`} class="featured-read">Read More →</a>
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
+
+      <!-- ====== RECENT POSTS (white bg, 3-col) ====== -->
+      <section class="recent-section" aria-label="Recent posts">
+        <div class="recent-inner">
+          <h2 class="recent-label">Recent Posts</h2>
+          <div class="recent-grid">
+            {(recent.length ? recent : sorted.slice(0, 3)).map(post => (
+              <a href={`/blog/${post.slug}/`} class="recent-card">
+                {post.data.image && (
+                  <div class="recent-card-img img-wrap">
+                    <img
+                      src={post.data.image}
+                      alt={post.data.title}
+                      width="400"
+                      height="260"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                  </div>
+                )}
+                <div class="recent-card-body">
+                  <span class="recent-card-cat">{post.data.category ?? 'Interiors'}</span>
+                  <h3 class="recent-card-title">{post.data.title}</h3>
+                  <p class="recent-card-excerpt">{post.data.excerpt ?? post.data.description}</p>
+                  <hr class="recent-card-hr" />
+                  <span class="recent-card-meta">
+                    <time datetime={post.data.datePublished}>{fmtDate(post.data.datePublished)}</time>
+                    &nbsp;·&nbsp;{post.data.readTime ?? '5 min read'}
+                  </span>
+                </div>
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <!-- ====== STATS BAR (gold bg) ====== -->
+      <div class="stats-bar" aria-label="About us in numbers">
+        <div class="stats-inner">
+          <div class="stat-item">
+            <span class="stat-num">200+</span>
+            <span class="stat-label">Styling Tips</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-num">4</span>
+            <span class="stat-label">Room Categories</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-num">50+</span>
+            <span class="stat-label">UK Retailers</span>
+          </div>
+          <div class="stat-item">
+            <span class="stat-num">100%</span>
+            <span class="stat-label">British English</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- ====== CATEGORY COLUMNS (2×2 h-cards) ====== -->
       <div class="page-wrap">
 
-        <!-- Row 1: Living Room + Bedroom -->
         <section class="cat-row" aria-label="Living Room and Bedroom">
           <div class="cat-col">
             <h2 class="cat-section-label">Living Room</h2>
@@ -100,11 +180,7 @@ function fmtDate(d: string) {
               <a href={`/blog/${post.slug}/`} class="h-card">
                 <div class="h-card-thumb img-wrap">
                   <img src={post.data.image} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
-                  <a
-                    href={`https://pinterest.com/pin/create/button/?url=https://britishhomeinterior.co.uk/blog/${post.slug}/&media=https://britishhomeinterior.co.uk${post.data.image}&description=${encodeURIComponent(post.data.title)}`}
-                    class="pinterest-save" target="_blank" rel="noopener noreferrer"
-                    aria-label="Save to Pinterest" onclick="event.stopPropagation();"
-                  >
+                  <a href={`https://pinterest.com/pin/create/button/?url=https://britishhomeinterior.co.uk/blog/${post.slug}/&media=https://britishhomeinterior.co.uk${post.data.image}&description=${encodeURIComponent(post.data.title)}`} class="pinterest-save" target="_blank" rel="noopener noreferrer" aria-label="Save to Pinterest" onclick="event.stopPropagation();">
                     <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
                     Save
                   </a>
@@ -112,40 +188,24 @@ function fmtDate(d: string) {
                 <div class="h-card-body">
                   <span class="h-card-cat">{post.data.category ?? 'Interiors'}</span>
                   <span class="h-card-title">{post.data.title}</span>
-                  <span class="h-card-meta">
-                    <time datetime={post.data.datePublished}>{fmtDate(post.data.datePublished)}</time>
-                    &nbsp;·&nbsp;{post.data.readTime ?? '5 mins read'}
-                  </span>
+                  <span class="h-card-meta"><time datetime={post.data.datePublished}>{fmtDate(post.data.datePublished)}</time>&nbsp;·&nbsp;{post.data.readTime ?? '5 min read'}</span>
                   <p class="h-card-excerpt">{post.data.excerpt ?? post.data.description}</p>
                 </div>
               </a>
             ))}
           </div>
-
           <div class="cat-col-divider" aria-hidden="true"></div>
-
           <div class="cat-col">
             <h2 class="cat-section-label">Bedroom</h2>
             {col2.map(post => (
               <a href={`/blog/${post.slug}/`} class="h-card">
                 <div class="h-card-thumb img-wrap">
                   <img src={post.data.image} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
-                  <a
-                    href={`https://pinterest.com/pin/create/button/?url=https://britishhomeinterior.co.uk/blog/${post.slug}/&media=https://britishhomeinterior.co.uk${post.data.image}&description=${encodeURIComponent(post.data.title)}`}
-                    class="pinterest-save" target="_blank" rel="noopener noreferrer"
-                    aria-label="Save to Pinterest" onclick="event.stopPropagation();"
-                  >
-                    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
-                    Save
-                  </a>
                 </div>
                 <div class="h-card-body">
                   <span class="h-card-cat">{post.data.category ?? 'Interiors'}</span>
                   <span class="h-card-title">{post.data.title}</span>
-                  <span class="h-card-meta">
-                    <time datetime={post.data.datePublished}>{fmtDate(post.data.datePublished)}</time>
-                    &nbsp;·&nbsp;{post.data.readTime ?? '5 mins read'}
-                  </span>
+                  <span class="h-card-meta"><time datetime={post.data.datePublished}>{fmtDate(post.data.datePublished)}</time>&nbsp;·&nbsp;{post.data.readTime ?? '5 min read'}</span>
                   <p class="h-card-excerpt">{post.data.excerpt ?? post.data.description}</p>
                 </div>
               </a>
@@ -155,7 +215,6 @@ function fmtDate(d: string) {
 
         <hr class="section-hr" />
 
-        <!-- Row 2: Kitchen + Room Makeovers -->
         <section class="cat-row" aria-label="Kitchen and Room Makeovers">
           <div class="cat-col">
             <h2 class="cat-section-label">Kitchen</h2>
@@ -167,18 +226,13 @@ function fmtDate(d: string) {
                 <div class="h-card-body">
                   <span class="h-card-cat">{post.data.category ?? 'Interiors'}</span>
                   <span class="h-card-title">{post.data.title}</span>
-                  <span class="h-card-meta">
-                    <time datetime={post.data.datePublished}>{fmtDate(post.data.datePublished)}</time>
-                    &nbsp;·&nbsp;{post.data.readTime ?? '5 mins read'}
-                  </span>
+                  <span class="h-card-meta"><time datetime={post.data.datePublished}>{fmtDate(post.data.datePublished)}</time>&nbsp;·&nbsp;{post.data.readTime ?? '5 min read'}</span>
                   <p class="h-card-excerpt">{post.data.excerpt ?? post.data.description}</p>
                 </div>
               </a>
             ))}
           </div>
-
           <div class="cat-col-divider" aria-hidden="true"></div>
-
           <div class="cat-col">
             <h2 class="cat-section-label">Room Makeovers</h2>
             {col4.map(post => (
@@ -189,10 +243,7 @@ function fmtDate(d: string) {
                 <div class="h-card-body">
                   <span class="h-card-cat">{post.data.category ?? 'Interiors'}</span>
                   <span class="h-card-title">{post.data.title}</span>
-                  <span class="h-card-meta">
-                    <time datetime={post.data.datePublished}>{fmtDate(post.data.datePublished)}</time>
-                    &nbsp;·&nbsp;{post.data.readTime ?? '5 mins read'}
-                  </span>
+                  <span class="h-card-meta"><time datetime={post.data.datePublished}>{fmtDate(post.data.datePublished)}</time>&nbsp;·&nbsp;{post.data.readTime ?? '5 min read'}</span>
                   <p class="h-card-excerpt">{post.data.excerpt ?? post.data.description}</p>
                 </div>
               </a>
@@ -200,7 +251,24 @@ function fmtDate(d: string) {
           </div>
         </section>
 
-      </div><!-- /page-wrap -->
+      </div>
+
+      <!-- ====== INSTAGRAM SECTION ====== -->
+      <section class="insta-section" aria-label="Follow on Instagram">
+        <div class="insta-inner">
+          <p class="insta-heading">
+            Follow us on Instagram
+            <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" class="insta-handle">@britishhomeinterior</a>
+          </p>
+          <div class="insta-grid">
+            {sorted.slice(0, 4).map(post => (
+              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" class="insta-img img-wrap" aria-label="Instagram photo">
+                <img src={post.data.image} alt={post.data.title} width="320" height="320" loading="lazy" decoding="async" />
+              </a>
+            ))}
+          </div>
+        </div>
+      </section>
 
     </main>
 
@@ -208,64 +276,366 @@ function fmtDate(d: string) {
   </body>
 </html>
 
-<script>
-  // ---- Hero Slider ----
-  const track    = document.getElementById('slider-track');
-  const slides   = track?.querySelectorAll('.slide') as NodeListOf<HTMLElement>;
-  const prevBtn  = document.getElementById('slider-prev');
-  const nextBtn  = document.getElementById('slider-next');
-  const dots     = document.querySelectorAll('.slider-dot') as NodeListOf<HTMLButtonElement>;
-
-  if (slides && slides.length > 1) {
-    let current = 0;
-
-    function goTo(index: number) {
-      slides[current].classList.remove('active');
-      slides[current].setAttribute('aria-hidden', 'true');
-      dots[current]?.classList.remove('active');
-      current = (index + slides.length) % slides.length;
-      slides[current].classList.add('active');
-      slides[current].setAttribute('aria-hidden', 'false');
-      dots[current]?.classList.add('active');
-    }
-
-    slides[0].classList.add('active');
-    dots[0]?.classList.add('active');
-
-    prevBtn?.addEventListener('click', () => { clearInterval(timer); goTo(current - 1); timer = setInterval(() => goTo(current + 1), 6000); });
-    nextBtn?.addEventListener('click', () => { clearInterval(timer); goTo(current + 1); timer = setInterval(() => goTo(current + 1), 6000); });
-    dots.forEach(dot => dot.addEventListener('click', () => { clearInterval(timer); goTo(Number(dot.dataset.dot)); timer = setInterval(() => goTo(current + 1), 6000); }));
-
-    let timer = setInterval(() => goTo(current + 1), 6000);
-
-    // Touch swipe support for mobile
-    let touchStartX = 0;
-    track?.addEventListener('touchstart', (e: TouchEvent) => { touchStartX = e.touches[0].clientX; }, { passive: true });
-    track?.addEventListener('touchend', (e: TouchEvent) => {
-      const diff = touchStartX - e.changedTouches[0].clientX;
-      if (Math.abs(diff) > 40) {
-        clearInterval(timer);
-        goTo(diff > 0 ? current + 1 : current - 1);
-        timer = setInterval(() => goTo(current + 1), 6000);
-      }
-    }, { passive: true });
-
-  } else if (slides?.length === 1) {
-    slides[0].classList.add('active');
-  }
-</script>
-
 <style>
-  /* ============ PAGE WRAP ============ */
+  /* ====== HERO ====== */
+  .hero {
+    position: relative;
+    height: 85vh;
+    min-height: 500px;
+    max-height: 800px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+  }
+
+  .hero-media {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+  }
+
+  .hero-video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+
+  /* Show fallback image if video has no source */
+  .hero-video:not([src]):not(:has(source)) + .hero-fallback,
+  .hero-fallback {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  /* When video plays, hide fallback */
+  .hero-video[src] ~ .hero-fallback { display: none; }
+
+  .hero-overlay {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to right, rgba(0,0,0,0.45) 0%, rgba(0,0,0,0.1) 60%, transparent 100%);
+  }
+
+  /* Welcome card */
+  .hero-card {
+    position: relative;
+    z-index: 2;
+    margin-left: clamp(1.5rem, 6vw, 6rem);
+    background: var(--color-gold);
+    padding: 2.5rem 2rem 2rem;
+    width: clamp(220px, 28vw, 320px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 0.5rem;
+  }
+
+  .hero-avatar {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 3px solid rgba(255,255,255,0.4);
+    margin-bottom: 0.5rem;
+    flex-shrink: 0;
+  }
+
+  .hero-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .hero-welcome {
+    font-family: var(--font-display);
+    font-size: clamp(1.5rem, 3vw, 2rem);
+    font-weight: 700;
+    color: #fff;
+    margin: 0;
+  }
+
+  .hero-tagline {
+    font-family: var(--font-body);
+    font-size: 0.85rem;
+    color: rgba(255,255,255,0.85);
+    margin: 0;
+    line-height: 1.4;
+  }
+
+  .hero-cta {
+    display: inline-block;
+    margin-top: 0.75rem;
+    font-family: var(--font-body);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-gold);
+    background: #fff;
+    padding: 0.55rem 1.25rem;
+    text-decoration: none;
+    transition: background 200ms, color 200ms;
+  }
+  .hero-cta:hover { background: var(--color-heading); color: #fff; text-decoration: none; }
+
+  @media (max-width: 500px) {
+    .hero { height: 70vh; }
+    .hero-card { margin-left: 1rem; margin-right: 1rem; width: calc(100% - 2rem); }
+  }
+
+  /* ====== FEATURED POST ====== */
+  .featured-section {
+    background: #2C3329;
+    padding-block: 3.5rem 4rem;
+  }
+
+  .featured-inner {
+    max-width: 1100px;
+    margin-inline: auto;
+    padding-inline: 2rem;
+  }
+
+  .featured-label {
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 1.75rem;
+  }
+
+  .featured-card {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    background: rgba(255,255,255,0.04);
+    border: 1px solid rgba(255,255,255,0.08);
+  }
+
+  @media (min-width: 700px) {
+    .featured-card { grid-template-columns: 1fr 1fr; }
+  }
+
+  .featured-img-wrap {
+    display: block;
+    aspect-ratio: 3/2;
+    overflow: hidden;
+  }
+
+  .featured-img-wrap img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 400ms ease;
+  }
+  .featured-img-wrap:hover img { transform: scale(1.04); }
+
+  .featured-body {
+    padding: 2rem 2rem 2rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.75rem;
+  }
+
+  @media (max-width: 699px) {
+    .featured-body { padding: 0 1.5rem 1.5rem; }
+  }
+
+  .featured-meta {
+    font-size: 0.78rem;
+    color: rgba(255,255,255,0.45);
+    margin: 0;
+  }
+
+  .featured-title-link { text-decoration: none; }
+  .featured-title {
+    font-family: var(--font-display);
+    font-size: clamp(1.2rem, 2.5vw, 1.7rem);
+    font-weight: 700;
+    color: #fff;
+    line-height: 1.25;
+    margin: 0;
+    transition: color 200ms;
+  }
+  .featured-title-link:hover .featured-title { color: var(--color-gold); }
+
+  .featured-excerpt {
+    font-size: 0.9rem;
+    color: rgba(255,255,255,0.6);
+    line-height: 1.65;
+    margin: 0;
+  }
+
+  .featured-read {
+    display: inline-block;
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--color-gold);
+    text-decoration: none;
+    border-bottom: 1px solid var(--color-gold);
+    padding-bottom: 2px;
+    align-self: flex-start;
+    transition: color 200ms;
+  }
+  .featured-read:hover { color: #fff; border-color: #fff; text-decoration: none; }
+
+  /* ====== RECENT POSTS ====== */
+  .recent-section {
+    background: #fff;
+    padding-block: 3.5rem 4rem;
+  }
+
+  .recent-inner {
+    max-width: 1100px;
+    margin-inline: auto;
+    padding-inline: 2rem;
+  }
+
+  .recent-label {
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--color-heading);
+    margin-bottom: 1.75rem;
+  }
+
+  .recent-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  @media (min-width: 600px) {
+    .recent-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+
+  @media (min-width: 900px) {
+    .recent-grid { grid-template-columns: repeat(3, 1fr); }
+  }
+
+  .recent-card {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid var(--color-border);
+  }
+
+  .recent-card-img {
+    aspect-ratio: 3/2;
+    overflow: hidden;
+    background: var(--color-surface);
+  }
+
+  .recent-card-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 400ms ease;
+  }
+  .recent-card:hover .recent-card-img img { transform: scale(1.04); }
+
+  .recent-card-body {
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    flex: 1;
+  }
+
+  .recent-card-cat {
+    font-size: 0.72rem;
+    color: var(--color-gold);
+    font-style: italic;
+  }
+
+  .recent-card-title {
+    font-family: var(--font-display);
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--color-heading);
+    line-height: 1.3;
+    margin: 0;
+    transition: color 200ms;
+  }
+  .recent-card:hover .recent-card-title { color: var(--color-gold); }
+
+  .recent-card-excerpt {
+    font-size: 0.82rem;
+    color: var(--color-text-muted);
+    line-height: 1.55;
+    margin: 0.25rem 0 0;
+    flex: 1;
+  }
+
+  .recent-card-hr {
+    border: none;
+    border-top: 1px solid var(--color-border);
+    margin-block: 0.5rem 0;
+  }
+
+  .recent-card-meta {
+    font-size: 0.7rem;
+    color: var(--color-text-muted);
+  }
+
+  /* ====== STATS BAR ====== */
+  .stats-bar {
+    background: var(--color-gold);
+    padding-block: 2rem;
+  }
+
+  .stats-inner {
+    max-width: 1100px;
+    margin-inline: auto;
+    padding-inline: 2rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
+    text-align: center;
+  }
+
+  @media (min-width: 700px) {
+    .stats-inner { grid-template-columns: repeat(4, 1fr); }
+  }
+
+  .stat-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    color: #fff;
+  }
+
+  .stat-num {
+    font-family: var(--font-display);
+    font-size: clamp(1.6rem, 3vw, 2.2rem);
+    font-weight: 700;
+    line-height: 1;
+  }
+
+  .stat-label {
+    font-family: var(--font-body);
+    font-size: 0.75rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: rgba(255,255,255,0.8);
+  }
+
+  /* ====== CATEGORY COLUMNS ====== */
   .page-wrap {
     max-width: 1200px;
     margin-inline: auto;
     padding: 3rem 1rem 4rem;
   }
 
-  @media (min-width: 640px) {
-    .page-wrap { padding-inline: 2rem; }
-  }
+  @media (min-width: 640px) { .page-wrap { padding-inline: 2rem; } }
 
   .section-hr {
     border: none;
@@ -273,7 +643,6 @@ function fmtDate(d: string) {
     margin-block: 2.5rem;
   }
 
-  /* ============ CATEGORY ROWS ============ */
   .cat-row {
     display: grid;
     grid-template-columns: 1fr;
@@ -281,10 +650,7 @@ function fmtDate(d: string) {
   }
 
   @media (min-width: 768px) {
-    .cat-row {
-      grid-template-columns: 1fr 1px 1fr;
-      gap: 0;
-    }
+    .cat-row { grid-template-columns: 1fr 1px 1fr; gap: 0; }
   }
 
   .cat-col { padding-inline: 0; }
@@ -294,115 +660,61 @@ function fmtDate(d: string) {
     .cat-col:last-child  { padding-left: 2.5rem; }
   }
 
-  .cat-col-divider {
-    background: var(--color-border);
-    width: 1px;
-    display: none;
+  .cat-col-divider { background: var(--color-border); width: 1px; display: none; }
+
+  @media (min-width: 768px) { .cat-col-divider { display: block; } }
+
+  /* ====== INSTAGRAM ====== */
+  .insta-section {
+    background: var(--color-bg);
+    padding-block: 3rem 4rem;
+    border-top: 1px solid var(--color-border);
   }
 
-  @media (min-width: 768px) {
-    .cat-col-divider { display: block; }
+  .insta-inner {
+    max-width: 1100px;
+    margin-inline: auto;
+    padding-inline: 2rem;
   }
 
-  /* ============ HERO SLIDER ============ */
-  .hero-slider {
-    position: relative;
+  .insta-heading {
+    font-family: var(--font-display);
+    font-size: clamp(1.1rem, 2.5vw, 1.5rem);
+    font-weight: 700;
+    color: var(--color-heading);
+    text-align: center;
+    margin-bottom: 1.75rem;
+  }
+
+  .insta-handle {
+    color: var(--color-gold);
+    text-decoration: none;
+  }
+  .insta-handle:hover { text-decoration: underline; }
+
+  .insta-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.5rem;
+  }
+
+  @media (min-width: 640px) {
+    .insta-grid { grid-template-columns: repeat(4, 1fr); }
+  }
+
+  .insta-img {
+    display: block;
+    aspect-ratio: 1;
     overflow: hidden;
     background: var(--color-surface);
   }
 
-  .slider-track {
-    position: relative;
-    width: 100%;
-  }
-
-  .slide {
-    position: absolute;
-    inset: 0;
-    opacity: 0;
-    transition: opacity 600ms ease;
-    pointer-events: none;
-  }
-
-  .slide.active {
-    opacity: 1;
-    pointer-events: auto;
-    position: relative;
-  }
-
-  .slide:first-child { opacity: 1; position: relative; pointer-events: auto; }
-
-  .slide-img-wrap {
-    width: 100%;
-    aspect-ratio: 16/7;
-    overflow: hidden;
-  }
-
-  @media (max-width: 640px) {
-    .slide-img-wrap { aspect-ratio: 4/3; }
-  }
-
-  .slide-img {
+  .insta-img img {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    transition: transform 400ms ease, opacity 300ms ease;
   }
 
-  /* Dots */
-  .slider-dots {
-    display: flex;
-    justify-content: center;
-    gap: 0.6rem;
-    padding: 1rem 0 0.5rem;
-  }
-
-  .slider-dot {
-    width: 10px;
-    height: 10px;
-    border-radius: 50%;
-    background: #D4C8BE;
-    border: none;
-    cursor: pointer;
-    padding: 0;
-    transition: background-color 200ms ease, transform 200ms ease;
-  }
-
-  .slider-dot.active {
-    background: var(--color-gold);
-    transform: scale(1.25);
-  }
-
-  .slider-dot:hover { background: var(--color-gold); }
-
-  /* Arrows */
-  .slider-arrow {
-    position: absolute;
-    top: 35%;
-    transform: translateY(-50%);
-    z-index: 10;
-    background: #fff;
-    border: none;
-    width: 38px;
-    height: 38px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 1rem;
-    color: var(--color-heading);
-    cursor: pointer;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    transition: background-color var(--transition-base), color var(--transition-base);
-  }
-
-  .slider-arrow:hover {
-    background: var(--color-heading);
-    color: #fff;
-  }
-
-  .slider-prev { left: 0.75rem; }
-  .slider-next { right: 0.75rem; }
-
-  @media (max-width: 480px) {
-    .slider-arrow { display: none; }
-  }
+  .insta-img:hover img { transform: scale(1.06); opacity: 0.85; }
 </style>
