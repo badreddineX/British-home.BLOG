@@ -1,0 +1,275 @@
+---
+const navLinks = [
+  { label: 'Home', href: '/' },
+  { label: 'Categories', href: '/blog/', hasDropdown: true },
+  { label: 'About', href: '/about/' },
+  { label: 'Contact', href: '/about/' },
+];
+
+const categories = [
+  { label: 'Living Room',    href: '/blog/?category=living-room' },
+  { label: 'Bedroom',        href: '/blog/?category=bedroom' },
+  { label: 'Kitchen',        href: '/blog/?category=kitchen' },
+  { label: 'Room Makeovers', href: '/blog/?category=room-makeovers' },
+];
+
+const currentPath = Astro.url.pathname;
+const isActive = (href: string) => currentPath === href;
+---
+
+<header class="site-header">
+  <nav class="header-nav" aria-label="Main navigation">
+
+    <!-- Logo — far left -->
+    <a href="/" class="header-logo" aria-label="British Home Interior — Home">
+      <span class="logo-wordmark">British Home Interior<span class="logo-dot">.</span></span>
+    </a>
+
+    <!-- Nav links — right side -->
+    <div class="nav-inner" id="nav-menu">
+      {navLinks.map(link => (
+        link.hasDropdown ? (
+          <div class="nav-dropdown-wrap">
+            <a
+              href={link.href}
+              class={`nav-link ${isActive(link.href) ? 'active' : ''}`}
+              aria-haspopup="true"
+            >
+              {link.label}
+              <svg class="dropdown-chevron" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+                <path d="m6 9 6 6 6-6"/>
+              </svg>
+            </a>
+            <div class="nav-dropdown" role="menu">
+              {categories.map(cat => (
+                <a href={cat.href} class="nav-dropdown-item" role="menuitem">{cat.label}</a>
+              ))}
+            </div>
+          </div>
+        ) : (
+          <a
+            href={link.href}
+            class={`nav-link ${isActive(link.href) ? 'active' : ''}`}
+            aria-current={isActive(link.href) ? 'page' : undefined}
+          >
+            {link.label}
+          </a>
+        )
+      ))}
+    </div>
+
+    <!-- Mobile toggle -->
+    <button class="mobile-toggle" aria-expanded="false" aria-controls="mobile-nav" aria-label="Open menu">
+      <span></span><span></span><span></span>
+    </button>
+
+  </nav>
+
+  <!-- Mobile nav -->
+  <div id="mobile-nav" class="mobile-nav">
+    <a href="/" class="mobile-link">Home</a>
+    <div class="mobile-cat-group">
+      <span class="mobile-cat-label">Categories</span>
+      {categories.map(cat => (
+        <a href={cat.href} class="mobile-link mobile-link-sub">{cat.label}</a>
+      ))}
+    </div>
+    <a href="/about/" class="mobile-link">About</a>
+    <a href="/about/" class="mobile-link">Contact</a>
+  </div>
+</header>
+
+<script>
+  const mobileToggle = document.querySelector('.mobile-toggle') as HTMLButtonElement;
+  const mobileNav = document.getElementById('mobile-nav') as HTMLElement;
+
+  mobileToggle?.addEventListener('click', () => {
+    const open = mobileToggle.getAttribute('aria-expanded') === 'true';
+    mobileToggle.setAttribute('aria-expanded', String(!open));
+    mobileNav?.classList.toggle('is-open', !open);
+  });
+</script>
+
+<style>
+  .site-header {
+    background: #FAF7F4;
+    border-bottom: 1px solid #E8E0D8;
+    position: sticky;
+    top: 0;
+    z-index: 200;
+  }
+
+  .header-nav {
+    max-width: 1200px;
+    margin-inline: auto;
+    padding-inline: 2rem;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+  }
+
+  /* Logo */
+  .header-logo {
+    text-decoration: none;
+    flex-shrink: 0;
+  }
+
+  .logo-wordmark {
+    font-family: var(--font-display);
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--color-heading);
+    letter-spacing: -0.01em;
+    white-space: nowrap;
+  }
+
+  .logo-dot { color: var(--color-gold); }
+
+  /* Nav links */
+  .nav-inner {
+    display: flex;
+    align-items: center;
+  }
+
+  .nav-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    font-family: var(--font-body);
+    font-size: 0.875rem;
+    color: var(--color-heading);
+    text-decoration: none;
+    padding: 0 1rem;
+    height: 60px;
+    transition: color var(--transition-base);
+    white-space: nowrap;
+    position: relative;
+  }
+
+  .nav-link:hover { color: var(--color-gold); text-decoration: none; }
+  .nav-link.active { color: var(--color-gold); }
+
+  /* Dropdown wrapper */
+  .nav-dropdown-wrap {
+    position: relative;
+    display: flex;
+    align-items: center;
+  }
+
+  /* Dropdown panel */
+  .nav-dropdown {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    min-width: 180px;
+    background: #fff;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.10);
+    border-top: 2px solid var(--color-gold);
+    padding: 0.5rem 0;
+    /* hidden by default */
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(6px);
+    transition: opacity 200ms ease, transform 200ms ease, visibility 200ms ease;
+    z-index: 300;
+  }
+
+  /* Show on hover */
+  .nav-dropdown-wrap:hover .nav-dropdown,
+  .nav-dropdown-wrap:focus-within .nav-dropdown {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+
+  /* Rotate chevron on open */
+  .nav-dropdown-wrap:hover .dropdown-chevron,
+  .nav-dropdown-wrap:focus-within .dropdown-chevron {
+    transform: rotate(180deg);
+  }
+
+  .dropdown-chevron {
+    transition: transform 200ms ease;
+  }
+
+  .nav-dropdown-item {
+    display: block;
+    padding: 0.65rem 1.25rem;
+    font-family: var(--font-body);
+    font-size: 0.875rem;
+    color: var(--color-heading);
+    text-decoration: none;
+    transition: background-color 150ms ease, color 150ms ease;
+    white-space: nowrap;
+  }
+
+  .nav-dropdown-item:hover {
+    background: var(--color-surface);
+    color: var(--color-gold);
+    text-decoration: none;
+  }
+
+  /* Mobile toggle */
+  .mobile-toggle {
+    display: none;
+    flex-direction: column;
+    gap: 5px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.4rem;
+    flex-shrink: 0;
+  }
+
+  .mobile-toggle span {
+    display: block;
+    width: 22px;
+    height: 1.5px;
+    background: var(--color-heading);
+  }
+
+  /* Mobile nav */
+  .mobile-nav {
+    display: none;
+    flex-direction: column;
+    border-top: 1px solid #E8E0D8;
+    background: #FAF7F4;
+    padding-block: 0.5rem;
+  }
+
+  .mobile-nav.is-open { display: flex; }
+
+  .mobile-link {
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    color: var(--color-heading);
+    text-decoration: none;
+    padding: 0.65rem 2rem;
+    transition: color var(--transition-base);
+  }
+  .mobile-link:hover { color: var(--color-gold); text-decoration: none; }
+
+  .mobile-link-sub {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    padding-left: 2.75rem;
+    padding-block: 0.45rem;
+  }
+
+  .mobile-cat-label {
+    display: block;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+    padding: 0.65rem 2rem 0.2rem;
+  }
+
+  @media (max-width: 640px) {
+    .nav-inner { display: none; }
+    .mobile-toggle { display: flex; }
+  }
+</style>

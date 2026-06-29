@@ -1,0 +1,137 @@
+---
+import { getCollection } from 'astro:content';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import SEO from '../../components/SEO.astro';
+import PostCard from '../../components/PostCard.astro';
+import '../../styles/global.css';
+
+const allPosts = await getCollection('blog');
+const sortedPosts = allPosts.sort(
+  (a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime()
+);
+
+const url = Astro.url;
+const categoryFilter = url.searchParams.get('category') ?? '';
+
+const filteredPosts = categoryFilter
+  ? sortedPosts.filter(
+      p => p.data.category?.toLowerCase().replace(/\s+/g, '-') === categoryFilter
+    )
+  : sortedPosts;
+
+const categories = [
+  { label: 'All Posts', slug: '' },
+  { label: 'Living Room', slug: 'living-room' },
+  { label: 'Bedroom', slug: 'bedroom' },
+  { label: 'Kitchen', slug: 'kitchen' },
+  { label: 'Room Makeovers', slug: 'room-makeovers' },
+];
+---
+
+<html lang="en-GB">
+  <head>
+    <SEO
+      title={categoryFilter ? `${categories.find(c => c.slug === categoryFilter)?.label ?? 'Blog'} — British Home Interior` : "Blog — British Home Interior"}
+      description="Browse all British home interior styling guides, room makeovers, and cosy decor ideas for UK homes, flats, and Victorian terraces."
+      type="website"
+    />
+  </head>
+  <body>
+    <Header />
+
+    <main>
+      <div class="blog-header container">
+        <h1>Interior Inspiration</h1>
+        <p class="blog-subtitle">Styling guides, room makeovers, and cosy ideas for UK homes</p>
+
+        <nav class="filter-nav" aria-label="Filter by category">
+          {categories.map(cat => (
+            <a
+              href={cat.slug ? `/blog/?category=${cat.slug}` : '/blog/'}
+              class={`filter-pill ${categoryFilter === cat.slug ? 'active' : ''}`}
+            >
+              {cat.label}
+            </a>
+          ))}
+        </nav>
+      </div>
+
+      <div class="container" style="padding-bottom: 5rem;">
+        {filteredPosts.length === 0 ? (
+          <p class="no-posts">No posts found in this category yet — check back soon!</p>
+        ) : (
+          <div class="posts-grid-2">
+            {filteredPosts.map(post => (
+              <PostCard
+                title={post.data.title}
+                excerpt={post.data.excerpt ?? post.data.description}
+                slug={post.slug}
+                image={post.data.image}
+                category={post.data.category}
+                readTime={post.data.readTime}
+                datePublished={post.data.datePublished}
+              />
+            ))}
+          </div>
+        )}
+      </div>
+    </main>
+
+    <Footer />
+  </body>
+</html>
+
+<style>
+  .blog-header {
+    padding-block: 3rem 2rem;
+    text-align: center;
+  }
+
+  .blog-header h1 {
+    font-size: 2.2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  .blog-subtitle {
+    color: var(--color-text-muted);
+    font-size: 1rem;
+    margin-bottom: 1.75rem;
+  }
+
+  .filter-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+  }
+
+  .filter-pill {
+    display: inline-block;
+    font-family: var(--font-body);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.05em;
+    padding: 0.4rem 1rem;
+    border-radius: 20px;
+    border: 2px solid var(--color-border);
+    color: var(--color-text-muted);
+    text-decoration: none;
+    transition: all var(--transition-base);
+    background: transparent;
+  }
+
+  .filter-pill:hover,
+  .filter-pill.active {
+    background-color: var(--color-primary);
+    border-color: var(--color-primary);
+    color: var(--color-white);
+    text-decoration: none;
+  }
+
+  .no-posts {
+    text-align: center;
+    color: var(--color-text-muted);
+    padding-block: 3rem;
+  }
+</style>

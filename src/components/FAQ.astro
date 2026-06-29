@@ -1,0 +1,167 @@
+---
+interface FAQItem {
+  q: string;
+  a: string;
+}
+
+interface Props {
+  questions: FAQItem[];
+  title?: string;
+}
+
+const { questions, title = 'Frequently Asked Questions' } = Astro.props;
+---
+
+<section class="faq-section" aria-labelledby="faq-heading">
+  <h2 id="faq-heading">{title}</h2>
+
+  <div class="faq-list">
+    {questions.map((item, index) => (
+      <div class="faq-item">
+        <button
+          class="faq-question"
+          aria-expanded="false"
+          aria-controls={`faq-answer-${index}`}
+          id={`faq-btn-${index}`}
+        >
+          <span>{item.q}</span>
+          <span class="faq-icon" aria-hidden="true">+</span>
+        </button>
+        <div
+          class="faq-answer"
+          id={`faq-answer-${index}`}
+          role="region"
+          aria-labelledby={`faq-btn-${index}`}
+          hidden
+        >
+          <p>{item.a}</p>
+        </div>
+      </div>
+    ))}
+  </div>
+</section>
+
+<!-- FAQPage Schema -->
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": questions.map(item => ({
+    "@type": "Question",
+    "name": item.q,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": item.a
+    }
+  }))
+})} />
+
+<script>
+  const faqItems = document.querySelectorAll('.faq-item');
+
+  faqItems.forEach(item => {
+    const btn = item.querySelector('.faq-question') as HTMLButtonElement;
+    const answer = item.querySelector('.faq-answer') as HTMLElement;
+    const icon = btn?.querySelector('.faq-icon') as HTMLElement;
+
+    btn?.addEventListener('click', () => {
+      const isOpen = btn.getAttribute('aria-expanded') === 'true';
+
+      // Close all
+      faqItems.forEach(otherItem => {
+        const otherBtn = otherItem.querySelector('.faq-question') as HTMLButtonElement;
+        const otherAnswer = otherItem.querySelector('.faq-answer') as HTMLElement;
+        const otherIcon = otherBtn?.querySelector('.faq-icon') as HTMLElement;
+        otherBtn?.setAttribute('aria-expanded', 'false');
+        if (otherAnswer) otherAnswer.hidden = true;
+        if (otherIcon) otherIcon.textContent = '+';
+        otherItem.classList.remove('is-open');
+      });
+
+      // Toggle current
+      if (!isOpen) {
+        btn.setAttribute('aria-expanded', 'true');
+        if (answer) answer.hidden = false;
+        if (icon) icon.textContent = '−';
+        item.classList.add('is-open');
+      }
+    });
+  });
+</script>
+
+<style>
+  .faq-section {
+    margin-top: 3rem;
+  }
+
+  .faq-section h2 {
+    margin-bottom: 1.5rem;
+  }
+
+  .faq-list {
+    border-top: 1px solid var(--color-border);
+  }
+
+  .faq-item {
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .faq-question {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 1.1rem 0;
+    text-align: left;
+    font-family: var(--font-body);
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--color-heading);
+    transition: color var(--transition-base);
+  }
+
+  .faq-question:hover {
+    color: var(--color-primary);
+  }
+
+  .faq-question:focus-visible {
+    outline: 2px solid var(--color-primary);
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+
+  .faq-icon {
+    font-size: 1.3rem;
+    font-weight: 300;
+    color: var(--color-primary);
+    flex-shrink: 0;
+    line-height: 1;
+    transition: transform var(--transition-base);
+  }
+
+  .faq-item.is-open .faq-question {
+    color: var(--color-primary);
+  }
+
+  .faq-answer {
+    padding-bottom: 1.1rem;
+    background: none;
+  }
+
+  .faq-item.is-open {
+    background: var(--color-surface);
+    margin-inline: -1rem;
+    padding-inline: 1rem;
+    border-radius: var(--radius-sm);
+  }
+
+  .faq-answer p {
+    font-size: 0.95rem;
+    color: var(--color-text-muted);
+    line-height: 1.7;
+    margin-bottom: 0;
+  }
+</style>

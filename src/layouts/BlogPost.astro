@@ -1,0 +1,656 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SEO from '../components/SEO.astro';
+import TLDRBox from '../components/TLDRBox.astro';
+import FAQ from '../components/FAQ.astro';
+import '../styles/global.css';
+import { getCollection } from 'astro:content';
+
+interface FAQItem { q: string; a: string; }
+
+interface Props {
+  title: string;
+  description: string;
+  slug: string;
+  image: string;
+  datePublished: string;
+  dateModified: string;
+  author?: string;
+  category?: string;
+  readTime?: string;
+  tldr?: string[];
+  faqs?: FAQItem[];
+  headings?: { depth: number; slug: string; text: string }[];
+}
+
+const {
+  title,
+  description,
+  slug,
+  image,
+  datePublished,
+  dateModified,
+  author = 'British Home Interior',
+  category = 'Interiors',
+  readTime = '5 min read',
+  tldr = [],
+  faqs = [],
+  headings = [],
+} = Astro.props;
+
+const siteUrl = 'https://britishhomeinterior.co.uk';
+const postUrl = `${siteUrl}/blog/${slug}/`;
+
+const fmtDate = (d: string) =>
+  new Date(d).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
+
+const h2s = headings.filter(h => h.depth === 2);
+
+// Related posts: same category, excluding current
+const allPosts = await getCollection('blog');
+const related = allPosts
+  .filter(p => p.slug !== slug && p.data.category?.toLowerCase() === category.toLowerCase())
+  .sort((a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime())
+  .slice(0, 4);
+---
+
+<html lang="en-GB">
+  <head>
+    <SEO
+      title={title}
+      description={description}
+      slug={slug}
+      image={image}
+      datePublished={datePublished}
+      dateModified={dateModified}
+      authorName={author}
+      type="article"
+    />
+  </head>
+  <body>
+    <Header />
+
+    <main>
+
+      <!-- ====== POST HERO ====== -->
+      <div class="post-hero">
+        <div class="img-wrap post-hero-img-wrap">
+          <img
+            src={image}
+            alt={title}
+            width="1400"
+            height="560"
+            loading="eager"
+            decoding="async"
+            class="post-hero-img"
+          />
+          <a
+            href={`https://pinterest.com/pin/create/button/?url=${encodeURIComponent(postUrl)}&media=${encodeURIComponent(siteUrl + image)}&description=${encodeURIComponent(title)}`}
+            class="pinterest-save"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Save to Pinterest"
+          >
+            <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
+            Save
+          </a>
+        </div>
+
+        <!-- White title card floating over image -->
+        <div class="post-hero-card">
+          <div class="post-hero-social">
+            <a href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(postUrl)}`} target="_blank" rel="noopener noreferrer" aria-label="Share on Facebook" class="post-hero-social-btn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+            </a>
+            <a href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(postUrl)}&text=${encodeURIComponent(title)}`} target="_blank" rel="noopener noreferrer" aria-label="Share on X / Twitter" class="post-hero-social-btn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.74l7.73-8.835L1.254 2.25H8.08l4.259 5.631 5.905-5.631Zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            <a href={`https://pinterest.com/pin/create/button/?url=${encodeURIComponent(postUrl)}&media=${encodeURIComponent(siteUrl + image)}&description=${encodeURIComponent(title)}`} target="_blank" rel="noopener noreferrer" aria-label="Save to Pinterest" class="post-hero-social-btn">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
+            </a>
+          </div>
+          <span class="post-hero-cat">{category}</span>
+          <h1 class="post-hero-title">{title}</h1>
+          <p class="post-hero-desc">{description}</p>
+          <p class="post-hero-meta">
+            <time datetime={datePublished}>{fmtDate(datePublished)}</time>
+            &nbsp;·&nbsp;{readTime}
+          </p>
+        </div>
+      </div>
+
+      <!-- ====== POST BODY: share | content | sidebar ====== -->
+      <div class="post-body-wrap">
+
+        <!-- Left sticky share panel (desktop only) -->
+        <aside class="post-share-col" aria-label="Share this post">
+          <div class="post-share-sticky">
+            <span class="post-share-label">Share</span>
+            <a href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(postUrl)}`} target="_blank" rel="noopener noreferrer" aria-label="Share on Facebook" class="post-share-btn">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+            </a>
+            <a href={`https://twitter.com/intent/tweet?url=${encodeURIComponent(postUrl)}&text=${encodeURIComponent(title)}`} target="_blank" rel="noopener noreferrer" aria-label="Share on X" class="post-share-btn">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.74l7.73-8.835L1.254 2.25H8.08l4.259 5.631 5.905-5.631Zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+            </a>
+            <a href={`https://pinterest.com/pin/create/button/?url=${encodeURIComponent(postUrl)}&media=${encodeURIComponent(siteUrl + image)}&description=${encodeURIComponent(title)}`} target="_blank" rel="noopener noreferrer" aria-label="Save to Pinterest" class="post-share-btn">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
+            </a>
+          </div>
+        </aside>
+
+        <!-- Main content -->
+        <article class="post-content-area">
+
+          <!-- Affiliate disclosure -->
+          <div class="affiliate-disclosure">
+            This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.
+          </div>
+
+          <!-- TL;DR -->
+          {tldr.length > 0 && <TLDRBox points={tldr} />}
+
+          <!-- Table of Contents -->
+          {h2s.length > 0 && (
+            <nav class="toc" aria-label="Table of contents">
+              <button class="toc-toggle" aria-expanded="true" aria-controls="toc-list">
+                Contents
+                <span class="toc-chevron" aria-hidden="true">▲</span>
+              </button>
+              <ol id="toc-list" class="toc-list">
+                {h2s.map(h => <li><a href={`#${h.slug}`}>{h.text}</a></li>)}
+              </ol>
+            </nav>
+          )}
+
+          <!-- Post body — drop cap on first paragraph -->
+          <div class="post-content drop-cap">
+            <slot />
+          </div>
+
+          <!-- FAQ -->
+          {faqs.length > 0 && <FAQ questions={faqs} />}
+
+          <!-- Bottom disclosure -->
+          <div class="affiliate-disclosure" style="margin-top:2rem;">
+            <strong>Disclosure:</strong> This post contains affiliate links. I only recommend products I genuinely use and love.
+          </div>
+
+          <!-- Author bio -->
+          <div class="author-bio">
+            <img src="/images/author-photo.jpg" alt={author} width="56" height="56" loading="lazy" />
+            <div>
+              <span class="author-bio-name">{author}</span>
+              <p class="author-bio-text">
+                UK home enthusiast sharing cosy styling ideas, honest room makeovers, and budget interior inspiration for real British homes.
+              </p>
+            </div>
+          </div>
+
+        </article>
+
+        <!-- Right sidebar -->
+        <aside class="post-sidebar" aria-label="Sidebar">
+
+          <!-- Latest post image teaser -->
+          <div class="sidebar-widget sidebar-img-teaser">
+            <div class="sidebar-teaser-img-wrap">
+              <img src={image} alt={title} loading="lazy" decoding="async" />
+            </div>
+            <span class="sidebar-widget-title">You're Reading</span>
+            <p class="sidebar-teaser-title">{title}</p>
+          </div>
+
+          <!-- Browse by room -->
+          <div class="sidebar-widget">
+            <span class="sidebar-widget-title">Browse by Room</span>
+            <ul class="sidebar-cat-list">
+              <li><a href="/blog/?category=living-room">Living Room</a></li>
+              <li><a href="/blog/?category=bedroom">Bedroom</a></li>
+              <li><a href="/blog/?category=kitchen">Kitchen</a></li>
+              <li><a href="/blog/?category=room-makeovers">Room Makeovers</a></li>
+            </ul>
+          </div>
+
+          <!-- Share -->
+          <div class="sidebar-widget sidebar-share-widget">
+            <span class="sidebar-widget-title">Share This Post</span>
+            <div class="sidebar-share-btns">
+              <a href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(postUrl)}`} target="_blank" rel="noopener noreferrer" class="sidebar-share-btn" aria-label="Share on Facebook">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"/></svg>
+                Facebook
+              </a>
+              <a href={`https://pinterest.com/pin/create/button/?url=${encodeURIComponent(postUrl)}&media=${encodeURIComponent(siteUrl + image)}&description=${encodeURIComponent(title)}`} target="_blank" rel="noopener noreferrer" class="sidebar-share-btn" aria-label="Save on Pinterest">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
+                Pinterest
+              </a>
+            </div>
+          </div>
+
+        </aside>
+      </div>
+
+      <!-- ====== RELATED ARTICLES ====== -->
+      {related.length > 0 && (
+        <section class="related-section" aria-label="Related articles">
+          <div class="related-inner">
+            <h2 class="related-title">Related Articles</h2>
+            <div class="related-grid">
+              {related.map(post => (
+                <a href={`/blog/${post.slug}/`} class="related-card">
+                  <div class="related-card-img img-wrap">
+                    <img
+                      src={post.data.image}
+                      alt={post.data.title}
+                      width="320"
+                      height="220"
+                      loading="lazy"
+                      decoding="async"
+                    />
+                    <a
+                      href={`https://pinterest.com/pin/create/button/?url=https://britishhomeinterior.co.uk/blog/${post.slug}/&media=https://britishhomeinterior.co.uk${post.data.image}&description=${encodeURIComponent(post.data.title)}`}
+                      class="pinterest-save"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      aria-label="Save to Pinterest"
+                      onclick="event.stopPropagation();"
+                    >
+                      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
+                      Save
+                    </a>
+                  </div>
+                  <div class="related-card-body">
+                    <span class="related-card-cat">{post.data.category ?? 'Interiors'}</span>
+                    <span class="related-card-title">{post.data.title}</span>
+                    <span class="related-card-meta">
+                      <time datetime={post.data.datePublished}>{fmtDate(post.data.datePublished)}</time>
+                      &nbsp;·&nbsp;{post.data.readTime ?? '5 mins read'}
+                    </span>
+                  </div>
+                </a>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+    </main>
+
+    <Footer />
+  </body>
+</html>
+
+<script>
+  // TOC toggle
+  const tocToggle  = document.querySelector('.toc-toggle') as HTMLButtonElement;
+  const tocList    = document.getElementById('toc-list') as HTMLElement;
+  const tocChevron = document.querySelector('.toc-chevron') as HTMLElement;
+
+  tocToggle?.addEventListener('click', () => {
+    const expanded = tocToggle.getAttribute('aria-expanded') === 'true';
+    tocToggle.setAttribute('aria-expanded', String(!expanded));
+    if (tocList) tocList.hidden = expanded;
+    if (tocChevron) tocChevron.textContent = expanded ? '▼' : '▲';
+  });
+
+  if (window.innerWidth < 640 && tocList && tocToggle) {
+    tocList.hidden = true;
+    tocToggle.setAttribute('aria-expanded', 'false');
+    if (tocChevron) tocChevron.textContent = '▼';
+  }
+</script>
+
+<style>
+  /* ====== POST HERO ====== */
+  .post-hero { width: 100%; background: var(--color-surface); }
+
+  .post-hero-img-wrap {
+    width: 100%;
+    aspect-ratio: 21/8;
+    overflow: hidden;
+  }
+
+  @media (max-width: 640px) {
+    .post-hero-img-wrap { aspect-ratio: 4/3; }
+  }
+
+  .post-hero-img { width: 100%; height: 100%; object-fit: cover; }
+
+  /* White card centred over image */
+  .post-hero-card {
+    background: #fff;
+    max-width: 600px;
+    margin-inline: auto;
+    padding: 1.5rem 1.5rem 1.25rem;
+    text-align: center;
+    margin-top: -2rem;
+    position: relative;
+    z-index: 2;
+    box-shadow: 0 4px 24px rgba(0,0,0,0.07);
+  }
+
+  @media (min-width: 768px) {
+    .post-hero-card {
+      margin-top: -4.5rem;
+      padding: 2rem 3.5rem 1.75rem;
+    }
+  }
+
+  .post-hero-social {
+    display: flex;
+    justify-content: center;
+    gap: 1.25rem;
+    margin-bottom: 0.8rem;
+  }
+
+  .post-hero-social-btn {
+    color: var(--color-heading);
+    text-decoration: none;
+    transition: color var(--transition-base);
+  }
+  .post-hero-social-btn:hover { color: var(--color-gold); text-decoration: none; }
+
+  .post-hero-cat {
+    display: block;
+    font-size: 0.78rem;
+    color: var(--color-gold);
+    margin-bottom: 0.4rem;
+    letter-spacing: 0.02em;
+  }
+
+  .post-hero-title {
+    font-family: var(--font-display);
+    font-size: clamp(1.3rem, 3vw, 2rem);
+    font-weight: 700;
+    color: var(--color-heading);
+    line-height: 1.2;
+    margin: 0 0 0.4rem;
+  }
+
+  .post-hero-desc {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    line-height: 1.5;
+    margin: 0 0 0.4rem;
+  }
+
+  .post-hero-meta {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    margin: 0;
+  }
+
+  /* ====== POST BODY: share | content | sidebar ====== */
+  .post-body-wrap {
+    max-width: 1200px;
+    margin-inline: auto;
+    padding: 2.5rem 1rem 3.5rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    align-items: start;
+  }
+
+  @media (min-width: 640px) {
+    .post-body-wrap { padding-inline: 2rem; }
+  }
+
+  @media (min-width: 960px) {
+    .post-body-wrap {
+      grid-template-columns: 64px 1fr 260px;
+      gap: 2rem;
+    }
+  }
+
+  /* Left share panel — hidden on mobile */
+  .post-share-col { display: none; }
+
+  @media (min-width: 960px) {
+    .post-share-col { display: block; }
+  }
+
+  .post-share-sticky {
+    position: sticky;
+    top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+  }
+
+  .post-share-label {
+    font-family: var(--font-body);
+    font-size: 0.7rem;
+    color: var(--color-text-muted);
+    letter-spacing: 0.04em;
+    margin-bottom: 0.25rem;
+  }
+
+  .post-share-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    border: 1px solid var(--color-border);
+    color: var(--color-heading);
+    text-decoration: none;
+    background: #fff;
+    transition: background-color var(--transition-base), color var(--transition-base), border-color var(--transition-base);
+  }
+
+  .post-share-btn:hover {
+    background: var(--color-heading);
+    color: #fff;
+    border-color: var(--color-heading);
+    text-decoration: none;
+  }
+
+  /* Content */
+  .post-content-area { min-width: 0; }
+
+  /* Drop cap */
+  .drop-cap > p:first-child::first-letter {
+    font-family: var(--font-display);
+    font-size: 4.5rem;
+    font-weight: 700;
+    line-height: 0.78;
+    float: left;
+    margin-right: 0.08em;
+    margin-top: 0.08em;
+    color: var(--color-heading);
+  }
+
+  .post-content { margin-top: 0; }
+
+  .post-content h2 {
+    font-family: var(--font-display);
+    font-size: clamp(1.2rem, 2.5vw, 1.55rem);
+    font-weight: 400;
+    font-style: italic;
+    color: var(--color-heading);
+    margin-top: 2.25rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .post-content p { line-height: 1.8; margin-bottom: 1.25rem; }
+  .post-content img { width: 100%; margin-block: 1.5rem; }
+
+  /* Sidebar */
+  .post-sidebar {}
+
+  /* Image teaser widget */
+  .sidebar-teaser-img-wrap {
+    width: 100%;
+    aspect-ratio: 4/3;
+    overflow: hidden;
+    margin-bottom: 0.75rem;
+  }
+
+  .sidebar-teaser-img-wrap img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .sidebar-teaser-title {
+    font-family: var(--font-display);
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: var(--color-heading);
+    line-height: 1.35;
+    margin: 0.25rem 0 0;
+  }
+
+  /* Share buttons widget */
+  .sidebar-share-btns {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+
+  .sidebar-share-btn {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-family: var(--font-body);
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--color-heading);
+    text-decoration: none;
+    padding: 0.45rem 0.75rem;
+    border: 1px solid var(--color-border);
+    background: #fff;
+    transition: background-color var(--transition-base), color var(--transition-base), border-color var(--transition-base);
+  }
+
+  .sidebar-share-btn:hover {
+    background: var(--color-heading);
+    color: #fff;
+    border-color: var(--color-heading);
+    text-decoration: none;
+  }
+
+  .sidebar-cat-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .sidebar-cat-list li { border-bottom: 1px solid var(--color-border); }
+  .sidebar-cat-list a {
+    display: block;
+    padding: 0.55rem 0;
+    font-size: 0.875rem;
+    color: var(--color-text-muted);
+    text-decoration: none;
+    transition: color var(--transition-base);
+  }
+  .sidebar-cat-list a:hover { color: var(--color-primary); text-decoration: none; }
+
+  /* ====== RELATED ARTICLES ====== */
+  .related-section {
+    background: var(--color-surface);
+    padding-block: 3.5rem 4rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .related-inner {
+    max-width: 1200px;
+    margin-inline: auto;
+    padding-inline: 1rem;
+  }
+
+  @media (min-width: 640px) {
+    .related-inner { padding-inline: 2rem; }
+  }
+
+  .related-title {
+    font-family: var(--font-body);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--color-heading);
+    text-align: center;
+    margin-bottom: 2rem;
+    padding-bottom: 0.5rem;
+    display: inline-block;
+    border-bottom: 2px solid var(--color-gold);
+    width: 100%;
+    text-align: center;
+  }
+
+  .related-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.25rem;
+  }
+
+  @media (min-width: 768px) {
+    .related-grid { grid-template-columns: repeat(4, 1fr); }
+  }
+
+  .related-card {
+    text-decoration: none;
+    color: inherit;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+  }
+
+  .related-card-img {
+    aspect-ratio: 4/3;
+    overflow: hidden;
+    background: var(--color-border);
+  }
+
+  .related-card-img img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 400ms ease;
+  }
+
+  .related-card:hover .related-card-img img { transform: scale(1.04); }
+
+  .related-card-body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+
+  .related-card-cat {
+    font-size: 0.72rem;
+    color: var(--color-gold);
+  }
+
+  .related-card-title {
+    font-family: var(--font-display);
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--color-heading);
+    line-height: 1.3;
+    transition: color 200ms ease;
+  }
+
+  .related-card:hover .related-card-title { color: var(--color-gold); }
+
+  .related-card-meta {
+    font-size: 0.7rem;
+    color: var(--color-text-muted);
+  }
+
+  /* Breadcrumb */
+  .breadcrumb {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    margin-bottom: 1.25rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.25rem;
+    align-items: center;
+  }
+  .breadcrumb a { color: var(--color-text-muted); text-decoration: none; }
+  .breadcrumb a:hover { color: var(--color-primary); }
+  .breadcrumb-sep { color: var(--color-border); }
+</style>
