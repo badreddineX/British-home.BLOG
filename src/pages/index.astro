@@ -43,8 +43,11 @@ function fmtDate(d: string) {
     <main>
 
       <!-- ====== HERO VIDEO ====== -->
-      <section class="hero" aria-label="Welcome">
-        <!-- Video background — swap /videos/hero.mp4 for your own file -->
+      <section
+        class="hero"
+        aria-label="Welcome"
+        style={featured ? `--hero-bg: url('${featured.data.image}')` : ''}
+      >
         <div class="hero-media">
           <video
             class="hero-video"
@@ -52,21 +55,12 @@ function fmtDate(d: string) {
             muted
             loop
             playsinline
-            poster={featured?.data.image ?? '/images/hero-poster.jpg'}
+            poster={featured?.data.image ?? ''}
           >
-            <source src="https://assets.mixkit.co/videos/preview/mixkit-vintage-living-room-setup-100891-large.mp4" type="video/mp4" />
+            <!-- Free living room video from Pexels CDN -->
+            <source src="https://videos.pexels.com/video-files/5644364/5644364-hd_1920_1080_25fps.mp4" type="video/mp4" />
+            <source src="https://assets.mixkit.co/videos/preview/mixkit-interior-of-a-living-room-at-night-5823707-large.mp4" type="video/mp4" />
           </video>
-          <!-- Fallback image shown while video loads -->
-          {featured && (
-            <img
-              src={featured.data.image}
-              alt="British home interior"
-              class="hero-fallback"
-              width="1400"
-              height="700"
-              loading="eager"
-            />
-          )}
           <div class="hero-overlay"></div>
         </div>
 
@@ -292,6 +286,10 @@ function fmtDate(d: string) {
     overflow: hidden;
     display: flex;
     align-items: center;
+    /* Post image always visible as CSS background fallback */
+    background-image: var(--hero-bg, none);
+    background-size: cover;
+    background-position: center;
   }
 
   .hero-media {
@@ -306,18 +304,6 @@ function fmtDate(d: string) {
     object-fit: cover;
     display: block;
   }
-
-  .hero-fallback {
-    position: absolute;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    z-index: 0;
-  }
-
-  /* Hide fallback once video is ready */
-  .hero-video.loaded ~ .hero-fallback { opacity: 0; }
 
   .hero-overlay {
     position: absolute;
