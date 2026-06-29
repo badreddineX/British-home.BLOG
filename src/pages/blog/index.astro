@@ -54,23 +54,30 @@ function fmtDate(d: string) {
 
       <!-- ====== INLINE SEARCH BAR ====== -->
       <div class="bl-search-wrap" id="search-wrap" hidden>
-        <div class="bl-search-pill">
-          <svg class="bl-search-pill-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
-            <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
-          </svg>
-          <input
-            type="search"
-            id="search-input"
-            class="bl-search-pill-input"
-            placeholder="Search articles…"
-            aria-label="Search articles"
-            autocomplete="off"
-          />
-          <button class="bl-search-pill-close" id="search-close" aria-label="Clear search">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
-              <path d="M18 6 6 18M6 6l12 12"/>
+        <div class="bl-search-pill-wrap">
+          <div class="bl-search-pill">
+            <svg class="bl-search-pill-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+              <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
             </svg>
-          </button>
+            <input
+              type="search"
+              id="search-input"
+              class="bl-search-pill-input"
+              placeholder="Search articles…"
+              aria-label="Search articles"
+              autocomplete="off"
+            />
+            <button class="bl-search-pill-close" id="search-close" aria-label="Clear search">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
+                <path d="M18 6 6 18M6 6l12 12"/>
+              </svg>
+            </button>
+          </div>
+
+          <!-- Live results dropdown -->
+          <div class="bl-search-results" id="search-results" hidden role="listbox">
+            <!-- filled by JS -->
+          </div>
         </div>
       </div>
 
@@ -156,14 +163,22 @@ function fmtDate(d: string) {
   });
 
   /* ---- Search ---- */
-  const searchToggle = document.getElementById('search-toggle') as HTMLButtonElement;
-  const searchWrap   = document.getElementById('search-wrap') as HTMLElement;
-  const searchInput  = document.getElementById('search-input') as HTMLInputElement;
-  const searchClose  = document.getElementById('search-close') as HTMLButtonElement;
+  const searchToggle  = document.getElementById('search-toggle') as HTMLButtonElement;
+  const searchWrap    = document.getElementById('search-wrap') as HTMLElement;
+  const searchInput   = document.getElementById('search-input') as HTMLInputElement;
+  const searchClose   = document.getElementById('search-close') as HTMLButtonElement;
+  const searchResults = document.getElementById('search-results') as HTMLElement;
+
+  // Category label map for display
+  const catLabels: Record<string, string> = {
+    'living-room':    'LIVING ROOM',
+    'bedroom':        'BEDROOM',
+    'kitchen':        'KITCHEN',
+    'room-makeovers': 'ROOM MAKEOVERS',
+  };
 
   searchToggle.addEventListener('click', () => {
-    const hidden = searchWrap.hasAttribute('hidden');
-    if (hidden) {
+    if (searchWrap.hasAttribute('hidden')) {
       searchWrap.removeAttribute('hidden');
       searchInput.focus();
     } else {
@@ -173,16 +188,86 @@ function fmtDate(d: string) {
 
   searchClose.addEventListener('click', closeSearch);
 
+  // Close dropdown when clicking outside
+  document.addEventListener('click', (e) => {
+    if (!searchWrap.contains(e.target as Node) && !searchToggle.contains(e.target as Node)) {
+      searchResults.setAttribute('hidden', '');
+    }
+  });
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      searchResults.setAttribute('hidden', '');
+      searchInput.blur();
+    }
+  });
+
   function closeSearch() {
     searchWrap.setAttribute('hidden', '');
+    searchResults.setAttribute('hidden', '');
     searchInput.value = '';
     activeSearch = '';
     applyFilters();
   }
 
+  function highlight(text: string, query: string): string {
+    if (!query) return text;
+    const re = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
+    return text.replace(re, '<mark>$1</mark>');
+  }
+
+  function renderDropdown(query: string) {
+    searchResults.innerHTML = '';
+    if (!query) {
+      searchResults.setAttribute('hidden', '');
+      return;
+    }
+
+    const q = query.toLowerCase();
+    const matches = allItems.filter(item =>
+      (item.dataset.title   ?? '').includes(q) ||
+      (item.dataset.excerpt ?? '').includes(q)
+    );
+
+    if (matches.length === 0) {
+      searchResults.removeAttribute('hidden');
+      searchResults.innerHTML = `<p class="sr-empty">No articles match "<strong>${query}</strong>"</p>`;
+      return;
+    }
+
+    searchResults.removeAttribute('hidden');
+    matches.slice(0, 8).forEach(item => {
+      const slug  = item.dataset.category ?? '';
+      const label = catLabels[slug] ?? slug.toUpperCase();
+      const title = item.dataset.title ?? '';
+      const href  = `/blog/${item.dataset.index !== undefined
+        ? (item.querySelector('a.bl-card-img-wrap') as HTMLAnchorElement)?.pathname ?? '#'
+        : '#'}`;
+
+      // get real href from the card's link
+      const cardLink = item.querySelector<HTMLAnchorElement>('a.bl-card-img-wrap');
+      const postHref = cardLink?.getAttribute('href') ?? '#';
+
+      const row = document.createElement('a');
+      row.href = postHref;
+      row.className = 'sr-row';
+      row.setAttribute('role', 'option');
+      row.innerHTML = `
+        <span class="sr-tag">${label}</span>
+        <span class="sr-title">${highlight(title.charAt(0).toUpperCase() + title.slice(1), query)}</span>
+      `;
+      searchResults.appendChild(row);
+    });
+  }
+
   searchInput.addEventListener('input', () => {
     activeSearch = searchInput.value.trim().toLowerCase();
+    renderDropdown(searchInput.value.trim());
     applyFilters();
+  });
+
+  searchInput.addEventListener('focus', () => {
+    if (searchInput.value.trim()) renderDropdown(searchInput.value.trim());
   });
 
   /* ---- Combined filter ---- */
@@ -299,6 +384,10 @@ function fmtDate(d: string) {
     background: var(--color-bg);
   }
 
+  .bl-search-pill-wrap {
+    position: relative;
+  }
+
   .bl-search-pill {
     display: flex;
     align-items: center;
@@ -345,6 +434,75 @@ function fmtDate(d: string) {
     flex-shrink: 0;
   }
   .bl-search-pill-close:hover { color: var(--color-heading); background: var(--color-surface); }
+
+  /* ====== SEARCH RESULTS DROPDOWN ====== */
+  .bl-search-results {
+    position: absolute;
+    top: calc(100% + 0.5rem);
+    left: 0;
+    right: 0;
+    background: #fff;
+    border: 1px solid var(--color-border);
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+    z-index: 500;
+    max-height: 400px;
+    overflow-y: auto;
+  }
+
+  .sr-row {
+    display: flex;
+    align-items: center;
+    gap: 0.85rem;
+    padding: 0.85rem 1.25rem;
+    border-bottom: 1px solid var(--color-border);
+    text-decoration: none;
+    transition: background 150ms;
+    cursor: pointer;
+  }
+  .sr-row:last-child { border-bottom: none; }
+  .sr-row:hover { background: var(--color-surface); text-decoration: none; }
+
+  .sr-tag {
+    font-family: var(--font-body);
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    color: var(--color-text-muted);
+    border: 1px solid var(--color-border);
+    border-radius: 9999px;
+    padding: 0.2rem 0.65rem;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+
+  .sr-title {
+    font-family: var(--font-body);
+    font-size: 0.88rem;
+    color: var(--color-heading);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  /* Highlight matched text */
+  .sr-title mark {
+    background: none;
+    color: var(--color-heading);
+    font-weight: 700;
+    text-decoration: underline;
+    text-decoration-color: var(--color-gold);
+  }
+
+  .sr-empty {
+    padding: 1.25rem;
+    text-align: center;
+    font-size: 0.88rem;
+    color: var(--color-text-muted);
+    font-style: italic;
+    margin: 0;
+  }
 
   /* ====== POST LIST ====== */
   .bl-container {
