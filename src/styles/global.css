@@ -746,7 +746,7 @@ blockquote {
   font-weight: 400;
   border: none;
   background: transparent;
-  color: #6b7c8a;
+  color: var(--color-text-muted);
   cursor: pointer;
   transition: color 150ms;
   line-height: 1;
@@ -757,21 +757,21 @@ blockquote {
 }
 
 .page-btn.active {
-  background: #9a7d55;
+  background: var(--color-gold);
   color: #fff;
   font-weight: 700;
   cursor: default;
-  box-shadow: 0 2px 10px rgba(154,125,85,0.30);
+  box-shadow: 0 2px 10px rgba(184,154,106,0.35);
 }
 
 .page-btn.arrow-btn {
   font-size: 0.95rem;
-  color: #b8c0c4;
+  color: var(--color-border);
   width: 32px;
   height: 48px;
 }
 .page-btn.arrow-btn:hover:not(.disabled) {
-  color: var(--color-heading);
+  color: var(--color-text-muted);
 }
 
 .page-btn.disabled {
