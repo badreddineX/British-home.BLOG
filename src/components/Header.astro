@@ -31,11 +31,11 @@ const currentPath = Astro.url.pathname;
 
     <!-- Nav links -->
     <div class="nav-inner" id="nav-menu">
-      <a href="/blog/" class={`nav-link ${currentPath === '/blog/' ? 'active' : ''}`}>Blog</a>
+      <a href="/" class={`nav-link ${currentPath === '/' ? 'active' : ''}`}>Home</a>
 
       <div class="nav-dropdown-wrap">
         <a href="/blog/" class="nav-link" aria-haspopup="true">
-          Categories
+          Blog
           <svg class="dropdown-chevron" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
         </a>
         <div class="nav-dropdown" role="menu">
@@ -58,8 +58,8 @@ const currentPath = Astro.url.pathname;
 
   <!-- Mobile nav -->
   <div id="mobile-nav" class="mobile-nav">
-    <a href="/blog/" class="mobile-link">Blog</a>
-    <span class="mobile-cat-label">Categories</span>
+    <a href="/" class="mobile-link">Home</a>
+    <span class="mobile-cat-label">Blog</span>
     {categories.map(cat => (
       <a href={cat.href} class="mobile-link mobile-link-sub">{cat.label}</a>
     ))}
