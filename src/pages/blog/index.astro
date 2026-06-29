@@ -390,56 +390,57 @@ function fmtDate(d: string) {
     left: 0;
     right: 0;
     background: #fff;
-    border: 1px solid var(--color-border);
-    border-radius: 14px;
+    border: 1px solid #e0dbd4;
+    border-radius: 10px;
     overflow: hidden;
-    box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+    box-shadow: 0 6px 28px rgba(0,0,0,0.10);
     z-index: 600;
-    max-height: 380px;
+    max-height: 420px;
     overflow-y: auto;
   }
 
   .sdr-row {
     display: flex;
     align-items: center;
-    gap: 0.85rem;
-    padding: 0.9rem 1.25rem;
-    border-bottom: 1px solid var(--color-border);
+    gap: 1rem;
+    padding: 0.9rem 1.5rem;
+    border-bottom: 1px solid #ece8e1;
     text-decoration: none;
-    transition: background 140ms;
+    transition: background 120ms;
   }
   .sdr-row:last-child { border-bottom: none; }
-  .sdr-row:hover { background: var(--color-surface); text-decoration: none; }
+  .sdr-row:hover { background: #faf8f5; text-decoration: none; }
 
   .sdr-tag {
     font-family: var(--font-body);
-    font-size: 0.62rem;
-    font-weight: 700;
-    letter-spacing: 0.1em;
-    color: var(--color-text-muted);
-    border: 1px solid var(--color-border);
-    border-radius: 9999px;
-    padding: 0.22rem 0.7rem;
+    font-size: 0.63rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: #9a8878;
+    border: 1px solid #d6cfc6;
+    border-radius: 5px;
+    padding: 0.2rem 0.55rem;
     white-space: nowrap;
     flex-shrink: 0;
+    text-transform: uppercase;
   }
 
   .sdr-title {
     font-family: var(--font-body);
-    font-size: 0.9rem;
-    color: var(--color-heading);
+    font-size: 0.92rem;
+    color: #1e1e1e;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    font-weight: 400;
   }
 
   .sdr-title mark {
-    background: none;
-    color: var(--color-heading);
-    font-weight: 700;
-    text-decoration: underline;
-    text-underline-offset: 2px;
-    text-decoration-color: var(--color-gold);
+    background: #ede8df;
+    color: #1e1e1e;
+    font-weight: 400;
+    border-radius: 2px;
+    padding: 0 2px;
   }
 
   .sdr-empty {
