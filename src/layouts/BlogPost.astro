@@ -277,15 +277,23 @@ const related = allPosts
       .filter(Boolean) as HTMLElement[];
 
     let activeLink: HTMLAnchorElement | null = null;
+    let activeHeading: HTMLElement | null = null;
 
     const observer = new IntersectionObserver(
       entries => {
         entries.forEach(entry => {
           if (entry.isIntersecting) {
             const id = entry.target.id;
+
+            // Update TOC active link
             activeLink?.classList.remove('active');
             activeLink = tocLinks.find(a => a.dataset.slug === id) ?? null;
             activeLink?.classList.add('active');
+
+            // Update active H2 in article
+            activeHeading?.classList.remove('active');
+            activeHeading = document.getElementById(id);
+            activeHeading?.classList.add('active');
           }
         });
       },
@@ -395,7 +403,12 @@ const related = allPosts
     .post-body-wrap {
       grid-template-columns: 64px 1fr 260px;
       gap: 2rem;
+      align-items: start;
     }
+  }
+
+  @media (min-width: 960px) {
+    .post-sidebar { align-self: stretch; }
   }
 
   /* Left share panel — hidden on mobile */
@@ -488,6 +501,13 @@ const related = allPosts
     flex-shrink: 0;
     text-decoration: underline;
     text-underline-offset: 3px;
+    text-decoration-color: var(--color-gold);
+  }
+
+  .post-content h2.active {
+    color: var(--color-gold);
+    text-decoration: underline;
+    text-underline-offset: 5px;
     text-decoration-color: var(--color-gold);
   }
 
