@@ -99,7 +99,7 @@ const currentPath = Astro.url.pathname;
 
 <style>
   .site-header {
-    background: #2C3329;
+    background: var(--color-dark);
     position: sticky;
     top: 0;
     z-index: 200;
@@ -169,7 +169,7 @@ const currentPath = Astro.url.pathname;
     top: 100%;
     left: 0;
     min-width: 190px;
-    background: #2C3329;
+    background: var(--color-dark);
     border-top: 2px solid var(--color-gold);
     padding: 0.5rem 0;
     opacity: 0;
@@ -215,7 +215,7 @@ const currentPath = Astro.url.pathname;
   .mobile-nav {
     display: none;
     flex-direction: column;
-    background: #2C3329;
+    background: var(--color-dark);
     border-top: 1px solid rgba(255,255,255,0.08);
     padding-block: 0.5rem;
   }

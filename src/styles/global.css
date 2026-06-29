@@ -7,19 +7,19 @@
 
 /* --- CSS Custom Properties --- */
 :root {
-  --color-bg: #FAF7F4;
-  --color-surface: #F2EDE8;
+  --color-bg: #F3F4EF;
+  --color-surface: #E8EBE2;
   --color-card: #FFFFFF;
-  --color-primary: #C4714A;
-  --color-primary-dark: #A85A36;
+  --color-primary: #5B7A48;
+  --color-primary-dark: #47612F;
   --color-gold: #B89A6A;
-  --color-accent: #D4A5A0;
-  --color-text: #222222;
-  --color-text-muted: #999999;
-  --color-heading: #1A1A1A;
-  --color-border: #DDDDDD;
+  --color-accent: #9FB88A;
+  --color-text: #1E2420;
+  --color-text-muted: #7A8278;
+  --color-heading: #1A2318;
+  --color-border: #D4D6CC;
   --color-white: #FFFFFF;
-  --color-dark: #1A1212;
+  --color-dark: #2C3329;
 
   --font-display: 'Playfair Display', Georgia, serif;
   --font-body: 'Lato', system-ui, sans-serif;
