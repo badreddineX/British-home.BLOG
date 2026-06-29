@@ -46,7 +46,6 @@ const currentPath = Astro.url.pathname;
       </div>
 
       <a href="/about/" class={`nav-link ${currentPath === '/about/' ? 'active' : ''}`}>About</a>
-      <a href="/about/" class="nav-link">Contact</a>
     </div>
 
     <!-- Mobile toggle -->
@@ -64,7 +63,6 @@ const currentPath = Astro.url.pathname;
       <a href={cat.href} class="mobile-link mobile-link-sub">{cat.label}</a>
     ))}
     <a href="/about/" class="mobile-link">About</a>
-    <a href="/about/" class="mobile-link">Contact</a>
   </div>
 </header>
 
