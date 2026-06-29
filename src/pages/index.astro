@@ -13,12 +13,12 @@ const sorted = allPosts.sort(
 const featured = sorted[0];
 const recent   = sorted.slice(1, 4);
 
-const livingRoom = sorted.filter(p => p.data.category?.toLowerCase().includes('living')).slice(0, 4);
-const bedroom    = sorted.filter(p => p.data.category?.toLowerCase().includes('bedroom')).slice(0, 4);
-const kitchen    = sorted.filter(p => p.data.category?.toLowerCase().includes('kitchen')).slice(0, 4);
-const makeovers  = sorted.filter(p => p.data.category?.toLowerCase().includes('makeover')).slice(0, 4);
+const livingRoom = sorted.filter(p => p.data.category?.toLowerCase().includes('living')).slice(0, 2);
+const bedroom    = sorted.filter(p => p.data.category?.toLowerCase().includes('bedroom')).slice(0, 2);
+const kitchen    = sorted.filter(p => p.data.category?.toLowerCase().includes('kitchen')).slice(0, 2);
+const makeovers  = sorted.filter(p => p.data.category?.toLowerCase().includes('makeover')).slice(0, 2);
 
-const fallback = sorted.slice(0, 4);
+const fallback = sorted.slice(0, 2);
 const col1 = livingRoom.length ? livingRoom : fallback;
 const col2 = bedroom.length    ? bedroom    : fallback;
 const col3 = kitchen.length    ? kitchen    : fallback;
@@ -178,12 +178,8 @@ function fmtDate(d: string) {
             <h2 class="cat-section-label">Living Room</h2>
             {col1.map(post => (
               <a href={`/blog/${post.slug}/`} class="h-card">
-                <div class="h-card-thumb img-wrap">
+                <div class="h-card-thumb">
                   <img src={post.data.image} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
-                  <a href={`https://pinterest.com/pin/create/button/?url=https://britishhomeinterior.co.uk/blog/${post.slug}/&media=https://britishhomeinterior.co.uk${post.data.image}&description=${encodeURIComponent(post.data.title)}`} class="pinterest-save" target="_blank" rel="noopener noreferrer" aria-label="Save to Pinterest" onclick="event.stopPropagation();">
-                    <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 0 1 .083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
-                    Save
-                  </a>
                 </div>
                 <div class="h-card-body">
                   <span class="h-card-cat">{post.data.category ?? 'Interiors'}</span>
@@ -193,6 +189,9 @@ function fmtDate(d: string) {
                 </div>
               </a>
             ))}
+            <div class="cat-view-all">
+              <a href="/blog/?category=living-room" class="cat-view-all-btn">All Living Room Posts →</a>
+            </div>
           </div>
           <div class="cat-col-divider" aria-hidden="true"></div>
           <div class="cat-col">
@@ -210,6 +209,9 @@ function fmtDate(d: string) {
                 </div>
               </a>
             ))}
+            <div class="cat-view-all">
+              <a href="/blog/?category=bedroom" class="cat-view-all-btn">All Bedroom Posts →</a>
+            </div>
           </div>
         </section>
 
@@ -231,6 +233,9 @@ function fmtDate(d: string) {
                 </div>
               </a>
             ))}
+            <div class="cat-view-all">
+              <a href="/blog/?category=kitchen" class="cat-view-all-btn">All Kitchen Posts →</a>
+            </div>
           </div>
           <div class="cat-col-divider" aria-hidden="true"></div>
           <div class="cat-col">
@@ -248,6 +253,9 @@ function fmtDate(d: string) {
                 </div>
               </a>
             ))}
+            <div class="cat-view-all">
+              <a href="/blog/?category=room-makeovers" class="cat-view-all-btn">All Room Makeover Posts →</a>
+            </div>
           </div>
         </section>
 
@@ -651,6 +659,32 @@ function fmtDate(d: string) {
   .cat-col-divider { background: var(--color-border); width: 1px; display: none; }
 
   @media (min-width: 768px) { .cat-col-divider { display: block; } }
+
+  /* ====== CATEGORY VIEW ALL BUTTON ====== */
+  .cat-view-all {
+    margin-top: 1.25rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .cat-view-all-btn {
+    display: inline-block;
+    font-family: var(--font-body);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--color-primary);
+    text-decoration: none;
+    border-bottom: 1px solid var(--color-primary);
+    padding-bottom: 2px;
+    transition: color 200ms, border-color 200ms;
+  }
+  .cat-view-all-btn:hover {
+    color: var(--color-heading);
+    border-color: var(--color-heading);
+    text-decoration: none;
+  }
 
   /* ====== INSTAGRAM ====== */
   .insta-section {
