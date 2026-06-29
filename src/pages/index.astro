@@ -54,9 +54,9 @@ function fmtDate(d: string) {
             playsinline
             poster={featured?.data.image ?? '/images/hero-poster.jpg'}
           >
-            <!-- Add your video: <source src="/videos/hero.mp4" type="video/mp4"> -->
+            <source src="https://assets.mixkit.co/videos/preview/mixkit-vintage-living-room-setup-100891-large.mp4" type="video/mp4" />
           </video>
-          <!-- Fallback image when no video -->
+          <!-- Fallback image shown while video loads -->
           {featured && (
             <img
               src={featured.data.image}
@@ -73,7 +73,13 @@ function fmtDate(d: string) {
         <!-- Welcome card — left side -->
         <div class="hero-card">
           <div class="hero-avatar">
-            <img src="/images/author-photo.jpg" alt="British Home Interior" width="90" height="90" />
+            <svg viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg" width="70" height="70">
+              <circle cx="18" cy="18" r="17" stroke="rgba(255,255,255,0.6)" stroke-width="1.2"/>
+              <path d="M7 21 L18 10 L29 21" stroke="#fff" stroke-width="1.5" fill="none"/>
+              <rect x="12" y="21" width="5" height="6" stroke="#fff" stroke-width="1.2" fill="none"/>
+              <rect x="19" y="21" width="5" height="6" stroke="#fff" stroke-width="1.2" fill="none"/>
+              <path d="M5 26 Q18 19 31 26" stroke="rgba(255,255,255,0.5)" stroke-width="1" fill="none"/>
+            </svg>
           </div>
           <h1 class="hero-welcome">Welcome!</h1>
           <p class="hero-tagline">Your cosy corner of British home styling</p>
@@ -301,18 +307,17 @@ function fmtDate(d: string) {
     display: block;
   }
 
-  /* Show fallback image if video has no source */
-  .hero-video:not([src]):not(:has(source)) + .hero-fallback,
   .hero-fallback {
     position: absolute;
     inset: 0;
     width: 100%;
     height: 100%;
     object-fit: cover;
+    z-index: 0;
   }
 
-  /* When video plays, hide fallback */
-  .hero-video[src] ~ .hero-fallback { display: none; }
+  /* Hide fallback once video is ready */
+  .hero-video.loaded ~ .hero-fallback { opacity: 0; }
 
   .hero-overlay {
     position: absolute;
@@ -339,16 +344,13 @@ function fmtDate(d: string) {
     width: 90px;
     height: 90px;
     border-radius: 50%;
-    overflow: hidden;
-    border: 3px solid rgba(255,255,255,0.4);
+    border: 2px solid rgba(255,255,255,0.35);
     margin-bottom: 0.5rem;
     flex-shrink: 0;
-  }
-
-  .hero-avatar img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255,255,255,0.08);
   }
 
   .hero-welcome {
