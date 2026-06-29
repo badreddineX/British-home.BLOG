@@ -263,9 +263,9 @@ const related = allPosts
   const tocList   = document.getElementById('toc-sidebar-list') as HTMLElement | null;
 
   tocToggle?.addEventListener('click', () => {
-    const collapsed = tocList?.hidden;
-    if (tocList) tocList.hidden = !collapsed;
-    tocToggle.style.transform = collapsed ? 'rotate(0deg)' : 'rotate(180deg)';
+    const isCollapsed = tocList?.classList.contains('toc-collapsed');
+    tocList?.classList.toggle('toc-collapsed', !isCollapsed);
+    tocToggle.style.transform = isCollapsed ? 'rotate(0deg)' : 'rotate(180deg)';
   });
 
   /* ---- Active section highlighting via IntersectionObserver ---- */
@@ -276,16 +276,20 @@ const related = allPosts
       .map(a => document.getElementById(a.dataset.slug ?? ''))
       .filter(Boolean) as HTMLElement[];
 
+    let activeLink: HTMLAnchorElement | null = null;
+
     const observer = new IntersectionObserver(
       entries => {
         entries.forEach(entry => {
           if (entry.isIntersecting) {
             const id = entry.target.id;
-            tocLinks.forEach(a => a.classList.toggle('active', a.dataset.slug === id));
+            activeLink?.classList.remove('active');
+            activeLink = tocLinks.find(a => a.dataset.slug === id) ?? null;
+            activeLink?.classList.add('active');
           }
         });
       },
-      { rootMargin: '-10% 0px -80% 0px' }
+      { rootMargin: '-5% 0px -75% 0px', threshold: 0 }
     );
 
     headingEls.forEach(el => observer.observe(el));
@@ -527,6 +531,8 @@ const related = allPosts
     padding: 0;
     transition: transform 200ms;
   }
+
+  .toc-collapsed { display: none; }
 
   .toc-sidebar-list {
     list-style: decimal;
