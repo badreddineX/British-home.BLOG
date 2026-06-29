@@ -330,32 +330,23 @@ function fmtDate(d: string) {
   .bl-search-section {
     max-width: 1100px;
     margin-inline: auto;
-    padding: 1.25rem 2rem;
-    border-bottom: 1px solid var(--color-border);
+    padding: 1rem 2rem 0;
   }
 
   .bl-search-box-wrap {
     position: relative;
   }
 
-  /* The search input row */
   .bl-search-box {
     display: flex;
     align-items: center;
-    gap: 0.75rem;
-    border: 1px solid var(--color-border);
+    gap: 0.6rem;
+    border: 1px solid #ddd8d0;
     border-radius: 9999px;
     background: #fff;
-    padding: 0.75rem 1rem 0.75rem 1.25rem;
-    box-shadow: 0 1px 6px rgba(0,0,0,0.06);
-    transition: border-color 200ms, box-shadow 200ms;
+    padding: 0.65rem 1rem 0.65rem 1.1rem;
   }
-  .bl-search-box:focus-within {
-    border-color: var(--color-gold);
-    box-shadow: 0 2px 16px rgba(184,154,106,0.18);
-  }
-
-  .bl-search-box svg { color: var(--color-text-muted); flex-shrink: 0; }
+  .bl-search-box svg { color: #aaa; flex-shrink: 0; }
 
   .bl-search-input {
     flex: 1;
@@ -363,39 +354,38 @@ function fmtDate(d: string) {
     outline: none;
     background: transparent;
     font-family: var(--font-body);
-    font-size: 1rem;
-    color: var(--color-heading);
+    font-size: 0.97rem;
+    color: #222;
   }
-  .bl-search-input::placeholder { color: var(--color-text-muted); }
+  .bl-search-input::placeholder { color: #bbb; }
   .bl-search-input::-webkit-search-cancel-button { display: none; }
 
   .bl-search-clear {
     background: none;
     border: none;
     cursor: pointer;
-    color: var(--color-text-muted);
+    color: #aaa;
     display: flex;
     align-items: center;
     padding: 0.2rem;
-    border-radius: 50%;
-    transition: color 150ms, background 150ms;
     flex-shrink: 0;
+    line-height: 1;
   }
-  .bl-search-clear:hover { color: var(--color-heading); background: var(--color-surface); }
+  .bl-search-clear:hover { color: #555; }
 
   /* ====== SEARCH DROPDOWN ====== */
   .bl-search-dropdown {
     position: absolute;
-    top: calc(100% + 6px);
+    top: calc(100% + 4px);
     left: 0;
     right: 0;
     background: #fff;
-    border: 1px solid #e0dbd4;
-    border-radius: 10px;
+    border: 1px solid #e5e0d8;
+    border-radius: 12px;
     overflow: hidden;
-    box-shadow: 0 6px 28px rgba(0,0,0,0.10);
+    box-shadow: 0 4px 24px rgba(0,0,0,0.09);
     z-index: 600;
-    max-height: 420px;
+    max-height: 400px;
     overflow-y: auto;
   }
 
@@ -403,51 +393,51 @@ function fmtDate(d: string) {
     display: flex;
     align-items: center;
     gap: 1rem;
-    padding: 0.9rem 1.5rem;
-    border-bottom: 1px solid #ece8e1;
+    padding: 0.85rem 1.25rem;
+    border-bottom: 1px solid #f0ece6;
     text-decoration: none;
-    transition: background 120ms;
+    cursor: pointer;
   }
   .sdr-row:last-child { border-bottom: none; }
-  .sdr-row:hover { background: #faf8f5; text-decoration: none; }
+  .sdr-row:hover { background: #faf7f3; text-decoration: none; }
 
   .sdr-tag {
     font-family: var(--font-body);
-    font-size: 0.63rem;
+    font-size: 0.6rem;
     font-weight: 600;
-    letter-spacing: 0.08em;
-    color: #9a8878;
-    border: 1px solid #d6cfc6;
-    border-radius: 5px;
-    padding: 0.2rem 0.55rem;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: #a0917f;
+    border: 1px solid #cec5b8;
+    border-radius: 4px;
+    padding: 0.18rem 0.5rem;
     white-space: nowrap;
     flex-shrink: 0;
-    text-transform: uppercase;
   }
 
   .sdr-title {
     font-family: var(--font-body);
     font-size: 0.92rem;
-    color: #1e1e1e;
+    color: #1a1a1a;
+    font-weight: 400;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
-    font-weight: 400;
   }
 
   .sdr-title mark {
-    background: #ede8df;
-    color: #1e1e1e;
+    background: #ede6da;
+    color: #1a1a1a;
     font-weight: 400;
     border-radius: 2px;
-    padding: 0 2px;
+    padding: 1px 2px;
   }
 
   .sdr-empty {
     padding: 1.25rem;
     text-align: center;
     font-size: 0.88rem;
-    color: var(--color-text-muted);
+    color: #999;
     font-style: italic;
     margin: 0;
   }
