@@ -1,4 +1,4 @@
----
+﻿---
 title: "10 Living Room Colour Schemes That Work in British Light"
 description: "The best living room colour schemes for UK homes — chosen specifically for our grey northern light. From warm neutrals to bold greens, with paint names and prices."
 image: "https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -9,6 +9,21 @@ tags: ["living room colour schemes UK", "Farrow and Ball", "Dulux paint", "Briti
 category: "Living Room"
 readTime: "9 min read"
 excerpt: "Ten colour palettes that were designed to glow under the cool, diffused light typical of British homes."
+featured: false
+tldr:
+  - "Warm neutrals (Farrow & Ball Elephant's Breath, Dulux Warm White) outperform cool greys in British light — test with a ~£4 tester pot before committing."
+  - "Sage green and warm terracotta are the two most versatile accent colours in UK living rooms right now."
+  - "Dark, moody walls (navy, forest green, charcoal) work best in rooms with a south or west-facing window."
+  - "All 10 colour schemes include specific paint names at every price point from Wilko through to Farrow & Ball."
+faqs:
+  - q: "What is the most popular living room colour in the UK right now?"
+    a: "Warm sage green and soft clay tones are dominating UK living rooms in 2026, replacing the cooler grey-and-white palettes that peaked a few years ago. See our [kitchen colour trends guide](/blog/kitchen-colour-trends-uk-2026/) for related palette ideas."
+  - q: "Does grey work in UK living rooms?"
+    a: "Warm greiges (grey-beige hybrids like Dulux Warm Pewter or Little Greene French Grey) work well. Pure cool greys often look flat and dingy under our low-contrast northern light — avoid them unless you have excellent south-facing light."
+  - q: "What colours make a small living room look bigger UK?"
+    a: "Warm off-whites, light sage, and soft blush all read larger in UK light. Paint the ceiling the same colour as the walls in a lighter shade to raise the visual height of the room."
+  - q: "Can I use dark colours in a north-facing UK room?"
+    a: "Yes, but lean into it rather than fighting it. A deep navy or forest green on all four walls looks intentional and cosy rather than dark and oppressive. Pair with warm-toned lamplight and plenty of mirrors."
 ---
 
 *This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*

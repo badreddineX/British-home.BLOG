@@ -1,4 +1,4 @@
----
+﻿---
 title: "Living Room Makeover Under £200 — A Step-by-Step Weekend Transformation"
 description: "How to makeover your living room for under £200 in a single weekend. A step-by-step guide with real product picks from UK retailers — no tradespeople required."
 image: "https://images.pexels.com/photos/1648768/pexels-photo-1648768.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -9,6 +9,21 @@ tags: ["living room makeover UK", "budget room makeover", "living room transform
 category: "Room Makeovers"
 readTime: "9 min read"
 excerpt: "A real, achievable living room transformation for under £200 — planned, budgeted, and completed in a weekend."
+featured: true
+tldr:
+  - "Budget breakdown: new rug £65, two lampshades £24, cushions and throw £55, gallery wall prints and frames £35, plant and pot £18 — total £197."
+  - "The rug was the single highest-impact purchase — it anchored the furniture, added warmth, and made the room feel intentional."
+  - "All changes are deposit-safe and reversible — ideal for renters who want to transform their space without risking their deposit."
+  - "The whole makeover took one Saturday afternoon to shop (online) and one Sunday afternoon to style."
+faqs:
+  - q: "Can you really makeover a living room for under £200 UK?"
+    a: "Yes — the key is prioritising: rug first, lighting second, soft furnishings third, accessories last. Avoid buying new furniture unless something is broken. The biggest transformations come from layering what you already have with a few well-chosen additions."
+  - q: "What should I prioritise in a living room makeover UK?"
+    a: "In order: (1) declutter, (2) rug or flooring update, (3) lighting (lamps over overhead), (4) cushions and throw, (5) gallery wall or art. This sequence gives you the most visual impact per pound spent."
+  - q: "Where is the best place to buy budget living room decor UK?"
+    a: "Dunelm for rugs, cushions, and throws. TK Maxx for frames and vases at below-RRP prices. Amazon UK for lampshades and basics. IKEA for photo frames and plants. Next Home for quality cushion covers that feel more expensive than they are."
+  - q: "Is it possible to do a living room makeover without painting UK?"
+    a: "Yes — and for renters it's often necessary. A new rug, updated soft furnishings, and better lighting can completely change the feel of a room without touching the walls. See our [rented flat makeover guide](/blog/rented-flat-makeover-uk/) for deposit-safe ideas."
 ---
 
 *This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*

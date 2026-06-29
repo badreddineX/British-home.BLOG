@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kitchen Colour Trends UK 2026 — What's In, What's Out, and What Actually Works"
 description: "The kitchen colour trends dominating UK homes in 2026. From forest green to warm clay, here's what's in style — and what's already looking dated."
 image: "https://images.pexels.com/photos/1599791/pexels-photo-1599791.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -9,6 +9,21 @@ tags: ["kitchen colour trends UK 2026", "kitchen design UK", "kitchen cabinet co
 category: "Kitchen"
 readTime: "6 min read"
 excerpt: "What kitchen colours are actually appearing in British homes this year — and which ones are already feeling passé."
+featured: false
+tldr:
+  - "Forest green and warm sage are the dominant cabinet colours in UK kitchens in 2026 — replacing the all-grey kitchens that peaked around 2019–2022."
+  - "Warm clay and terracotta are emerging on walls and tiles, pairing with unlacquered brass hardware for a lived-in, artisan look."
+  - "Stark white gloss is officially out — off-white shaker in matte or satin finish is the replacement of choice for classic British kitchens."
+  - "The most future-proof choice remains a warm neutral cabinet (cream, soft white, pale grey-green) that won't date within five years."
+faqs:
+  - q: "What kitchen colours are popular in the UK in 2026?"
+    a: "Forest green, warm sage, dusty blue-green, and warm off-white are the top kitchen cabinet colours. On walls, warm clay, terracotta-adjacent tones, and deep mushroom are appearing frequently. See our [small kitchen ideas](/blog/small-kitchen-ideas-uk/) for colour-specific layout advice."
+  - q: "Is grey kitchen going out of style in UK?"
+    a: "Cool blue-grey is declining. Warm grey-greens (like Farrow & Ball Mizzle or Dulux Sage Touch) are still strong. The shift is away from anything cold and flat, toward colours with warmth and depth."
+  - q: "What is the most timeless kitchen colour UK?"
+    a: "Off-white in a matte or satin shaker style is the most reliably timeless choice — it reads classic rather than trendy and photographs well for resale. Dulux White Cotton and Farrow & Ball Pointing are both perennial bestsellers."
+  - q: "What hardware goes with a green kitchen UK?"
+    a: "Unlacquered or aged brass is the current pairing of choice for green cabinets in UK kitchens — it adds warmth without being too traditional. Matte black works for a more contemporary edge. Avoid chrome with green — it reads cold."
 ---
 
 *This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*

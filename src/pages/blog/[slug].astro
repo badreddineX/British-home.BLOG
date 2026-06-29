@@ -14,28 +14,36 @@ const { post } = Astro.props;
 const { Content, headings } = await post.render();
 const postSlug = post.slug;
 
-const sampleFAQs = [
-  {
-    q: `What are the best styling ideas for a ${post.data.category ?? 'UK home'} in Britain?`,
-    a: "Focus on layering textures — linen, velvet, and rattan work particularly well in British interiors. Choose a warm neutral base and add one or two accent colours through cushions, throws, and accessories.",
-  },
-  {
-    q: "How do I style a small flat on a budget in the UK?",
-    a: "Use mirrors to add depth, shop Dunelm and Next Home for affordable statement pieces, and focus on one feature wall. A budget room makeover is very achievable under £200 with the right priorities.",
-  },
-  {
-    q: "Which UK retailers have the best home decor on a budget?",
-    a: "Dunelm is brilliant for soft furnishings and lighting. IKEA UK for storage and basics. Next Home for curtains and rugs. Wayfair UK for larger pieces when they're on sale.",
-  },
-];
-
-const tldrPoints = post.data.excerpt
-  ? [post.data.excerpt]
+const faqs = post.data.faqs.length > 0
+  ? post.data.faqs
   : [
-      `Practical ${post.data.category ?? 'interior'} ideas for UK homes`,
-      "All budgets covered — from under £50 to investment pieces",
-      "UK retailers only — Dunelm, John Lewis, IKEA, Next Home",
+      {
+        q: `What are the best styling ideas for a ${post.data.category ?? 'UK home'} in Britain?`,
+        a: "Focus on layering textures — linen, velvet, and rattan work particularly well in British interiors. Choose a warm neutral base and add one or two accent colours through cushions, throws, and accessories.",
+      },
+      {
+        q: "How do I style a small flat on a budget in the UK?",
+        a: "Use mirrors to add depth, shop Dunelm and Next Home for affordable statement pieces, and focus on one feature wall. A budget room makeover is very achievable under £200 with the right priorities.",
+      },
+      {
+        q: "Which UK retailers have the best home decor on a budget?",
+        a: "Dunelm is brilliant for soft furnishings and lighting. IKEA UK for storage and basics. Next Home for curtains and rugs. Wayfair UK for larger pieces when they're on sale.",
+      },
+      {
+        q: "Can I redecorate a rented flat without losing my deposit?",
+        a: "Yes — use removable wallpaper, freestanding furniture, peel-and-stick tiles, and command hooks. Always check your tenancy agreement before making any permanent changes.",
+      },
     ];
+
+const tldr = post.data.tldr.length > 0
+  ? post.data.tldr
+  : post.data.excerpt
+    ? [post.data.excerpt]
+    : [
+        `Practical ${post.data.category ?? 'interior'} ideas for UK homes`,
+        "All budgets covered — from under £50 to investment pieces",
+        "UK retailers only — Dunelm, John Lewis, IKEA, Next Home",
+      ];
 ---
 
 <BlogPost
@@ -48,8 +56,8 @@ const tldrPoints = post.data.excerpt
   author={post.data.author}
   category={post.data.category}
   readTime={post.data.readTime}
-  tldr={tldrPoints}
-  faqs={sampleFAQs}
+  tldr={tldr}
+  faqs={faqs}
   headings={headings}
 >
   <Content />

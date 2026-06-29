@@ -1,4 +1,4 @@
----
+﻿---
 title: "Small Kitchen Ideas UK — Make Your Kitchen Feel Bigger Without Knocking Walls Down"
 description: "Practical ideas for small British kitchens. Clever storage, layout changes, and styling tips that make compact UK kitchens work harder and look better."
 image: "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -9,6 +9,21 @@ tags: ["small kitchen ideas UK", "kitchen storage UK", "galley kitchen", "compac
 category: "Kitchen"
 readTime: "8 min read"
 excerpt: "Nine ideas for making a small British kitchen genuinely functional and beautiful — without a full refit."
+featured: false
+tldr:
+  - "Clear the worktops completely first — a clutter-free small kitchen always looks twice the size before you spend a penny."
+  - "Open shelving on one wall replaces upper cabinets and makes a galley kitchen feel immediately less tunnel-like (~£40 for IKEA BOAXEL shelf system)."
+  - "A splashback in a light reflective tile or panel (Wickes, from ~£18/m²) bounces light and makes the room feel wider."
+  - "All nine ideas work in rental kitchens — check which ones require landlord permission before starting."
+faqs:
+  - q: "How do I make a small kitchen feel bigger UK?"
+    a: "Clear the worktops, use one colour across all surfaces, install under-cabinet lighting (plug-in LED strips from ~£15 on Amazon UK), and replace opaque upper cabinet doors with open shelving. These four changes cost under £100 total."
+  - q: "What is the best layout for a small UK kitchen?"
+    a: "For most narrow British kitchens, a galley layout (everything on two opposite walls) is most efficient. If you have an L-shape, keep one wall clear of wall units and use open shelving instead to avoid the tunnel effect."
+  - q: "How can I add storage to a small kitchen without drilling UK?"
+    a: "Over-door organisers, tension rod dividers inside drawers, magnetic knife strips (peel-and-stick backing), and free-standing slim trolleys (IKEA RÅSKOG from ~£35). See our [budget kitchen refresh guide](/blog/kitchen-on-a-budget-uk/) for more ideas."
+  - q: "What colour makes a small kitchen look bigger UK?"
+    a: "Off-white, warm cream, or very pale sage all perform well. Paint cabinets and walls the same colour (or very close) to remove the visual break and make the room feel continuous. Dulux Natural Hessian is excellent for this."
 ---
 
 *This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*

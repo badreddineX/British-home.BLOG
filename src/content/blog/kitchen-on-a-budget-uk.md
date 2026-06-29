@@ -1,4 +1,4 @@
----
+﻿---
 title: "How to Refresh Your Kitchen on a Budget — UK Edition (Under £500)"
 description: "Refresh your kitchen for under £500 without replacing cabinets. Paint, hardware, lighting, and styling changes that transform the look of a British kitchen."
 image: "https://images.pexels.com/photos/3214064/pexels-photo-3214064.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -9,6 +9,21 @@ tags: ["budget kitchen makeover UK", "kitchen refresh UK", "paint kitchen cabine
 category: "Kitchen"
 readTime: "7 min read"
 excerpt: "A realistic guide to transforming your kitchen for under £500 — no new cabinets required."
+featured: true
+tldr:
+  - "Painting existing cabinet doors (not replacing them) is the single highest-impact change — Ronseal Cabinet Paint or Rust-Oleum from ~£18/750ml, one weekend, transformative results."
+  - "New hardware (handles and knobs) costs £30–£80 and instantly modernises any kitchen — check B&Q, Dunelm, or Etsy for unlacquered brass options."
+  - "Under-cabinet plug-in LED strips (~£15 on Amazon UK) warm up the whole kitchen and illuminate the worktop without any electrical work."
+  - "Full budget breakdown included: paint £45, hardware £55, lighting £30, new blind £35, accessories £40 — total £205 for a completely different kitchen."
+faqs:
+  - q: "Can I paint kitchen cabinets without sanding UK?"
+    a: "Yes — use a specialist cabinet paint like Ronseal Cupboard Paint or Zinsser Bulls Eye primer first, which bonds without sanding on most surfaces. Always degrease with sugar soap first. Results last 3–5 years with normal use."
+  - q: "How much does it cost to refresh a kitchen in the UK?"
+    a: "A realistic budget refresh (paint, hardware, lighting, blind, accessories) costs £150–£500 depending on kitchen size and the products you choose. A full cabinet repaint professionally done costs £800–£2,000. See our step-by-step budget breakdown in this post."
+  - q: "Is it worth painting kitchen cabinets UK?"
+    a: "Absolutely — it's the highest-ROI DIY project in most British kitchens. A painted kitchen adds perceived value to a home and photographs significantly better than dated wood-effect laminate. The key is prep: degrease, prime, then paint."
+  - q: "Where can I get cheap kitchen handles UK?"
+    a: "Dunelm, B&Q, and IKEA all sell kitchen handles from ~£1.50–£4 each. For more distinctive options, check Etsy UK for unlacquered brass or ceramic handles from independent makers — typically £4–£12 each, still far cheaper than a refit."
 ---
 
 *This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*

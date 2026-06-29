@@ -1,4 +1,4 @@
----
+﻿---
 title: "Victorian Terrace Interior Makeover — Working With the Features, Not Against Them"
 description: "How to style a Victorian terrace house interior that honours the period features while feeling genuinely modern and liveable. Practical ideas for UK period homes."
 image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -9,6 +9,21 @@ tags: ["Victorian terrace interior UK", "period home interior", "Victorian house
 category: "Room Makeovers"
 readTime: "8 min read"
 excerpt: "Victorian terraces are full of character — here's how to style them so that character actually shows."
+featured: true
+tldr:
+  - "Don't fight the original features — expose, restore, or reference them. Covering original fireplaces, coving, and tiled hallways is almost always a mistake."
+  - "The colour palette should reference the period: deep Prussian blues, forest greens, terracotta, warm whites — all common in the 1880s–1910s and all back in fashion now."
+  - "Period-appropriate lighting (aged brass pendants, wall sconces) is one of the most impactful changes and costs from ~£40 per fitting at Dunelm or John Lewis."
+  - "Modern comfort and period character are not in conflict — insulated shutters, underfloor heating mats, and quality draught excluders can all be added sympathetically."
+faqs:
+  - q: "How do I modernise a Victorian terrace without ruining its character UK?"
+    a: "Update the systems (heating, insulation, windows if possible) but keep the original features visible — coving, skirtings, fireplaces, encaustic tiles. Add modern comfort through furniture and lighting rather than by removing original features."
+  - q: "What colours work best in a Victorian terrace interior UK?"
+    a: "Period-appropriate shades: Farrow & Ball Hague Blue, Railings, or Calke Green for living rooms and studies. Warm off-white (Pointing, Cornforth White) for hallways and landing. Terracotta and deep sage for kitchens. See our [living room colour schemes guide](/blog/living-room-colour-schemes-uk/) for specifics."
+  - q: "Should I restore or remove the original fireplace in my Victorian terrace UK?"
+    a: "Restore it — always. Original Victorian fireplaces add significant value to a property. A working restored fireplace (or a good quality electric inset) adds both character and warmth. Removal is almost impossible to reverse and will be lamented by every future owner."
+  - q: "How much does it cost to style a Victorian terrace interior UK?"
+    a: "A full styling refresh (not renovation) typically costs £500–£2,000 depending on how much new furniture and lighting you need. The biggest returns come from restoring original features (often low-cost) and updating lighting — not from buying new furniture."
 ---
 
 *This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*

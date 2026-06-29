@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rented Flat Makeover: How to Make a Rental Feel Like Home in the UK"
 description: "Transforming a rented flat in the UK without losing your deposit. Temporary wallpaper, removable hooks, furniture styling, and lighting changes that are fully reversible."
 image: "https://images.pexels.com/photos/1648776/pexels-photo-1648776.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -9,6 +9,21 @@ tags: ["rented flat makeover UK", "rental home decor UK", "deposit safe decorati
 category: "Room Makeovers"
 readTime: "7 min read"
 excerpt: "How to make a rented flat feel properly yours — without repainting, drilling, or losing your deposit."
+featured: true
+tldr:
+  - "Removable wallpaper (Peel & Stick) transforms a rented bedroom or hallway in a weekend and comes off cleanly — WallpaperCreator and Etsy UK both have good ranges from ~£25/roll."
+  - "Freestanding furniture, large mirrors, and lamps do 90% of the styling work without a single wall fixing."
+  - "Command hooks (rated to 3–7kg) handle art, shelves, and organisers — available from B&Q and Amazon UK."
+  - "Always read your tenancy agreement before making ANY changes — most prohibit painting but allow removable solutions."
+faqs:
+  - q: "Can I decorate a rented flat without losing my deposit UK?"
+    a: "Yes — use peel-and-stick wallpaper, command hooks, freestanding furniture, and removable LED strip lights. Avoid nails, screws, or anything that penetrates the walls without landlord permission. Always photograph the flat on move-in for your records."
+  - q: "Can I hang pictures in a rented flat UK?"
+    a: "Command strips (3M) rated to 3–7kg hold most picture frames without damaging walls. For heavier pieces, always ask your landlord — many will agree to a single hole filled and repainted on vacating. Never use double-sided tape directly on painted walls."
+  - q: "Can I change the light fittings in a rented flat UK?"
+    a: "Not usually — changing light fittings involves electrical work and likely requires landlord permission and a qualified electrician. Instead, plug-in pendant lamps (available from IKEA and Dunelm) give the same visual effect with no wiring needed."
+  - q: "What is the best temporary wallpaper for a UK rental?"
+    a: "Peel-and-stick (self-adhesive) wallpaper is the safest option for UK rentals. WallpaperCreator, Ohpopsi, and Etsy UK sellers all produce UK-standard roll widths. Always test a small patch first and remove slowly at 45 degrees — warm air from a hairdryer helps with stubborn sections."
 ---
 
 *This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*

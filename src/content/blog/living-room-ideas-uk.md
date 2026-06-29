@@ -8,7 +8,22 @@ author: "Sarah"
 tags: ["living room ideas UK", "home interior UK", "budget home decor", "British interior", "cosy living room"]
 category: "Living Room"
 readTime: "8 min read"
+featured: true
 excerpt: "21 cosy living room ideas for UK homes — from cottagecore to maximalist, all achievable under £200."
+tldr:
+  - "Start with a warm neutral wall colour — Dulux Warm White or Farrow & Ball Elephant's Breath work best in British light (~£3–£5 tester pot)."
+  - "Layer textures across sofa, rug, and curtains before buying any new furniture — it's the fastest way to transform the feel of a room."
+  - "Lighting is the single highest-impact change: swap overhead bulbs for warm lamps (under £30 from Dunelm) and your living room will look entirely different by evening."
+  - "All 21 ideas are achievable under £200 total using UK retailers — no tradesperson required."
+faqs:
+  - q: "What is the most popular living room style in the UK right now?"
+    a: "Warm maximalism and cottagecore are both very popular in British living rooms in 2026 — layered textures, botanical prints, and warm amber or sage green tones. See our [living room colour schemes guide](/blog/living-room-colour-schemes-uk/) for paint picks."
+  - q: "How can I make my living room look more expensive on a budget?"
+    a: "Three things make the biggest difference: consistent warm lighting (replace overhead with lamps), one large rug rather than several small ones, and matching your soft furnishings to a two-colour palette. Dunelm and Next Home are the best UK retailers for affordable versions."
+  - q: "What colours make a small British living room look bigger?"
+    a: "Warm off-whites (not cool whites), light sage greens, and soft blush tones all read larger in the diffused grey light typical of UK rooms. Avoid cool greys — they often look dingy rather than crisp. See our [small living room layout ideas](/blog/small-living-room-layout-ideas/) for more tips."
+  - q: "Can I redecorate my living room without painting the walls?"
+    a: "Yes — a new rug, rearranged furniture, updated lighting, and layered cushions and throws can completely change the feel of a room without touching the walls. This is especially important for renters. See our [rented flat makeover guide](/blog/rented-flat-makeover-uk/)."
 ---
 
 *This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*

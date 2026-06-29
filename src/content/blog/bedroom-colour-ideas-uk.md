@@ -1,4 +1,4 @@
----
+﻿---
 title: "Bedroom Colour Ideas for UK Homes — From Calm Neutrals to Deep Dramatic Hues"
 description: "The best bedroom colour ideas for British homes. Learn which shades genuinely work in our cool northern light, with paint recommendations from Farrow & Ball, Dulux, and budget alternatives."
 image: "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -9,6 +9,21 @@ tags: ["bedroom colour ideas UK", "Farrow and Ball bedroom", "bedroom paint UK",
 category: "Bedroom"
 readTime: "7 min read"
 excerpt: "Which bedroom colours genuinely work in UK light — and which paint names to look for at every price point."
+featured: false
+tldr:
+  - "Avoid cool greys in bedrooms — they look flat in UK light and feel cold at night. Warm taupes, dusty roses, and soft sages all perform far better."
+  - "For a calming bedroom, try Farrow & Ball Mole's Breath, Dulux Nutmeg White, or the Wilko equivalent at a fraction of the price (~£12/2.5L)."
+  - "Dark, dramatic colours (midnight blue, forest green, charcoal) work beautifully in bedrooms — especially on one wall behind the bed."
+  - "Test colours on two large boards (different walls) and live with them through morning and evening light for 48 hours before committing."
+faqs:
+  - q: "What is the most calming bedroom colour UK?"
+    a: "Warm greige tones (Dulux Perfectly Taupe, Farrow & Ball String) consistently rate highest for promoting sleep and relaxation in UK bedrooms. Soft sage green is a close second — it reads as calming without feeling cold."
+  - q: "Is grey still popular for UK bedrooms in 2026?"
+    a: "Cool greys are out — warm greiges and soft taupes have replaced them. If you want a neutral, opt for something with a warm undertone like Farrow & Ball Elephant's Breath or Dulux Warm Pewter rather than a blue-toned grey."
+  - q: "What is the best bedroom colour for a small room UK?"
+    a: "Contrary to instinct, very pale colours can make a small room feel cold and mean. A warm mid-tone (soft sage, dusty rose, warm taupe) painted on all four walls creates a cocooning effect that feels larger than a stark white room."
+  - q: "Can I paint a rented bedroom UK?"
+    a: "Most UK tenancy agreements prohibit painting walls without permission. Ask your landlord — many will say yes to neutral colours. If not, see our [rented flat makeover guide](/blog/rented-flat-makeover-uk/) for deposit-safe alternatives."
 ---
 
 *This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*

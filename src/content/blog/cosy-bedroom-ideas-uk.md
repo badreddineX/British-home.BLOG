@@ -1,4 +1,4 @@
----
+﻿---
 title: "15 Cosy Bedroom Ideas for UK Homes — Achieve the Boutique Hotel Look"
 description: "Transform your bedroom into a cosy retreat with these 15 practical ideas for UK homes. Layered bedding, warm lighting, and budget tips from UK retailers."
 image: "https://images.pexels.com/photos/2082087/pexels-photo-2082087.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -9,6 +9,21 @@ tags: ["cosy bedroom ideas UK", "bedroom decor UK", "boutique hotel bedroom", "b
 category: "Bedroom"
 readTime: "8 min read"
 excerpt: "Fifteen ideas to turn your bedroom into the retreat you deserve — from layered linen to the right bedside lamp, all from UK retailers."
+featured: false
+tldr:
+  - "Layered bedding (flat sheet, duvet, folded throw) is the single biggest visual change — Next Home and Dunelm both do excellent linen-look sets from ~£35."
+  - "Replace your main overhead bulb with two bedside lamps on warm (2700K) bulbs — it transforms the atmosphere for under £50 total."
+  - "A chunky knit throw draped over the end of the bed adds texture and warmth instantly — look for 100% cotton or recycled versions at M&S or H&M Home."
+  - "All 15 ideas are achievable without painting walls or making any permanent changes — ideal for renters."
+faqs:
+  - q: "How do I make my bedroom look cosy UK?"
+    a: "Start with warm lighting (swap overhead for bedside lamps on 2700K bulbs), layer your bedding with a throw, and add a soft rug beside the bed. These three changes cost under £80 total and make a dramatic difference."
+  - q: "What bedding do UK interiors use for a boutique hotel look?"
+    a: "White or off-white cotton percale or linen-look duvet covers with a European pillowcase arrangement (two standard, two Euro squares behind). Dunelm's Dorma range and Next Home's Egyptian Cotton range are both excellent value."
+  - q: "What colours are most cosy for a UK bedroom?"
+    a: "Warm taupes, dusty sage, and soft terracotta all create a cosy atmosphere in UK bedrooms. Avoid stark white (too clinical) and cool grey (too flat in low light). See our [bedroom colour ideas guide](/blog/bedroom-colour-ideas-uk/) for specific paint picks."
+  - q: "How do I make a small bedroom feel cosy without making it feel cramped?"
+    a: "Use one colour across walls and bedding in a warm tone, keep the floor clear with under-bed storage, and use one large mirror rather than several small decorative items. See our [small bedroom storage ideas](/blog/small-bedroom-storage-ideas-uk/) for practical solutions."
 ---
 
 *This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*

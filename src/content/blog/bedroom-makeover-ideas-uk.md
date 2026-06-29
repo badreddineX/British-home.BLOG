@@ -1,4 +1,4 @@
----
+﻿---
 title: "Before & After: A Bedroom Makeover That Cost Under £350"
 description: "A real British bedroom makeover documented step by step — from dark, dated box room to calm, characterful retreat. Full product list and costs included."
 image: "https://images.pexels.com/photos/3288103/pexels-photo-3288103.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -9,6 +9,21 @@ tags: ["bedroom makeover UK", "bedroom transformation budget", "before after bed
 category: "Room Makeovers"
 readTime: "8 min read"
 excerpt: "How a tired box room in a Victorian terrace became a genuinely lovely bedroom — for under £350 and over one long weekend."
+featured: true
+tldr:
+  - "The biggest impact came from painting the walls in Farrow & Ball Mole's Breath (~£60/2.5L) — one weekend, one coat on dark walls, two on light ones."
+  - "New bedding and a layered throw made the room feel hotel-quality for ~£85 total (Next Home + Dunelm)."
+  - "Swapping the overhead light for two bedside lamps was the single most transformative £40 we spent."
+  - "Full spend: £347 over one weekend — no tradespeople, no flat-pack furniture assembly beyond one IKEA bedside table."
+faqs:
+  - q: "How much does a bedroom makeover cost in the UK?"
+    a: "A genuine transformation (new paint, bedding, lighting, one or two accessories) typically costs £150–£400 in the UK depending on the size of the room and whether you need new furniture. See our step-by-step breakdown in this post for a real £347 example."
+  - q: "What should I do first in a bedroom makeover UK?"
+    a: "Declutter, then paint, then update lighting, then bedding, then accessories — in that order. Decorating around clutter or choosing accessories before settling on a colour palette wastes money. See our [bedroom colour ideas guide](/blog/bedroom-colour-ideas-uk/) for paint recommendations."
+  - q: "Can I do a bedroom makeover in a weekend UK?"
+    a: "Yes — painting one room takes a Saturday, and styling (bedding, lighting, accessories) takes a Sunday afternoon. The key is having everything delivered before the weekend and doing a full declutter session first."
+  - q: "Where is the best place to buy bedroom furniture on a budget UK?"
+    a: "IKEA for basics and storage (PAX wardrobe, MALM chest of drawers), Dunelm for bedding and soft furnishings, and Facebook Marketplace or Vinted for secondhand statement pieces. Wayfair UK has good sales on upholstered bed frames."
 ---
 
 *This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*

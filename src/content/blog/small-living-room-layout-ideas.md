@@ -1,4 +1,4 @@
----
+﻿---
 title: "Small Living Room Layout Ideas That Actually Work in UK Flats"
 description: "Clever layout ideas for small British living rooms. Make your flat feel bigger with these proven furniture arrangements, lighting tricks, and storage solutions."
 image: "https://images.pexels.com/photos/2062426/pexels-photo-2062426.jpeg?auto=compress&cs=tinysrgb&w=800"
@@ -9,6 +9,21 @@ tags: ["small living room", "UK flat interior", "furniture layout", "small space
 category: "Living Room"
 readTime: "7 min read"
 excerpt: "Six layout tricks that make even the tiniest British flat feel open, airy, and properly styled."
+featured: false
+tldr:
+  - "Pull your sofa away from the wall — even 5cm creates depth and makes the room feel less cramped."
+  - "One large rug (160x230cm minimum) beats several small ones — it visually expands the floor and anchors furniture."
+  - "Tall, narrow bookshelves draw the eye upward and add storage without eating floor space (IKEA Billy from ~£55)."
+  - "All six tricks work in rented flats — no drilling, no permanent changes."
+faqs:
+  - q: "How do I arrange furniture in a small rectangular living room UK?"
+    a: "Place the sofa on the longest wall and float it slightly away from it. Use a coffee table on castors for flexibility. See our [living room ideas guide](/blog/living-room-ideas-uk/) for full styling tips."
+  - q: "What size rug should I use in a small UK living room?"
+    a: "A 160x230cm rug is the sweet spot for most UK flat living rooms. Dunelm and Wayfair UK stock this size from around £60–£120."
+  - q: "How do I make a small living room feel bigger without renovating?"
+    a: "Use mirrors opposite the window to bounce light, choose furniture with legs, and keep the palette to two or three warm tones. Declutter before buying anything new."
+  - q: "Is it better to have a sofa or armchairs in a small living room?"
+    a: "A two-seater sofa plus one armchair usually works better than a three-seater in a small flat — more flexibility and the room feels less blocked. Check compact ranges at Next Home or MADE.com."
 ---
 
 *This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
