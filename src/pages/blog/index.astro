@@ -10,15 +10,8 @@ const sortedPosts = allPosts.sort(
   (a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime()
 );
 
-const url = Astro.url;
-const categoryFilter = url.searchParams.get('category') ?? '';
-
-const filteredPosts = categoryFilter
-  ? sortedPosts.filter(
-      p => p.data.category?.toLowerCase().replace(/\s+/g, '-') === categoryFilter
-    )
-  : sortedPosts;
-
+// All posts always rendered — category filtering is done client-side
+// (static site: Astro.url.searchParams is empty at build time)
 const categories = [
   { label: 'All Posts',      slug: '' },
   { label: 'Living Room',    slug: 'living-room' },
@@ -35,7 +28,7 @@ function fmtDate(d: string) {
 <html lang="en-GB">
   <head>
     <SEO
-      title={categoryFilter ? `${categories.find(c => c.slug === categoryFilter)?.label ?? 'Blog'} — British Home Interior` : "Read — British Home Interior"}
+      title="Read — British Home Interior"
       description="Browse all British home interior styling guides, room makeovers, and cosy decor ideas for UK homes, flats, and Victorian terraces."
       type="website"
     />
@@ -49,12 +42,13 @@ function fmtDate(d: string) {
       <div class="bl-filter-bar">
         <nav class="bl-filter-links" aria-label="Filter by category">
           {categories.map(cat => (
-            <a
-              href={cat.slug ? `/blog/?category=${cat.slug}` : '/blog/'}
-              class={`bl-filter-link ${categoryFilter === cat.slug ? 'active' : ''}`}
+            <button
+              class="bl-filter-link"
+              data-slug={cat.slug}
+              type="button"
             >
               {cat.label}
-            </a>
+            </button>
           ))}
         </nav>
         <button class="bl-search-btn" aria-label="Search" id="search-toggle">
@@ -78,13 +72,19 @@ function fmtDate(d: string) {
 
       <!-- ====== POST LIST ====== -->
       <div class="bl-container">
-        {filteredPosts.length === 0 ? (
+        {sortedPosts.length === 0 ? (
           <p class="no-posts">No posts found in this category yet — check back soon!</p>
         ) : (
           <>
             <div id="posts-grid">
-              {filteredPosts.map((post, i) => (
-                <div class="post-item" data-index={i} data-title={post.data.title.toLowerCase()} data-excerpt={(post.data.excerpt ?? post.data.description ?? '').toLowerCase()}>
+              {sortedPosts.map((post, i) => (
+                <div
+                  class="post-item"
+                  data-index={i}
+                  data-title={post.data.title.toLowerCase()}
+                  data-excerpt={(post.data.excerpt ?? post.data.description ?? '').toLowerCase()}
+                  data-category={post.data.category?.toLowerCase().replace(/\s+/g, '-')}
+                >
                   <article class="bl-card">
                     <a href={`/blog/${post.slug}/`} class="bl-card-img-wrap" tabindex="-1" aria-hidden="true">
                       <img
@@ -133,10 +133,36 @@ function fmtDate(d: string) {
   let visibleItems = allItems;
   const paginationNav = document.getElementById('pagination');
 
+  /* ---- Category filter ---- */
+  let activeCategory = new URLSearchParams(location.search).get('category') ?? '';
+
+  const filterBtns = Array.from(document.querySelectorAll<HTMLButtonElement>('.bl-filter-link'));
+
+  function setActiveFilterBtn(slug: string) {
+    filterBtns.forEach(btn => btn.classList.toggle('active', btn.dataset.slug === slug));
+  }
+
+  function applyCategory(slug: string) {
+    activeCategory = slug;
+    setActiveFilterBtn(slug);
+
+    const u = new URL(location.href);
+    slug ? u.searchParams.set('category', slug) : u.searchParams.delete('category');
+    u.searchParams.delete('page');
+    history.replaceState({}, '', u.toString());
+
+    applyFilters();
+  }
+
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => applyCategory(btn.dataset.slug ?? ''));
+  });
+
   /* ---- Search ---- */
   const searchToggle = document.getElementById('search-toggle');
   const searchBar = document.getElementById('search-bar') as HTMLElement | null;
   const searchInput = document.getElementById('search-input') as HTMLInputElement | null;
+  let activeSearch = '';
 
   searchToggle?.addEventListener('click', () => {
     const hidden = searchBar?.hasAttribute('hidden');
@@ -146,30 +172,32 @@ function fmtDate(d: string) {
     } else {
       searchBar?.setAttribute('hidden', '');
       if (searchInput) searchInput.value = '';
-      filterAndRender('');
+      activeSearch = '';
+      applyFilters();
     }
   });
 
   searchInput?.addEventListener('input', () => {
-    filterAndRender(searchInput.value.trim().toLowerCase());
+    activeSearch = searchInput?.value.trim().toLowerCase() ?? '';
+    applyFilters();
   });
 
-  function filterAndRender(query: string) {
-    if (query === '') {
-      visibleItems = allItems;
-    } else {
-      visibleItems = allItems.filter(item => {
-        const title = item.dataset.title ?? '';
-        const excerpt = item.dataset.excerpt ?? '';
-        return title.includes(query) || excerpt.includes(query);
-      });
-    }
-    allItems.forEach(item => item.style.display = 'none');
+  /* ---- Combined filter logic ---- */
+  function applyFilters() {
+    visibleItems = allItems.filter(item => {
+      const catMatch = !activeCategory || item.dataset.category === activeCategory;
+      const searchMatch = !activeSearch ||
+        (item.dataset.title ?? '').includes(activeSearch) ||
+        (item.dataset.excerpt ?? '').includes(activeSearch);
+      return catMatch && searchMatch;
+    });
+
+    allItems.forEach(item => (item.style.display = 'none'));
     showPage(1);
   }
 
   /* ---- Pagination ---- */
-  function totalPages() { return Math.ceil(visibleItems.length / PER_PAGE); }
+  function totalPages() { return Math.max(1, Math.ceil(visibleItems.length / PER_PAGE)); }
 
   function currentPage(): number {
     const p = parseInt(new URLSearchParams(location.search).get('page') ?? '1');
@@ -177,16 +205,19 @@ function fmtDate(d: string) {
   }
 
   function showPage(page: number) {
-    allItems.forEach(item => item.style.display = 'none');
+    allItems.forEach(item => (item.style.display = 'none'));
     const start = (page - 1) * PER_PAGE;
-    visibleItems.slice(start, start + PER_PAGE).forEach(item => item.style.display = '');
+    visibleItems.slice(start, start + PER_PAGE).forEach(item => (item.style.display = ''));
+
+    // Show "no posts" message if nothing visible
+    const noPostsEl = document.querySelector<HTMLElement>('.no-posts-dynamic');
+    if (noPostsEl) noPostsEl.style.display = visibleItems.length === 0 ? '' : 'none';
+
     renderPagination(page);
 
     const u = new URL(location.href);
     page === 1 ? u.searchParams.delete('page') : u.searchParams.set('page', String(page));
     history.replaceState({}, '', u.toString());
-
-    document.getElementById('posts-grid')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
   }
 
   function btn(label: string, page: number, active = false, disabled = false, arrow = false): HTMLButtonElement {
@@ -203,15 +234,14 @@ function fmtDate(d: string) {
     paginationNav.innerHTML = '';
     const pages = totalPages();
     if (pages <= 1) return;
-
     paginationNav.appendChild(btn('‹', current - 1, false, current === 1, true));
     for (let p = 1; p <= pages; p++) paginationNav.appendChild(btn(String(p), p, p === current));
     paginationNav.appendChild(btn('›', current + 1, false, current === pages, true));
   }
 
-  // Init
-  visibleItems = allItems;
-  if (totalPages() > 1) showPage(currentPage());
+  // Init — apply category from URL on load, then paginate
+  setActiveFilterBtn(activeCategory);
+  applyFilters();
 </script>
 
 <style>
@@ -239,18 +269,22 @@ function fmtDate(d: string) {
     font-size: 0.95rem;
     font-weight: 400;
     color: var(--color-text-muted);
-    text-decoration: none;
-    padding-bottom: 2px;
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+    padding: 0 0 2px;
+    cursor: pointer;
     transition: color 200ms;
     white-space: nowrap;
+    line-height: 1;
   }
 
-  .bl-filter-link:hover { color: var(--color-heading); text-decoration: none; }
+  .bl-filter-link:hover { color: var(--color-heading); }
 
   .bl-filter-link.active {
     color: var(--color-heading);
     font-weight: 600;
-    border-bottom: 2px solid var(--color-heading);
+    border-bottom-color: var(--color-heading);
     padding-bottom: 0;
   }
 
