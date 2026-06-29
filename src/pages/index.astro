@@ -189,9 +189,6 @@ function fmtDate(d: string) {
                 </div>
               </a>
             ))}
-            <div class="cat-view-all">
-              <a href="/blog/?category=living-room" class="cat-view-all-btn">All Living Room Posts →</a>
-            </div>
           </div>
           <div class="cat-col-divider" aria-hidden="true"></div>
           <div class="cat-col">
@@ -209,9 +206,6 @@ function fmtDate(d: string) {
                 </div>
               </a>
             ))}
-            <div class="cat-view-all">
-              <a href="/blog/?category=bedroom" class="cat-view-all-btn">All Bedroom Posts →</a>
-            </div>
           </div>
         </section>
 
@@ -233,9 +227,6 @@ function fmtDate(d: string) {
                 </div>
               </a>
             ))}
-            <div class="cat-view-all">
-              <a href="/blog/?category=kitchen" class="cat-view-all-btn">All Kitchen Posts →</a>
-            </div>
           </div>
           <div class="cat-col-divider" aria-hidden="true"></div>
           <div class="cat-col">
@@ -253,12 +244,12 @@ function fmtDate(d: string) {
                 </div>
               </a>
             ))}
-            <div class="cat-view-all">
-              <a href="/blog/?category=room-makeovers" class="cat-view-all-btn">All Room Makeover Posts →</a>
-            </div>
           </div>
         </section>
 
+        <div class="all-blogs-wrap">
+          <a href="/blog/" class="all-blogs-btn">View All Blogs</a>
+        </div>
       </div>
 
       <!-- ====== INSTAGRAM SECTION ====== -->
@@ -660,30 +651,31 @@ function fmtDate(d: string) {
 
   @media (min-width: 768px) { .cat-col-divider { display: block; } }
 
-  /* ====== CATEGORY VIEW ALL BUTTON ====== */
-  .cat-view-all {
-    margin-top: 1.25rem;
-    padding-top: 1rem;
+  /* ====== ALL BLOGS BUTTON ====== */
+  .all-blogs-wrap {
+    text-align: center;
+    margin-top: 2.5rem;
+    padding-top: 2rem;
     border-top: 1px solid var(--color-border);
   }
 
-  .cat-view-all-btn {
+  .all-blogs-btn {
     display: inline-block;
     font-family: var(--font-body);
-    font-size: 0.8rem;
+    font-size: 0.85rem;
     font-weight: 700;
     letter-spacing: 0.08em;
     text-transform: uppercase;
-    color: var(--color-primary);
+    color: #fff;
+    background: var(--color-dark);
+    padding: 0.8rem 2.5rem;
     text-decoration: none;
-    border-bottom: 1px solid var(--color-primary);
-    padding-bottom: 2px;
-    transition: color 200ms, border-color 200ms;
+    transition: background 200ms;
   }
-  .cat-view-all-btn:hover {
-    color: var(--color-heading);
-    border-color: var(--color-heading);
+  .all-blogs-btn:hover {
+    background: var(--color-primary);
     text-decoration: none;
+    color: #fff;
   }
 
   /* ====== INSTAGRAM ====== */
