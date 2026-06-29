@@ -209,58 +209,58 @@ const categories = [
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 0.5rem;
+    gap: 1.25rem;
     margin-top: 3rem;
     padding-top: 2rem;
     border-top: 1px solid var(--color-border);
     flex-wrap: wrap;
   }
 
-  /* All buttons share base reset */
   .page-btn {
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    width: 44px;
-    height: 44px;
+    width: 48px;
+    height: 48px;
     border-radius: 50%;
     font-family: var(--font-body);
     font-size: 1rem;
     font-weight: 400;
     border: none;
     background: transparent;
-    color: var(--color-text-muted);
+    color: #6b7c8a;
     cursor: pointer;
     transition: color 150ms;
+    line-height: 1;
   }
 
-  /* Number hover */
   .page-btn:hover:not(.disabled):not(.active) {
     color: var(--color-heading);
-    background: transparent;
   }
 
-  /* Active — gold filled circle, white number */
+  /* Gold filled circle — exactly as in the screenshot */
   .page-btn.active {
-    background: var(--color-gold);
+    background: #9a7d55;
     color: #fff;
-    font-weight: 600;
+    font-weight: 700;
+    font-size: 1.05rem;
     cursor: default;
+    box-shadow: 0 2px 8px rgba(154,125,85,0.35);
   }
 
-  /* Arrow < > */
+  /* ‹ › arrows — very muted, smaller */
   .page-btn.arrow-btn {
-    font-size: 1rem;
-    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    color: #b0bbbf;
     width: 32px;
-    height: 44px;
+    height: 48px;
   }
   .page-btn.arrow-btn:hover:not(.disabled) {
     color: var(--color-heading);
   }
 
   .page-btn.disabled {
-    opacity: 0.25;
+    opacity: 0.3;
     cursor: not-allowed;
   }
 </style>
