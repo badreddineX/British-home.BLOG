@@ -47,33 +47,29 @@ function fmtDate(d: string) {
         </nav>
       </div>
 
-      <!-- ====== SEARCH BAR (always visible) ====== -->
-      <div class="bl-search-section">
-        <div class="bl-search-box-wrap">
-          <!-- Input row -->
-          <div class="bl-search-box">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
-              <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+      <!-- ── Search Bar HTML ── -->
+      <div class="search-bar-wrap">
+        <div class="search-bar-inner">
+          <label for="post-search" class="sr-only">Search posts</label>
+          <div class="search-field">
+            <svg class="search-icon" width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+              <circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/>
             </svg>
             <input
               type="search"
-              id="search-input"
-              class="bl-search-input"
-              placeholder="Search articles…"
-              aria-label="Search articles"
+              id="post-search"
+              class="search-input"
+              placeholder="Search by keyword…"
               autocomplete="off"
+              spellcheck="false"
             />
-            <button class="bl-search-clear" id="search-clear" aria-label="Clear search" hidden>
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" aria-hidden="true">
-                <path d="M18 6 6 18M6 6l12 12"/>
+            <button class="search-clear" id="search-clear" aria-label="Clear search" hidden>
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
               </svg>
             </button>
           </div>
-
-          <!-- Dropdown results -->
-          <div class="bl-search-dropdown" id="search-dropdown" hidden>
-            <!-- filled by JS -->
-          </div>
+          <ul class="search-suggestions" id="search-suggestions" role="listbox" aria-label="Search suggestions" hidden></ul>
         </div>
       </div>
 
@@ -161,15 +157,15 @@ function fmtDate(d: string) {
   });
 
   /* ---- Search ---- */
-  const searchInput    = document.getElementById('search-input')    as HTMLInputElement;
-  const searchClear    = document.getElementById('search-clear')    as HTMLButtonElement;
-  const searchDropdown = document.getElementById('search-dropdown') as HTMLElement;
+  const searchInput       = document.getElementById('post-search')        as HTMLInputElement;
+  const searchClear       = document.getElementById('search-clear')       as HTMLButtonElement;
+  const searchSuggestions = document.getElementById('search-suggestions') as HTMLUListElement;
 
   searchInput.addEventListener('input', () => {
     const q = searchInput.value.trim();
     activeSearch = q.toLowerCase();
     searchClear.hidden = q.length === 0;
-    renderDropdown(q);
+    renderSuggestions(q);
     applyFilters();
   });
 
@@ -177,21 +173,21 @@ function fmtDate(d: string) {
     searchInput.value = '';
     activeSearch = '';
     searchClear.hidden = true;
-    searchDropdown.hidden = true;
-    searchDropdown.innerHTML = '';
+    searchSuggestions.hidden = true;
+    searchSuggestions.innerHTML = '';
     applyFilters();
     searchInput.focus();
   });
 
   document.addEventListener('click', (e) => {
     const target = e.target as Node;
-    if (!searchDropdown.contains(target) && target !== searchInput) {
-      searchDropdown.hidden = true;
+    if (!searchSuggestions.contains(target) && target !== searchInput) {
+      searchSuggestions.hidden = true;
     }
   });
 
   document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') { searchDropdown.hidden = true; searchInput.blur(); }
+    if (e.key === 'Escape') { searchSuggestions.hidden = true; searchInput.blur(); }
   });
 
   function esc(str: string): string {
@@ -204,11 +200,11 @@ function fmtDate(d: string) {
     return esc(text).replace(re, '<mark>$1</mark>');
   }
 
-  function renderDropdown(query: string) {
-    searchDropdown.innerHTML = '';
+  function renderSuggestions(query: string) {
+    searchSuggestions.innerHTML = '';
 
     if (!query) {
-      searchDropdown.hidden = true;
+      searchSuggestions.hidden = true;
       return;
     }
 
@@ -218,10 +214,10 @@ function fmtDate(d: string) {
       (item.dataset.excerpt ?? '').includes(q)
     );
 
-    searchDropdown.hidden = false;
+    searchSuggestions.hidden = false;
 
     if (matches.length === 0) {
-      searchDropdown.innerHTML = `<p class="sdr-empty">No articles match "<strong>${esc(query)}</strong>"</p>`;
+      searchSuggestions.innerHTML = `<li class="sdr-empty">No articles match "<strong>${esc(query)}</strong>"</li>`;
       return;
     }
 
@@ -230,11 +226,10 @@ function fmtDate(d: string) {
       const title = item.dataset.title ?? '';
       const href  = item.dataset.href ?? '#';
 
-      const a = document.createElement('a');
-      a.href = href;
-      a.className = 'sdr-row';
-      a.innerHTML = `<span class="sdr-tag">${esc(tag)}</span><span class="sdr-title">${highlight(title.charAt(0).toUpperCase() + title.slice(1), query)}</span>`;
-      searchDropdown.appendChild(a);
+      const li = document.createElement('li');
+      li.setAttribute('role', 'option');
+      li.innerHTML = `<a href="${esc(href)}" class="sdr-row"><span class="sdr-tag">${esc(tag)}</span><span class="sdr-title">${highlight(title.charAt(0).toUpperCase() + title.slice(1), query)}</span></a>`;
+      searchSuggestions.appendChild(li);
     });
   }
 
@@ -326,59 +321,74 @@ function fmtDate(d: string) {
     padding-bottom: 0;
   }
 
-  /* ====== SEARCH SECTION ====== */
-  .bl-search-section {
+  /* ====== SEARCH BAR ====== */
+  .sr-only {
+    position: absolute; width: 1px; height: 1px;
+    padding: 0; margin: -1px; overflow: hidden;
+    clip: rect(0,0,0,0); white-space: nowrap; border: 0;
+  }
+
+  .search-bar-wrap {
     max-width: 1100px;
     margin-inline: auto;
     padding: 1rem 2rem 0;
   }
 
-  .bl-search-box-wrap {
+  .search-bar-inner {
     position: relative;
   }
 
-  .bl-search-box {
+  .search-field {
     display: flex;
     align-items: center;
     gap: 0.6rem;
+    background: #fff;
     border: 1px solid #ddd8d0;
     border-radius: 9999px;
-    background: #fff;
-    padding: 0.65rem 1rem 0.65rem 1.1rem;
+    padding: 0.6rem 1rem 0.6rem 1.1rem;
   }
-  .bl-search-box svg { color: #aaa; flex-shrink: 0; }
+  .search-field:focus-within {
+    border-color: var(--color-gold);
+    box-shadow: 0 0 0 3px rgba(184,154,106,0.12);
+  }
 
-  .bl-search-input {
+  .search-icon { color: #aaa; flex-shrink: 0; }
+
+  .search-input {
     flex: 1;
     border: none;
     outline: none;
     background: transparent;
     font-family: var(--font-body);
-    font-size: 0.97rem;
-    color: #222;
+    font-size: 0.95rem;
+    color: #1a1a1a;
   }
-  .bl-search-input::placeholder { color: #bbb; }
-  .bl-search-input::-webkit-search-cancel-button { display: none; }
+  .search-input::placeholder { color: #bbb; }
+  .search-input::-webkit-search-cancel-button { display: none; }
 
-  .bl-search-clear {
+  .search-clear {
     background: none;
     border: none;
     cursor: pointer;
     color: #aaa;
     display: flex;
     align-items: center;
-    padding: 0.2rem;
+    padding: 0.15rem;
     flex-shrink: 0;
     line-height: 1;
+    transition: color 150ms;
   }
-  .bl-search-clear:hover { color: #555; }
+  .search-clear:hover { color: #333; }
 
-  /* ====== SEARCH DROPDOWN ====== */
-  .bl-search-dropdown {
+  /* ====== SUGGESTIONS LIST ====== */
+  .search-suggestions {
     position: absolute;
-    top: calc(100% + 4px);
+    top: calc(100% + 5px);
     left: 0;
     right: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
     background: #fff;
     border: 1px solid #e5e0d8;
     border-radius: 12px;
@@ -397,9 +407,10 @@ function fmtDate(d: string) {
     border-bottom: 1px solid #f0ece6;
     text-decoration: none;
     cursor: pointer;
+    transition: background 120ms;
   }
-  .sdr-row:last-child { border-bottom: none; }
   .sdr-row:hover { background: #faf7f3; text-decoration: none; }
+  li:last-child .sdr-row { border-bottom: none; }
 
   .sdr-tag {
     font-family: var(--font-body);
@@ -439,7 +450,6 @@ function fmtDate(d: string) {
     font-size: 0.88rem;
     color: #999;
     font-style: italic;
-    margin: 0;
   }
 
   /* ====== POST LIST ====== */
