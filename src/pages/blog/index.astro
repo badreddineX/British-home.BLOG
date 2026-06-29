@@ -21,10 +21,10 @@ const filteredPosts = categoryFilter
   : sortedPosts;
 
 const categories = [
-  { label: 'All Posts', slug: '' },
-  { label: 'Living Room', slug: 'living-room' },
-  { label: 'Bedroom', slug: 'bedroom' },
-  { label: 'Kitchen', slug: 'kitchen' },
+  { label: 'All Posts',      slug: '' },
+  { label: 'Living Room',    slug: 'living-room' },
+  { label: 'Bedroom',        slug: 'bedroom' },
+  { label: 'Kitchen',        slug: 'kitchen' },
   { label: 'Room Makeovers', slug: 'room-makeovers' },
 ];
 ---
@@ -57,23 +57,29 @@ const categories = [
         </nav>
       </div>
 
-      <div class="container" style="padding-bottom: 5rem;">
+      <div class="container posts-container">
         {filteredPosts.length === 0 ? (
           <p class="no-posts">No posts found in this category yet — check back soon!</p>
         ) : (
-          <div class="posts-grid-2">
-            {filteredPosts.map(post => (
-              <PostCard
-                title={post.data.title}
-                excerpt={post.data.excerpt ?? post.data.description}
-                slug={post.slug}
-                image={post.data.image}
-                category={post.data.category}
-                readTime={post.data.readTime}
-                datePublished={post.data.datePublished}
-              />
-            ))}
-          </div>
+          <>
+            <div class="posts-grid-2" id="posts-grid">
+              {filteredPosts.map((post, i) => (
+                <div class="post-item" data-index={i}>
+                  <PostCard
+                    title={post.data.title}
+                    excerpt={post.data.excerpt ?? post.data.description}
+                    slug={post.slug}
+                    image={post.data.image}
+                    category={post.data.category}
+                    readTime={post.data.readTime}
+                    datePublished={post.data.datePublished}
+                  />
+                </div>
+              ))}
+            </div>
+
+            <nav class="pagination" id="pagination" aria-label="Page navigation"></nav>
+          </>
         )}
       </div>
     </main>
@@ -81,6 +87,66 @@ const categories = [
     <Footer />
   </body>
 </html>
+
+<script>
+  const PER_PAGE = 6;
+  const items = Array.from(document.querySelectorAll<HTMLElement>('.post-item'));
+  const total = items.length;
+  const pages = Math.ceil(total / PER_PAGE);
+  const nav = document.getElementById('pagination');
+
+  function currentPage(): number {
+    const p = parseInt(new URLSearchParams(location.search).get('page') ?? '1');
+    return Math.max(1, Math.min(p, pages));
+  }
+
+  function showPage(page: number) {
+    items.forEach((item, i) => {
+      item.style.display = (i >= (page - 1) * PER_PAGE && i < page * PER_PAGE) ? '' : 'none';
+    });
+    renderPagination(page);
+
+    // Update ?page in URL without reloading (keep ?category if present)
+    const u = new URL(location.href);
+    if (page === 1) {
+      u.searchParams.delete('page');
+    } else {
+      u.searchParams.set('page', String(page));
+    }
+    history.replaceState({}, '', u.toString());
+
+    // Scroll to top of grid smoothly
+    document.getElementById('posts-grid')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  function btn(label: string, page: number, active = false, disabled = false): HTMLButtonElement {
+    const b = document.createElement('button');
+    b.textContent = label;
+    b.className = 'page-btn' + (active ? ' active' : '') + (disabled ? ' disabled' : '');
+    b.disabled = disabled;
+    if (!disabled) b.addEventListener('click', () => showPage(page));
+    return b;
+  }
+
+  function renderPagination(current: number) {
+    if (!nav) return;
+    nav.innerHTML = '';
+    if (pages <= 1) return;
+
+    nav.appendChild(btn('← Prev', current - 1, false, current === 1));
+
+    for (let p = 1; p <= pages; p++) {
+      nav.appendChild(btn(String(p), p, p === current));
+    }
+
+    nav.appendChild(btn('Next →', current + 1, false, current === pages));
+  }
+
+  // Initialise
+  if (pages > 1) {
+    showPage(currentPage());
+  }
+</script>
 
 <style>
   .blog-header {
@@ -113,8 +179,7 @@ const categories = [
     font-weight: 700;
     letter-spacing: 0.05em;
     padding: 0.4rem 1rem;
-    border-radius: 20px;
-    border: 2px solid var(--color-border);
+    border: 1px solid var(--color-border);
     color: var(--color-text-muted);
     text-decoration: none;
     transition: all var(--transition-base);
@@ -129,9 +194,59 @@ const categories = [
     text-decoration: none;
   }
 
+  .posts-container {
+    padding-bottom: 5rem;
+  }
+
   .no-posts {
     text-align: center;
     color: var(--color-text-muted);
     padding-block: 3rem;
+  }
+
+  /* ====== PAGINATION ====== */
+  .pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.4rem;
+    margin-top: 3rem;
+    flex-wrap: wrap;
+  }
+
+  .page-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 42px;
+    height: 42px;
+    padding: 0 0.85rem;
+    font-family: var(--font-body);
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    border: 1px solid var(--color-border);
+    background: #fff;
+    color: var(--color-text);
+    cursor: pointer;
+    transition: background 150ms, border-color 150ms, color 150ms;
+  }
+
+  .page-btn:hover:not(.disabled) {
+    background: var(--color-primary);
+    border-color: var(--color-primary);
+    color: #fff;
+  }
+
+  .page-btn.active {
+    background: var(--color-dark);
+    border-color: var(--color-dark);
+    color: #fff;
+    cursor: default;
+  }
+
+  .page-btn.disabled {
+    opacity: 0.35;
+    cursor: not-allowed;
   }
 </style>
