@@ -52,7 +52,7 @@ const allPosts = await getCollection('blog');
 const related = allPosts
   .filter(p => p.slug !== slug && p.data.category?.toLowerCase() === category.toLowerCase())
   .sort((a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime())
-  .slice(0, 4);
+  .slice(0, 3);
 ---
 
 <html lang="en-GB">
@@ -650,12 +650,16 @@ const related = allPosts
 
   .related-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr;
     gap: 1.25rem;
   }
 
-  @media (min-width: 768px) {
-    .related-grid { grid-template-columns: repeat(4, 1fr); }
+  @media (min-width: 560px) {
+    .related-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+
+  @media (min-width: 900px) {
+    .related-grid { grid-template-columns: repeat(3, 1fr); }
   }
 
   .related-card {
