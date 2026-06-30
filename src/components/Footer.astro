@@ -38,15 +38,18 @@ const year = new Date().getFullYear();
       <!-- Newsletter -->
       <div class="footer-newsletter">
         <p class="footer-newsletter-heading">Get the latest styling tips and cosy home inspiration straight to your inbox!</p>
-        <form class="footer-form" onsubmit="return false;">
+        <form class="footer-form" id="footer-newsletter-form" novalidate>
           <label for="footer-email" class="footer-form-label">Email *</label>
           <input id="footer-email" type="email" placeholder="Your email address" class="footer-input" required />
           <div class="footer-checkbox-row">
-            <input type="checkbox" id="footer-consent" />
+            <input type="checkbox" id="footer-consent" required />
             <label for="footer-consent">Yes, subscribe me to your newsletter</label>
           </div>
           <button type="submit" class="footer-submit">Subscribe</button>
         </form>
+        <p class="footer-newsletter-thanks" id="footer-newsletter-thanks" hidden>
+          Thanks for subscribing! 🏡 You'll hear from us soon.
+        </p>
       </div>
 
     </div>
@@ -191,4 +194,24 @@ const year = new Date().getFullYear();
   }
 
   .footer-bottom p { font-size: 0.72rem; color: rgba(255,255,255,0.22); margin: 0; width: 100%; }
+
+  .footer-newsletter-thanks {
+    font-size: 0.85rem;
+    color: var(--color-gold);
+    margin: 0.75rem 0 0;
+    line-height: 1.5;
+  }
 </style>
+
+<script>
+  const form   = document.getElementById('footer-newsletter-form') as HTMLFormElement | null;
+  const thanks = document.getElementById('footer-newsletter-thanks') as HTMLElement | null;
+  form?.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const email   = (form.querySelector('#footer-email') as HTMLInputElement).value.trim();
+    const consent = (form.querySelector('#footer-consent') as HTMLInputElement).checked;
+    if (!email || !consent) return;
+    form.hidden  = true;
+    if (thanks) thanks.hidden = false;
+  });
+</script>

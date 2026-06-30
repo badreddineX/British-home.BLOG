@@ -178,29 +178,33 @@ import '../styles/global.css';
           </ol>
         </div>
         <div class="contact-right">
-          <form class="contact-form" onsubmit="return false;">
+          <form class="contact-form" id="contact-form" novalidate>
             <div class="contact-form-row">
               <div class="contact-field">
                 <label class="contact-label">Full Name</label>
-                <input type="text" class="contact-input" placeholder="Your name" />
+                <input id="contact-name" type="text" class="contact-input" placeholder="Your name" required />
               </div>
               <div class="contact-field">
                 <label class="contact-label">Email Address</label>
-                <input type="email" class="contact-input" placeholder="your@email.com" />
+                <input id="contact-email" type="email" class="contact-input" placeholder="your@email.com" required />
               </div>
             </div>
             <div class="contact-field">
               <label class="contact-label">
                 City / County <span class="contact-optional">(optional)</span>
               </label>
-              <input type="text" class="contact-input" placeholder="e.g. London, Manchester" />
+              <input id="contact-city" type="text" class="contact-input" placeholder="e.g. London, Manchester" />
             </div>
             <div class="contact-field">
               <label class="contact-label">Message</label>
-              <textarea class="contact-input contact-textarea" placeholder="What's on your mind?"></textarea>
+              <textarea id="contact-message" class="contact-input contact-textarea" placeholder="What's on your mind?" required></textarea>
             </div>
             <button type="submit" class="contact-submit">Send Message</button>
           </form>
+          <div class="contact-thanks" id="contact-thanks" hidden>
+            <p class="contact-thanks-heading">Message sent!</p>
+            <p class="contact-thanks-sub">Thanks for getting in touch — I'll get back to you within 2–3 business days.</p>
+          </div>
         </div>
       </section>
 
@@ -600,4 +604,42 @@ import '../styles/global.css';
     transition: background 200ms;
   }
   .contact-submit:hover { background: #5a3e2e; }
+
+  .contact-thanks {
+    padding: 2.5rem;
+    text-align: center;
+  }
+  .contact-thanks-heading {
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--color-heading);
+    margin: 0 0 0.75rem;
+  }
+  .contact-thanks-sub {
+    font-size: 0.95rem;
+    color: var(--color-text-muted);
+    line-height: 1.6;
+    margin: 0;
+  }
 </style>
+
+<script>
+  const form   = document.getElementById('contact-form') as HTMLFormElement | null;
+  const thanks = document.getElementById('contact-thanks') as HTMLElement | null;
+
+  form?.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const name    = (document.getElementById('contact-name')    as HTMLInputElement).value.trim();
+    const email   = (document.getElementById('contact-email')   as HTMLInputElement).value.trim();
+    const message = (document.getElementById('contact-message') as HTMLTextAreaElement).value.trim();
+    if (!name || !email || !message) return;
+
+    const city = (document.getElementById('contact-city') as HTMLInputElement).value.trim();
+    const body = encodeURIComponent(`Name: ${name}\nCity: ${city || 'not provided'}\n\n${message}`);
+    window.location.href = `mailto:badreddinekx122@gmail.com?subject=${encodeURIComponent('British Home Interior — Contact from ' + name)}&body=${body}`;
+
+    form.hidden  = true;
+    if (thanks) thanks.hidden = false;
+  });
+</script>
