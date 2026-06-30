@@ -1,9 +1,9 @@
----
+﻿---
 title: "Home Interior Ideas UK: The Key Principles Behind Beautiful British Homes"
 description: "The essential principles behind great British home interiors — light, colour, texture, and personal touches. A room-by-room guide for UK homeowners and renters."
 image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=800"
-datePublished: "2026-06-29"
-dateModified: "2026-06-29"
+datePublished: "2026-02-05"
+dateModified: "2026-02-05"
 author: "Sarah"
 tags: ["home interior ideas UK", "British home interiors", "UK interior design", "home decor UK", "interior styling UK"]
 featured: false

@@ -1,9 +1,9 @@
----
+﻿---
 title: "Cosy Bedroom Decor Ideas UK — How to Create a Proper Retreat"
 description: "Step-by-step guide to a genuinely cosy British bedroom — layered bedding, 2700K lighting, textiles, scent, and morning atmosphere. UK prices and retailer picks."
 image: "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=800"
-datePublished: "2026-06-29"
-dateModified: "2026-06-29"
+datePublished: "2026-03-27"
+dateModified: "2026-03-27"
 author: "Sarah"
 tags: ["cosy bedroom decor ideas UK", "cosy bedroom UK", "bedroom decor UK", "warm bedroom ideas UK", "bedroom retreat UK"]
 featured: false

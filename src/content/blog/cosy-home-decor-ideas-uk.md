@@ -1,9 +1,9 @@
----
+﻿---
 title: "Cosy Home Decor Ideas UK: The Complete Guide to Genuine Warmth in Any British Home"
 description: "How to make any UK home feel genuinely cosy — layered lighting, textiles, scent, and the British approach to hygge. Practical ideas with UK prices and retailers."
 image: "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?auto=compress&cs=tinysrgb&w=800"
-datePublished: "2026-06-29"
-dateModified: "2026-06-29"
+datePublished: "2026-01-26"
+dateModified: "2026-01-26"
 author: "Sarah"
 tags: ["cosy home decor ideas", "cosy home UK", "hygge UK", "cosy living room UK", "warm home decor UK"]
 featured: false

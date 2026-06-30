@@ -1,9 +1,9 @@
----
+﻿---
 title: "15 Living Room Ideas for UK Homes — Cosy, Budget-Friendly Styles That Actually Work"
 description: "15 practical living room ideas for British homes — warm neutrals, texture layering, lighting, gallery walls, and cottagecore from UK retailers. All budgets."
 image: "https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=800"
-datePublished: "2026-06-29"
-dateModified: "2026-06-29"
+datePublished: "2026-01-08"
+dateModified: "2026-01-08"
 author: "Sarah"
 tags: ["living room ideas UK", "living room decor UK", "British living room", "cosy living room", "UK home interior"]
 featured: false

@@ -1,9 +1,9 @@
----
+﻿---
 title: "Spring Home Refresh Ideas UK: How to Lighten and Brighten Your British Home for the New Season"
 description: "How to refresh your UK home for spring — lighter textiles, fresh colours, a proper declutter, and bringing nature inside. Practical ideas from UK shops with prices."
 image: "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=800"
-datePublished: "2026-06-29"
-dateModified: "2026-06-29"
+datePublished: "2026-05-22"
+dateModified: "2026-05-22"
 author: "Sarah"
 tags: ["spring home refresh ideas UK", "spring home decor UK", "spring cleaning UK", "spring interior refresh", "UK spring decorating"]
 featured: false

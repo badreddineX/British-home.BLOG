@@ -1,9 +1,9 @@
----
+﻿---
 title: "12 Bedroom Decor Ideas for UK Homes — From Calm Neutrals to Boutique Retreat"
 description: "12 bedroom decor ideas for British homes covering colour, bedding, lighting, storage and styling. Real UK prices from Dunelm, Next, John Lewis and IKEA."
 image: "https://images.pexels.com/photos/1743229/pexels-photo-1743229.jpeg?auto=compress&cs=tinysrgb&w=800"
-datePublished: "2026-06-29"
-dateModified: "2026-06-29"
+datePublished: "2026-03-20"
+dateModified: "2026-03-20"
 author: "Sarah"
 tags: ["bedroom decor ideas UK", "UK bedroom ideas", "bedroom styling UK", "British bedroom decor", "cosy bedroom UK"]
 featured: false

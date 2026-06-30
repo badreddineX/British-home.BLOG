@@ -3,6 +3,7 @@ interface Props {
   title: string;
   description: string;
   slug?: string;
+  canonicalPath?: string;
   image?: string;
   datePublished?: string;
   dateModified?: string;
@@ -14,7 +15,8 @@ const {
   title,
   description,
   slug = '',
-  image = '/images/og-default.jpg',
+  canonicalPath = '',
+  image = 'https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=1200',
   datePublished = new Date().toISOString(),
   dateModified = new Date().toISOString(),
   authorName = 'British Home Interior',
@@ -22,7 +24,11 @@ const {
 } = Astro.props;
 
 const siteUrl = 'https://britishhomeinterior.co.uk';
-const fullUrl = slug ? `${siteUrl}/blog/${slug}` : siteUrl;
+const fullUrl = canonicalPath
+  ? `${siteUrl}${canonicalPath}`
+  : slug
+  ? `${siteUrl}/blog/${slug}/`
+  : siteUrl;
 const fullImage = image.startsWith('http') ? image : `${siteUrl}${image}`;
 const pageTitle = title.includes('British Home Interior') ? title : `${title} | British Home Interior`;
 ---
