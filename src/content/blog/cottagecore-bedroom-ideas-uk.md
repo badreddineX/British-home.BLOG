@@ -4,7 +4,7 @@ description: "How to create a real cottagecore bedroom in a UK home — dried fl
 image: "https://images.pexels.com/photos/3049121/pexels-photo-3049121.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-04-10"
 dateModified: "2026-04-10"
-author: "Sarah"
+author: "Badreddine"
 tags: ["cottagecore bedroom ideas UK", "cottagecore bedroom decor", "vintage bedroom UK", "botanical bedroom", "cosy bedroom UK"]
 featured: false
 category: "Bedroom"

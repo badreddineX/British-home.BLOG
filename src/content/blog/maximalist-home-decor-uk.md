@@ -4,7 +4,7 @@ description: "How to do maximalist interior design in a British home without it 
 image: "https://images.pexels.com/photos/2062431/pexels-photo-2062431.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-05-01"
 dateModified: "2026-05-01"
-author: "Sarah"
+author: "Badreddine"
 tags: ["maximalist home decor UK", "maximalist interior design", "bold home decor UK", "pattern mixing UK", "British interior design"]
 featured: false
 category: "Living Room"

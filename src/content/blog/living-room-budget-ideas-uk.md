@@ -4,7 +4,7 @@ description: "10 high-impact living room upgrades for under £100 total — rank
 image: "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-03-06"
 dateModified: "2026-03-06"
-author: "Sarah"
+author: "Badreddine"
 tags: ["living room ideas UK on a budget", "budget living room UK", "cheap living room ideas UK", "living room makeover UK", "budget home decor UK"]
 featured: false
 category: "Living Room"

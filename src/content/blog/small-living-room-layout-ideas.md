@@ -1,10 +1,10 @@
----
+﻿---
 title: "Small Living Room Layout Ideas UK: How to Arrange Furniture in a Tiny British Lounge"
 description: "Small living room layout ideas for UK homes — furniture arrangement tips for tiny lounges, narrow rooms, and awkward Victorian terraces. What to do when the sofa barely fits."
 image: "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-06-22"
 dateModified: "2026-06-22"
-author: "Sarah"
+author: "Badreddine"
 tags: ["small living room layout ideas UK", "small lounge layout UK", "tiny living room UK", "furniture arrangement UK"]
 featured: false
 category: "Living Room"

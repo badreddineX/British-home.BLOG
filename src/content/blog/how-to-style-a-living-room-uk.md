@@ -4,7 +4,7 @@ description: "How to style a living room in the UK from scratch — focal points
 image: "https://images.pexels.com/photos/2082087/pexels-photo-2082087.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-01-16"
 dateModified: "2026-01-16"
-author: "Sarah"
+author: "Badreddine"
 tags: ["how to style a living room UK", "living room styling tips UK", "living room layout UK", "living room decor UK", "British interior styling"]
 featured: false
 category: "Living Room"

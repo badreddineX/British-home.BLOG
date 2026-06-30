@@ -4,7 +4,7 @@ description: "The essential principles behind great British home interiors — l
 image: "https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-02-05"
 dateModified: "2026-02-05"
-author: "Sarah"
+author: "Badreddine"
 tags: ["home interior ideas UK", "British home interiors", "UK interior design", "home decor UK", "interior styling UK"]
 featured: false
 category: "Living Room"

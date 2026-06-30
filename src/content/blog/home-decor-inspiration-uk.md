@@ -4,7 +4,7 @@ description: "Where to find genuine UK home decor inspiration — not American P
 image: "https://images.pexels.com/photos/1648776/pexels-photo-1648776.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-02-13"
 dateModified: "2026-02-13"
-author: "Sarah"
+author: "Badreddine"
 tags: ["home decor inspiration UK", "UK interior design ideas", "British home decor", "interior inspiration UK", "home styling UK"]
 featured: false
 category: "Living Room"

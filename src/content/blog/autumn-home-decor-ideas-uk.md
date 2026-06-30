@@ -4,7 +4,7 @@ description: "How to make your UK home feel properly autumnal — warm textiles,
 image: "https://images.pexels.com/photos/6489103/pexels-photo-6489103.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-05-29"
 dateModified: "2026-05-29"
-author: "Sarah"
+author: "Badreddine"
 tags: ["cosy autumn home decor ideas", "autumn home decor UK", "autumn interior ideas UK", "autumnal home decor", "autumn living room UK"]
 featured: false
 category: "Living Room"

@@ -4,7 +4,7 @@ description: "How to use dark, moody colours in a British home — walls, lighti
 image: "https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-05-15"
 dateModified: "2026-05-15"
-author: "Sarah"
+author: "Badreddine"
 tags: ["dark moody home decor UK", "dark interior design UK", "dark walls UK", "moody living room", "dark paint colours UK"]
 featured: false
 category: "Living Room"

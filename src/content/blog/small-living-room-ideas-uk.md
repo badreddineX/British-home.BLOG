@@ -4,7 +4,7 @@ description: "11 practical small living room ideas for UK flats — layout trick
 image: "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-03-13"
 dateModified: "2026-03-13"
-author: "Sarah"
+author: "Badreddine"
 tags: ["small living room ideas UK", "small living room UK", "small flat living room", "living room ideas small space", "compact living room UK"]
 featured: false
 category: "Living Room"

@@ -4,7 +4,7 @@ description: "What modern British home interiors actually look like in 2026 — 
 image: "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-04-24"
 dateModified: "2026-04-24"
-author: "Sarah"
+author: "Badreddine"
 tags: ["modern home interior ideas", "modern British interiors", "contemporary home decor UK", "modern living room UK", "UK interior trends 2026"]
 featured: false
 category: "Living Room"

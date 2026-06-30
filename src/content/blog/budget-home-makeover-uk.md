@@ -4,7 +4,7 @@ description: "Room-by-room budget home makeover framework for UK homes — highe
 image: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-02-27"
 dateModified: "2026-02-27"
-author: "Sarah"
+author: "Badreddine"
 tags: ["budget home makeover UK", "home makeover UK", "cheap home makeover UK", "budget home decor UK", "home refresh UK"]
 featured: false
 category: "Room Makeovers"

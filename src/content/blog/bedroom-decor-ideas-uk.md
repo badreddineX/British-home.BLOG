@@ -4,7 +4,7 @@ description: "12 bedroom decor ideas for British homes covering colour, bedding,
 image: "https://images.pexels.com/photos/1743229/pexels-photo-1743229.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-03-20"
 dateModified: "2026-03-20"
-author: "Sarah"
+author: "Badreddine"
 tags: ["bedroom decor ideas UK", "UK bedroom ideas", "bedroom styling UK", "British bedroom decor", "cosy bedroom UK"]
 featured: false
 category: "Bedroom"

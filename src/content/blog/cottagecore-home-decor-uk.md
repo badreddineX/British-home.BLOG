@@ -4,7 +4,7 @@ description: "Full cottagecore guide for UK homes — living room, kitchen, hall
 image: "https://images.pexels.com/photos/6214476/pexels-photo-6214476.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-04-03"
 dateModified: "2026-04-03"
-author: "Sarah"
+author: "Badreddine"
 tags: ["cottagecore home decor UK", "cottagecore interior UK", "British cottagecore", "cottagecore living room", "vintage home decor UK"]
 featured: false
 category: "Living Room"

@@ -4,7 +4,7 @@ description: "Practical maximalist living room guide for British homes — colou
 image: "https://images.pexels.com/photos/1648768/pexels-photo-1648768.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-05-08"
 dateModified: "2026-05-08"
-author: "Sarah"
+author: "Badreddine"
 tags: ["maximalist living room decor", "maximalist interior UK", "maximalist home decor UK", "bold living room UK", "eclectic living room UK"]
 featured: false
 category: "Living Room"

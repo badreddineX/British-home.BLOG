@@ -1,10 +1,10 @@
----
+﻿---
 title: "Rented Flat Makeover UK: How to Transform a Rental Without Losing Your Deposit"
 description: "A complete rented flat makeover guide for UK tenants — furniture, lighting, textiles, and decor that transform any rental without touching the walls or risking your deposit."
 image: "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-06-17"
 dateModified: "2026-06-17"
-author: "Sarah"
+author: "Badreddine"
 tags: ["rented flat makeover UK", "rental makeover UK", "rented home decor UK", "tenant home decor UK"]
 featured: false
 category: "Room Makeovers"

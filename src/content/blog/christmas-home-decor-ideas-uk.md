@@ -4,7 +4,7 @@ description: "How to decorate a British home for Christmas with real character â
 image: "https://images.pexels.com/photos/3312671/pexels-photo-3312671.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-06-12"
 dateModified: "2026-06-12"
-author: "Sarah"
+author: "Badreddine"
 tags: ["Christmas home decor ideas UK", "British Christmas decorating", "Christmas interior UK", "Christmas living room UK", "UK Christmas styling"]
 featured: false
 category: "Living Room"

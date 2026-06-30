@@ -4,7 +4,7 @@ description: "How to refresh your UK home for spring — lighter textiles, fresh
 image: "https://images.pexels.com/photos/4846097/pexels-photo-4846097.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-05-22"
 dateModified: "2026-05-22"
-author: "Sarah"
+author: "Badreddine"
 tags: ["spring home refresh ideas UK", "spring home decor UK", "spring cleaning UK", "spring interior refresh", "UK spring decorating"]
 featured: false
 category: "Living Room"

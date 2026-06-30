@@ -1,10 +1,10 @@
----
+﻿---
 title: "Bedroom Colour Ideas UK: The Best Paint Colours for British Bedrooms in 2026"
 description: "The best bedroom paint colours for UK homes — warm neutrals, moody blues, sage greens, and blush tones that work in real British light. With UK paint brand recommendations."
 image: "https://images.pexels.com/photos/3049121/pexels-photo-3049121.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-06-19"
 dateModified: "2026-06-19"
-author: "Sarah"
+author: "Badreddine"
 tags: ["bedroom colour ideas UK", "bedroom paint colours UK", "best bedroom colours UK", "bedroom paint ideas UK"]
 featured: false
 category: "Bedroom"

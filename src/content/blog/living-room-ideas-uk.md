@@ -4,7 +4,7 @@ description: "15 practical living room ideas for British homes — warm neutrals
 image: "https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-01-08"
 dateModified: "2026-01-08"
-author: "Sarah"
+author: "Badreddine"
 tags: ["living room ideas UK", "living room decor UK", "British living room", "cosy living room", "UK home interior"]
 featured: false
 category: "Living Room"

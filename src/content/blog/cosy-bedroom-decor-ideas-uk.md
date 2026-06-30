@@ -4,7 +4,7 @@ description: "Step-by-step guide to a genuinely cosy British bedroom — layered
 image: "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-03-27"
 dateModified: "2026-03-27"
-author: "Sarah"
+author: "Badreddine"
 tags: ["cosy bedroom decor ideas UK", "cosy bedroom UK", "bedroom decor UK", "warm bedroom ideas UK", "bedroom retreat UK"]
 featured: false
 category: "Bedroom"

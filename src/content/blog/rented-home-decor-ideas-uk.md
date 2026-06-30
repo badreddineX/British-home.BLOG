@@ -4,7 +4,7 @@ description: "13 fully reversible decorating ideas for UK renters — peel-and-s
 image: "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-02-20"
 dateModified: "2026-02-20"
-author: "Sarah"
+author: "Badreddine"
 tags: ["rented home decor ideas UK", "renter decorating UK", "deposit-safe decor UK", "rented flat decor", "renters home ideas UK"]
 featured: false
 category: "Room Makeovers"
