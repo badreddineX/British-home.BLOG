@@ -40,7 +40,7 @@ I've put together a guide to doing Christmas properly in a British home — with
 
 ---
 
-[INTERNAL-LINK: autumn-to-winter seasonal decorating → /blog/autumn-home-decor-ideas-uk/]
+[autumn-to-winter seasonal decorating](/blog/autumn-home-decor-ideas-uk/)
 
 ## 1. Get Your Colour Palette Right First
 
@@ -54,7 +54,7 @@ The British Christmas palette in 2026 goes well beyond red and green. The most a
 - **Cottagecore British:** Sage green + blush + warm brass + dried botanicals
 - **Dark and Cosy:** Deep plum + forest green + candlelight gold
 
-[UNIQUE INSIGHT] The mistake isn't choosing a bold palette — it's not choosing one at all. A room decorated in forest green, navy, red, silver, white, and gold simultaneously looks chaotic because there's no thread connecting the elements. Pick two or three tones and stick to them for every element: tree, ornaments, candles, table, wrapping paper.
+The mistake isn't choosing a bold palette — it's not choosing one at all. A room decorated in forest green, navy, red, silver, white, and gold simultaneously looks chaotic because there's no thread connecting the elements. Pick two or three tones and stick to them for every element: tree, ornaments, candles, table, wrapping paper.
 
 **Bold key point:** Decide your palette before buying anything. Take a photo of your living room and test digital colour swatches before committing to a scheme.
 
@@ -66,7 +66,7 @@ Christmas lighting in the UK has a quality problem. The default is often cool wh
 
 Warm white fairy lights (2700K) look like stars. Cool white fairy lights look like LEDs. The difference to the atmosphere of a room is significant.
 
-[PERSONAL EXPERIENCE] I switched from cool white to warm white copper-wire fairy lights three Christmases ago. The room looked warmer, more old-fashioned, and — honestly — more magical. The lights hadn't changed position. Just the colour temperature.
+I switched from cool white to warm white copper-wire fairy lights three Christmases ago. The room looked warmer, more old-fashioned, and — honestly — more magical. The lights hadn't changed position. Just the colour temperature.
 
 **What to buy:**
 - **Copper-wire warm white fairy lights** — [Dunelm](https://www.dunelm.com) from ~£8/set. Flexible and shape-holding.
@@ -107,7 +107,7 @@ The traditional British mantelpiece approach:
 4. **Cards** — arrange rather than cluster. A row of cards propped along the back of the mantelshelf has a pleasingly organised informality.
 5. **Small objects** — a pinecone arrangement, a small wreath, a glass bauble or two
 
-[ORIGINAL DATA] In homes without fireplaces, the same principle works beautifully applied to a sideboard, a console table in the hall, or even a dedicated Christmas shelf.
+In homes without fireplaces, the same principle works beautifully applied to a sideboard, a console table in the hall, or even a dedicated Christmas shelf.
 
 **Renter note:** Command hooks (rated 3kg+) can hold lightweight stockings from a shelf or mantelpiece without marking the wall. Check your tenancy agreement before making any hook holes.
 
@@ -145,7 +145,7 @@ The homes that feel most genuinely Christmassy in the UK use natural elements. T
 - **Cinnamon sticks** — tied with ribbon as ornaments or piled in a glass jar
 - **Clementines** — a bowl of them on the coffee table is quintessentially British Christmas
 
-[PERSONAL EXPERIENCE] A bowl of clementines, a pile of walnuts, and a tealight on the coffee table costs about £3 total and smells precisely like Christmas morning. It's the detail I come back to every year without fail.
+A bowl of clementines, a pile of walnuts, and a tealight on the coffee table costs about £3 total and smells precisely like Christmas morning. It's the detail I come back to every year without fail.
 
 ---
 

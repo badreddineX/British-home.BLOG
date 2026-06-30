@@ -40,7 +40,7 @@ I've been obsessing over this question — what actually creates cosiness rather
 
 ---
 
-[INTERNAL-LINK: living room decor ideas → /blog/living-room-ideas-uk/]
+[living room decor ideas](/blog/living-room-ideas-uk/)
 
 ## 1. Lighting: The Single Biggest Factor in Cosiness
 
@@ -68,14 +68,14 @@ Cosiness is partly psychological, but it's also physical. We feel warm when we'r
 
 The cosy home has textiles everywhere: on sofas, over chairs, under feet, at windows. They absorb sound, reduce visual harshness, and signal comfort in a direct, instinctive way.
 
-[PERSONAL EXPERIENCE] The most useful thing I've done to make my flat feel genuinely cosy is to keep a large, heavy throw on the sofa at all times — not folded neatly, but draped in a way that makes it clearly available. It's an invitation. People reach for it almost immediately when they sit down.
+The most useful thing I've done to make my flat feel genuinely cosy is to keep a large, heavy throw on the sofa at all times — not folded neatly, but draped in a way that makes it clearly available. It's an invitation. People reach for it almost immediately when they sit down.
 
 **What to buy and where:**
 
 - **Chunky knit throw** — [Next Home](https://www.next.co.uk) from ~£25. Drape, don't fold.
 - **Large wool or jute rug** — [Dunelm](https://www.dunelm.com) from ~£45. One large rug beats several small ones.
 - **Velvet cushions** — [Dunelm](https://www.dunelm.com) from ~£8 each. Cluster in warm tones.
-- **Linen curtains, lined** — [IKEA UK](https://www.ikea.com/gb) from ~£35/pair. Full-length, hung from ceiling level.
+- **Linen curtains, lined** — (https://www.ikea.com/gb) from ~£35/pair. Full-length, hung from ceiling level.
 
 **Renter note:** All of the above are portable and reversible — no tenancy agreement considerations at all.
 
@@ -85,7 +85,7 @@ The cosy home has textiles everywhere: on sofas, over chairs, under feet, at win
 
 We talk about lighting and textiles, but scent is the fastest way to change the emotional atmosphere of a room. It bypasses analysis and goes directly to feeling — which is exactly what cosiness requires.
 
-[ORIGINAL DATA] In my own experience of visiting many homes over the years, the ones that feel most immediately welcoming almost always have a distinct, pleasant scent. The ones that feel flat or unwelcoming often smell of nothing — or of the faint chemical smell of cleaning products.
+In my own experience of visiting many homes over the years, the ones that feel most immediately welcoming almost always have a distinct, pleasant scent. The ones that feel flat or unwelcoming often smell of nothing — or of the faint chemical smell of cleaning products.
 
 The scents that signal warmth and cosiness in a British domestic context tend to be:
 - **Amber and sandalwood** — deep, resinous, warm
@@ -105,7 +105,7 @@ A common mistake is trying to make an entire room cosy all at once. This is hard
 
 The more effective approach is the hibernation corner: one spot in the room that is specifically, deliberately designed for comfort.
 
-[UNIQUE INSIGHT] What makes a hibernation corner work is that everything needed is within reach without getting up. Chair you love, lamp positioned for reading, small table for a cup of tea, throw within reach. The completeness of the setup is what creates the feeling of cosy rather than just the individual elements.
+What makes a hibernation corner work is that everything needed is within reach without getting up. Chair you love, lamp positioned for reading, small table for a cup of tea, throw within reach. The completeness of the setup is what creates the feeling of cosy rather than just the individual elements.
 
 The elements:
 - **A chair you genuinely want to sit in** — not your sofa, a specific chair. [IKEA's Poäng](https://www.ikea.com/gb) at ~£115, a charity shop armchair, or Facebook Marketplace find
@@ -144,7 +144,7 @@ This is the element of cosy British interiors that is most specific to our clima
 
 Heavy, properly lined curtains do three things at once: they reduce heat loss from windows, they block out street light and noise, and they create a visual barrier between you and the outside world that makes the inside feel more enclosed, more private, more sheltering.
 
-[PERSONAL EXPERIENCE] I added velvet curtains to my living room in October three years ago. The room felt immediately warmer — and it was warmer, because single-glazed Victorian windows lose significant heat through unlined curtains. But the psychological warmth was just as real. The room felt like a room with an inside and an outside.
+I added velvet curtains to my living room in October three years ago. The room felt immediately warmer — and it was warmer, because single-glazed Victorian windows lose significant heat through unlined curtains. But the psychological warmth was just as real. The room felt like a room with an inside and an outside.
 
 **Where to buy:** [Dunelm](https://www.dunelm.com) has excellent thermal and velvet curtains from ~£35/pair. [Next Home](https://www.next.co.uk) from ~£45/pair. Always hang from ceiling level, not just above the window frame.
 

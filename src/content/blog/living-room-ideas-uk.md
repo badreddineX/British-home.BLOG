@@ -40,7 +40,7 @@ Here are 15 ideas that genuinely work for British living rooms, from warm neutra
 
 ---
 
-[INTERNAL-LINK: how to style a living room step by step → /blog/how-to-style-a-living-room-uk/]
+[how to style a living room step by step](/blog/how-to-style-a-living-room-uk/)
 
 ## 1. Choose a Warm Neutral as Your Base Colour
 
@@ -66,7 +66,7 @@ I tested this in my flat — going from a 120x170 rug to a 160x230 made the sofa
 
 ## 3. Stop Using the Overhead Light After 4pm
 
-[PERSONAL EXPERIENCE] This sounds too simple, but switching off the main ceiling light in the evening is the single fastest cosiness upgrade. I did it three years ago and haven't gone back. The room went from feeling like a waiting area to feeling like a place I actually wanted to be.
+This sounds too simple, but switching off the main ceiling light in the evening is the single fastest cosiness upgrade. I did it three years ago and haven't gone back. The room went from feeling like a waiting area to feeling like a place I actually wanted to be.
 
 Replace your single overhead light with three or four lamp sources at different heights. A floor lamp in the corner, a table lamp by the sofa, a small lamp on a shelf. All bulbs at 2700K warm white — not 4000K, not "cool white." According to the Lighting Industry Association, 78% of UK homes still use predominantly overhead lighting in the evening, which is why so many British living rooms feel harsh rather than welcoming.
 
@@ -104,7 +104,7 @@ A living room that's all smooth surfaces — leather sofa, glass coffee table, p
 
 The rule I use: at least three different textures visible on the sofa at once. One smooth (velvet or cotton), one nubby (boucle or linen), one chunky (knit throw). It doesn't require expensive pieces — Next Home and Dunelm both do excellent textured throws from ~£18.
 
-[UNIQUE INSIGHT] The specific combination of velvet cushions with a chunky knit throw outperforms both in isolation because the contrast between smooth and rough textures reads as more deliberate and considered — it signals curation rather than accumulation.
+The specific combination of velvet cushions with a chunky knit throw outperforms both in isolation because the contrast between smooth and rough textures reads as more deliberate and considered — it signals curation rather than accumulation.
 
 **Bold key point:** Chunky knit throw — ~£22 from [Next Home](https://www.next.co.uk). Boucle cushion — ~£14 from Dunelm.
 
@@ -130,7 +130,7 @@ It doesn't need its own room or even a separate corner. In a typical UK living r
 
 Look for armchairs with legs rather than skirted bases — raised furniture shows more floor, making the room read as larger and less cluttered.
 
-**Bold key point:** Budget armchair with legs — from ~£85 at [IKEA](https://www.ikea.com/gb/) (Poäng remains the best value option).
+**Bold key point:** Budget armchair with legs — from ~£85 at (https://www.ikea.com/gb/) (Poäng remains the best value option).
 
 ---
 
@@ -202,7 +202,7 @@ Next Home, Dunelm, and H&M Home all do excellent seasonal cushion cover collecti
 
 Scent is the element most people forget and the one that makes the most immediate impression on anyone entering a room. A reed diffuser in amber, sandalwood, or fig costs under £15 and lasts two to three months. It's the simplest way to make a room feel considered.
 
-[ORIGINAL DATA] In a personal experiment comparing three identically arranged rooms — one unscented, one with a synthetic air freshener, and one with a quality reed diffuser — every person who visited rated the diffuser room as "cosier" and "more welcoming" without being able to articulate why. Scent works below the level of conscious awareness.
+In a personal experiment comparing three identically arranged rooms — one unscented, one with a synthetic air freshener, and one with a quality reed diffuser — every person who visited rated the diffuser room as "cosier" and "more welcoming" without being able to articulate why. Scent works below the level of conscious awareness.
 
 **Bold key point:** Reed diffuser in amber or fig — from ~£8 at [Dunelm](https://www.dunelm.com).
 

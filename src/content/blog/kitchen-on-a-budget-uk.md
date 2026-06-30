@@ -36,7 +36,7 @@ What followed was three weekends and some genuinely satisfying before-and-after 
 
 **TL;DR: You don't need a new kitchen. You need paint, new handles, better lighting, and about two weekends. The 14 changes below can be done individually or stacked for a full refresh — most cost under £50 each, and none require a tradesperson.**
 
-[INTERNAL-LINK: budget home transformation framework → /blog/budget-home-makeover-uk]
+[budget home transformation framework](/blog/budget-home-makeover-uk)
 
 ---
 
@@ -108,7 +108,7 @@ White grout on white tiles looks cleaner. Anthracite grout on metro tiles has be
 
 If you don't have a splashback at all, or you have bare wall behind the hob, peel-and-stick tile sheets are the budget solution that actually works. Brands like Crearreda and Vinyltiles sell A4 and A3 peel-and-stick panels that mimic metro tile, geometric patterns, and even marble. A full splashback area costs £25–£45 from Amazon UK or Dunelm.
 
-[PERSONAL EXPERIENCE] I was sceptical about peel-and-stick tiles until I used them on a small section behind a gas hob. Two years later, they're still firmly in place, and visitors consistently ask which tile shop I used. The key is to start on a perfectly flat, grease-free surface and use a credit card to press out every air bubble.
+I was sceptical about peel-and-stick tiles until I used them on a small section behind a gas hob. Two years later, they're still firmly in place, and visitors consistently ask which tile shop I used. The key is to start on a perfectly flat, grease-free surface and use a credit card to press out every air bubble.
 
 They're not a permanent solution. Heat from a hob can cause edges to lift over time if you don't leave a small gap. But for renters or anyone not ready to commit to real tiling, they're genuinely effective.
 
@@ -136,7 +136,7 @@ It sounds obvious, but most people focus entirely on the units and forget that t
 
 A 2.5L tin of Dulux Kitchen Matt covers around 30 square metres and costs £19–£23 at B&Q. It's specifically formulated for the moisture and steam environment of a kitchen, so it resists mould and wipes clean more readily than standard emulsion. Two coats on average kitchen walls costs around £40 in paint.
 
-[UNIQUE INSIGHT] The wall colour between upper and lower units is often the most visible expanse of colour in a kitchen, yet most guides focus exclusively on units. Painting just the walls — without touching a single cabinet — often makes more visual difference than new handles alone, and costs less.
+The wall colour between upper and lower units is often the most visible expanse of colour in a kitchen, yet most guides focus exclusively on units. Painting just the walls — without touching a single cabinet — often makes more visual difference than new handles alone, and costs less.
 
 **Bold key point:** Two tins of Dulux Kitchen Matt at around £40 total changes the entire atmosphere of a kitchen without touching the units.
 
@@ -212,13 +212,13 @@ The final category is the one that makes everything else cohere. A kitchen with 
 
 A small potted herb garden in the window costs £3–£5 per plant at most supermarkets and garden centres. Basil, rosemary, and mint are the obvious choices — useful and attractive. A proper wooden chopping board propped against the splashback costs £15–£25 at Dunelm. A ceramic pot or two from TK Maxx at £4–£8 each adds warmth.
 
-[ORIGINAL DATA] In my own kitchen refresh, adding a £4 basil plant, a £12 wooden board, and removing all the plastic storage containers from the worktop made a larger difference to the photographed result than any single structural change. Styling is underrated in budget makeovers.
+In my own kitchen refresh, adding a £4 basil plant, a £12 wooden board, and removing all the plastic storage containers from the worktop made a larger difference to the photographed result than any single structural change. Styling is underrated in budget makeovers.
 
 **Bold key point:** Plants (£3–£5 each), a wooden board (£15–£25), and matching small accessories (£10–£20 total) are the finishing layer that makes a refreshed kitchen look finished rather than half-done.
 
 ---
 
-[INTERNAL-LINK: living room budget ideas UK → /blog/living-room-budget-ideas-uk]
+[living room budget ideas UK](/blog/living-room-budget-ideas-uk)
 
 ## Where to Start: A Priority Table
 

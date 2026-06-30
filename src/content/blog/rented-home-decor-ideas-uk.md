@@ -38,7 +38,7 @@ I've rented for eight years across five different properties. Here's what I've l
 
 ---
 
-[INTERNAL-LINK: living room ideas UK → /blog/living-room-ideas-uk/]
+[living room ideas UK](/blog/living-room-ideas-uk/)
 
 ## 1. Command Picture Hanging Strips — The Renter's Most Important Tool
 
@@ -102,7 +102,7 @@ Rented properties are typically under-shelved for anyone with more than a minima
 
 For renters who need more storage: a freestanding wardrobe (IKEA PAX from ~£115 without doors) in a bedroom is frequently more useful than the built-in alternatives many rented properties provide, and it belongs to you rather than the property.
 
-**Bold key point:** IKEA Billy bookcase — from ~£55 at [IKEA](https://www.ikea.com/gb/).
+**Bold key point:** IKEA Billy bookcase — from ~£55 at (https://www.ikea.com/gb/).
 
 ---
 
@@ -112,7 +112,7 @@ Most rented properties come with sofas and beds that are beige, grey, or brown �
 
 New cushion covers (from ~£6 each at [Dunelm](https://www.dunelm.com)) on existing sofa cushions, a throw draped over the sofa back, a rug on the floor, and a blanket folded at the foot of the bed — all of these are fully removable and collectively transform an anonymous furnished property into a personalised home.
 
-[PERSONAL EXPERIENCE] I've lived in five furnished rented properties. In every case, the first thing I did was add a throw and four new cushion covers to the sofa. The transformation was immediate and cost under £50 each time. Visitors consistently assumed I'd chosen the furniture, not inherited it.
+I've lived in five furnished rented properties. In every case, the first thing I did was add a throw and four new cushion covers to the sofa. The transformation was immediate and cost under £50 each time. Visitors consistently assumed I'd chosen the furniture, not inherited it.
 
 **Bold key point:** New cushion covers — from ~£6 each at Dunelm.
 
@@ -141,9 +141,9 @@ A gallery wall is one of the most personal and impactful things you can do in a 
 
 For a gallery wall to work visually, all frames should be the same colour (all black or all white). Mix sizes but not frame finishes. Leave 5–8cm between frames.
 
-[UNIQUE INSIGHT] The gallery wall is the one decorating element that most effectively communicates "this is my home, not my landlord's." It does this because it requires active curation — it says something specific about the person who made it. Every rented property should have one.
+The gallery wall is the one decorating element that most effectively communicates "this is my home, not my landlord's." It does this because it requires active curation — it says something specific about the person who made it. Every rented property should have one.
 
-**Bold key point:** IKEA Ribba A4 frame — from £3.50 each at [IKEA](https://www.ikea.com/gb/).
+**Bold key point:** IKEA Ribba A4 frame — from £3.50 each at (https://www.ikea.com/gb/).
 
 ---
 
@@ -155,7 +155,7 @@ For renters who travel frequently or don't have ideal light conditions: IKEA's F
 
 For real plants: snake plants, pothos, and ZZ plants all tolerate low light and irregular watering — useful for the typical unpredictable schedule of the UK renter.
 
-**Bold key point:** IKEA Fejka faux monstera — ~£20 at [IKEA](https://www.ikea.com/gb/).
+**Bold key point:** IKEA Fejka faux monstera — ~£20 at (https://www.ikea.com/gb/).
 
 ---
 

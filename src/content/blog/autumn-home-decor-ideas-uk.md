@@ -40,7 +40,7 @@ I've developed a fairly reliable seasonal transition system — mostly cheap, pa
 
 ---
 
-[INTERNAL-LINK: cosy home decor year-round → /blog/cosy-home-decor-ideas-uk/]
+[cosy home decor year-round](/blog/cosy-home-decor-ideas-uk/)
 
 ## 1. The September Cushion Swap
 
@@ -55,7 +55,7 @@ Summer cushions tend to be lighter — cotton, in soft pastels, terracotta, or p
 - **Plum and burgundy** — deeper, evening-appropriate
 - **Mustard yellow** — adds warmth without the full commitment to orange
 
-[PERSONAL EXPERIENCE] I keep a dedicated "autumn box" in my storage that comes out each September — four velvet cushion covers in terracotta and rust that replace my summer linen covers on the same cushion inserts. The swap takes ten minutes and the room looks completely different.
+I keep a dedicated "autumn box" in my storage that comes out each September — four velvet cushion covers in terracotta and rust that replace my summer linen covers on the same cushion inserts. The swap takes ten minutes and the room looks completely different.
 
 **Bold key point:** [Dunelm](https://www.dunelm.com) typically launches its autumn textiles range in late August — velvet cushions from ~£8, faux-fur throws from ~£18.
 
@@ -86,7 +86,7 @@ The autumn scent palette for a British home:
 - **Sandalwood and cedarwood** — woodsy, grounding
 - **Bonfire and smoke** — not for everyone, but Diptyque's *Feu de Bois* is famous for this
 
-[ORIGINAL DATA] I've found that changing scent has a stronger effect on how autumnal my flat feels than changing cushion colours. The sensory association is that strong — clove and cinnamon genuinely signals "autumn evenings" in a way that a terracotta cushion simply doesn't.
+I've found that changing scent has a stronger effect on how autumnal my flat feels than changing cushion colours. The sensory association is that strong — clove and cinnamon genuinely signals "autumn evenings" in a way that a terracotta cushion simply doesn't.
 
 Budget options: Primark Home autumn candles (~£4), Dunelm reed diffusers (~£8), Aldi's autumn Specialbuy scented candle range (~£4). All perform well.
 
@@ -105,7 +105,7 @@ The British countryside and city parks in September and October are full of thin
 - **Fallen branches** — in a vase as a sculptural arrangement
 - **Acorns** — scattered in a flat tray with moss and conkers
 
-[UNIQUE INSIGHT] There's a psychological benefit to using foraged elements that bought decorations don't replicate. They're connected to a specific walk, a specific day, a specific memory. That connection is part of what makes a home feel personal rather than styled.
+There's a psychological benefit to using foraged elements that bought decorations don't replicate. They're connected to a specific walk, a specific day, a specific memory. That connection is part of what makes a home feel personal rather than styled.
 
 **Check your local rules** — don't forage in protected nature reserves or from private land without permission.
 

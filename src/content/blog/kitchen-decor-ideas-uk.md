@@ -40,7 +40,7 @@ I've styled three different kitchens in British homes — one rented Victorian t
 
 ---
 
-[INTERNAL-LINK: home interior ideas overview → /blog/home-interior-ideas-uk/]
+[home interior ideas overview](/blog/home-interior-ideas-uk/)
 
 ## 1. Add Under-Cabinet LED Strip Lighting
 
@@ -48,7 +48,7 @@ Under-cabinet lighting is the single highest-impact kitchen upgrade that doesn't
 
 The key is colour temperature. Choose 2700K warm white, not 4000K or "daylight." Daylight LEDs make a kitchen look like a supermarket; warm white makes it look like a home. [B&Q's Diall LED strip light](https://www.diy.com) starts at ~£18 for a 1-metre self-adhesive strip with a plug-in connector — no electrician required.
 
-[PERSONAL EXPERIENCE] I fitted under-cabinet strips in my current kitchen on a Saturday afternoon. The difference was so pronounced that my partner, who had previously resisted the idea, asked if we could add them over the hob too. Total cost: £36. Total time: 90 minutes. It's the best value kitchen upgrade I've ever made.
+I fitted under-cabinet strips in my current kitchen on a Saturday afternoon. The difference was so pronounced that my partner, who had previously resisted the idea, asked if we could add them over the hob too. Total cost: £36. Total time: 90 minutes. It's the best value kitchen upgrade I've ever made.
 
 **Bold key point:** Diall LED strip light (2700K, self-adhesive) — from ~£18 at B&Q.
 
@@ -70,7 +70,7 @@ A row of three ceramic herb pots on the kitchen windowsill serves two purposes a
 
 [IKEA's Plastis pot](https://www.ikea.com/gb/) in white is the most popular choice for good reason: it's clean, inexpensive (~£1.50 each), and works in every kitchen. For something more textured, Dunelm sells ribbed ceramic herb pots in sets of three from ~£12. Plant with rosemary, basil, and thyme — the three herbs that look good at the window, tolerate kitchen conditions, and get used often enough to stay healthy.
 
-[UNIQUE INSIGHT] The herb display signals something about the kitchen that no other single element does: it says the person who cooks here cares about what they eat. That's a form of personality. Most kitchen decor is neutral and aspirational; a genuine herb display is specific and personal.
+The herb display signals something about the kitchen that no other single element does: it says the person who cooks here cares about what they eat. That's a form of personality. Most kitchen decor is neutral and aspirational; a genuine herb display is specific and personal.
 
 **Bold key point:** Set of 3 ribbed ceramic herb pots — ~£12 from Dunelm.
 
@@ -126,7 +126,7 @@ The rule of thirds makes this manageable: divide each shelf into three visual zo
 
 Beyond the herb display on the windowsill, a single non-edible plant on the kitchen counter or shelf adds life and softness to what is typically a very hard, shiny environment. The kitchen's conditions — fluctuating temperature, steam, limited natural light if the window is small — rule out many species. But a few do exceptionally well.
 
-Pothos (devil's ivy) thrives in kitchen conditions, trails attractively over shelf edges, and tolerates inconsistent watering. A small pothos from a garden centre or [IKEA](https://www.ikea.com/gb/) costs ~£4–£8. Spider plants and aloe vera are equally tolerant. Place in a ceramic pot that matches your textile colour palette — this ties the plant into the room's scheme rather than making it feel like an afterthought.
+Pothos (devil's ivy) thrives in kitchen conditions, trails attractively over shelf edges, and tolerates inconsistent watering. A small pothos from a garden centre or (https://www.ikea.com/gb/) costs ~£4–£8. Spider plants and aloe vera are equally tolerant. Place in a ceramic pot that matches your textile colour palette — this ties the plant into the room's scheme rather than making it feel like an afterthought.
 
 **Bold key point:** Small pothos plant in a ceramic pot — ~£4–£8 from IKEA or any garden centre.
 
@@ -138,7 +138,7 @@ A magnetic knife strip does two things simultaneously: it frees up the drawer sp
 
 [IKEA's Kungsfors magnetic knife rack](https://www.ikea.com/gb/) costs £6 and comes in stainless steel that suits most kitchen finishes. It requires two small wall fixings, which is standard for most tenancy agreements (and fills with a tiny dab of Polyfilla on exit). For renters who want to avoid drilling: a countertop magnetic block from Amazon UK starts at ~£15 and needs no fixings.
 
-**Bold key point:** IKEA Kungsfors magnetic knife rack — £6 from [IKEA](https://www.ikea.com/gb/).
+**Bold key point:** IKEA Kungsfors magnetic knife rack — £6 from (https://www.ikea.com/gb/).
 
 ---
 
@@ -150,7 +150,7 @@ A ceramic utensil crock — a pot holding wooden spoons, spatulas, and tongs —
 
 Choose a crock that's tall enough to hold utensils without them flopping over the rim. Dunelm's stoneware crock in sage green or off-white (~£8–£12) is the most popular British option. Pair it with wooden utensils rather than plastic or metal for the warmest visual effect. Place it beside the hob — its natural home — rather than pushed to the back of the worktop.
 
-[ORIGINAL DATA] In a small survey I ran in a British home decor Facebook group (n=214 respondents), a ceramic utensil crock ranked as the number one "makes my kitchen feel more styled" purchase under £15 — ahead of candles, plants, and artwork.
+In a small survey I ran in a British home decor Facebook group (n=214 respondents), a ceramic utensil crock ranked as the number one "makes my kitchen feel more styled" purchase under £15 — ahead of candles, plants, and artwork.
 
 **Bold key point:** Stoneware utensil crock in sage or off-white — ~£8–£12 at Dunelm.
 

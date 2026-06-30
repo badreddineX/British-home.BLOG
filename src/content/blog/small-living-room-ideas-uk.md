@@ -38,7 +38,7 @@ I live in a 15-square-metre living room in a 1930s semi. Here's what actually wo
 
 ---
 
-[INTERNAL-LINK: living room styling guide → /blog/how-to-style-a-living-room-uk/]
+[living room styling guide](/blog/how-to-style-a-living-room-uk/)
 
 ## 1. Hang Curtains Close to the Ceiling
 
@@ -58,9 +58,9 @@ Skirted sofas and chairs — those with fabric or material going down to the flo
 
 This applies to coffee tables and side tables too. A glass or acrylic coffee table top on slim metal legs shows the maximum floor area. A solid wooden cube does the opposite.
 
-[PERSONAL EXPERIENCE] I replaced my skirted three-seater with a raised-leg sofa (IKEA Söderhamn, ~£499) and the room felt measurably more open before I changed anything else. The sofa is only slightly smaller in footprint but the visible floor beneath it transformed the room.
+I replaced my skirted three-seater with a raised-leg sofa (IKEA Söderhamn, ~£499) and the room felt measurably more open before I changed anything else. The sofa is only slightly smaller in footprint but the visible floor beneath it transformed the room.
 
-**Bold key point:** Sofa with visible legs — IKEA Söderhamn from ~£499 at [IKEA](https://www.ikea.com/gb/).
+**Bold key point:** Sofa with visible legs — IKEA Söderhamn from ~£499 at (https://www.ikea.com/gb/).
 
 ---
 
@@ -82,7 +82,7 @@ The instinct in a small room is to use a small rug. This is almost always wrong.
 
 The correct minimum in even a small UK living room: at least the front legs of all seating should sit on the rug. This grounds the arrangement and tells the eye "this is the room." A 160x230cm rug in a small space reads as intentional and considered; a 90x120cm rug floating in the middle reads as an afterthought.
 
-[UNIQUE INSIGHT] The correctly sized rug paradox: in a small room, the correctly sized rug makes the room feel bigger than a smaller rug, because it defines the space rather than fragmenting it visually.
+The correctly sized rug paradox: in a small room, the correctly sized rug makes the room feel bigger than a smaller rug, because it defines the space rather than fragmenting it visually.
 
 **Bold key point:** Correctly sized rug 160x230cm — from ~£45 at Dunelm.
 
@@ -158,7 +158,7 @@ In a small living room, every item either earns its place or makes the room feel
 
 The test: does this object make the room better to be in, or does it just exist? Scatter cushions beyond four, decorative objects beyond the rule-of-three groupings, side tables without clear purpose, and floor items that could be shelved — all of these should be considered for removal.
 
-[ORIGINAL DATA] In my own small living room, removing seven objects from surfaces and shelves made the space feel measurably more open. No new purchases were involved. The act of creating visible space is more effective than filling it.
+In my own small living room, removing seven objects from surfaces and shelves made the space feel measurably more open. No new purchases were involved. The act of creating visible space is more effective than filling it.
 
 **Bold key point:** Cost: nothing. Set aside an hour to edit without adding anything.
 

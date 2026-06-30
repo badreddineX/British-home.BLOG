@@ -38,7 +38,7 @@ I've lived in three small flats and one narrow Victorian terrace. Each one had a
 
 ---
 
-[INTERNAL-LINK: small living room decorating ideas → /blog/small-living-room-ideas-uk/]
+[small living room decorating ideas](/blog/small-living-room-ideas-uk/)
 
 > **Key Takeaways**
 > - Float your sofa 5-15cm from the wall — it creates depth and makes the room read as more intentional
@@ -57,7 +57,7 @@ The average UK living room at 17.1 square metres ([English Housing Survey](https
 
 Most furniture sold in UK stores is still sized for rooms larger than the average British lounge. A standard three-seater sofa runs 220-230cm long. In a room that's only 330cm wide, that leaves just 50cm of clearance on each side — which is less than most people realise until the sofa is in the room and the doors won't open properly.
 
-[PERSONAL EXPERIENCE] My first flat in Leeds had a living room measuring 3.2m x 4.1m. The previous tenant had somehow fitted a three-seater sofa, two armchairs, a coffee table, and a television unit in there. It looked like a furniture showroom had been dropped from a height. I spent a weekend removing half of it and the room doubled in apparent size without gaining a single centimetre.
+My first flat in Leeds had a living room measuring 3.2m x 4.1m. The previous tenant had somehow fitted a three-seater sofa, two armchairs, a coffee table, and a television unit in there. It looked like a furniture showroom had been dropped from a height. I spent a weekend removing half of it and the room doubled in apparent size without gaining a single centimetre.
 
 **Bold key point:** Measure before you buy. Then measure again. Then measure the door frames, the stairwell, and the turning radius from the hallway.
 
@@ -81,7 +81,7 @@ Floating furniture away from the walls is one of the most counterintuitive and m
 
 Pulling the sofa even 10-15cm away from the wall creates a shadow line behind it. That gap tells the eye there is space behind the furniture, which makes the whole room feel deeper. It also makes the arrangement look more deliberate — like it was placed rather than shoved to the edge.
 
-[UNIQUE INSIGHT] The floating sofa effect works because of how peripheral vision reads space. When furniture meets the wall without a gap, the brain reads the sofa and the wall as one continuous surface. A 10cm gap breaks that visual merge and registers as genuine spatial depth — the room feels bigger even though nothing has moved.
+The floating sofa effect works because of how peripheral vision reads space. When furniture meets the wall without a gap, the brain reads the sofa and the wall as one continuous surface. A 10cm gap breaks that visual merge and registers as genuine spatial depth — the room feels bigger even though nothing has moved.
 
 **Bold key point:** Float the sofa 10-15cm from the wall where the room is wide enough to allow it. Only push to the wall in very narrow rooms under 3m wide.
 
@@ -121,7 +121,7 @@ The chimney breast alcoves in a Victorian or Edwardian terrace are both the room
 
 The most effective approach is to use the alcoves for built-in storage or floating shelving, which keeps the floor clear and gives the room visual structure on the walls flanking the fireplace. Built-in alcove shelving — either bespoke joinery or fitted IKEA BILLY units modified to fit — costs between £200-£800 depending on the approach and adds considerably more to the room's perceived value.
 
-[ORIGINAL DATA] In a Victorian terrace I lived in, both alcoves were 68cm deep — exactly the right depth for a BILLY bookcase (28cm deep) plus a 40cm zone in front for small objects and lamps. Using both alcoves for shelving freed up enough floor space to float the sofa 15cm from the back wall and still leave adequate circulation around it.
+In a Victorian terrace I lived in, both alcoves were 68cm deep — exactly the right depth for a BILLY bookcase (28cm deep) plus a 40cm zone in front for small objects and lamps. Using both alcoves for shelving freed up enough floor space to float the sofa 15cm from the back wall and still leave adequate circulation around it.
 
 What not to do with alcoves: don't fill them with a single oversized armchair (unless the alcove is genuinely deep enough), don't leave them empty and unaddressed, and don't try to fit a television in one alcove while using the other for something different — the room ends up with two competing focal points and no hierarchy.
 
@@ -135,7 +135,7 @@ Sofa sizing is where most small living room layouts fail before they start. A st
 
 For rooms under 12ft (approximately 3.65m) wide, a two-seater sofa in the 180-200cm range is usually the more practical choice. It leaves room for a single armchair, allows the sofa to float away from the wall, and doesn't consume all the visual weight of the room before you've added anything else.
 
-[INTERNAL-LINK: more living room layout and styling advice → /blog/living-room-ideas-uk/]
+[more living room layout and styling advice](/blog/living-room-ideas-uk/)
 
 Sofa depth is as important as sofa length. A sofa that is 95cm deep eats almost a metre of your room's width before you've added circulation space. Look for "compact" or "apartment" sofas — [Dunelm](https://www.dunelm.com) and [Next Home](https://www.next.co.uk) label these clearly, and some run as shallow as 80cm from front to back.
 
@@ -208,7 +208,7 @@ The pieces most worth questioning in a small British lounge:
 - **The bookcase** that could become wall-mounted floating shelves, removing a piece of floor-standing furniture entirely
 - **The side tables** on both ends of the sofa, where one drum table would often do the same job with half the footprint
 
-[PERSONAL EXPERIENCE] In my current flat, I removed an armchair and a floor-standing bookcase from a 14-square-metre living room and replaced both with a single set of floating shelves. The room gained back approximately 1.5 square metres of visible floor space. That's a significant percentage of the room's total area.
+In my current flat, I removed an armchair and a floor-standing bookcase from a 14-square-metre living room and replaced both with a single set of floating shelves. The room gained back approximately 1.5 square metres of visible floor space. That's a significant percentage of the room's total area.
 
 **Bold key point:** Removing one redundant piece of furniture is often more effective than rearranging everything. Evaluate what's there before buying anything new.
 
@@ -262,7 +262,7 @@ Three things that make a small layout feel intentional:
 - **Consistent leg height** — all seating pieces at the same approximate seat height reads as a coordinated arrangement. Mixed heights read as collected gradually without intention
 - **Deliberate negative space** — one clear empty surface, one visible stretch of floor, one wall without anything on it. Small rooms need breathing room as much as any other space
 
-[UNIQUE INSIGHT] The single most effective signal of intentional design in a small room is visible floor space. When the floor beneath and between the furniture is visible, the eye reads the arrangement as chosen rather than forced. Furniture that sits on legs (rather than skirted to the floor) and rugs that define the seating area rather than covering all available floor — both contribute to this effect significantly.
+The single most effective signal of intentional design in a small room is visible floor space. When the floor beneath and between the furniture is visible, the eye reads the arrangement as chosen rather than forced. Furniture that sits on legs (rather than skirted to the floor) and rugs that define the seating area rather than covering all available floor — both contribute to this effect significantly.
 
 **Bold key point:** Aim for at least 30% visible floor in any small living room arrangement. If you can't see the floor, the room has too much furniture or the furniture is too low.
 

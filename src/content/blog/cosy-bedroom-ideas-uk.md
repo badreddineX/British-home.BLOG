@@ -47,7 +47,7 @@ I spent about two years in a bedroom that looked fine in photographs and felt co
 > - Most meaningful cosiness upgrades cost under £50 per element
 > - Deep or warm paint colours outperform stark white in the UK's grey natural light
 
-[INTERNAL-LINK: cosy bedroom decor ideas UK → /blog/cosy-bedroom-decor-ideas-uk/]
+[cosy bedroom decor ideas UK](/blog/cosy-bedroom-decor-ideas-uk/)
 
 ---
 
@@ -55,7 +55,7 @@ I spent about two years in a bedroom that looked fine in photographs and felt co
 
 ## 1. Switch the Overhead Light Off After 7pm
 
-The single cheapest cosiness upgrade costs nothing. Just stop using the overhead light in the evenings. According to research published in the *Journal of Clinical Sleep Medicine*, bright overhead lighting in the two hours before bed suppresses melatonin by up to 71% ([JCSM](https://jcsm.aasm.org), 2022). That's not a small effect. It's the difference between falling asleep in twenty minutes or lying awake for ninety.
+The single cheapest cosiness upgrade costs nothing. Just stop using the overhead light in the evenings. According to research published in the *Journal of Clinical Sleep Medicine*, bright overhead lighting in the two hours before bed suppresses melatonin by up to 71% ((https://jcsm.aasm.org), 2022). That's not a small effect. It's the difference between falling asleep in twenty minutes or lying awake for ninety.
 
 Overhead lights are designed for task lighting — finding things, getting dressed, reading a prescription label. They're not designed for unwinding. The light angle is wrong, the colour temperature is usually too cool, and the coverage is too even. Even rooms are not cosy rooms.
 
@@ -115,7 +115,7 @@ White walls are not neutral in a UK bedroom. In low natural light — which is m
 
 Dulux Autumn Cashmere, Farrow & Ball Elephant's Breath, and Little Greene Dorchester Pink are three of the most reliably cosy bedroom colours on the UK market. For deeper tones, Farrow & Ball Hague Blue and Little Greene Dark Lead create an enveloping quality that works especially well in rooms with good lamp lighting. A tester pot costs £4–£7. Buy three and live with them on the wall for a week before committing.
 
-[INTERNAL-LINK: bedroom decor ideas UK → /blog/bedroom-decor-ideas-uk/]
+[bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/)
 
 **Bold key point:** Don't paint one wall a different colour and leave the rest white. That's an accent wall, not a cosy bedroom. Paint all four walls the same tone and let the colour do the work.
 
@@ -125,7 +125,7 @@ Dulux Autumn Cashmere, Farrow & Ball Elephant's Breath, and Little Greene Dorche
 
 ## 7. Introduce a Weighted Blanket
 
-A weighted blanket does something that a regular throw can't replicate. The deep pressure stimulation from the added weight triggers a parasympathetic nervous response — the same mechanism that makes a firm hug feel calming. A study in the *Journal of Sleep Medicine and Disorders* found that participants using weighted blankets reported 63% better sleep quality and reduced anxiety before sleep ([JSMD](https://jsmd.org), 2021). That's a meaningful number for a blanket.
+A weighted blanket does something that a regular throw can't replicate. The deep pressure stimulation from the added weight triggers a parasympathetic nervous response — the same mechanism that makes a firm hug feel calming. A study in the *Journal of Sleep Medicine and Disorders* found that participants using weighted blankets reported 63% better sleep quality and reduced anxiety before sleep ((https://jsmd.org), 2021). That's a meaningful number for a blanket.
 
 Dunelm sells weighted blankets from £35 for a single/double option at 6.8kg, which is the recommended weight for most adults (roughly 10% of body weight). John Lewis stocks the more premium Silentnight and Mela ranges from £55–£90. The blanket can sit on top of the duvet in winter or replace it entirely in summer. It doesn't need to be decorative — most people fold it at the foot of the bed and pull it up at night.
 
@@ -161,7 +161,7 @@ IKEA's HAUGA upholstered headboard fits standard double and king frames and cost
 
 A bedroom that contains only a bed is a sleeping room. A bedroom that contains a chair is a retreat. The difference between the two is the existence of somewhere to sit that isn't the bed — a small armchair, a curved accent chair, a cushioned window seat, or even a floor cushion beside a lamp. The reading corner signals that this is a room where you might choose to spend time, not just crash into at the end of the day.
 
-[PERSONAL EXPERIENCE] In my own bedroom, the addition of a single curved accent chair in a warm rust boucle changed how I used the room entirely. I started going to bed earlier because the room had become somewhere I wanted to be. That's the effect a reading corner creates — it gives you a reason to be in the room before you're actually tired enough to sleep.
+In my own bedroom, the addition of a single curved accent chair in a warm rust boucle changed how I used the room entirely. I started going to bed earlier because the room had become somewhere I wanted to be. That's the effect a reading corner creates — it gives you a reason to be in the room before you're actually tired enough to sleep.
 
 IKEA's STRANDMON wing chair costs £195 and has become a staple of UK bedroom styling for good reason. It's well-proportioned, comfortable, and comes in a range of warm fabric options. For smaller rooms, a papasan-style floor chair from Amazon UK costs from £45 and takes up almost no floor space when not in use.
 
@@ -173,7 +173,7 @@ IKEA's STRANDMON wing chair costs £195 and has become a staple of UK bedroom st
 
 We touched on this with blackout curtains, but it deserves its own entry because the impact is so consistently underestimated. Hanging curtains at or near ceiling height — rather than just above the window frame — adds a sense of height and grandeur to even the most ordinary UK bedroom. It's one of the oldest tricks in interior design and still one of the most effective.
 
-[UNIQUE INSIGHT] The reason it works psychologically is that vertical lines draw the eye upward, which increases the perceived volume of a room. A 2.4m ceiling feels like a 3m ceiling when the curtains run from cornice to floor. This is especially valuable in older UK properties, where ceilings in upstairs rooms are often lower than in ground-floor reception rooms.
+The reason it works psychologically is that vertical lines draw the eye upward, which increases the perceived volume of a room. A 2.4m ceiling feels like a 3m ceiling when the curtains run from cornice to floor. This is especially valuable in older UK properties, where ceilings in upstairs rooms are often lower than in ground-floor reception rooms.
 
 A ceiling-height curtain rod from Dunelm costs £12–£18 in most lengths. Install it with wall anchors, not just plaster fixings, and it'll hold for years. The curtains themselves should be long enough to just touch the floor — not pool dramatically, not hover two inches above. Touching is the sweet spot.
 
@@ -199,7 +199,7 @@ Dunelm's own-brand cushion range covers most of these textures from £6–£18 p
 
 A bedside table covered in charging cables, empty water glasses, and phone notifications is the opposite of cosy. The bedside table is in your direct eyeline when you wake up — what it contains shapes how the room feels before you've even properly opened your eyes. A styled bedside table with intentional objects makes the room feel cared for in a way that's disproportionate to the effort involved.
 
-[ORIGINAL DATA] The formula that consistently works: one lamp, one small plant or stem vase, one scent element (candle or diffuser), one book or journal, and a tray to contain everything. The tray is the key detail — it groups disparate objects and makes a collection look curated rather than cluttered. Dunelm does round marble-effect trays from £8, which is an absurdly cheap upgrade for the visual impact it creates.
+The formula that consistently works: one lamp, one small plant or stem vase, one scent element (candle or diffuser), one book or journal, and a tray to contain everything. The tray is the key detail — it groups disparate objects and makes a collection look curated rather than cluttered. Dunelm does round marble-effect trays from £8, which is an absurdly cheap upgrade for the visual impact it creates.
 
 Remove the phone charger from the bedside table entirely if you can. Charge the phone in another room or on a cable tucked behind the table. A phone face-up on a bedside table is a visual and psychological intrusion in a room that's supposed to feel calm.
 

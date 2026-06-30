@@ -38,7 +38,7 @@ We neglect the room we're in the most. Here are 12 ideas to fix that.
 
 ---
 
-[INTERNAL-LINK: cosy bedroom ideas → /blog/cosy-bedroom-decor-ideas-uk/]
+[cosy bedroom ideas](/blog/cosy-bedroom-decor-ideas-uk/)
 
 ## 1. Choose Your Colour Before Anything Else
 
@@ -73,11 +73,11 @@ A bed without a headboard looks unfinished. The headboard is the visual anchor o
 
 If budget is tight, a DIY upholstered panel — a piece of MDF cut to size, wrapped in wadding and fabric, and mounted with picture hooks — costs around £40–£60 in materials and takes an afternoon. The result looks considerably more expensive than it is.
 
-[PERSONAL EXPERIENCE] I made one for my spare room using off-cut velvet from a fabric warehouse and it genuinely looks like a boutique hotel headboard. Guests always comment on it.
+I made one for my spare room using off-cut velvet from a fabric warehouse and it genuinely looks like a boutique hotel headboard. Guests always comment on it.
 
 Alternatively, IKEA's upholstered headboards start at ~£85 and are excellent quality for the price. Check your tenancy agreement before wall-mounting anything — a floor-standing headboard avoids that question entirely.
 
-**Bold key point:** IKEA upholstered headboard — from ~£85 at [IKEA](https://www.ikea.com/gb/).
+**Bold key point:** IKEA upholstered headboard — from ~£85 at (https://www.ikea.com/gb/).
 
 ---
 
@@ -109,7 +109,7 @@ In a bedroom, the rug serves a different function from the living room: it's pri
 
 The rug should extend at least 60cm beyond the sides and foot of the bed. In a typical UK double bedroom, a 160x230cm rug works; for a king, go 200x290cm. It should show on both sides and at the foot — not disappear under the bed frame.
 
-[UNIQUE INSIGHT] A soft, deep-pile rug beside the bed achieves something a hard floor never can: it makes mornings feel gentler. This is genuinely restorative and not a small thing for overall wellbeing.
+A soft, deep-pile rug beside the bed achieves something a hard floor never can: it makes mornings feel gentler. This is genuinely restorative and not a small thing for overall wellbeing.
 
 **Bold key point:** Bedroom rug 160x230cm — from ~£45 at Dunelm.
 

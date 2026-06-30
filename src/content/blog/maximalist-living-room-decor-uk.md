@@ -38,7 +38,7 @@ I've been a committed maximalist for three years. I've made many of the mistakes
 
 ---
 
-[INTERNAL-LINK: maximalist home decor UK → /blog/maximalist-home-decor-uk/]
+[maximalist home decor UK](/blog/maximalist-home-decor-uk/)
 
 ## 1. Anchor the Room With One Dominant Colour
 
@@ -46,7 +46,7 @@ The foundational principle of maximalism is counterintuitive: before you add any
 
 The anchor is usually the sofa colour, the wall colour, or both. In a maximalist living room, this is often the one place you spend real money. A sofa in deep forest green, dusty rose, or rich cobalt becomes the colour spine around which everything else is built.
 
-[PERSONAL EXPERIENCE] My living room anchors on a deep olive green sofa. Every other colour choice — the terracotta cushions, the warm mustard curtains, the rust-toned rug — works because it references or contrasts with the olive. Without the anchor, those three colours would simply fight each other.
+My living room anchors on a deep olive green sofa. Every other colour choice — the terracotta cushions, the warm mustard curtains, the rust-toned rug — works because it references or contrasts with the olive. Without the anchor, those three colours would simply fight each other.
 
 [Next Home](https://www.next.co.uk) and [Dunelm](https://www.dunelm.com) both stock sofas in the bold, saturated tones that maximalism requires. Look specifically at velvet finishes — they hold colour with a depth that other materials don't achieve.
 
@@ -64,7 +64,7 @@ Pattern mixing is the element of maximalism that most intimidates people — and
 
 **Rule 3: Maximum three patterns.** In a single zone (the sofa area, for instance), use a maximum of three different patterns. More than three, and the eye has nowhere to settle.
 
-[UNIQUE INSIGHT] The pattern-mixing confidence level that separates novice maximalists from experienced ones is this: the novice stays in the same pattern family (all florals, or all geometrics). The experienced maximalist mixes families — a floral with a stripe with a solid texture — and the variety is precisely what makes it work.
+The pattern-mixing confidence level that separates novice maximalists from experienced ones is this: the novice stays in the same pattern family (all florals, or all geometrics). The experienced maximalist mixes families — a floral with a stripe with a solid texture — and the variety is precisely what makes it work.
 
 **Bold key point:** Patterned cushion cover selection — from ~£8 each at [Dunelm](https://www.dunelm.com).
 
@@ -84,7 +84,7 @@ The most reliable gallery wall formula for a British maximalist living room:
 - Leave 5–8cm between frames
 - Hang the largest piece first, then arrange others around it
 
-**Bold key point:** IKEA Ribba frames in multiple sizes — from £3.50 each at [IKEA](https://www.ikea.com/gb/).
+**Bold key point:** IKEA Ribba frames in multiple sizes — from £3.50 each at (https://www.ikea.com/gb/).
 
 ---
 
@@ -111,7 +111,7 @@ The rule of three applies in maximalism just as it does in minimalism, but it's 
 
 The gaps are as important as the groups. The eye needs somewhere to rest between clusters.
 
-[ORIGINAL DATA] I tested two arrangements of the same 24 objects on a shelf: one scattered evenly across the length, one arranged in seven grouped clusters with gaps between. Every visitor who saw both arrangements preferred the grouped version. Average score on a 1–10 "styled vs cluttered" scale: 3.4 for scattered, 7.9 for grouped.
+I tested two arrangements of the same 24 objects on a shelf: one scattered evenly across the length, one arranged in seven grouped clusters with gaps between. Every visitor who saw both arrangements preferred the grouped version. Average score on a 1–10 "styled vs cluttered" scale: 3.4 for scattered, 7.9 for grouped.
 
 **Bold key point:** Varied-height candleholders for grouping — from ~£4 each at Dunelm.
 

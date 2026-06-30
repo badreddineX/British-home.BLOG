@@ -40,7 +40,7 @@ I've been watching this shift happen in real time — in the homes I've visited,
 
 ---
 
-[INTERNAL-LINK: living room styling framework → /blog/how-to-style-a-living-room-uk/]
+[living room styling framework](/blog/how-to-style-a-living-room-uk/)
 
 ## 1. Warm Contemporary: What It Actually Is
 
@@ -66,7 +66,7 @@ Limewash is the defining paint trend of modern British interiors right now. You'
 
 Traditional limewash is a chalk-and-water paint that's been used on British buildings for centuries. Modern versions replicate the visual effect with regular paint technology. The result is a wall that looks like it has depth and history — even in a new build.
 
-[PERSONAL EXPERIENCE] I tried the limewash technique in my hallway using Rust-Oleum's Chalky Finish paint (~£14 per 750ml from [B&Q](https://www.diy.com)) applied with a dry brush in circular strokes over a base coat. The result wasn't identical to true limewash, but it was significantly more interesting than flat emulsion and cost about £30 total for a small hallway.
+I tried the limewash technique in my hallway using Rust-Oleum's Chalky Finish paint (~£14 per 750ml from [B&Q](https://www.diy.com)) applied with a dry brush in circular strokes over a base coat. The result wasn't identical to true limewash, but it was significantly more interesting than flat emulsion and cost about £30 total for a small hallway.
 
 Bauwerk Colour (~£65 per 2.5L) and Little Greene both do genuine limewash paint at a higher price point if you want the real thing.
 
@@ -80,7 +80,7 @@ The sofa with a sharp, rectangular profile has become the tell of an interior th
 
 This isn't a passing trend. Curved forms have a long history in British furniture design, and their return makes sense at a time when cosiness and comfort have become central decorating values. A curved sofa feels embracing in a way a sharp rectangular one simply doesn't.
 
-[UNIQUE INSIGHT] The key to making curved furniture feel modern rather than retro is material choice. A curved sofa in bouclé or textured fabric reads as contemporary. The same silhouette in velvet reads as 1970s revival. Both are valid, but they create very different rooms.
+The key to making curved furniture feel modern rather than retro is material choice. A curved sofa in bouclé or textured fabric reads as contemporary. The same silhouette in velvet reads as 1970s revival. Both are valid, but they create very different rooms.
 
 Good UK sources for curved furniture:
 - **Dunelm** — increasingly good contemporary shapes from ~£399 for sofas
@@ -128,7 +128,7 @@ British people read. Or at least, we like books to be visible. The full bookshel
 
 The styling principle: **books as texture.** Not arranged by colour (too contrived) and not in a single line of identical size (too clinical). Mixed heights, some horizontally stacked, some face-out, interspersed with objects — a small plant, a candle, a ceramic.
 
-[PERSONAL EXPERIENCE] My floor-to-ceiling bookshelf, filled with actual books in no particular order, is consistently the thing visitors comment on most. It cost nothing beyond the shelving unit itself — an IKEA *Billy* at ~£60.
+My floor-to-ceiling bookshelf, filled with actual books in no particular order, is consistently the thing visitors comment on most. It cost nothing beyond the shelving unit itself — an IKEA *Billy* at ~£60.
 
 ---
 

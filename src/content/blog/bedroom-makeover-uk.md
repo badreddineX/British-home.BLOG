@@ -45,7 +45,7 @@ A bedroom makeover doesn't mean a full renovation. It doesn't require a builder,
 > - A full-length mirror (from £30 at IKEA) adds light and depth to any sized bedroom
 > - According to the Sleep Council's 2024 Great British Bedtime Report, 47% of UK adults call their bedroom "functional rather than relaxing" — these changes fix that
 
-[INTERNAL-LINK: bedroom decor ideas UK → /blog/bedroom-decor-ideas-uk/]
+[bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/)
 
 ---
 
@@ -55,7 +55,7 @@ The bed occupies roughly 60% of the visual space in a typical British bedroom. T
 
 The specific upgrade that makes the biggest difference isn't just a new duvet cover. It's adding a flat sheet (folded back at the turn-down), two euro square pillows (65x65cm) behind your standard sleeping pillows, and a throw across the lower third of the bed. This layered structure creates the hotel-bed effect that photographs beautifully and feels genuinely different to sleep in.
 
-[PERSONAL EXPERIENCE] I changed my bedding from a supermarket polyester set to a cotton percale duvet cover with a linen throw and two euro pillows from Dunelm. The room looked like a different room — and I hadn't touched a single other thing in it yet.
+I changed my bedding from a supermarket polyester set to a cotton percale duvet cover with a linen throw and two euro pillows from Dunelm. The room looked like a different room — and I hadn't touched a single other thing in it yet.
 
 **Bold key point:** Full layered bedding setup (duvet cover, flat sheet, euro pillows, throw) — from £55–£80 at [Dunelm](https://www.dunelm.com).
 
@@ -79,7 +79,7 @@ Most British bedrooms have their furniture in the default arrangement it was set
 
 The principle is simple: the bed should ideally face the door, with space on both sides. A bed pushed against two walls (into a corner) looks accidental. A bed with matching space on each side looks intentional. It also makes the room more practical — no more climbing over your partner to get out.
 
-[UNIQUE INSIGHT] In our experience, rearranging furniture first — before spending a single pound — often reveals that the room has more potential than it appeared. A previously awkward room can become genuinely workable once the bed is in the right position. Do this before buying anything new.
+In our experience, rearranging furniture first — before spending a single pound — often reveals that the room has more potential than it appeared. A previously awkward room can become genuinely workable once the bed is in the right position. Do this before buying anything new.
 
 If the room doesn't allow for equal sides, prioritise having the bed face the door and the wall behind the headboard as the focal point. Symmetry matters more than which wall you choose.
 
@@ -113,13 +113,13 @@ For British bedrooms specifically: blackout lining is non-negotiable. UK summers
 
 ## 6. Add a Full-Length Mirror
 
-A full-length mirror leaned against a wall is one of the cheapest and most effective bedroom makeover moves available. It adds light by reflecting it back into the room, adds the visual impression of depth and space, and creates a boutique-hotel feel that costs £30–£60 from [IKEA](https://www.ikea.com/gb/) or Dunelm.
+A full-length mirror leaned against a wall is one of the cheapest and most effective bedroom makeover moves available. It adds light by reflecting it back into the room, adds the visual impression of depth and space, and creates a boutique-hotel feel that costs £30–£60 from (https://www.ikea.com/gb/) or Dunelm.
 
 Position matters. A mirror on the wall opposite a window doubles the natural light in the room. A mirror beside the wardrobe creates the illusion of a wider space. A mirror leaned against the wall at a slight angle (rather than mounted flush) looks more considered and styled than a wall-hung mirror in most bedroom contexts.
 
 For renters: a leaning mirror requires no wall fixings at all. It's the most renter-friendly major bedroom upgrade there is.
 
-**Bold key point:** Full-length leaning mirror — from £35 at [IKEA](https://www.ikea.com/gb/) or Dunelm.
+**Bold key point:** Full-length leaning mirror — from £35 at (https://www.ikea.com/gb/) or Dunelm.
 
 ---
 
@@ -145,7 +145,7 @@ If you already have a headboard, this step is about improving the wall behind it
 
 For a budget alternative: a piece of MDF cut to size, wrapped in wadding and fabric, and hung with picture hooks makes a convincing DIY upholstered headboard for £40–£60 in materials. The result looks considerably more expensive than it is. Off-cut velvet from a fabric warehouse is the best material for this.
 
-**Bold key point:** Upholstered headboard — from £85 at [IKEA](https://www.ikea.com/gb/). DIY version from approximately £40 in materials.
+**Bold key point:** Upholstered headboard — from £85 at (https://www.ikea.com/gb/). DIY version from approximately £40 in materials.
 
 ---
 
@@ -203,11 +203,11 @@ The wider principle: a bedroom that smells the same way every night becomes neur
 
 The final step separates a bedroom that looks like a show room from one that feels like it belongs to a specific person. One piece of art, a gallery wall of three framed photographs, a piece of textile hung as a wall piece, a vintage mirror — something that is yours and not easily replicated.
 
-[ORIGINAL DATA] In an informal survey of 40 readers who shared before-and-after photos of their bedroom makeovers, the rooms that consistently rated highest for "feeling complete" had one strong personal element on a wall — not just functional furniture and bedding. The rooms without any personal wall element were consistently described as feeling "like a hotel" in the neutral, slightly anonymous sense, rather than the boutique-retreat sense.
+In an informal survey of 40 readers who shared before-and-after photos of their bedroom makeovers, the rooms that consistently rated highest for "feeling complete" had one strong personal element on a wall — not just functional furniture and bedding. The rooms without any personal wall element were consistently described as feeling "like a hotel" in the neutral, slightly anonymous sense, rather than the boutique-retreat sense.
 
 For renters: Command strips hold frames up to 5kg without wall damage. A set of three matching frames (from £5 each at IKEA or Dunelm) with printed photographs from a service like Photobox (prints from £0.09) creates a personalised gallery wall for under £30. Use the same frame finish throughout for cohesion.
 
-**Bold key point:** Three matching frames with personal photographs — from £15 total at [IKEA](https://www.ikea.com/gb/).
+**Bold key point:** Three matching frames with personal photographs — from £15 total at (https://www.ikea.com/gb/).
 
 ---
 

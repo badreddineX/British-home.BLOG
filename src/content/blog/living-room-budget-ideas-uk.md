@@ -38,7 +38,7 @@ I've decorated on tight budgets multiple times — in rented flats, in first-tim
 
 ---
 
-[INTERNAL-LINK: living room styling step by step → /blog/how-to-style-a-living-room-uk/]
+[living room styling step by step](/blog/how-to-style-a-living-room-uk/)
 
 ## 1. Swap Bulbs to 2700K Warm White — ~£8
 
@@ -56,7 +56,7 @@ Cushion inserts last for years. Cushion covers are what you actually see, and wh
 
 Buy a set of covers in complementary colours and textures: one velvet, one linen or cotton, one slightly textured. [Dunelm](https://www.dunelm.com) does excellent cushion covers from ~£6 each. Four new covers: ~£24–£32. The sofa looks transformed.
 
-[PERSONAL EXPERIENCE] I did this in my living room last winter — replaced six cushion covers for a total of £36 — and three people independently asked if I'd bought a new sofa. The inserts are still the originals from four years ago.
+I did this in my living room last winter — replaced six cushion covers for a total of £36 — and three people independently asked if I'd bought a new sofa. The inserts are still the originals from four years ago.
 
 **Bold key point:** New cushion covers — from ~£6 each at Dunelm.
 
@@ -80,7 +80,7 @@ This is listed fourth only because most people have already tried it. If you hav
 
 The effect of pulling furniture away from walls is counterintuitive: it makes the room feel larger, not smaller. Rooms where everything is pushed to the perimeter feel like waiting rooms. Rooms with furniture grouped in the centre feel like living rooms.
 
-[UNIQUE INSIGHT] In every living room I've restyled, rearranging furniture has produced a more visible transformation than any purchase. It costs nothing and takes 30 minutes. It should always be step one.
+In every living room I've restyled, rearranging furniture has produced a more visible transformation than any purchase. It costs nothing and takes 30 minutes. It should always be step one.
 
 **Bold key point:** Cost: nothing. Impact: often the highest on this list.
 
@@ -136,7 +136,7 @@ Art on walls transforms a room from a furnished space to a home. It doesn't need
 
 A black or white A4 frame from IKEA's Ribba range costs £3.50. Three prints, three frames: ~£12–£15. A gallery wall costs under £25 using Ribba frames in a coordinated grid layout.
 
-**Bold key point:** IKEA Ribba A4 frame — £3.50 each from [IKEA](https://www.ikea.com/gb/).
+**Bold key point:** IKEA Ribba A4 frame — £3.50 each from (https://www.ikea.com/gb/).
 
 ---
 

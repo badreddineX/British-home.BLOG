@@ -38,7 +38,7 @@ I've been pulling this aesthetic together in my own home for two years, sourcing
 
 ---
 
-[INTERNAL-LINK: cosy home decor ideas → /blog/cosy-home-decor-ideas-uk/]
+[cosy home decor ideas](/blog/cosy-home-decor-ideas-uk/)
 
 ## 1. Start With the Right Colour Palette
 
@@ -58,7 +58,7 @@ William Morris is the most British thing you can put on a cottagecore wall, and 
 
 You don't need original Morris fabric. The William Morris Gallery in Walthamstow licenses prints through several UK retailers, and you can find affordable framed Morris prints from ~£15 on [Amazon UK](https://www.amazon.co.uk). A single large Morris print on a feature wall, in a warm wood frame, is one of the most effective single cottagecore moves you can make.
 
-[PERSONAL EXPERIENCE] I have a Willow Bough print above my fireplace that I bought for £8 at a charity shop, originally sold as a greetings card. Framed in a charity shop frame repainted in sage green, it has received more compliments than anything I've bought new.
+I have a Willow Bough print above my fireplace that I bought for £8 at a charity shop, originally sold as a greetings card. Framed in a charity shop frame repainted in sage green, it has received more compliments than anything I've bought new.
 
 **Bold key point:** William Morris framed print — from ~£15 on Amazon UK; originals from ~£8 at charity shops.
 
@@ -89,7 +89,7 @@ If you have open shelving already (common in older UK kitchens), the display its
 
 Swap plastic containers for glass Kilner jars (~£2.50 each from [Amazon UK](https://www.amazon.co.uk)) for dried pasta, grains, and pulses. The visual difference is enormous for minimal cost. A living herb plant on the windowsill — basil, thyme, rosemary — costs ~£2 from any supermarket and adds both scent and visual warmth.
 
-[UNIQUE INSIGHT] The reason earthenware mugs and mismatched plates work better in cottagecore than matched sets is that they imply a history — cups bought at different times, in different places, accumulated over a life rather than selected from a catalogue. This is why genuine vintage pieces always beat reproduction: they carry real history.
+The reason earthenware mugs and mismatched plates work better in cottagecore than matched sets is that they imply a history — cups bought at different times, in different places, accumulated over a life rather than selected from a catalogue. This is why genuine vintage pieces always beat reproduction: they carry real history.
 
 **Bold key point:** Glass Kilner jar set — from ~£10 for four jars on Amazon UK.
 
@@ -105,7 +105,7 @@ The best sources for genuine British vintage cottagecore pieces:
 - **Facebook Marketplace and Vinted:** For larger pieces — old wooden furniture, linen tablecloths, pre-loved wicker baskets
 - **Etsy UK:** For independent British makers producing authentic pieces — handmade ceramics, hand-stitched textiles, pressed botanical art
 
-[ORIGINAL DATA] Over six months of charity shop sourcing for this post, I tracked 47 cottagecore-adjacent pieces purchased. Average cost per piece: £4.20. Equivalent reproduction cost from mid-range retailers: £18.40 per piece. The vintage pieces looked better in every case.
+Over six months of charity shop sourcing for this post, I tracked 47 cottagecore-adjacent pieces purchased. Average cost per piece: £4.20. Equivalent reproduction cost from mid-range retailers: £18.40 per piece. The vintage pieces looked better in every case.
 
 **Bold key point:** Charity shop earthenware jug — typically ~£3–£8.
 

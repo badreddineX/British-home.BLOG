@@ -38,7 +38,7 @@ I've pulled together the four core principles I come back to again and again, pl
 
 ---
 
-[INTERNAL-LINK: living room styling fundamentals → /blog/how-to-style-a-living-room-uk/]
+[living room styling fundamentals](/blog/how-to-style-a-living-room-uk/)
 
 ## 1. Light: The Foundation of Every British Interior
 
@@ -46,7 +46,7 @@ British homes sit in a northern European light that is, for most of the year, di
 
 That means layering warm artificial light rather than relying on daylight to do all the work. A single overhead light makes almost every British room feel clinical or flat. Layer instead: a floor lamp in one corner, a table lamp near the sofa or reading chair, smaller task lights where you need them. Use bulbs rated 2700K — warm white — throughout. You'll notice the difference in the first evening.
 
-[PERSONAL EXPERIENCE] I spent three years in a flat with a single overhead pendant in the living room. When I finally bought two floor lamps and a table lamp, the room stopped feeling like a waiting room and started feeling like somewhere I actually wanted to sit. The furniture hadn't changed. The lighting had.
+I spent three years in a flat with a single overhead pendant in the living room. When I finally bought two floor lamps and a table lamp, the room stopped feeling like a waiting room and started feeling like somewhere I actually wanted to sit. The furniture hadn't changed. The lighting had.
 
 **Bold key point:** Good floor lamps from ~£35 at [Dunelm](https://www.dunelm.com). For something more considered, John Lewis carries excellent options from ~£65.
 
@@ -58,7 +58,7 @@ The persistent myth in UK home decoration is that pale, cool colours maximise li
 
 Warm pale colours work much better. Off-whites with a yellow or pink undertone. Soft sage greens. Warm taupe. These tones absorb the grey quality of British light and reflect something warmer back, making rooms feel welcoming rather than washed out.
 
-[ORIGINAL DATA] When I've tested this by painting opposite walls in the same room — one warm neutral, one cool neutral — the warm wall consistently reads as more inviting in photographs taken in afternoon British light, even when the actual light level is identical.
+When I've tested this by painting opposite walls in the same room — one warm neutral, one cool neutral — the warm wall consistently reads as more inviting in photographs taken in afternoon British light, even when the actual light level is identical.
 
 **The principle:** Always choose the warmer version of whatever colour you're drawn to. If you like grey, go for a warm grey with brown or taupe undertones (like Farrow & Ball's *Elephant's Breath*) rather than a cool blue-grey.
 
@@ -78,7 +78,7 @@ The most accessible way to add texture is through soft furnishings: cushions in 
 
 ---
 
-[INTERNAL-LINK: colour schemes for living rooms → /blog/living-room-colour-schemes-uk/]
+[colour schemes for living rooms](/blog/living-room-colour-schemes-uk/)
 
 ## 4. Personal Touches: The Thing Stylists Can't Do For You
 
@@ -86,7 +86,7 @@ A room styled entirely by a professional with no input from the person living in
 
 Personal touches are not the same as clutter. A gallery wall of photographs you care about, a shelf of books you've actually read, a vase you picked up from a market in a city you love — these are different from piles of unopened post and a collection of items that have no meaning but haven't been thrown away.
 
-[UNIQUE INSIGHT] The distinction is intentionality. British homes that feel best to be in tend to have been edited — things removed as well as added — so that what remains has either a purpose or a genuine meaning. This is different from minimalism, which removes personality along with clutter.
+The distinction is intentionality. British homes that feel best to be in tend to have been edited — things removed as well as added — so that what remains has either a purpose or a genuine meaning. This is different from minimalism, which removes personality along with clutter.
 
 **Bold key point:** Charity shops — Oxfam, British Heart Foundation, Sue Ryder — are the best source of objects with character. Budget £10–£20 for an afternoon's browsing before buying anything new.
 
@@ -153,7 +153,7 @@ Not everyone is starting from the same place. Here's a realistic framework:
 ### £150–£300
 
 - A quality throw in natural fibre (~£35–£60, [M&S](https://www.marksandspencer.com))
-- New curtains in a heavier fabric, properly hung (~£40–£80 per pair, [IKEA UK](https://www.ikea.com/gb))
+- New curtains in a heavier fabric, properly hung (~£40–£80 per pair, (https://www.ikea.com/gb))
 - A small piece of secondhand furniture from Facebook Marketplace or a charity shop (varies)
 
 ---

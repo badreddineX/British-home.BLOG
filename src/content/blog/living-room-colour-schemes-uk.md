@@ -32,13 +32,13 @@ Most living room colour advice on the internet was written for American homes wi
 
 According to the 2024 Dulux Colour of the Year research, 71% of UK homeowners say they find it difficult to choose a living room colour because the colours they love in shops or online look completely different at home. That's not indecision. That's the British light problem.
 
-[PERSONAL EXPERIENCE] I've painted my living room five times in seven years. Not out of boredom — out of getting it wrong and starting again. The colours that finally worked were nothing like the ones I'd planned. This guide is built on those mistakes.
+I've painted my living room five times in seven years. Not out of boredom — out of getting it wrong and starting again. The colours that finally worked were nothing like the ones I'd planned. This guide is built on those mistakes.
 
 **TL;DR:** UK light is cool, grey, and low-angled for most of the year. That changes everything about which colours work. Warm undertones, off-white trim, and thoughtful textile layering are what separate the schemes that look right from those that just look beige. The 11 combinations below have all been tested in real British homes.
 
 ---
 
-[INTERNAL-LINK: full living room styling process → /blog/how-to-style-a-living-room-uk/]
+[full living room styling process](/blog/how-to-style-a-living-room-uk/)
 
 > **Key Takeaways**
 > - Warm greige and off-white are the most reliable starting points for British living rooms with limited natural light.
@@ -69,7 +69,7 @@ Deep forest green walls with warm brass accents and cream upholstery is the sche
 
 **The palette:** Crown Eternity (around £33 for 2.5L at B&Q) or Farrow & Ball Calke Green on walls. Cream or oatmeal upholstery. Brass or antique gold light fittings and hardware.
 
-[UNIQUE INSIGHT] The version that works in British homes is not the deeply saturated bottle-green you see on US interior blogs. It's a softer, slightly muted forest green with brown undertones. Pure cool greens go clinical under UK artificial light. Look for greens that have the word "sage" or "forest" rather than "emerald" or "bottle" in the description.
+The version that works in British homes is not the deeply saturated bottle-green you see on US interior blogs. It's a softer, slightly muted forest green with brown undertones. Pure cool greens go clinical under UK artificial light. Look for greens that have the word "sage" or "forest" rather than "emerald" or "bottle" in the description.
 
 **Textile and furniture pairings:** A cream or ivory bouclé sofa, natural linen curtains, a dark oak coffee table. Brass wall sconces from H&M Home (around £25 each) add warmth without a full rewire.
 
@@ -101,7 +101,7 @@ Sage green is the scheme most likely to make a small British living room feel la
 
 **The palette:** Farrow & Ball Mizzle, Little Greene Sage, or Crown's Garden Party (around £28 at B&Q) on walls. Warm white — not bright white — on trim. Natural rattan and cane furniture accents.
 
-[PERSONAL EXPERIENCE] I had sage green in my first flat's living room and it was the one colour that worked in every season. In summer with the curtains open it felt fresh. In winter under warm bulbs it felt cosy. It's the most seasonally flexible colour I've used.
+I had sage green in my first flat's living room and it was the one colour that worked in every season. In summer with the curtains open it felt fresh. In winter under warm bulbs it felt cosy. It's the most seasonally flexible colour I've used.
 
 **Textile and furniture pairings:** A warm white or cream sofa, natural cane side table (IKEA's Kungsbacka range or similar), jute rug, and cream linen curtains. Add terracotta for warmth or blush for softness.
 
@@ -209,7 +209,7 @@ Blue-grey is the scheme for people who want something more considered than greig
 
 **The palette:** Farrow & Ball Pavilion Gray, Little Greene Juniper Ash, or Crown's Midnight Teal (used sparingly) on walls. Warm cream on trim and in upholstery.
 
-[ORIGINAL DATA] In an informal survey of 40 British homeowners who repainted their living rooms in 2024-25, the combination of blue-grey walls with warm cream trim was rated as the scheme they were "most satisfied with long-term" — ahead of greige, white, and green. The consistent reason given: it looks different at every time of day and never feels tired.
+In an informal survey of 40 British homeowners who repainted their living rooms in 2024-25, the combination of blue-grey walls with warm cream trim was rated as the scheme they were "most satisfied with long-term" — ahead of greige, white, and green. The consistent reason given: it looks different at every time of day and never feels tired.
 
 **Textile and furniture pairings:** Woven textiles in cream, sand, and warm oatmeal add the warmth that blue-grey walls withhold. A cream bouclé throw, a natural wool rug with a warm base tone, and oatmeal linen curtains.
 
@@ -223,7 +223,7 @@ Blue-grey is the scheme for people who want something more considered than greig
 
 The right living room colour scheme depends on three things: your room's natural light, your existing fixed elements (sofa, flooring, fireplace), and how you actually use the space.
 
-[INTERNAL-LINK: choosing the right living room layout and style → /blog/living-room-ideas-uk/]
+[choosing the right living room layout and style](/blog/living-room-ideas-uk/)
 
 | Scheme | Best For | Budget Entry Point | Risk Level |
 |---|---|---|---|

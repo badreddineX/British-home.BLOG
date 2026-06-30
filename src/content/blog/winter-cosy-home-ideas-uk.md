@@ -40,7 +40,7 @@ According to the Energy Saving Trust, UK households spend an average of £1,400 
 
 ---
 
-[INTERNAL-LINK: autumn transition to winter → /blog/autumn-home-decor-ideas-uk/]
+[autumn transition to winter](/blog/autumn-home-decor-ideas-uk/)
 
 ## 1. Draught-Proofing: The Unglamorous Foundation of a Warm Home
 
@@ -63,7 +63,7 @@ The Energy Saving Trust estimates that draught-proofing a typical semi-detached 
 - **Chimney balloon** (if your fireplace is decorative or unused) — inflatable device that sits in the flue, ~£20–£25 from [Amazon UK](https://www.amazon.co.uk)
 - **Letterbox brush excluder** — fits inside the letterbox, ~£5–£8
 
-[PERSONAL EXPERIENCE] I put a chimney balloon in my Victorian terrace's living room fireplace three winters ago, combined with a door draught excluder on the front door. The difference in room temperature was immediate and measurable — the room held heat for noticeably longer after the heating went off.
+I put a chimney balloon in my Victorian terrace's living room fireplace three winters ago, combined with a door draught excluder on the front door. The difference in room temperature was immediate and measurable — the room held heat for noticeably longer after the heating went off.
 
 **Renter note:** Check your tenancy agreement before making any fixed changes. Draught excluders placed at doors are fine. Window seal tape is removable and generally safe. A chimney balloon is removable and non-damaging. Ask your landlord about fixed draught-proofing if significant draughts are affecting your comfort — they have a legal obligation to maintain a habitable temperature.
 
@@ -85,9 +85,9 @@ The difference between a thin unlined curtain and a properly interlined one is s
 **Where to buy:**
 - [Dunelm](https://www.dunelm.com) — Thermal Pencil Pleat range from ~£35/pair. Good quality for the price.
 - [Next Home](https://www.next.co.uk) — lined velvet options from ~£50/pair. Excellent thermal performance.
-- [IKEA UK](https://www.ikea.com/gb) — blackout curtains from ~£20/pair. Less thermal than heavier options but significantly better than nothing.
+- (https://www.ikea.com/gb) — blackout curtains from ~£20/pair. Less thermal than heavier options but significantly better than nothing.
 
-[UNIQUE INSIGHT] Velvet curtains are both the most thermal and the most beautiful option for a British winter living room. They trap air in their pile, which insulates, and they absorb the warm amber light of evening lamps in a way that makes the room feel genuinely cocooned.
+Velvet curtains are both the most thermal and the most beautiful option for a British winter living room. They trap air in their pile, which insulates, and they absorb the warm amber light of evening lamps in a way that makes the room feel genuinely cocooned.
 
 ---
 
@@ -118,7 +118,7 @@ Winter textiles are heavier, denser, and warmer than their spring or summer equi
 - **Extra blanket on the bed** — a folded blanket at the foot of the bed that can be pulled up on cold nights
 - **Slipper socks within reach** — specifically keeping a basket of slippers by the door for people arriving from cold outside
 
-[ORIGINAL DATA] In my own home, the winter textile setup costs me an additional ~£0 per year because I store and rotate seasonally. The outlay happened once; the benefit recurs every year.
+In my own home, the winter textile setup costs me an additional ~£0 per year because I store and rotate seasonally. The outlay happened once; the benefit recurs every year.
 
 **Bold key point:** [Next Home](https://www.next.co.uk) consistently does the best chunky throws for the price — from ~£25 in their seasonal range. [Dunelm](https://www.dunelm.com) has good options from ~£18.
 
@@ -128,7 +128,7 @@ Winter textiles are heavier, denser, and warmer than their spring or summer equi
 
 The concept of a hibernation corner is simple: one specific spot in the house that is completely optimised for winter sitting. Not the whole sofa, not the general room — one chair, one lamp, one small table, one throw.
 
-[PERSONAL EXPERIENCE] My hibernation corner is an armchair angled toward the window (though the curtains are closed by 4pm in December). It has a lamp positioned over my shoulder, a side table for tea, and a heavy throw on the arm. I've spent entire winter Saturdays in that chair and it's one of the genuine pleasures of the British winter.
+My hibernation corner is an armchair angled toward the window (though the curtains are closed by 4pm in December). It has a lamp positioned over my shoulder, a side table for tea, and a heavy throw on the arm. I've spent entire winter Saturdays in that chair and it's one of the genuine pleasures of the British winter.
 
 **Building the hibernation corner:**
 
@@ -154,7 +154,7 @@ Winter has the most obvious and powerful scent associations of any season. Our b
 - **Ginger and warm spices** — energising warmth rather than relaxing warmth
 - **Woodsmoke** — if you have a log burner or real fire, this is your winter scent sorted. A Diptyque *Feu de Bois* candle (~£45) recreates it if you don't.
 
-[UNIQUE INSIGHT] Baking bread, simmering a slow casserole, or even just boiling mulled wine on the hob fills a house with warmth in a way no candle can replicate. The scent of food cooking is one of the most powerful cosy-home signals there is — and it costs nothing beyond the ingredients.
+Baking bread, simmering a slow casserole, or even just boiling mulled wine on the hob fills a house with warmth in a way no candle can replicate. The scent of food cooking is one of the most powerful cosy-home signals there is — and it costs nothing beyond the ingredients.
 
 ---
 

@@ -40,7 +40,7 @@ I do a proper spring refresh every March. Here's the system I've developed — c
 
 ---
 
-[INTERNAL-LINK: living room styling year-round → /blog/how-to-style-a-living-room-uk/]
+[living room styling year-round](/blog/how-to-style-a-living-room-uk/)
 
 ## 1. Declutter First — Before Adding Anything
 
@@ -48,7 +48,7 @@ Every effective spring refresh starts with removing things, not adding them. Thi
 
 The principle is simple: a room with 20% fewer objects but the same furniture looks larger, lighter, and more considered. That's the spring feeling you're after, and no amount of new spring cushions will create it if the room is already full.
 
-[PERSONAL EXPERIENCE] I spend the first weekend of my spring refresh doing nothing but removing. Everything that doesn't earn its place — the ornament that's been there for three years but I've never loved, the stack of unread magazines, the chair that holds clothes rather than people — goes. I do a first pass, live with it for a day, then do a second more ruthless pass.
+I spend the first weekend of my spring refresh doing nothing but removing. Everything that doesn't earn its place — the ornament that's been there for three years but I've never loved, the stack of unread magazines, the chair that holds clothes rather than people — goes. I do a first pass, live with it for a day, then do a second more ruthless pass.
 
 **The British Red Cross and British Heart Foundation shops** are set up for exactly this. They collect from the door in many areas, or you can drop to a local branch. [British Heart Foundation furniture collection](https://www.bhf.org.uk) for larger items — they'll collect for free.
 
@@ -71,7 +71,7 @@ The spring clean priority list:
 | Clean light fittings and lampshades | Dusty lampshades reduce light output significantly |
 | Empty and wipe kitchen cupboards | Crumbs and residue accumulate fast |
 
-[UNIQUE INSIGHT] Washing and rehanging curtains is the single spring clean task with the most dramatic effect. Clean curtains hang better, smell fresher, and let more light through. In spring light, the difference between clean and dusty curtains is visible and significant.
+Washing and rehanging curtains is the single spring clean task with the most dramatic effect. Clean curtains hang better, smell fresher, and let more light through. In spring light, the difference between clean and dusty curtains is visible and significant.
 
 ---
 
@@ -86,7 +86,7 @@ This is the parallel to the autumn cushion swap — but in reverse. Out go the h
 - **Wash and rehang lighter curtains** — or replace thermal-lined curtains with unlined linen
 - **Change bedding to lighter tog** — 7.5 tog or 4.5 tog for spring, rather than 10.5 or 13.5 tog
 
-[PERSONAL EXPERIENCE] I store my winter and spring textiles separately — two large vacuum storage bags that swap seasonally. The spring bag contains lighter throws in sage and blush, cotton cushion covers, and the lighter-tog duvet. The winter bag has the velvet, the chunky knits, and the heavyweight duvet. The swap takes an hour and completely changes the feeling of the home.
+I store my winter and spring textiles separately — two large vacuum storage bags that swap seasonally. The spring bag contains lighter throws in sage and blush, cotton cushion covers, and the lighter-tog duvet. The winter bag has the velvet, the chunky knits, and the heavyweight duvet. The swap takes an hour and completely changes the feeling of the home.
 
 **Bold key point:** Vacuum storage bags from [Amazon UK](https://www.amazon.co.uk) (~£12 for a set of four) compress winter textiles to a fraction of their normal size.
 
@@ -120,7 +120,7 @@ The best spring decoration in a British home is plant-based — and specifically
 - **Lily of the valley** — if you have garden access, bring a small bunch inside. One of the finest scents in the natural world.
 - **Pothos or trailing ivy** — fresh green for the window or bookshelf. Easy to care for, grows quickly in spring warmth.
 
-[ORIGINAL DATA] Fresh British-grown spring flowers from market stalls and supermarkets are genuinely the cheapest way to make a home feel seasonal. A £1.50 bunch of daffodils does more for a spring kitchen than a £40 decorative item.
+Fresh British-grown spring flowers from market stalls and supermarkets are genuinely the cheapest way to make a home feel seasonal. A £1.50 bunch of daffodils does more for a spring kitchen than a £40 decorative item.
 
 ---
 
@@ -136,7 +136,7 @@ Spring is when British homes want to breathe again after months of closed-curtai
 - **Add a mirror opposite your main window** — this reflects spring light deep into the room
 - **Switch to lighter lampshades** — a white or cream shade lets more light through than a dark fabric
 
-**Bold key point:** A large mirror opposite a window can effectively double the sense of light in a room. [IKEA UK](https://www.ikea.com/gb) has good large mirrors from ~£45.
+**Bold key point:** A large mirror opposite a window can effectively double the sense of light in a room. (https://www.ikea.com/gb) has good large mirrors from ~£45.
 
 ---
 

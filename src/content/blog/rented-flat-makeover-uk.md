@@ -38,7 +38,7 @@ I've rented for nine years across six different properties in the UK. Three of t
 
 ---
 
-[INTERNAL-LINK: rented home decor ideas UK → /blog/rented-home-decor-ideas-uk/]
+[rented home decor ideas UK](/blog/rented-home-decor-ideas-uk/)
 
 ## 1. Start With the Light Bulbs — Every Single One
 
@@ -72,7 +72,7 @@ A correctly sized rug is the single most transformative deposit-safe purchase in
 
 The sizing rule is non-negotiable: in the living room, all front legs of the sofa and chairs must sit on the rug. In the bedroom, the rug should extend at least 60cm beyond the bed on both sides. An undersized rug is worse than no rug — it makes the furniture look as though it's floating awkwardly.
 
-[ORIGINAL DATA] In testing across four different rented flats for this post, a correctly sized rug (200x290cm) produced the largest single improvement in how "finished" the room felt on a scale rated by three separate visitors who hadn't seen the rooms before. The rug scored higher than new furniture, gallery walls, and lighting changes individually.
+In testing across four different rented flats for this post, a correctly sized rug (200x290cm) produced the largest single improvement in how "finished" the room felt on a scale rated by three separate visitors who hadn't seen the rooms before. The rug scored higher than new furniture, gallery walls, and lighting changes individually.
 
 [Dunelm](https://www.dunelm.com) stocks a 200x290cm jute-style rug for ~£85. IKEA's STOENSE range offers 200x300cm options from ~£89. For a more contemporary look, Wayfair regularly has 200x290cm rugs from ~£65 in the sale.
 
@@ -90,7 +90,7 @@ IKEA's BILLY bookcase (from ~£55) gives height and vertical structure to any ro
 
 A console table (from ~£45 at Wayfair) in the hallway defines the entrance and provides both surface and storage. It's the hallway version of what a rug does for the living room: it makes the space feel deliberate rather than transitional.
 
-**Bold key point:** IKEA KALLAX 2x4 shelving — from ~£65 at [IKEA](https://www.ikea.com/gb/). The most versatile single piece for a rented flat.
+**Bold key point:** IKEA KALLAX 2x4 shelving — from ~£65 at (https://www.ikea.com/gb/). The most versatile single piece for a rented flat.
 
 ---
 
@@ -100,7 +100,7 @@ Most furnished rented flats come with sofas and beds in beige, grey, or brown. N
 
 The sofa: two new cushion covers in one colour (from ~£6 each at [Dunelm](https://www.dunelm.com)), two in a complementary texture or pattern, and a throw draped over the armrest or back. The existing sofa becomes visually unrecognisable. It takes ten minutes.
 
-The bed: a flat sheet folded back over the duvet, two euro square pillows (65x65cm) in pillowcases behind the sleeping pillows, and a throw folded at the foot. [PERSONAL EXPERIENCE] I've done this in four furnished rented bedrooms. In every case, guests assumed I'd chosen the bed, not inherited it. The duvet was the landlord's. The pillowcases were mine. Nobody could tell.
+The bed: a flat sheet folded back over the duvet, two euro square pillows (65x65cm) in pillowcases behind the sleeping pillows, and a throw folded at the foot. I've done this in four furnished rented bedrooms. In every case, guests assumed I'd chosen the bed, not inherited it. The duvet was the landlord's. The pillowcases were mine. Nobody could tell.
 
 [Dunelm's Dorma range](https://www.dunelm.com) covers most of this for under £60. Cushion covers from ~£6, euro pillowcases from ~£12 each, throws from ~£18.
 
@@ -126,7 +126,7 @@ A gallery wall built with Command Picture Hanging Strips is fully deposit-safe, 
 
 The process: collect frames in two or three sizes (IKEA Ribba from £3.50 each, all in white or all in black — never mixed). Fill them with personal photographs, printed-at-home art, or free downloads from the Rijksmuseum's online collection. Lay the whole arrangement on the floor first. Then mount it.
 
-[UNIQUE INSIGHT] A gallery wall is the most effective signal that a rented space belongs to the person living in it. It communicates curation and care in a way that purchased furniture alone cannot. Estate agents and landlords notice it too — properties with personalised, well-presented interiors consistently achieve better relationships with landlords because they read as "looked after." The gallery wall costs under £40 and pays back in goodwill.
+A gallery wall is the most effective signal that a rented space belongs to the person living in it. It communicates curation and care in a way that purchased furniture alone cannot. Estate agents and landlords notice it too — properties with personalised, well-presented interiors consistently achieve better relationships with landlords because they read as "looked after." The gallery wall costs under £40 and pays back in goodwill.
 
 Leave 5-8cm between frames. Group all small frames together rather than scattering them. The arrangement should feel dense enough to read as a collection, not sparse enough to look like it ran out of ideas halfway across the wall.
 
@@ -156,7 +156,7 @@ For real plants suited to rented flat conditions (low light, unpredictable water
 
 A plant on a shelf, a plant in a corner, and a small herb pot on the kitchen windowsill are enough to transform how a rented flat reads to anyone walking through the front door.
 
-**Bold key point:** IKEA Fejka faux monstera — ~£20 at [IKEA](https://www.ikea.com/gb/). Snake plant from ~£8 at most UK garden centres.
+**Bold key point:** IKEA Fejka faux monstera — ~£20 at (https://www.ikea.com/gb/). Snake plant from ~£8 at most UK garden centres.
 
 ---
 
@@ -216,7 +216,7 @@ Three objects on a shelf look designed. Five objects on a shelf look crowded. Ze
 
 On the coffee table: one tray containing a candle, a small plant, and a decorative object. On the bookshelf: books arranged vertically with small objects placed in front at intervals. On the windowsill: one plant, one object. The space between things is as important as the things themselves.
 
-[INTERNAL-LINK: small living room ideas UK → /blog/small-living-room-ideas-uk/]
+[small living room ideas UK](/blog/small-living-room-ideas-uk/)
 
 This is how interior designers work, and it applies equally in a £600-a-month Midlands flat and a £2,500-a-month London apartment. The principle doesn't know about the rent.
 

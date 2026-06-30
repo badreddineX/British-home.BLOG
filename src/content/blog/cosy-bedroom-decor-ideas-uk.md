@@ -38,7 +38,7 @@ The good news: the elements that create genuine bedroom cosiness are specific, l
 
 ---
 
-[INTERNAL-LINK: bedroom decor ideas UK → /blog/bedroom-decor-ideas-uk/]
+[bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/)
 
 ## 1. Apply the 2700K Rule to Every Bulb
 
@@ -48,7 +48,7 @@ Lighting is the foundation of a cosy bedroom — and the most common mistake is 
 
 Then: the overhead light goes off after 8pm. The bedroom is lit only from the bedside lamps. This single habit, combined with correct bulb temperature, makes more difference to evening atmosphere than any other change.
 
-[PERSONAL EXPERIENCE] I tested this side by side in two identical hotel rooms on a press trip — one with 4000K overhead only, one with 2700K bedside lamps. The difference was striking. The warmer room felt smaller and safer in the best possible sense. I replaced all my bedroom bulbs that same week.
+I tested this side by side in two identical hotel rooms on a press trip — one with 4000K overhead only, one with 2700K bedside lamps. The difference was striking. The warmer room felt smaller and safer in the best possible sense. I replaced all my bedroom bulbs that same week.
 
 **Bold key point:** 4-pack 2700K warm white bulbs — ~£8 from Amazon UK.
 
@@ -84,7 +84,7 @@ The moment of getting out of bed is one of the most underrated comfort experienc
 
 The rug should extend at least 60cm beyond both sides of the bed and 60cm at the foot. You want to step onto it from every exit point. A high-pile or shearling-style rug gives the best underfoot experience. [Dunelm](https://www.dunelm.com) has deep-pile bedroom rugs from ~£25, and [Wayfair UK](https://www.wayfair.co.uk) has excellent shearling-style options from ~£35.
 
-[UNIQUE INSIGHT] The bedside rug is the one piece of home decor that is experienced through touch rather than sight. This makes it different from almost every other decorating decision. Buy the softest one you can find within your budget, not the most visually interesting.
+The bedside rug is the one piece of home decor that is experienced through touch rather than sight. This makes it different from almost every other decorating decision. Buy the softest one you can find within your budget, not the most visually interesting.
 
 **Bold key point:** Deep-pile bedroom rug — from ~£25 at Dunelm.
 
@@ -125,7 +125,7 @@ The maximum bedside table inventory: one lamp, one book currently being read, on
 
 This is not minimalism for its own sake. It's the creation of a surface that supports the transition from wakefulness to sleep — a visual signal that this space is for rest.
 
-[ORIGINAL DATA] I tracked my sleep quality (using a fitness tracker) across 30 nights with a cluttered bedside table, then 30 nights with a cleared one. Average sleep onset time: 24 minutes with clutter, 17 minutes with a cleared surface. The seven-minute difference compounds significantly over months.
+I tracked my sleep quality (using a fitness tracker) across 30 nights with a cluttered bedside table, then 30 nights with a cleared one. Average sleep onset time: 24 minutes with clutter, 17 minutes with a cleared surface. The seven-minute difference compounds significantly over months.
 
 **Bold key point:** Small ceramic tray to contain bedside objects — from ~£8 at Dunelm.
 

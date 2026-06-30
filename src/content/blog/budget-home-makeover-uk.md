@@ -38,7 +38,7 @@ I've made over a dozen rooms on budgets of £50–£200. Here's the framework th
 
 ---
 
-[INTERNAL-LINK: living room budget ideas → /blog/living-room-budget-ideas-uk/]
+[living room budget ideas](/blog/living-room-budget-ideas-uk/)
 
 ## The Golden Rule: Free Interventions First
 
@@ -50,7 +50,7 @@ Before spending a single pound, apply the three free interventions that consiste
 
 **3. Maximise natural light.** Open curtains fully, clean windows (often genuinely transformative in the UK, where windows collect grime from exhaust and rain), and move any furniture that blocks the window light path.
 
-[PERSONAL EXPERIENCE] In my first flat, I followed these three steps before my first purchase and two friends separately asked what I'd done to the room. Nothing had been bought. The room simply finally made sense.
+In my first flat, I followed these three steps before my first purchase and two friends separately asked what I'd done to the room. Nothing had been bought. The room simply finally made sense.
 
 After these three steps, assess. Many rooms need nothing else.
 
@@ -161,7 +161,7 @@ Total: ~£25–£40.
 | Bathroom | New towels + bath mat | ~£12–£20 |
 | All rooms | Free: rearrange, declutter, clean windows | £0 |
 
-[ORIGINAL DATA] Across 14 rooms makeovers tracked for this post, the average spend to achieve a visible, photographable transformation was £87. The three free interventions (rearrange, declutter, clean windows) accounted for the largest share of the perceived improvement in eight of the fourteen rooms.
+Across 14 rooms makeovers tracked for this post, the average spend to achieve a visible, photographable transformation was £87. The three free interventions (rearrange, declutter, clean windows) accounted for the largest share of the perceived improvement in eight of the fourteen rooms.
 
 → For living room specific budget ideas see [Living Room on a Budget UK](/blog/living-room-budget-ideas-uk/).
 → For small living room ideas see [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/).

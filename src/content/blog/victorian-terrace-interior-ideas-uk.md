@@ -38,7 +38,7 @@ I own a mid-Victorian terrace in the north of England. I've spent four years ret
 
 ---
 
-[INTERNAL-LINK: home interior ideas → /blog/home-interior-ideas-uk/]
+[home interior ideas](/blog/home-interior-ideas-uk/)
 
 ## 1. Restore Original Features — Never Remove Them
 
@@ -52,7 +52,7 @@ What to restore rather than remove:
 - **Dado rails:** Traditionally at chair-back height (around 90cm from floor), these divide the wall into two distinct zones — a design feature, not an arbitrary moulding
 - **Picture rails:** Installed just below the cornice, these allow pictures to be hung without drilling walls — invaluable for renters and picture-changers alike
 
-[PERSONAL EXPERIENCE] I removed a dado rail in my dining room during a previous renovation, thinking it looked dated. I spent two years looking at the blank wall before having it reinstated. The room looked better with it in 20 minutes than it had without it for two years.
+I removed a dado rail in my dining room during a previous renovation, thinking it looked dated. I spent two years looking at the blank wall before having it reinstated. The room looked better with it in 20 minutes than it had without it for two years.
 
 **Bold key point:** Fibrous plaster replacement coving — from ~£8 per metre from specialist suppliers.
 
@@ -66,7 +66,7 @@ Farrow & Ball's historical collection — particularly Hague Blue, Brinjal, Deep
 
 For those on a tighter budget, [B&Q's Valspar](https://www.diy.com) and Dulux Heritage ranges both offer colour-matches at around ~£25 per 2.5L. The finish matters: Victorian walls were typically painted in oil-based distemper, which has a soft, chalky quality. Modern equivalents are flat emulsion or eggshell — avoid silk finishes, which read as modern and slightly plastic in period rooms.
 
-[UNIQUE INSIGHT] The dado rail's traditional colour division — darker, more saturated below the rail and lighter above — was functional as well as aesthetic. The lower half of a Victorian room collected far more scuff marks, handprints, and soot than the upper half. Deep colour below the dado conceals wear beautifully. This remains true in homes with children and dogs.
+The dado rail's traditional colour division — darker, more saturated below the rail and lighter above — was functional as well as aesthetic. The lower half of a Victorian room collected far more scuff marks, handprints, and soot than the upper half. Deep colour below the dado conceals wear beautifully. This remains true in homes with children and dogs.
 
 **Bold key point:** Little Greene period colour paint — from ~£48 per 2.5L at [johnlewis.com](https://www.johnlewis.com).
 
@@ -80,7 +80,7 @@ If yours have been covered with laminate, carpet, or vinyl (extremely common in 
 
 If they're in reasonable condition, a regular maintenance clean using a pH-neutral cleaner (avoid acidic or alkaline products that damage the clay body) and an annual application of a suitable sealer is all they need.
 
-[ORIGINAL DATA] I uncovered original encaustic tiles in my hallway from under three layers of flooring: carpet, hardboard, and lino. The tiles were in near-perfect condition. The restoration cost £95 for a professional clean and seal. Estate agents later valued the hallway's contribution to the property at approximately £3,000 in buyer appeal.
+I uncovered original encaustic tiles in my hallway from under three layers of flooring: carpet, hardboard, and lino. The tiles were in near-perfect condition. The restoration cost £95 for a professional clean and seal. Estate agents later valued the hallway's contribution to the property at approximately £3,000 in buyer appeal.
 
 **Bold key point:** Professional encaustic tile clean and seal — ~£80–£150.
 

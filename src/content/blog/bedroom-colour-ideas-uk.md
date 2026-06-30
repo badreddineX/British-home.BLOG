@@ -38,7 +38,7 @@ I've painted my bedroom twice in the past four years. The first time, following 
 
 ---
 
-[INTERNAL-LINK: bedroom decor full guide → /blog/bedroom-decor-ideas-uk/]
+[bedroom decor full guide](/blog/bedroom-decor-ideas-uk/)
 
 ## 1. Warm Neutrals: The Safest Bet for Any British Bedroom
 
@@ -51,7 +51,7 @@ The specific shades that work:
 - **Crown Country Cream** (~£18 per 2.5L from [B&Q](https://www.diy.com)) — a yellow-toned cream that looks warm and inviting in low light. An excellent budget option.
 - **Farrow & Ball Elephant's Breath** (~£59 per 2.5L) — the iconic mid-warm grey that reads slightly lilac in cool light and warm taupe in lamplight. Suits both contemporary and period homes.
 
-[PERSONAL EXPERIENCE] I repainted my bedroom in Crown Country Cream after the cool grey failure. The difference was immediate and significant — not just aesthetically, but in how the room felt to be in. Warm neutrals have an effect on mood that cooler colours don't.
+I repainted my bedroom in Crown Country Cream after the cool grey failure. The difference was immediate and significant — not just aesthetically, but in how the room felt to be in. Warm neutrals have an effect on mood that cooler colours don't.
 
 **Bold key point:** Dulux Goose Down 2.5L — ~£22 from [B&Q](https://www.diy.com). Covers approximately 30–35 square metres.
 
@@ -88,7 +88,7 @@ The shades to consider:
 - **Little Greene Aquamarine** (~£48 per 2.5L) — a blue-toned sage that leans slightly teal. Particularly good in south-facing bedrooms that get real sunlight.
 - **Crown Moody Moss** (~£18 per 2.5L) — a deeper, earthier green. More forest than garden. Excellent for a moody feature wall.
 
-[UNIQUE INSIGHT] Sage green works in north-facing bedrooms specifically because its grey undertone matches the light rather than fighting it. This is the opposite of what you'd expect — you'd assume a grey-toned colour would make a grey-lit room feel drearier. In practice, the tonal harmony creates calm rather than flatness.
+Sage green works in north-facing bedrooms specifically because its grey undertone matches the light rather than fighting it. This is the opposite of what you'd expect — you'd assume a grey-toned colour would make a grey-lit room feel drearier. In practice, the tonal harmony creates calm rather than flatness.
 
 **Bold key point:** Farrow & Ball Mizzle 2.5L — ~£59 from [Farrow & Ball](https://www.farrow-ball.com). Works in both north- and south-facing rooms.
 
@@ -144,7 +144,7 @@ The deep tones that translate best:
 - **Dulux Night Jewels** (~£22 per 2.5L from [B&Q](https://www.diy.com)) — a deep teal-navy. More complex than a standard navy. Excellent value for the effect.
 - **Crown Forest Bathed in Light** (~£18 per 2.5L) — a rich forest green. One of Crown's most successful bedroom colours and available at most B&Q stores.
 
-[PERSONAL EXPERIENCE] A friend painted her spare bedroom in Farrow & Ball Studio Green on my recommendation. She was nervous — the room is only 9 square metres. The result was the most frequently photographed room in her home for the next two years. Small rooms and deep colours are not enemies.
+A friend painted her spare bedroom in Farrow & Ball Studio Green on my recommendation. She was nervous — the room is only 9 square metres. The result was the most frequently photographed room in her home for the next two years. Small rooms and deep colours are not enemies.
 
 **Bold key point:** Dulux Night Jewels 2.5L — ~£22 from [B&Q](https://www.diy.com). Deep teal-navy that reads beautifully under warm lamp light.
 
@@ -191,7 +191,7 @@ The correct method for testing bedroom paint:
 
 Paint A4-sized sample patches on at least three walls — ideally the wall that gets the most morning light, the darkest wall, and the wall behind the bed. Leave them for 48 hours, observing at different times of day and specifically in the evening under your actual bedroom lighting.
 
-[ORIGINAL DATA] I tested seven paint samples for my last bedroom repaint, observing each in morning, afternoon, and evening light. Three shades that looked almost identical on the card read entirely differently on the wall — two looked muddy in morning light, one looked darker in lamplight than expected. The one I chose looked good at all three times of day. The testing process took two weeks and saved me from a £40 mistake.
+I tested seven paint samples for my last bedroom repaint, observing each in morning, afternoon, and evening light. Three shades that looked almost identical on the card read entirely differently on the wall — two looked muddy in morning light, one looked darker in lamplight than expected. The one I chose looked good at all three times of day. The testing process took two weeks and saved me from a £40 mistake.
 
 Dulux, Crown, and B&Q all sell sample pots for ~£3–£5 each. Farrow & Ball sample pots are ~£5–£7. With 2–3 samples to test, the budget for proper testing is £10–£20 — significantly cheaper than repainting a bedroom that isn't working.
 
@@ -230,7 +230,7 @@ You have more freedom. Cooler tones can work because the direct sunlight warms t
 
 East-facing bedrooms get morning sun; west-facing get afternoon and evening sun. For east-facing rooms, test colours specifically in afternoon light (when the morning sun is gone). For west-facing rooms, they look their best in the evenings — which is fortuitous for a bedroom.
 
-[INTERNAL-LINK: bedroom makeover guide → /blog/bedroom-makeover-uk/]
+[bedroom makeover guide](/blog/bedroom-makeover-uk/)
 
 **Bold key point:** Free orientation check — look up your postcode on Google Maps satellite view. The directional shadow of your house tells you exactly which way your bedroom faces.
 
