@@ -9,82 +9,180 @@ import '../styles/global.css';
   <head>
     <SEO
       title="About — British Home Interior"
-      description="Meet the person behind British Home Interior — a UK home enthusiast sharing honest room makeovers, cosy styling ideas, and budget interior inspiration for British homes and flats."
+      description="Meet Sarah, the person behind British Home Interior — sharing honest room makeovers, cosy styling ideas, and budget interior inspiration for British homes and flats."
       type="website"
     />
   </head>
   <body>
     <Header />
 
-    <main class="about-page content-container">
+    <main class="about-page">
 
-      <!-- ===== AUTHOR HERO — animates in immediately ===== -->
-      <section class="about-hero blur-reveal">
-        <div class="author-avatar">
+      <!-- ===== 01 OUR STORY ===== -->
+      <section class="about-section about-story">
+        <div class="about-story-img">
           <img
-            src="https://images.pexels.com/photos/3771839/pexels-photo-3771839.jpeg?auto=compress&cs=tinysrgb&w=300&h=300&fit=crop"
-            alt="Sarah — British home interior enthusiast"
-            width="150"
-            height="150"
+            src="https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=900"
+            alt="A cosy British living room styled with warm neutrals"
+            width="900"
+            height="700"
+            loading="eager"
           />
         </div>
-        <h1 class="about-name">Hello, I'm Sarah</h1>
-        <p class="about-tagline">Making British homes cosier, one room at a time.</p>
+        <div class="about-story-text">
+          <div class="section-num-row">
+            <span class="section-num">01</span>
+            <span class="section-num-line"></span>
+          </div>
+          <h1 class="section-heading">Our Story</h1>
+          <p>
+            I've always loved interiors. But every time I searched for home styling advice online, I found
+            American content — dollars instead of pounds, stores that don't ship to the UK, and aesthetics
+            built for open-plan Californian homes rather than Victorian terraces and rented London flats.
+          </p>
+          <p>
+            So I decided to create the resource I wished had existed when I was trying to style my first
+            flat on a graduate salary. Everything here is rooted in the reality of British homes: the odd
+            proportions, the period features, the renting restrictions, and yes — the grey British light
+            that makes colour choices so tricky.
+          </p>
+          <p>
+            I'm not an interior designer. I'm just someone who genuinely loves making a space feel like
+            home, and who's spent far too many Saturdays in Dunelm debating whether the terracotta cushion
+            is an investment piece or an impulse buy. (It was both. I regret nothing.)
+          </p>
+        </div>
       </section>
 
-      <hr class="blur-reveal" />
-
-      <!-- ===== WHY I STARTED ===== -->
-      <section class="about-section blur-reveal" aria-labelledby="why-heading">
-        <h2 id="why-heading">Why I Started This Blog</h2>
-        <p>
-          I've always loved interiors. But every time I searched for home styling advice online, I found
-          American content — dollars instead of pounds, stores that don't ship to the UK, and aesthetics
-          built for open-plan Californian homes rather than Victorian terraces and rented London flats.
-        </p>
-        <p>
-          So I decided to create the resource I wished had existed when I was trying to style my first
-          flat on a graduate salary. Everything you'll find here is rooted in the reality of British
-          homes: the odd proportions, the period features, the renting restrictions, and yes — the grey
-          British light that makes colour choices so tricky.
-        </p>
-        <p>
-          I'm not an interior designer. I'm just someone who genuinely loves making a space feel like
-          home, and who's spent far too many Saturdays wandering around Dunelm and debating whether
-          the terracotta cushion is "investment piece" or "impulse buy." (It was both. I regret nothing.)
-        </p>
+      <!-- ===== 02 WHAT WE COVER ===== -->
+      <section class="about-section about-covers">
+        <div class="about-covers-header">
+          <div class="section-num-row">
+            <span class="section-num">02</span>
+          </div>
+          <h2 class="section-heading">What We Cover</h2>
+        </div>
+        <div class="covers-grid">
+          <div class="covers-item">
+            <div class="covers-img-wrap">
+              <img
+                src="https://images.pexels.com/photos/1648768/pexels-photo-1648768.jpeg?auto=compress&cs=tinysrgb&w=600"
+                alt="British living room makeover"
+                width="600"
+                height="420"
+                loading="lazy"
+              />
+            </div>
+            <span class="covers-label">Room Makeovers</span>
+          </div>
+          <div class="covers-item">
+            <div class="covers-img-wrap">
+              <img
+                src="https://images.pexels.com/photos/2082087/pexels-photo-2082087.jpeg?auto=compress&cs=tinysrgb&w=600"
+                alt="Cosy British bedroom decor"
+                width="600"
+                height="420"
+                loading="lazy"
+              />
+            </div>
+            <span class="covers-label">Budget Styling</span>
+          </div>
+          <div class="covers-item">
+            <div class="covers-img-wrap">
+              <img
+                src="https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=600"
+                alt="British bedroom with cosy lighting"
+                width="600"
+                height="420"
+                loading="lazy"
+              />
+            </div>
+            <span class="covers-label">Cosy Inspiration</span>
+          </div>
+          <div class="covers-item">
+            <div class="covers-img-wrap">
+              <img
+                src="https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=600"
+                alt="Victorian terrace home interior"
+                width="600"
+                height="420"
+                loading="lazy"
+              />
+            </div>
+            <span class="covers-label">British Homes</span>
+          </div>
+        </div>
       </section>
 
-      <hr class="blur-reveal" />
+      <!-- ===== 03 ABOUT THE AUTHOR ===== -->
+      <section class="about-section about-author-section">
+        <div class="section-num-row">
+          <span class="section-num">03</span>
+        </div>
+        <div class="author-card">
+          <div class="author-card-eyebrow">About the Author</div>
+          <h2 class="author-card-heading">Hey, I'm Sarah — Welcome to British Home Interior</h2>
+          <div class="author-card-body">
+            <div class="author-avatar-circle">S</div>
+            <p class="author-card-bio">
+              A British home enthusiast obsessed with making UK homes feel genuinely cosy and characterful —
+              without the ridiculous budgets you see on TV makeover shows. I test real products, write honest
+              guides, and share only what actually works in real British homes. No staged perfection, no
+              sponsored fluff — just practical ideas in pounds.
+            </p>
+          </div>
+          <a href="/blog/" class="author-card-btn">Read the Blog &rarr;</a>
+        </div>
+      </section>
 
-      <!-- ===== WHAT YOU'LL FIND ===== -->
-      <section class="about-section blur-reveal" aria-labelledby="find-heading">
-        <h2 id="find-heading">What You'll Find Here</h2>
-        <div class="feature-cards">
-          <div class="feature-card">
-            <span class="feature-icon" aria-hidden="true">🎨</span>
-            <h3>Room Makeovers</h3>
-            <p>
-              Real before-and-afters from real British homes. No staging, no professional photography —
-              just honest transformations and what I actually spent.
-            </p>
-          </div>
-          <div class="feature-card">
-            <span class="feature-icon" aria-hidden="true">💷</span>
-            <h3>Budget Styling</h3>
-            <p>
-              Every tip and product recommendation is budget-aware. I'll always tell you where to find
-              something cheaper, and I shop Dunelm, Next Home, and IKEA just like you do.
-            </p>
-          </div>
-          <div class="feature-card">
-            <span class="feature-icon" aria-hidden="true">🏡</span>
-            <h3>British Home Inspiration</h3>
-            <p>
-              Cottagecore, maximalist, dark and moody, cosy minimalist — all filtered through a
-              British lens, for British homes, in British English.
-            </p>
-          </div>
+      <!-- ===== CONTACT ===== -->
+      <section class="about-section about-contact">
+        <div class="contact-left">
+          <span class="contact-eyebrow">Get in Touch</span>
+          <h2 class="section-heading contact-heading">Let's Connect</h2>
+          <p class="contact-desc">
+            Have a home styling question, a product you'd like me to try, or just want to say hello?
+            I read every message and reply within a few days.
+          </p>
+          <ol class="contact-steps">
+            <li>
+              <span class="contact-step-num">01</span>
+              Fill in your name and email address
+            </li>
+            <li>
+              <span class="contact-step-num">02</span>
+              Tell me what's on your mind — questions, collabs, or just a hello
+            </li>
+            <li>
+              <span class="contact-step-num">03</span>
+              I'll get back to you within 2–3 business days
+            </li>
+          </ol>
+        </div>
+        <div class="contact-right">
+          <form class="contact-form" onsubmit="return false;">
+            <div class="contact-form-row">
+              <div class="contact-field">
+                <label class="contact-label">Full Name</label>
+                <input type="text" class="contact-input" placeholder="Your name" />
+              </div>
+              <div class="contact-field">
+                <label class="contact-label">Email Address</label>
+                <input type="email" class="contact-input" placeholder="your@email.com" />
+              </div>
+            </div>
+            <div class="contact-field">
+              <label class="contact-label">
+                City / County <span class="contact-optional">(optional)</span>
+              </label>
+              <input type="text" class="contact-input" placeholder="e.g. London, Manchester" />
+            </div>
+            <div class="contact-field">
+              <label class="contact-label">Message</label>
+              <textarea class="contact-input contact-textarea" placeholder="What's on your mind?"></textarea>
+            </div>
+            <button type="submit" class="contact-submit">Send Message</button>
+          </form>
         </div>
       </section>
 
@@ -94,143 +192,341 @@ import '../styles/global.css';
   </body>
 </html>
 
-<script>
-  // Blur-to-focus reveal on scroll
-  const observer = new IntersectionObserver(
-    (entries) => {
-      entries.forEach((entry) => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('in-view');
-          observer.unobserve(entry.target); // fire once
-        }
-      });
-    },
-    { threshold: 0.08 }
-  );
-
-  document.querySelectorAll('.blur-reveal').forEach((el) => observer.observe(el));
-</script>
-
 <style>
-  /* ===== BLUR REVEAL ANIMATION ===== */
-  .blur-reveal {
-    filter: blur(18px);
-    opacity: 0;
-    transform: scale(1.015);
-    transition:
-      filter 700ms ease,
-      opacity 700ms ease,
-      transform 700ms ease;
-    will-change: filter, opacity, transform;
+  .about-page {
+    background: var(--color-bg);
   }
 
-  .blur-reveal.in-view {
-    filter: blur(0);
-    opacity: 1;
-    transform: scale(1);
+  /* ── Shared section shell ── */
+  .about-section {
+    max-width: 1200px;
+    margin-inline: auto;
+    padding: 5rem 2rem;
   }
 
-  /* Stagger sections slightly */
-  .about-section.blur-reveal { transition-delay: 80ms; }
-  .feature-cards .feature-card { transition-delay: 0ms; }
+  /* ── Numbered section row ── */
+  .section-num-row {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1rem;
+  }
 
-  /* Respect reduced motion */
-  @media (prefers-reduced-motion: reduce) {
-    .blur-reveal {
-      filter: none;
-      opacity: 1;
-      transform: none;
-      transition: none;
+  .section-num {
+    font-family: var(--font-display);
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    font-style: italic;
+    font-weight: 400;
+    color: var(--color-gold);
+    line-height: 1;
+    flex-shrink: 0;
+  }
+
+  .section-num-line {
+    flex: 1;
+    height: 1px;
+    background: var(--color-gold);
+    opacity: 0.5;
+  }
+
+  .section-heading {
+    font-family: var(--font-display);
+    font-size: clamp(2rem, 4vw, 3rem);
+    font-weight: 700;
+    color: var(--color-heading);
+    margin: 0 0 1.5rem;
+    line-height: 1.15;
+  }
+
+  /* ── 01 Our Story ── */
+  .about-story {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+    align-items: center;
+  }
+
+  @media (min-width: 900px) {
+    .about-story {
+      grid-template-columns: 1fr 1fr;
+      gap: 5rem;
     }
   }
 
-  /* ===== PAGE LAYOUT ===== */
-  .about-page {
-    padding-block: 3rem 5rem;
-  }
-
-  .about-hero {
-    text-align: center;
-    padding-bottom: 2.5rem;
-  }
-
-  .author-avatar {
-    margin-inline: auto;
-    margin-bottom: 1.25rem;
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
+  .about-story-img {
+    width: 100%;
+    aspect-ratio: 4/3;
     overflow: hidden;
-    border: 4px solid var(--color-surface);
-    box-shadow: 0 4px 20px rgba(0,0,0,0.12);
   }
 
-  .author-avatar img {
+  .about-story-img img {
     width: 100%;
     height: 100%;
     object-fit: cover;
   }
 
-  .about-name {
-    font-size: 2rem;
-    margin-bottom: 0.5rem;
+  .about-story-text p {
+    font-size: 1rem;
+    line-height: 1.8;
+    color: var(--color-text);
+    margin-bottom: 1.1rem;
+  }
+  .about-story-text p:last-child { margin-bottom: 0; }
+
+  /* ── 02 What We Cover ── */
+  .about-covers {
+    border-top: 1px solid var(--color-border);
   }
 
-  .about-tagline {
-    font-size: 1.1rem;
-    color: var(--color-text-muted);
-    font-style: italic;
-    margin-bottom: 0;
+  .about-covers-header {
+    margin-bottom: 2.5rem;
   }
 
-  .about-section {
-    padding-block: 2.5rem;
-  }
-
-  .about-section h2 {
-    margin-top: 0;
-  }
-
-  .about-section p:last-child {
-    margin-bottom: 0;
-  }
-
-  .feature-cards {
+  .covers-grid {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(2, 1fr);
     gap: 1.25rem;
-    margin-top: 1.75rem;
   }
 
-  @media (min-width: 640px) {
-    .feature-cards { grid-template-columns: repeat(3, 1fr); }
+  @media (min-width: 768px) {
+    .covers-grid { grid-template-columns: repeat(4, 1fr); }
   }
 
-  .feature-card {
+  .covers-item {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  .covers-img-wrap {
+    width: 100%;
+    aspect-ratio: 3/2;
+    overflow: hidden;
+  }
+
+  .covers-img-wrap img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 400ms ease;
+  }
+
+  .covers-item:hover .covers-img-wrap img { transform: scale(1.04); }
+
+  .covers-label {
+    font-family: var(--font-body);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.13em;
+    text-transform: uppercase;
+    color: var(--color-text-muted);
+  }
+
+  /* ── 03 About the Author ── */
+  .about-author-section {
+    border-top: 1px solid var(--color-border);
+  }
+
+  .author-card {
     background: var(--color-surface);
-    border: 1px solid var(--color-border);
-    padding: 1.5rem 1.25rem;
-    text-align: center;
+    padding: 2.5rem;
+    margin-top: 1.5rem;
   }
 
-  .feature-icon {
-    font-size: 2rem;
-    display: block;
+  .author-card-eyebrow {
+    font-family: var(--font-body);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.13em;
+    text-transform: uppercase;
+    color: var(--color-gold);
     margin-bottom: 0.75rem;
   }
 
-  .feature-card h3 {
+  .author-card-heading {
     font-family: var(--font-display);
-    font-size: 1.05rem;
+    font-size: clamp(1.3rem, 2.5vw, 1.75rem);
+    font-weight: 700;
     color: var(--color-heading);
-    margin-top: 0;
-    margin-bottom: 0.6rem;
+    margin: 0 0 1.75rem;
+    line-height: 1.25;
   }
 
-  .feature-card p {
-    font-size: 0.9rem;
-    color: var(--color-text-muted);
-    line-height: 1.6;
-    margin-bottom: 0;
+  .author-card-body {
+    display: flex;
+    align-items: flex-start;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
   }
+
+  .author-avatar-circle {
+    flex-shrink: 0;
+    width: 72px;
+    height: 72px;
+    border-radius: 50%;
+    background: var(--color-heading);
+    color: #fff;
+    font-family: var(--font-display);
+    font-size: 1.5rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .author-card-bio {
+    font-size: 0.95rem;
+    line-height: 1.75;
+    color: var(--color-text);
+    margin: 0;
+  }
+
+  .author-card-btn {
+    display: inline-block;
+    background: var(--color-gold);
+    color: #fff;
+    font-family: var(--font-body);
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 0.85rem 1.75rem;
+    transition: background 200ms;
+  }
+  .author-card-btn:hover { background: #9a7f52; text-decoration: none; color: #fff; }
+
+  /* ── Contact ── */
+  .about-contact {
+    border-top: 1px solid var(--color-border);
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+
+  @media (min-width: 860px) {
+    .about-contact { grid-template-columns: 1fr 1.2fr; gap: 5rem; align-items: start; }
+  }
+
+  .contact-eyebrow {
+    display: block;
+    font-family: var(--font-body);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.13em;
+    text-transform: uppercase;
+    color: var(--color-gold);
+    margin-bottom: 0.75rem;
+  }
+
+  .contact-heading { margin-bottom: 1rem; }
+
+  .contact-desc {
+    font-size: 0.95rem;
+    line-height: 1.7;
+    color: var(--color-text-muted);
+    margin-bottom: 2rem;
+  }
+
+  .contact-steps {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+
+  .contact-steps li {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+    font-size: 0.95rem;
+    color: var(--color-text);
+    line-height: 1.5;
+  }
+
+  .contact-step-num {
+    font-family: var(--font-display);
+    font-size: 0.85rem;
+    font-style: italic;
+    color: var(--color-gold);
+    flex-shrink: 0;
+    min-width: 1.5rem;
+  }
+
+  /* Form */
+  .contact-right {
+    background: #fff;
+    padding: 2.5rem;
+    box-shadow: 0 2px 24px rgba(0,0,0,0.06);
+  }
+
+  .contact-form { display: flex; flex-direction: column; gap: 1.75rem; }
+
+  .contact-form-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+  }
+
+  @media (max-width: 540px) {
+    .contact-form-row { grid-template-columns: 1fr; }
+  }
+
+  .contact-field { display: flex; flex-direction: column; gap: 0.5rem; }
+
+  .contact-label {
+    font-family: var(--font-body);
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--color-heading);
+  }
+
+  .contact-optional {
+    font-weight: 400;
+    text-transform: none;
+    letter-spacing: 0;
+    color: var(--color-text-muted);
+    font-size: 0.7rem;
+  }
+
+  .contact-input {
+    border: none;
+    border-bottom: 1px solid var(--color-border);
+    background: transparent;
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    color: var(--color-text);
+    padding: 0.5rem 0;
+    outline: none;
+    transition: border-color 200ms;
+    width: 100%;
+  }
+  .contact-input::placeholder { color: #bbb; }
+  .contact-input:focus { border-bottom-color: var(--color-heading); }
+
+  .contact-textarea {
+    resize: vertical;
+    min-height: 120px;
+  }
+
+  .contact-submit {
+    align-self: flex-start;
+    background: var(--color-heading);
+    color: #fff;
+    border: none;
+    padding: 1rem 2.25rem;
+    font-family: var(--font-body);
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background 200ms;
+  }
+  .contact-submit:hover { background: #5a3e2e; }
 </style>
+</html>
