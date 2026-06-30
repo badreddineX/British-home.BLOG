@@ -7,7 +7,7 @@ dateModified: "2026-05-15"
 author: "Badreddine"
 tags: ["dark moody home decor UK", "dark interior design UK", "dark walls UK", "moody living room", "dark paint colours UK"]
 featured: false
-category: "Living Room"
+category: "Home Decor"
 readTime: "9 min read"
 excerpt: "Dark, moody rooms are having a real moment in British interiors — and honestly, they suit our climate better than you'd think."
 tldr:

@@ -7,7 +7,7 @@ dateModified: "2026-04-03"
 author: "Badreddine"
 tags: ["cottagecore home decor UK", "cottagecore interior UK", "British cottagecore", "cottagecore living room", "vintage home decor UK"]
 featured: false
-category: "Living Room"
+category: "Home Decor"
 readTime: "9 min read"
 excerpt: "British cottagecore isn't a Pinterest mood board — it's a real design language rooted in our own countryside, botanicals, and heritage."
 tldr:

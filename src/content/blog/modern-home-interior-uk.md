@@ -7,7 +7,7 @@ dateModified: "2026-04-24"
 author: "Badreddine"
 tags: ["modern home interior ideas", "modern British interiors", "contemporary home decor UK", "modern living room UK", "UK interior trends 2026"]
 featured: false
-category: "Living Room"
+category: "Home Decor"
 readTime: "8 min read"
 excerpt: "Modern British interiors in 2026 aren't cold or minimal — they're warm, characterful, and very much their own thing."
 tldr:

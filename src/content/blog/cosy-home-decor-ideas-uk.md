@@ -7,7 +7,7 @@ dateModified: "2026-01-26"
 author: "Badreddine"
 tags: ["cosy home decor ideas", "cosy home UK", "hygge UK", "cosy living room UK", "warm home decor UK"]
 featured: false
-category: "Living Room"
+category: "Home Decor"
 readTime: "8 min read"
 excerpt: "How to make any British home feel genuinely cosy — not just the kind that photographs well, but the kind you actually want to stay in."
 tldr:
