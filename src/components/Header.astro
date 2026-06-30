@@ -346,7 +346,11 @@ const currentPath = Astro.url.pathname;
     text-decoration: none;
     transition: background-color 200ms;
   }
-  .social-sidebar-btn:hover { background: rgba(0,0,0,0.18); text-decoration: none; color: #fff; }
+  .social-sidebar-btn { transition: background-color 200ms, color 200ms; }
+  .social-sidebar-btn:nth-child(1):hover { background: #1877F2; color: #fff; text-decoration: none; }
+  .social-sidebar-btn:nth-child(2):hover { background: #E1306C; color: #fff; text-decoration: none; }
+  .social-sidebar-btn:nth-child(3):hover { background: #E60023; color: #fff; text-decoration: none; }
+  .social-sidebar-btn:nth-child(4):hover { background: #FF0000; color: #fff; text-decoration: none; }
 
   @media (max-width: 900px) { .social-sidebar { display: none; } }
   .social-sidebar--hidden { display: none !important; }
