@@ -1,7 +1,7 @@
 ﻿---
 title: "Modern Home Interior Ideas UK: What 'Modern' Really Means in British Homes in 2026"
 description: "What modern British home interiors actually look like in 2026 — warm, personal, and full of character. Not Scandi minimalism. UK-specific takes with real product picks."
-image: "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-04-24"
 dateModified: "2026-04-24"
 author: "Sarah"

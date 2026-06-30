@@ -1,7 +1,7 @@
 ﻿---
 title: "Cosy Autumn Home Decor Ideas UK: How to Transition Your British Home for the Season"
 description: "How to make your UK home feel properly autumnal — warm textiles, amber lighting, seasonal scents, and nature-inspired accents. All from UK shops, all with prices."
-image: "https://images.pexels.com/photos/3049121/pexels-photo-3049121.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/6489103/pexels-photo-6489103.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-05-29"
 dateModified: "2026-05-29"
 author: "Sarah"

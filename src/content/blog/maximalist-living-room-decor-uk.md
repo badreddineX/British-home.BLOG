@@ -1,7 +1,7 @@
 ﻿---
 title: "Maximalist Living Room Decor — How to Do More is More in a British Home"
 description: "Practical maximalist living room guide for British homes — colour anchoring, pattern mixing rules, gallery wall method, object grouping and knowing when to stop."
-image: "https://images.pexels.com/photos/2062431/pexels-photo-2062431.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/1648768/pexels-photo-1648768.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-05-08"
 dateModified: "2026-05-08"
 author: "Sarah"
