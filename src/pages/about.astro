@@ -141,7 +141,9 @@ import '../styles/global.css';
           <div class="author-card-eyebrow">About the Author</div>
           <h2 class="author-card-heading">Hey, I'm Badreddine — Welcome to British Home Interior</h2>
           <div class="author-card-body">
-            <div class="author-avatar-circle">B</div>
+            <div class="author-avatar-circle">
+              <img src="/logo.svg" alt="British Home Interior logo" width="64" height="64" />
+            </div>
             <p class="author-card-bio">
               A British home enthusiast obsessed with making UK homes feel genuinely cosy and characterful —
               without the ridiculous budgets you see on TV makeover shows. I test real products, write honest
@@ -440,14 +442,16 @@ import '../styles/global.css';
     width: 72px;
     height: 72px;
     border-radius: 50%;
-    background: var(--color-heading);
-    color: #fff;
-    font-family: var(--font-display);
-    font-size: 1.5rem;
-    font-weight: 700;
+    overflow: hidden;
     display: flex;
     align-items: center;
     justify-content: center;
+  }
+  .author-avatar-circle img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
   }
 
   .author-card-bio {
