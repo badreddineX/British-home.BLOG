@@ -7,7 +7,7 @@ dateModified: "2026-04-17"
 author: "Badreddine"
 tags: ["Victorian terrace interior ideas", "Victorian house interior UK", "period home decor UK", "Victorian terrace decor", "British period interior"]
 featured: false
-category: "Home Decor"
+category: "Room Makeovers"
 readTime: "9 min read"
 excerpt: "Victorian terraces are the most common house type in Britain — and the most commonly mishandled when it comes to interior styling."
 tldr:

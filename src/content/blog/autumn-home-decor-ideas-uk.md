@@ -7,7 +7,7 @@ dateModified: "2026-05-29"
 author: "Badreddine"
 tags: ["cosy autumn home decor ideas", "autumn home decor UK", "autumn interior ideas UK", "autumnal home decor", "autumn living room UK"]
 featured: false
-category: "Seasonal"
+category: "Living Room"
 readTime: "8 min read"
 excerpt: "How to shift your British home into autumn mode — warm textiles, amber light, and the specific cosiness that the season demands."
 tldr:

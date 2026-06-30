@@ -7,7 +7,7 @@ dateModified: "2026-06-12"
 author: "Badreddine"
 tags: ["Christmas home decor ideas UK", "British Christmas decorating", "Christmas interior UK", "Christmas living room UK", "UK Christmas styling"]
 featured: false
-category: "Seasonal"
+category: "Living Room"
 readTime: "9 min read"
 excerpt: "British Christmas decorating done properly — character, warmth, and specific product picks from Dunelm to Dobbies, at every price point."
 tldr:

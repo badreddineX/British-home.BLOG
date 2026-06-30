@@ -7,7 +7,7 @@ dateModified: "2026-02-05"
 author: "Badreddine"
 tags: ["home interior ideas UK", "British home interiors", "UK interior design", "home decor UK", "interior styling UK"]
 featured: false
-category: "Home Decor"
+category: "Room Makeovers"
 readTime: "8 min read"
 excerpt: "The four principles that underpin every great British home interior — and how to apply them room by room."
 tldr:

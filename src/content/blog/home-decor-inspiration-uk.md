@@ -7,7 +7,7 @@ dateModified: "2026-02-13"
 author: "Badreddine"
 tags: ["home decor inspiration UK", "UK interior design ideas", "British home decor", "interior inspiration UK", "home styling UK"]
 featured: false
-category: "Home Decor"
+category: "Room Makeovers"
 readTime: "8 min read"
 excerpt: "Pinterest is full of American homes with floodlit rooms and suburban square footage we'll never have — here's where to find inspiration that's actually useful for a British home."
 tldr:

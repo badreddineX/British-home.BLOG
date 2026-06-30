@@ -7,7 +7,7 @@ dateModified: "2026-05-22"
 author: "Badreddine"
 tags: ["spring home refresh ideas UK", "spring home decor UK", "spring cleaning UK", "spring interior refresh", "UK spring decorating"]
 featured: false
-category: "Seasonal"
+category: "Living Room"
 readTime: "8 min read"
 excerpt: "Spring is the best time to refresh a British home — lighter textiles, a proper declutter, and fresh colour without redecorating from scratch."
 tldr:

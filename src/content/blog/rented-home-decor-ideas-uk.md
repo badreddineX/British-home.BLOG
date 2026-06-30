@@ -7,7 +7,7 @@ dateModified: "2026-02-20"
 author: "Badreddine"
 tags: ["rented home decor ideas UK", "renter decorating UK", "deposit-safe decor UK", "rented flat decor", "renters home ideas UK"]
 featured: false
-category: "Home Decor"
+category: "Room Makeovers"
 readTime: "8 min read"
 excerpt: "Renting in the UK doesn't mean living in a magnolia box — here are 13 ways to make a rented space genuinely feel like yours."
 tldr:

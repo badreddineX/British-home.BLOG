@@ -7,7 +7,7 @@ dateModified: "2026-06-05"
 author: "Badreddine"
 tags: ["winter cosy home ideas UK", "cosy home UK winter", "British winter home decor", "warm home UK", "winter living room UK"]
 featured: false
-category: "Seasonal"
+category: "Living Room"
 readTime: "9 min read"
 excerpt: "The complete guide to getting your British home through winter — from draught-proofing the obvious gaps to building the perfect hibernation corner."
 tldr:

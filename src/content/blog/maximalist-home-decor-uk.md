@@ -7,7 +7,7 @@ dateModified: "2026-05-01"
 author: "Badreddine"
 tags: ["maximalist home decor UK", "maximalist interior design", "bold home decor UK", "pattern mixing UK", "British interior design"]
 featured: false
-category: "Home Decor"
+category: "Room Makeovers"
 readTime: "9 min read"
 excerpt: "Maximalism done right isn't about cramming things in — it's about layering with intention, and British homes are actually perfect for it."
 tldr:
