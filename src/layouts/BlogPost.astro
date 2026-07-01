@@ -142,11 +142,6 @@ const related = allPosts
         <!-- Main content -->
         <article class="post-content-area">
 
-          <!-- Affiliate disclosure -->
-          <div class="affiliate-disclosure">
-            This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.
-          </div>
-
           <!-- TL;DR -->
           {tldr.length > 0 && <TLDRBox points={tldr} />}
 
@@ -157,11 +152,6 @@ const related = allPosts
 
           <!-- FAQ -->
           {faqs.length > 0 && <FAQ questions={faqs} />}
-
-          <!-- Bottom disclosure -->
-          <div class="affiliate-disclosure" style="margin-top:2rem;">
-            <strong>Disclosure:</strong> This post contains affiliate links. I only recommend products I genuinely use and love.
-          </div>
 
           <!-- Author bio -->
           <div class="author-bio">
