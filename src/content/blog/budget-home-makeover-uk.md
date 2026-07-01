@@ -38,7 +38,7 @@ I've made over a dozen rooms on budgets of £50–£200. Here's the framework th
 
 ---
 
-[living room budget ideas](/blog/living-room-budget-ideas-uk/)
+Read more: [living room budget ideas](/blog/living-room-budget-ideas-uk/)
 
 ## The Golden Rule: Free Interventions First
 

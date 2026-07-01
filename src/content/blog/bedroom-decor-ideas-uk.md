@@ -1,5 +1,5 @@
 ﻿---
-title: "12 Bedroom Decor Ideas for UK Homes — From Calm Neutrals to Boutique Retreat"
+title: "12 Bedroom Decor Ideas for UK Homes"
 description: "12 bedroom decor ideas for British homes covering colour, bedding, lighting, storage and styling. Real UK prices from Dunelm, Next, John Lewis and IKEA."
 image: "https://images.pexels.com/photos/1743229/pexels-photo-1743229.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-03-20"
@@ -38,7 +38,7 @@ We neglect the room we're in the most. Here are 12 ideas to fix that.
 
 ---
 
-[cosy bedroom ideas](/blog/cosy-bedroom-decor-ideas-uk/)
+Read more: [cosy bedroom ideas](/blog/cosy-bedroom-decor-ideas-uk/)
 
 ## 1. Choose Your Colour Before Anything Else
 
@@ -51,7 +51,7 @@ The three most reliable bedroom palettes for UK homes:
 
 I painted my bedroom in Crown Autumn Cashmere three years ago. It was the single biggest improvement I made to the room — not the bedding upgrade, not the new curtains. The colour came first and everything else responded to it.
 
-**Bold key point:** Bedroom paint — ~£20–£35 per 2.5L from [B&Q](https://www.diy.com).
+Bedroom paint — ~£20–£35 per 2.5L from [B&Q](https://www.diy.com).
 
 ---
 
@@ -63,7 +63,7 @@ That's it. The secret isn't luxury materials — it's the structure. A flat shee
 
 [Dunelm's Dorma collection](https://www.dunelm.com) covers all of this affordably: fitted sheets from ~£12, duvet covers from ~£22, euro pillows from ~£8. The full setup costs under £80.
 
-**Bold key point:** Full layered bedding setup — under £80 from Dunelm Dorma range.
+Full layered bedding setup — under £80 from Dunelm Dorma range.
 
 ---
 
@@ -77,7 +77,7 @@ I made one for my spare room using off-cut velvet from a fabric warehouse and it
 
 Alternatively, IKEA's upholstered headboards start at ~£85 and are excellent quality for the price. Check your tenancy agreement before wall-mounting anything — a floor-standing headboard avoids that question entirely.
 
-**Bold key point:** IKEA upholstered headboard — from ~£85 at (https://www.ikea.com/gb/).
+IKEA upholstered headboard — from ~£85 at (https://www.ikea.com/gb/).
 
 ---
 
@@ -89,7 +89,7 @@ Two bedside lamps, both at 2700K warm white, are the replacement. They cast a lo
 
 Lamps don't need to match perfectly. Two different lamps in complementary finishes (both brass, or both ceramic) look more personal than a matched pair. [Next Home](https://www.next.co.uk) has an excellent range of bedside lamps from ~£25 each.
 
-**Bold key point:** Two bedside lamps — from ~£25 each at Next Home.
+Two bedside lamps — from ~£25 each at Next Home.
 
 ---
 
@@ -99,7 +99,7 @@ Curtains hung at the window frame cut the room visually. Curtains hung 10–15cm
 
 Blackout lining is non-negotiable for a UK bedroom. British summers mean light at 4:30am and still light at 10pm — without blackout lining you're not sleeping through either. [Dunelm's made-to-measure blackout curtains](https://www.dunelm.com) start at around ~£35 per pair and can be ordered to exact ceiling height.
 
-**Bold key point:** Blackout curtains hung near ceiling — from ~£35 per pair at Dunelm.
+Blackout curtains hung near ceiling — from ~£35 per pair at Dunelm.
 
 ---
 
@@ -111,7 +111,7 @@ The rug should extend at least 60cm beyond the sides and foot of the bed. In a t
 
 A soft, deep-pile rug beside the bed achieves something a hard floor never can: it makes mornings feel gentler. This is genuinely restorative and not a small thing for overall wellbeing.
 
-**Bold key point:** Bedroom rug 160x230cm — from ~£45 at Dunelm.
+Bedroom rug 160x230cm — from ~£45 at Dunelm.
 
 ---
 
@@ -121,7 +121,7 @@ A dedicated dressing area — even just a small mirror on a wall, a stool, and a
 
 In small UK bedrooms, a wall-mounted mirror above a chest of drawers creates a dressing table area without occupying additional floor space. Add a small tray for perfume bottles, a candle, and a few favourite objects. The chest of drawers already exists; the mirror and tray cost ~£20–£40 total.
 
-**Bold key point:** Round wall mirror for dressing area — from ~£25 at Dunelm.
+Round wall mirror for dressing area — from ~£25 at Dunelm.
 
 ---
 
@@ -131,7 +131,7 @@ A throw folded at the foot of the bed or draped over the corner of an armchair i
 
 Natural fibres work better than synthetic for this: a wool or cashmere-mix throw has a weight and drape that acrylic cannot replicate. [John Lewis](https://www.johnlewis.com) does excellent wool throws from ~£35. Next Home's faux mohair range (~£28) is an excellent mid-range alternative.
 
-**Bold key point:** Wool-mix throw — from ~£28 at Next Home.
+Wool-mix throw — from ~£28 at Next Home.
 
 ---
 
@@ -143,7 +143,7 @@ One lamp (tall). One small plant or candle (medium). One book or small dish (low
 
 The lamp does the heavy lifting visually — choose something with character. Ceramic bases in earthy tones are particularly good in British bedrooms.
 
-**Bold key point:** Ceramic bedside lamp — from ~£28 at [Next Home](https://www.next.co.uk).
+Ceramic bedside lamp — from ~£28 at [Next Home](https://www.next.co.uk).
 
 ---
 
@@ -155,7 +155,7 @@ Botanical prints, textural linens, and soft geometric patterns all work well in 
 
 Renters: check with your landlord before applying, and confirm with the manufacturer that the product is truly damage-free. Most modern versions are, but it's worth the conversation.
 
-**Bold key point:** Peel-and-stick wallpaper for feature wall — from ~£18 per roll on Amazon UK.
+Peel-and-stick wallpaper for feature wall — from ~£18 per roll on Amazon UK.
 
 ---
 
@@ -165,7 +165,7 @@ Scent in a bedroom is different from scent in a living room. The bedroom benefit
 
 Beyond sleep, a consistently scented bedroom becomes associated in your brain with rest — a form of environmental conditioning that helps the winding-down process happen faster. This Works' Deep Sleep Pillow Spray (~£19 from [John Lewis](https://www.johnlewis.com)) is the most commonly recommended option and genuinely earns its reputation.
 
-**Bold key point:** Lavender pillow spray — ~£19 from This Works at John Lewis.
+Lavender pillow spray — ~£19 from This Works at John Lewis.
 
 ---
 
@@ -177,7 +177,7 @@ The goal isn't minimalism — it's managed visibility. Everything you need daily
 
 This costs nothing and takes an afternoon. It's one of the highest-impact changes on this list.
 
-**Bold key point:** Storage baskets to hide clutter — from ~£8 each at Dunelm.
+Storage baskets to hide clutter — from ~£8 each at Dunelm.
 
 ---
 

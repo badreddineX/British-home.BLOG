@@ -1,5 +1,5 @@
 ﻿---
-title: "Spring Home Refresh Ideas UK: How to Lighten and Brighten Your British Home for the New Season"
+title: "Spring Home Refresh Ideas UK: Lighten and Brighten"
 description: "How to refresh your UK home for spring — lighter textiles, fresh colours, a proper declutter, and bringing nature inside. Practical ideas from UK shops with prices."
 image: "https://images.pexels.com/photos/4846097/pexels-photo-4846097.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-05-22"
@@ -40,7 +40,7 @@ I do a proper spring refresh every March. Here's the system I've developed — c
 
 ---
 
-[living room styling year-round](/blog/how-to-style-a-living-room-uk/)
+Read more: [living room styling year-round](/blog/how-to-style-a-living-room-uk/)
 
 ## 1. Declutter First — Before Adding Anything
 
@@ -88,7 +88,7 @@ This is the parallel to the autumn cushion swap — but in reverse. Out go the h
 
 I store my winter and spring textiles separately — two large vacuum storage bags that swap seasonally. The spring bag contains lighter throws in sage and blush, cotton cushion covers, and the lighter-tog duvet. The winter bag has the velvet, the chunky knits, and the heavyweight duvet. The swap takes an hour and completely changes the feeling of the home.
 
-**Bold key point:** Vacuum storage bags from [Amazon UK](https://www.amazon.co.uk) (~£12 for a set of four) compress winter textiles to a fraction of their normal size.
+Vacuum storage bags from [Amazon UK](https://www.amazon.co.uk) (~£12 for a set of four) compress winter textiles to a fraction of their normal size.
 
 ---
 
@@ -104,7 +104,7 @@ Spring colour in British home interiors is not the bright, saturated palette of 
 - **Sky blue** — the specific pale blue of a British spring sky when it does appear. Very good as an accent.
 - **Warm white** — switching from winter's warm amber tones to a fresher warm white reads as spring without being startling.
 
-**Bold key point:** The easiest way to introduce spring colour is through a few new cushion covers and a bunch of spring flowers — both cost under £20 and can change the feeling of a room entirely.
+The easiest way to introduce spring colour is through a few new cushion covers and a bunch of spring flowers — both cost under £20 and can change the feeling of a room entirely.
 
 ---
 
@@ -136,7 +136,7 @@ Spring is when British homes want to breathe again after months of closed-curtai
 - **Add a mirror opposite your main window** — this reflects spring light deep into the room
 - **Switch to lighter lampshades** — a white or cream shade lets more light through than a dark fabric
 
-**Bold key point:** A large mirror opposite a window can effectively double the sense of light in a room. (https://www.ikea.com/gb) has good large mirrors from ~£45.
+A large mirror opposite a window can effectively double the sense of light in a room. (https://www.ikea.com/gb) has good large mirrors from ~£45.
 
 ---
 

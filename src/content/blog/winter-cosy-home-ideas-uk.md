@@ -1,5 +1,5 @@
 ﻿---
-title: "Winter Cosy Home Ideas UK: How to Make Your British Home Feel Genuinely Warm All Winter"
+title: "Winter Cosy Home Ideas UK: Make Your Home Feel Warm"
 description: "How to make your UK home feel warm and cosy through the British winter — draught-proofing, layered lighting, heavy curtains, warm scents, and hibernation corners."
 image: "https://images.pexels.com/photos/6045249/pexels-photo-6045249.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-06-05"
@@ -40,7 +40,7 @@ According to the Energy Saving Trust, UK households spend an average of £1,400 
 
 ---
 
-[autumn transition to winter](/blog/autumn-home-decor-ideas-uk/)
+Read more: [autumn transition to winter](/blog/autumn-home-decor-ideas-uk/)
 
 ## 1. Draught-Proofing: The Unglamorous Foundation of a Warm Home
 
@@ -99,7 +99,7 @@ We've talked about 2700K warm white bulbs as the year-round standard for British
 
 The difference from 2700K to 2200K is subtle when you look at a single bulb. But in a whole room, layered across three or four lamp sources, on a dark January evening with the curtains drawn, the effect is significant.
 
-**Bold key point:** 2200K bulbs cost ~£6 for a four-pack from [Amazon UK](https://www.amazon.co.uk) — Philips Warm Glow is the most reliable brand. Worth buying in October and swapping in before the clocks go back.
+2200K bulbs cost ~£6 for a four-pack from [Amazon UK](https://www.amazon.co.uk) — Philips Warm Glow is the most reliable brand. Worth buying in October and swapping in before the clocks go back.
 
 Add to this:
 - **Candles** — pillar candles, tealights, and taper candles throughout the room. Not just on the mantelpiece.
@@ -120,7 +120,7 @@ Winter textiles are heavier, denser, and warmer than their spring or summer equi
 
 In my own home, the winter textile setup costs me an additional ~£0 per year because I store and rotate seasonally. The outlay happened once; the benefit recurs every year.
 
-**Bold key point:** [Next Home](https://www.next.co.uk) consistently does the best chunky throws for the price — from ~£25 in their seasonal range. [Dunelm](https://www.dunelm.com) has good options from ~£18.
+[Next Home](https://www.next.co.uk) consistently does the best chunky throws for the price — from ~£25 in their seasonal range. [Dunelm](https://www.dunelm.com) has good options from ~£18.
 
 ---
 

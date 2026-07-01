@@ -1,6 +1,6 @@
 ﻿---
-title: "Bedroom Colour Ideas UK: The Best Paint Colours for British Bedrooms in 2026"
-description: "The best bedroom paint colours for UK homes — warm neutrals, moody blues, sage greens, and blush tones that work in real British light. With UK paint brand recommendations."
+title: "Bedroom Colour Ideas UK: Best Paint Colours for 2026"
+description: "The best paint colours for British bedrooms in 2026 — warm neutrals, muted blues, and bold statement tones with UK retailer picks from Dulux and Farrow & Ball."
 image: "https://images.pexels.com/photos/3049121/pexels-photo-3049121.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-06-19"
 dateModified: "2026-06-19"
@@ -38,7 +38,7 @@ I've painted my bedroom twice in the past four years. The first time, following 
 
 ---
 
-[bedroom decor full guide](/blog/bedroom-decor-ideas-uk/)
+Read more: [bedroom decor full guide](/blog/bedroom-decor-ideas-uk/)
 
 ## 1. Warm Neutrals: The Safest Bet for Any British Bedroom
 
@@ -53,7 +53,7 @@ The specific shades that work:
 
 I repainted my bedroom in Crown Country Cream after the cool grey failure. The difference was immediate and significant — not just aesthetically, but in how the room felt to be in. Warm neutrals have an effect on mood that cooler colours don't.
 
-**Bold key point:** Dulux Goose Down 2.5L — ~£22 from [B&Q](https://www.diy.com). Covers approximately 30–35 square metres.
+Dulux Goose Down 2.5L — ~£22 from [B&Q](https://www.diy.com). Covers approximately 30–35 square metres.
 
 ---
 
@@ -71,7 +71,7 @@ The off-whites that actually work:
 
 Avoid Farrow & Ball Strong White and Dulux Pure Brilliant White in bedrooms. Both have blue undertones that fight grey light and lose.
 
-**Bold key point:** Dulux Timeless 2.5L — ~£22 from B&Q. The safest light-bedroom choice in the Dulux range.
+Dulux Timeless 2.5L — ~£22 from B&Q. The safest light-bedroom choice in the Dulux range.
 
 ---
 
@@ -90,7 +90,7 @@ The shades to consider:
 
 Sage green works in north-facing bedrooms specifically because its grey undertone matches the light rather than fighting it. This is the opposite of what you'd expect — you'd assume a grey-toned colour would make a grey-lit room feel drearier. In practice, the tonal harmony creates calm rather than flatness.
 
-**Bold key point:** Farrow & Ball Mizzle 2.5L — ~£59 from [Farrow & Ball](https://www.farrow-ball.com). Works in both north- and south-facing rooms.
+Farrow & Ball Mizzle 2.5L — ~£59 from [Farrow & Ball](https://www.farrow-ball.com). Works in both north- and south-facing rooms.
 
 ---
 
@@ -108,7 +108,7 @@ Blues that work well:
 
 Blues to avoid: bright cerulean (too stimulating), pale sky blue (reads cold and flat in UK light), and anything with obvious purple undertones in north-facing rooms — they can look bruised rather than dusky.
 
-**Bold key point:** Farrow & Ball Hague Blue 2.5L — ~£59 from [Farrow & Ball](https://www.farrow-ball.com). Most impactful as a feature wall behind the bed.
+Farrow & Ball Hague Blue 2.5L — ~£59 from [Farrow & Ball](https://www.farrow-ball.com). Most impactful as a feature wall behind the bed.
 
 ---
 
@@ -127,7 +127,7 @@ The dusty pinks that work:
 
 Blush works particularly well paired with warm brass fixtures, natural linen bedding, and wooden furniture — the classic British country-house bedroom palette updated for 2026.
 
-**Bold key point:** Little Greene Dorchester Pink 2.5L — ~£48 from [Little Greene](https://www.littlegreene.com). One of the most requested colours in period-home bedroom renovations.
+Little Greene Dorchester Pink 2.5L — ~£48 from [Little Greene](https://www.littlegreene.com). One of the most requested colours in period-home bedroom renovations.
 
 ---
 
@@ -146,7 +146,7 @@ The deep tones that translate best:
 
 A friend painted her spare bedroom in Farrow & Ball Studio Green on my recommendation. She was nervous — the room is only 9 square metres. The result was the most frequently photographed room in her home for the next two years. Small rooms and deep colours are not enemies.
 
-**Bold key point:** Dulux Night Jewels 2.5L — ~£22 from [B&Q](https://www.diy.com). Deep teal-navy that reads beautifully under warm lamp light.
+Dulux Night Jewels 2.5L — ~£22 from [B&Q](https://www.diy.com). Deep teal-navy that reads beautifully under warm lamp light.
 
 ---
 
@@ -163,7 +163,7 @@ Earthy tones worth considering:
 - **Dulux Terracotta Dream** (~£22 per 2.5L) — a mid-terracotta, more orange-forward than the Farrow & Ball options. Good for a single feature wall.
 - **Crown Warm Clay** (~£18 per 2.5L) — a pale, dusty clay neutral. Closer to a terracotta-tinted warm neutral than a full terracotta. A brilliant bridge colour.
 
-**Bold key point:** Farrow & Ball Red Earth 2.5L — ~£59 from [Farrow & Ball](https://www.farrow-ball.com). The most sophisticated terracotta in the UK premium range.
+Farrow & Ball Red Earth 2.5L — ~£59 from [Farrow & Ball](https://www.farrow-ball.com). The most sophisticated terracotta in the UK premium range.
 
 ---
 
@@ -179,7 +179,7 @@ The feature wall colour should be two to three shades deeper than the remaining 
 
 A feature wall also allows you to trial a deep or saturated colour without committing to all four walls. If you're not sure about Farrow & Ball Studio Green, putting it on the chimney breast behind the bed gives you a real sense of how it reads in your room's specific light before you commit to the full four-wall version.
 
-**Bold key point:** Feature wall paint sample — test with A4 patches in at least three positions before committing. Dulux sample pots ~£3–£5 each.
+Feature wall paint sample — test with A4 patches in at least three positions before committing. Dulux sample pots ~£3–£5 each.
 
 ---
 
@@ -195,7 +195,7 @@ I tested seven paint samples for my last bedroom repaint, observing each in morn
 
 Dulux, Crown, and B&Q all sell sample pots for ~£3–£5 each. Farrow & Ball sample pots are ~£5–£7. With 2–3 samples to test, the budget for proper testing is £10–£20 — significantly cheaper than repainting a bedroom that isn't working.
 
-**Bold key point:** Farrow & Ball sample pots — ~£5–£7 each from [Farrow & Ball](https://www.farrow-ball.com). Always test in multiple spots.
+Farrow & Ball sample pots — ~£5–£7 each from [Farrow & Ball](https://www.farrow-ball.com). Always test in multiple spots.
 
 ---
 
@@ -214,7 +214,7 @@ Noticeably better coverage than budget tiers, often one-coat capability on light
 **Premium tier (£45–£65 per 2.5L) — Farrow & Ball, Little Greene, Paint & Paper Library:**
 The pigment depth at this level is genuinely different. Deep colours in particular — Forest Green, Hague Blue, Studio Green — look considerably richer and more complex than budget equivalents. The coverage is excellent. For deep, moody bedroom colours specifically, the premium difference is visible and arguably worth it.
 
-**Bold key point:** Little Greene Aqua range — ~£33 per 2.5L from [B&Q](https://www.diy.com). Mid-tier pricing with premium-brand colours.
+Little Greene Aqua range — ~£33 per 2.5L from [B&Q](https://www.diy.com). Mid-tier pricing with premium-brand colours.
 
 ---
 
@@ -230,9 +230,9 @@ You have more freedom. Cooler tones can work because the direct sunlight warms t
 
 East-facing bedrooms get morning sun; west-facing get afternoon and evening sun. For east-facing rooms, test colours specifically in afternoon light (when the morning sun is gone). For west-facing rooms, they look their best in the evenings — which is fortuitous for a bedroom.
 
-[bedroom makeover guide](/blog/bedroom-makeover-uk/)
+Read more: [bedroom makeover guide](/blog/bedroom-makeover-uk/)
 
-**Bold key point:** Free orientation check — look up your postcode on Google Maps satellite view. The directional shadow of your house tells you exactly which way your bedroom faces.
+Free orientation check — look up your postcode on Google Maps satellite view. The directional shadow of your house tells you exactly which way your bedroom faces.
 
 ---
 

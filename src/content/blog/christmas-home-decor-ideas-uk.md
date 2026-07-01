@@ -1,5 +1,5 @@
 ﻿---
-title: "Christmas Home Decor Ideas UK: How to Decorate a British Home for Christmas Without It Looking Generic"
+title: "Christmas Home Decor Ideas UK: British Styling Guide"
 description: "How to decorate a British home for Christmas with real character — traditional styling, specific product picks at every budget, and ideas that work in UK rooms."
 image: "https://images.pexels.com/photos/3312671/pexels-photo-3312671.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-06-12"
@@ -40,7 +40,7 @@ I've put together a guide to doing Christmas properly in a British home — with
 
 ---
 
-[autumn-to-winter seasonal decorating](/blog/autumn-home-decor-ideas-uk/)
+Read more: [autumn-to-winter seasonal decorating](/blog/autumn-home-decor-ideas-uk/)
 
 ## 1. Get Your Colour Palette Right First
 
@@ -56,7 +56,7 @@ The British Christmas palette in 2026 goes well beyond red and green. The most a
 
 The mistake isn't choosing a bold palette — it's not choosing one at all. A room decorated in forest green, navy, red, silver, white, and gold simultaneously looks chaotic because there's no thread connecting the elements. Pick two or three tones and stick to them for every element: tree, ornaments, candles, table, wrapping paper.
 
-**Bold key point:** Decide your palette before buying anything. Take a photo of your living room and test digital colour swatches before committing to a scheme.
+Decide your palette before buying anything. Take a photo of your living room and test digital colour swatches before committing to a scheme.
 
 ---
 
@@ -91,7 +91,7 @@ The Nordmann fir is the standard British Christmas tree choice: it holds its nee
 
 If you genuinely can't have a real tree (a very small flat, allergies, or a permanent situation), the best artificial trees use real branch tips and have irregular, natural-looking density. Avoid perfectly symmetrical, ultra-dense artificial trees — they look like green cones.
 
-**Bold key point:** Real trees from ~£30 for a 5ft Nordmann fir at [B&Q](https://www.diy.com) or local garden centres. Pot-grown trees can be replanted after Christmas — check with your local council about suitable sites.
+Real trees from ~£30 for a 5ft Nordmann fir at [B&Q](https://www.diy.com) or local garden centres. Pot-grown trees can be replanted after Christmas — check with your local council about suitable sites.
 
 ---
 

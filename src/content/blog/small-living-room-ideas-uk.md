@@ -1,5 +1,5 @@
 ﻿---
-title: "Small Living Room Ideas UK — 11 Ways to Make Your Flat Feel Bigger"
+title: "Small Living Room Ideas UK: 11 Ways to Feel Bigger"
 description: "11 practical small living room ideas for UK flats — layout tricks, mirror placement, rug sizing, lighting and furniture tips. Real fixes for small British spaces."
 image: "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-03-13"
@@ -38,7 +38,7 @@ I live in a 15-square-metre living room in a 1930s semi. Here's what actually wo
 
 ---
 
-[living room styling guide](/blog/how-to-style-a-living-room-uk/)
+Read more: [living room styling guide](/blog/how-to-style-a-living-room-uk/)
 
 ## 1. Hang Curtains Close to the Ceiling
 
@@ -48,7 +48,7 @@ The curtains should be wide, too — extending 15–20cm past the window frame o
 
 If your current curtain pole is mounted at window height, moving it up may simply require repositioning the existing brackets — a 30-minute job with a drill. If you're in a rented property, check your tenancy agreement before drilling new holes.
 
-**Bold key point:** Curtain pole repositioned near ceiling — free if you have a drill, or ~£8 for a new IKEA RÄCKA pole.
+Curtain pole repositioned near ceiling — free if you have a drill, or ~£8 for a new IKEA RÄCKA pole.
 
 ---
 
@@ -60,7 +60,7 @@ This applies to coffee tables and side tables too. A glass or acrylic coffee tab
 
 I replaced my skirted three-seater with a raised-leg sofa (IKEA Söderhamn, ~£499) and the room felt measurably more open before I changed anything else. The sofa is only slightly smaller in footprint but the visible floor beneath it transformed the room.
 
-**Bold key point:** Sofa with visible legs — IKEA Söderhamn from ~£499 at (https://www.ikea.com/gb/).
+Sofa with visible legs — IKEA Söderhamn from ~£499 at (https://www.ikea.com/gb/).
 
 ---
 
@@ -72,7 +72,7 @@ The mirror should be statement-sized — at least 60–80cm wide — to have rea
 
 Round mirrors are particularly good in small rooms because they avoid competing with the room's angular architecture. [Dunelm's mirror range](https://www.dunelm.com) starts at ~£25 and includes excellent large-format options.
 
-**Bold key point:** Large round mirror — from ~£25 at Dunelm.
+Large round mirror — from ~£25 at Dunelm.
 
 ---
 
@@ -84,7 +84,7 @@ The correct minimum in even a small UK living room: at least the front legs of a
 
 The correctly sized rug paradox: in a small room, the correctly sized rug makes the room feel bigger than a smaller rug, because it defines the space rather than fragmenting it visually.
 
-**Bold key point:** Correctly sized rug 160x230cm — from ~£45 at Dunelm.
+Correctly sized rug 160x230cm — from ~£45 at Dunelm.
 
 ---
 
@@ -94,7 +94,7 @@ Many people assume white is the best colour for a small room. In UK conditions, 
 
 Warm neutrals — Dulux Goose Down, Crown Fossil, Farrow & Ball Pavilion Grey (which despite its name reads very warm) — work better. They add warmth, they read as brighter than they are because warm tones respond well to lamplight in the evening, and they don't draw attention to the room's limited size the way that a very particular or saturated colour might.
 
-**Bold key point:** Warm neutral paint — Dulux Goose Down ~£22 per 2.5L from [B&Q](https://www.diy.com).
+Warm neutral paint — Dulux Goose Down ~£22 per 2.5L from [B&Q](https://www.diy.com).
 
 ---
 
@@ -106,7 +106,7 @@ In a small living room, a grid of floating shelves on one wall — styled with b
 
 Renters: floating shelves require wall fixings. Check your tenancy agreement — some landlords permit shelving with written approval, especially if you agree to fill the holes on exit.
 
-**Bold key point:** Floating shelf — IKEA LACK from ~£8 at IKEA.
+Floating shelf — IKEA LACK from ~£8 at IKEA.
 
 ---
 
@@ -116,7 +116,7 @@ In a small living room, sofa scale matters more than almost any other furniture 
 
 Standard UK sofas are often too deep for small living rooms. Look for sofas described as "apartment" or "compact" sizes — [Dunelm](https://www.dunelm.com) and [Next Home](https://www.next.co.uk) both label these clearly. Pair with a single armchair for flexibility without bulk.
 
-**Bold key point:** Compact two-seater sofa — from ~£299 at Next Home.
+Compact two-seater sofa — from ~£299 at Next Home.
 
 ---
 
@@ -128,7 +128,7 @@ They're particularly useful for small flats where the living room doubles as a d
 
 [Dunelm](https://www.dunelm.com) and [Wayfair](https://www.wayfair.co.uk) both stock nesting tables from ~£35 per set.
 
-**Bold key point:** Set of nesting tables — from ~£35 at Dunelm.
+Set of nesting tables — from ~£35 at Dunelm.
 
 ---
 
@@ -138,7 +138,7 @@ An oversized television in a small living room dominates the space visually and 
 
 For a small UK living room with a typical sofa-to-TV distance of 2–2.5 metres, a 43–50 inch screen is the right proportion. Going larger doesn't improve the experience — it just makes the screen more visually dominant when switched off.
 
-**Bold key point:** Correct TV size for small rooms: 43–50 inches at 2–2.5m viewing distance.
+Correct TV size for small rooms: 43–50 inches at 2–2.5m viewing distance.
 
 ---
 
@@ -148,7 +148,7 @@ Rather than relying on a central ceiling rose (which draws the eye to the middle
 
 Plug-in pendant lights — which don't require rewiring and work in rented properties — are available from [Dunelm](https://www.dunelm.com) from ~£22. These hang from a ceiling hook (which can be adhesive in plaster ceilings) and the cord runs to a wall plug.
 
-**Bold key point:** Plug-in pendant light — from ~£22 at Dunelm.
+Plug-in pendant light — from ~£22 at Dunelm.
 
 ---
 
@@ -160,7 +160,7 @@ The test: does this object make the room better to be in, or does it just exist?
 
 In my own small living room, removing seven objects from surfaces and shelves made the space feel measurably more open. No new purchases were involved. The act of creating visible space is more effective than filling it.
 
-**Bold key point:** Cost: nothing. Set aside an hour to edit without adding anything.
+Cost: nothing. Set aside an hour to edit without adding anything.
 
 ---
 

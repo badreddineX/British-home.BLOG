@@ -1,5 +1,5 @@
 ﻿---
-title: "Cosy Home Decor Ideas UK: The Complete Guide to Genuine Warmth in Any British Home"
+title: "Cosy Home Decor Ideas UK: Guide to Genuine Warmth"
 description: "How to make any UK home feel genuinely cosy — layered lighting, textiles, scent, and the British approach to hygge. Practical ideas with UK prices and retailers."
 image: "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-01-26"
@@ -40,7 +40,7 @@ I've been obsessing over this question — what actually creates cosiness rather
 
 ---
 
-[living room decor ideas](/blog/living-room-ideas-uk/)
+Read more: [living room decor ideas](/blog/living-room-ideas-uk/)
 
 ## 1. Lighting: The Single Biggest Factor in Cosiness
 
@@ -58,7 +58,7 @@ What to do instead:
 
 The ceiling light stays off after 4pm. This one rule changes the entire feeling of an evening.
 
-**Bold key point:** Dimmer switches make a huge difference if you can install them. They're landlord-friendly in an owned home and cost ~£12–£20 per switch from [B&Q](https://www.diy.com).
+Dimmer switches make a huge difference if you can install them. They're landlord-friendly in an owned home and cost ~£12–£20 per switch from [B&Q](https://www.diy.com).
 
 ---
 

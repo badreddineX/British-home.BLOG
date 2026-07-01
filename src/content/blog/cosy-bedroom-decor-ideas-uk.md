@@ -38,7 +38,7 @@ The good news: the elements that create genuine bedroom cosiness are specific, l
 
 ---
 
-[bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/)
+Read more: [bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/)
 
 ## 1. Apply the 2700K Rule to Every Bulb
 
@@ -50,7 +50,7 @@ Then: the overhead light goes off after 8pm. The bedroom is lit only from the be
 
 I tested this side by side in two identical hotel rooms on a press trip — one with 4000K overhead only, one with 2700K bedside lamps. The difference was striking. The warmer room felt smaller and safer in the best possible sense. I replaced all my bedroom bulbs that same week.
 
-**Bold key point:** 4-pack 2700K warm white bulbs — ~£8 from Amazon UK.
+4-pack 2700K warm white bulbs — ~£8 from Amazon UK.
 
 ---
 
@@ -62,7 +62,7 @@ The flat sheet is the element most British bedrooms skip — and it's the one th
 
 Euro pillows add height and architecture. Without them, most UK double beds look slightly flat. At ~£8 each from Dunelm, they're one of the best-value bedroom upgrades available.
 
-**Bold key point:** Full layered bedding setup — under £80 from Dunelm Dorma range.
+Full layered bedding setup — under £80 from Dunelm Dorma range.
 
 ---
 
@@ -74,7 +74,7 @@ Blackout curtains don't have to be ugly heavy things. Modern blackout fabrics co
 
 For maximum cosiness: velvet blackout curtains in deep green, navy, or warm terracotta create exactly the enveloping quality a bedroom retreat needs. Hang them close to the ceiling and wide of the window frame.
 
-**Bold key point:** Made-to-measure blackout curtains — from ~£35 at Dunelm.
+Made-to-measure blackout curtains — from ~£35 at Dunelm.
 
 ---
 
@@ -86,7 +86,7 @@ The rug should extend at least 60cm beyond both sides of the bed and 60cm at the
 
 The bedside rug is the one piece of home decor that is experienced through touch rather than sight. This makes it different from almost every other decorating decision. Buy the softest one you can find within your budget, not the most visually interesting.
 
-**Bold key point:** Deep-pile bedroom rug — from ~£25 at Dunelm.
+Deep-pile bedroom rug — from ~£25 at Dunelm.
 
 ---
 
@@ -101,7 +101,7 @@ The specific pieces worth investing in for a cosy bedroom:
 
 Renters and budget-conscious readers: prioritise the throw first. A single good-quality throw does more to make a bed look and feel luxurious than almost any other single purchase.
 
-**Bold key point:** Wool-mix chunky knit throw — from ~£28 at [Next Home](https://www.next.co.uk).
+Wool-mix chunky knit throw — from ~£28 at [Next Home](https://www.next.co.uk).
 
 ---
 
@@ -113,7 +113,7 @@ This Works Deep Sleep Pillow Spray (~£19 from [John Lewis](https://www.johnlewi
 
 Beyond lavender: chamomile, sandalwood, and vetiver all have supporting evidence. A reed diffuser on the bedside table or a small beeswax candle (burned for 30 minutes and extinguished before sleep) also creates the right atmospheric association.
 
-**Bold key point:** This Works Deep Sleep Pillow Spray — ~£19 from John Lewis.
+This Works Deep Sleep Pillow Spray — ~£19 from John Lewis.
 
 ---
 
@@ -127,7 +127,7 @@ This is not minimalism for its own sake. It's the creation of a surface that sup
 
 I tracked my sleep quality (using a fitness tracker) across 30 nights with a cluttered bedside table, then 30 nights with a cleared one. Average sleep onset time: 24 minutes with clutter, 17 minutes with a cleared surface. The seven-minute difference compounds significantly over months.
 
-**Bold key point:** Small ceramic tray to contain bedside objects — from ~£8 at Dunelm.
+Small ceramic tray to contain bedside objects — from ~£8 at Dunelm.
 
 ---
 

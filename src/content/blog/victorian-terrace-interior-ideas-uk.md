@@ -1,5 +1,5 @@
 ﻿---
-title: "Victorian Terrace Interior Ideas — How to Style a Period Home Without Losing Its Soul"
+title: "Victorian Terrace Interior Ideas: Style a Period Home"
 description: "Specific interior guide for Victorian terraced houses — restoring cornicing, fireplaces and encaustic tiles, period-appropriate colour palettes, mixing old and new."
 image: "https://images.pexels.com/photos/3935333/pexels-photo-3935333.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-04-17"
@@ -38,7 +38,7 @@ I own a mid-Victorian terrace in the north of England. I've spent four years ret
 
 ---
 
-[home interior ideas](/blog/home-interior-ideas-uk/)
+Read more: [home interior ideas](/blog/home-interior-ideas-uk/)
 
 ## 1. Restore Original Features — Never Remove Them
 
@@ -54,7 +54,7 @@ What to restore rather than remove:
 
 I removed a dado rail in my dining room during a previous renovation, thinking it looked dated. I spent two years looking at the blank wall before having it reinstated. The room looked better with it in 20 minutes than it had without it for two years.
 
-**Bold key point:** Fibrous plaster replacement coving — from ~£8 per metre from specialist suppliers.
+Fibrous plaster replacement coving — from ~£8 per metre from specialist suppliers.
 
 ---
 
@@ -68,7 +68,7 @@ For those on a tighter budget, [B&Q's Valspar](https://www.diy.com) and Dulux He
 
 The dado rail's traditional colour division — darker, more saturated below the rail and lighter above — was functional as well as aesthetic. The lower half of a Victorian room collected far more scuff marks, handprints, and soot than the upper half. Deep colour below the dado conceals wear beautifully. This remains true in homes with children and dogs.
 
-**Bold key point:** Little Greene period colour paint — from ~£48 per 2.5L at [johnlewis.com](https://www.johnlewis.com).
+Little Greene period colour paint — from ~£48 per 2.5L at [johnlewis.com](https://www.johnlewis.com).
 
 ---
 
@@ -82,7 +82,7 @@ If they're in reasonable condition, a regular maintenance clean using a pH-neutr
 
 I uncovered original encaustic tiles in my hallway from under three layers of flooring: carpet, hardboard, and lino. The tiles were in near-perfect condition. The restoration cost £95 for a professional clean and seal. Estate agents later valued the hallway's contribution to the property at approximately £3,000 in buyer appeal.
 
-**Bold key point:** Professional encaustic tile clean and seal — ~£80–£150.
+Professional encaustic tile clean and seal — ~£80–£150.
 
 ---
 
@@ -94,7 +94,7 @@ A blocked or boarded-up Victorian fireplace is always worth opening. Even if the
 
 Never replace an original Victorian fireplace surround with a modern gas or electric insert unless the original surround is genuinely beyond restoration. Modern inserts can be fitted within original surrounds while preserving the period character.
 
-**Bold key point:** Original Victorian cast iron fireplace from salvage yard — from ~£100.
+Original Victorian cast iron fireplace from salvage yard — from ~£100.
 
 ---
 
@@ -106,7 +106,7 @@ The key to mixing well is proportion and confidence. Victorian rooms have genero
 
 What doesn't mix well in a Victorian room: the mass-market Scandi aesthetic that dominates contemporary British interior design. Light birch, flat-pack furniture, and bare concrete work beautifully in spaces designed for them. In a Victorian room with deep cornicing and an original fireplace, they tend to look underscaled and slightly apologetic.
 
-**Bold key point:** Mix periods confidently — the architecture is strong enough to lead the conversation.
+Mix periods confidently — the architecture is strong enough to lead the conversation.
 
 ---
 
@@ -118,7 +118,7 @@ The process typically costs ~£300–£600 per room for professional sanding and
 
 In bedrooms, a wool or wool-look carpet in a deep tone (dark green, burgundy, navy) is period-appropriate and adds warmth and quiet to rooms that were always carpeted in the original Victorian arrangement.
 
-**Bold key point:** Professional floor sanding and finishing — from ~£300 per room.
+Professional floor sanding and finishing — from ~£300 per room.
 
 ---
 
@@ -130,7 +130,7 @@ Use pendant lights on long cords from the ceiling rose — this is the original 
 
 [Dunelm](https://www.dunelm.com) and [Wayfair UK](https://www.wayfair.co.uk) both stock pendant lights appropriate for Victorian rooms. For a particularly authentic look, a cluster of Edison-style filament bulbs — warm, amber, and visible — suits the period perfectly.
 
-**Bold key point:** Period-style pendant light — from ~£35 at Dunelm.
+Period-style pendant light — from ~£35 at Dunelm.
 
 ---
 

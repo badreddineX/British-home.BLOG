@@ -1,5 +1,5 @@
 ﻿---
-title: "Maximalist Living Room Decor — How to Do More is More in a British Home"
+title: "Maximalist Living Room Decor in a British Home"
 description: "Practical maximalist living room guide for British homes — colour anchoring, pattern mixing rules, gallery wall method, object grouping and knowing when to stop."
 image: "https://images.pexels.com/photos/1648768/pexels-photo-1648768.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-05-08"
@@ -38,7 +38,7 @@ I've been a committed maximalist for three years. I've made many of the mistakes
 
 ---
 
-[maximalist home decor UK](/blog/maximalist-home-decor-uk/)
+Read more: [maximalist home decor UK](/blog/maximalist-home-decor-uk/)
 
 ## 1. Anchor the Room With One Dominant Colour
 
@@ -50,7 +50,7 @@ My living room anchors on a deep olive green sofa. Every other colour choice —
 
 [Next Home](https://www.next.co.uk) and [Dunelm](https://www.dunelm.com) both stock sofas in the bold, saturated tones that maximalism requires. Look specifically at velvet finishes — they hold colour with a depth that other materials don't achieve.
 
-**Bold key point:** Velvet anchor sofa in a maximalist colour — from ~£449 at Next Home.
+Velvet anchor sofa in a maximalist colour — from ~£449 at Next Home.
 
 ---
 
@@ -66,7 +66,7 @@ Pattern mixing is the element of maximalism that most intimidates people — and
 
 The pattern-mixing confidence level that separates novice maximalists from experienced ones is this: the novice stays in the same pattern family (all florals, or all geometrics). The experienced maximalist mixes families — a floral with a stripe with a solid texture — and the variety is precisely what makes it work.
 
-**Bold key point:** Patterned cushion cover selection — from ~£8 each at [Dunelm](https://www.dunelm.com).
+Patterned cushion cover selection — from ~£8 each at [Dunelm](https://www.dunelm.com).
 
 ---
 
@@ -84,7 +84,7 @@ The most reliable gallery wall formula for a British maximalist living room:
 - Leave 5–8cm between frames
 - Hang the largest piece first, then arrange others around it
 
-**Bold key point:** IKEA Ribba frames in multiple sizes — from £3.50 each at (https://www.ikea.com/gb/).
+IKEA Ribba frames in multiple sizes — from £3.50 each at (https://www.ikea.com/gb/).
 
 ---
 
@@ -99,7 +99,7 @@ The layering formula for a maximalist sofa:
 
 The throw and blanket can be the same or different — in maximalism, different is usually better. A velvet cushion cover against a chunky knit throw against a woven blanket: three textures, three different tactile experiences, all in the same zone.
 
-**Bold key point:** Velvet cushion covers — from ~£10 each at [Next Home](https://www.next.co.uk). Chunky knit throw — from ~£22 at Dunelm.
+Velvet cushion covers — from ~£10 each at [Next Home](https://www.next.co.uk). Chunky knit throw — from ~£22 at Dunelm.
 
 ---
 
@@ -113,7 +113,7 @@ The gaps are as important as the groups. The eye needs somewhere to rest between
 
 I tested two arrangements of the same 24 objects on a shelf: one scattered evenly across the length, one arranged in seven grouped clusters with gaps between. Every visitor who saw both arrangements preferred the grouped version. Average score on a 1–10 "styled vs cluttered" scale: 3.4 for scattered, 7.9 for grouped.
 
-**Bold key point:** Varied-height candleholders for grouping — from ~£4 each at Dunelm.
+Varied-height candleholders for grouping — from ~£4 each at Dunelm.
 
 ---
 
@@ -125,7 +125,7 @@ The common fear about dark paint in British rooms (where natural light is alread
 
 Farrow & Ball Hague Blue (~£60 per 2.5L) and Little Greene Inferno (~£48 per 2.5L) are two of the most-used deep maximalist colours in British homes. [B&Q's Valspar](https://www.diy.com) can match either shade for ~£25 per tin.
 
-**Bold key point:** Dark feature wall paint — from ~£25 per 2.5L at B&Q (matched to Hague Blue or similar).
+Dark feature wall paint — from ~£25 per 2.5L at B&Q (matched to Hague Blue or similar).
 
 ---
 
@@ -139,7 +139,7 @@ If you can identify something to remove, remove it. If the room improves, leave 
 
 This test takes experience to calibrate. The first time you apply it, you'll probably remove too much. The second time, too little. The third time, it starts to feel intuitive.
 
-**Bold key point:** The stop test costs nothing. Schedule 30 minutes to walk through and apply it rigorously.
+The stop test costs nothing. Schedule 30 minutes to walk through and apply it rigorously.
 
 ---
 

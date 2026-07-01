@@ -38,7 +38,7 @@ I've been pulling this aesthetic together in my own home for two years, sourcing
 
 ---
 
-[cosy home decor ideas](/blog/cosy-home-decor-ideas-uk/)
+Read more: [cosy home decor ideas](/blog/cosy-home-decor-ideas-uk/)
 
 ## 1. Start With the Right Colour Palette
 
@@ -48,7 +48,7 @@ For walls: Farrow & Ball Mole's Breath (warm grey-brown), String (pale warm crea
 
 For textiles: cream linen, dusty rose cotton, and oatmeal boucle. Avoid bright whites and anything with a synthetic sheen.
 
-**Bold key point:** Dulux Perfectly Taupe wall paint — ~£22 per 2.5L from B&Q.
+Dulux Perfectly Taupe wall paint — ~£22 per 2.5L from B&Q.
 
 ---
 
@@ -60,7 +60,7 @@ You don't need original Morris fabric. The William Morris Gallery in Walthamstow
 
 I have a Willow Bough print above my fireplace that I bought for £8 at a charity shop, originally sold as a greetings card. Framed in a charity shop frame repainted in sage green, it has received more compliments than anything I've bought new.
 
-**Bold key point:** William Morris framed print — from ~£15 on Amazon UK; originals from ~£8 at charity shops.
+William Morris framed print — from ~£15 on Amazon UK; originals from ~£8 at charity shops.
 
 ---
 
@@ -77,7 +77,7 @@ Key elements:
 
 The key is that nothing should look as though it arrived from a single shop in a coordinated collection. Cottagecore is the aesthetic of accumulated life. Mix periods, mix origins, mix scales.
 
-**Bold key point:** Dried botanical bundle for vases — from ~£8 at Dunelm.
+Dried botanical bundle for vases — from ~£8 at Dunelm.
 
 ---
 
@@ -91,7 +91,7 @@ Swap plastic containers for glass Kilner jars (~£2.50 each from [Amazon UK](htt
 
 The reason earthenware mugs and mismatched plates work better in cottagecore than matched sets is that they imply a history — cups bought at different times, in different places, accumulated over a life rather than selected from a catalogue. This is why genuine vintage pieces always beat reproduction: they carry real history.
 
-**Bold key point:** Glass Kilner jar set — from ~£10 for four jars on Amazon UK.
+Glass Kilner jar set — from ~£10 for four jars on Amazon UK.
 
 ---
 
@@ -107,7 +107,7 @@ The best sources for genuine British vintage cottagecore pieces:
 
 Over six months of charity shop sourcing for this post, I tracked 47 cottagecore-adjacent pieces purchased. Average cost per piece: £4.20. Equivalent reproduction cost from mid-range retailers: £18.40 per piece. The vintage pieces looked better in every case.
 
-**Bold key point:** Charity shop earthenware jug — typically ~£3–£8.
+Charity shop earthenware jug — typically ~£3–£8.
 
 ---
 
@@ -119,7 +119,7 @@ A vintage or vintage-look coat rack (~£25 from [Wayfair](https://www.wayfair.co
 
 If your hallway has original Victorian or Edwardian tiles (increasingly common in British terraced houses), resist any temptation to cover them. They're the single most valuable cottagecore element you can have and can't be replicated.
 
-**Bold key point:** Vintage-style coat rack — from ~£25 at Wayfair UK.
+Vintage-style coat rack — from ~£25 at Wayfair UK.
 
 ---
 
@@ -136,7 +136,7 @@ The best British-native cottagecore plants:
 
 For indoor plants, ferns need consistent moisture and indirect light — challenging in some UK homes. Ivy and pothos are more forgiving and equally authentic.
 
-**Bold key point:** Native fern from garden centre — from ~£4.
+Native fern from garden centre — from ~£4.
 
 ---
 
@@ -146,7 +146,7 @@ The cottagecore bedroom exists in its own post on this site (see [cottagecore be
 
 Dried ruscus, eucalyptus, and baby's breath all hold their shape for 12–18 months and create an ethereal, naturally beautiful backdrop to the bed. Total cost: ~£15–£25 from Dunelm or a florist's market.
 
-**Bold key point:** Dried eucalyptus bundle for bedroom display — from ~£6 at Dunelm.
+Dried eucalyptus bundle for bedroom display — from ~£6 at Dunelm.
 
 ---
 

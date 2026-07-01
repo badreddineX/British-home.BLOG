@@ -1,5 +1,5 @@
 ﻿---
-title: "Cosy Autumn Home Decor Ideas UK: How to Transition Your British Home for the Season"
+title: "Cosy Autumn Home Decor Ideas UK"
 description: "How to make your UK home feel properly autumnal — warm textiles, amber lighting, seasonal scents, and nature-inspired accents. All from UK shops, all with prices."
 image: "https://images.pexels.com/photos/6489103/pexels-photo-6489103.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-05-29"
@@ -40,7 +40,7 @@ I've developed a fairly reliable seasonal transition system — mostly cheap, pa
 
 ---
 
-[cosy home decor year-round](/blog/cosy-home-decor-ideas-uk/)
+Read more: [cosy home decor year-round](/blog/cosy-home-decor-ideas-uk/)
 
 ## 1. The September Cushion Swap
 
@@ -57,7 +57,7 @@ Summer cushions tend to be lighter — cotton, in soft pastels, terracotta, or p
 
 I keep a dedicated "autumn box" in my storage that comes out each September — four velvet cushion covers in terracotta and rust that replace my summer linen covers on the same cushion inserts. The swap takes ten minutes and the room looks completely different.
 
-**Bold key point:** [Dunelm](https://www.dunelm.com) typically launches its autumn textiles range in late August — velvet cushions from ~£8, faux-fur throws from ~£18.
+[Dunelm](https://www.dunelm.com) typically launches its autumn textiles range in late August — velvet cushions from ~£8, faux-fur throws from ~£18.
 
 ---
 
@@ -69,7 +69,7 @@ Standard 2700K warm white bulbs are good year-round. For autumn and winter eveni
 
 Swap the bulbs in your most-used lamps when September arrives. The difference from 2700K to 2200K is subtle but cumulative across an evening — by 9pm, a room lit entirely in 2200K feels noticeably more autumnal than one still on 2700K.
 
-**Bold key point:** 2200K bulbs cost ~£6 for a four-pack from [Amazon UK](https://www.amazon.co.uk). Philips Warm Glow and IKEA's *Ryet* range both produce this warmer output.
+2200K bulbs cost ~£6 for a four-pack from [Amazon UK](https://www.amazon.co.uk). Philips Warm Glow and IKEA's *Ryet* range both produce this warmer output.
 
 **Renter note:** Bulb swaps are the most deposit-safe lighting change possible. Keep the original bulbs and swap back when you leave.
 
@@ -150,7 +150,7 @@ Lean into this: display seasonal produce — gourds, apples, pears — on the ki
 
 An autumn kitchen doesn't need decorating so much as it needs to be allowed to be itself.
 
-**Bold key point:** A cast-iron casserole pot left on the hob when not in use is one of the most beautiful kitchen decorations there is. [Amazon UK](https://www.amazon.co.uk) carries Le Creuset equivalents (Lodge, Staub) from ~£45.
+A cast-iron casserole pot left on the hob when not in use is one of the most beautiful kitchen decorations there is. [Amazon UK](https://www.amazon.co.uk) carries Le Creuset equivalents (Lodge, Staub) from ~£45.
 
 ---
 

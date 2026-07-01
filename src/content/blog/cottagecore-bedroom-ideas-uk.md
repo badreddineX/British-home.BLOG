@@ -1,5 +1,5 @@
 ﻿---
-title: "Cottagecore Bedroom Decor Ideas UK: A Genuine Guide for British Homes"
+title: "Cottagecore Bedroom Decor Ideas UK"
 description: "How to create a real cottagecore bedroom in a UK home — dried flowers, vintage linens, botanical prints, and earthy tones, all from UK retailers."
 image: "https://images.pexels.com/photos/3049121/pexels-photo-3049121.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-04-10"

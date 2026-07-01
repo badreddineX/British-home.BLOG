@@ -1,5 +1,5 @@
 ﻿---
-title: "Living Room on a Budget UK — 10 Ideas Under £100 That Actually Make a Difference"
+title: "Living Room on a Budget UK: 10 Ideas Under £100"
 description: "10 high-impact living room upgrades for under £100 total — ranked by impact per pound, all from UK retailers. Real prices, real results for British homes."
 image: "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-03-06"
@@ -38,7 +38,7 @@ I've decorated on tight budgets multiple times — in rented flats, in first-tim
 
 ---
 
-[living room styling step by step](/blog/how-to-style-a-living-room-uk/)
+Read more: [living room styling step by step](/blog/how-to-style-a-living-room-uk/)
 
 ## 1. Swap Bulbs to 2700K Warm White — ~£8
 
@@ -46,7 +46,7 @@ Ranked first because no other change on this list delivers as much impact for as
 
 2700K warm white bulbs turn the same lamp into something that casts amber, fire-adjacent light. The whole character of the room changes. A four-pack of Philips 2700K LED bulbs costs around £8 from [Amazon UK](https://www.amazon.co.uk). This is the single highest-impact-per-pound change on this entire list.
 
-**Bold key point:** 4-pack 2700K LED bulbs — ~£8 from Amazon UK.
+4-pack 2700K LED bulbs — ~£8 from Amazon UK.
 
 ---
 
@@ -58,7 +58,7 @@ Buy a set of covers in complementary colours and textures: one velvet, one linen
 
 I did this in my living room last winter — replaced six cushion covers for a total of £36 — and three people independently asked if I'd bought a new sofa. The inserts are still the originals from four years ago.
 
-**Bold key point:** New cushion covers — from ~£6 each at Dunelm.
+New cushion covers — from ~£6 each at Dunelm.
 
 ---
 
@@ -70,7 +70,7 @@ A room without a rug is a room that isn't finished. The rug grounds the furnitur
 
 Check your tenancy agreement — rugs are always allowed in rented properties as they're entirely freestanding.
 
-**Bold key point:** Jute rug 160x230cm — ~£45 from Dunelm.
+Jute rug 160x230cm — ~£45 from Dunelm.
 
 ---
 
@@ -82,7 +82,7 @@ The effect of pulling furniture away from walls is counterintuitive: it makes th
 
 In every living room I've restyled, rearranging furniture has produced a more visible transformation than any purchase. It costs nothing and takes 30 minutes. It should always be step one.
 
-**Bold key point:** Cost: nothing. Impact: often the highest on this list.
+Cost: nothing. Impact: often the highest on this list.
 
 ---
 
@@ -92,7 +92,7 @@ A vase of dried botanicals on a coffee table, shelf, or windowsill adds colour, 
 
 [Dunelm](https://www.dunelm.com) has dried botanical bundles from ~£6. Alternatively, if you have a garden, dry your own: tie bundles of lavender, hydrangea heads, or long grass with twine and hang upside down for three to four weeks.
 
-**Bold key point:** Dried botanical bundle — from ~£6 at Dunelm.
+Dried botanical bundle — from ~£6 at Dunelm.
 
 ---
 
@@ -104,7 +104,7 @@ The rule: group objects in threes, vary heights, leave deliberate gaps between g
 
 Take everything off your shelves and surfaces. Then put back only what earns its place. The things that don't make it back: box them and donate or store them. The shelf you reveal is almost always more interesting than the one you buried.
 
-**Bold key point:** Cost: nothing. Schedule 30 minutes and a cardboard box.
+Cost: nothing. Schedule 30 minutes and a cardboard box.
 
 ---
 
@@ -116,7 +116,7 @@ If you don't own a drill, many local libraries now loan tools (check your counci
 
 Renters: check your tenancy agreement before drilling. If drilling isn't permitted, a tension rod or adhesive pole bracket may work as an alternative in lighter windows.
 
-**Bold key point:** Raise curtain pole — free (if you have a drill) or ~£8 for an IKEA pole.
+Raise curtain pole — free (if you have a drill) or ~£8 for an IKEA pole.
 
 ---
 
@@ -126,7 +126,7 @@ A large mirror bounces light around a room and makes the space feel up to a thir
 
 Lean a large mirror against the wall opposite the main window for maximum effect. Leaning rather than hanging is free, looks deliberately casual, and avoids any tenancy complications. [Dunelm](https://www.dunelm.com) has large round mirrors from ~£25 and rectangular full-length options from ~£20.
 
-**Bold key point:** Large round mirror — from ~£25 at Dunelm.
+Large round mirror — from ~£25 at Dunelm.
 
 ---
 
@@ -136,7 +136,7 @@ Art on walls transforms a room from a furnished space to a home. It doesn't need
 
 A black or white A4 frame from IKEA's Ribba range costs £3.50. Three prints, three frames: ~£12–£15. A gallery wall costs under £25 using Ribba frames in a coordinated grid layout.
 
-**Bold key point:** IKEA Ribba A4 frame — £3.50 each from (https://www.ikea.com/gb/).
+IKEA Ribba A4 frame — £3.50 each from (https://www.ikea.com/gb/).
 
 ---
 
@@ -146,7 +146,7 @@ Scent is the finishing layer of a room — the element that makes a space feel c
 
 [Dunelm](https://www.dunelm.com) sells reed diffusers from ~£5 and candles from ~£4. At this price point, scent is genuinely the cheapest way to make a room feel deliberately styled rather than accidentally furnished.
 
-**Bold key point:** Reed diffuser in amber or sandalwood — from ~£5 at Dunelm.
+Reed diffuser in amber or sandalwood — from ~£5 at Dunelm.
 
 ---
 

@@ -1,5 +1,5 @@
 ﻿---
-title: "Rented Home Decor Ideas UK — 13 Deposit-Safe Ways to Make It Feel Like Yours"
+title: "Rented Home Decor Ideas UK: 13 Deposit-Safe Ways"
 description: "13 fully reversible decorating ideas for UK renters — peel-and-stick wallpaper, Command hooks, plug-in lighting and freestanding furniture. Keep your deposit."
 image: "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-02-20"
@@ -38,7 +38,7 @@ I've rented for eight years across five different properties. Here's what I've l
 
 ---
 
-[living room ideas UK](/blog/living-room-ideas-uk/)
+Read more: [living room ideas UK](/blog/living-room-ideas-uk/)
 
 ## 1. Command Picture Hanging Strips — The Renter's Most Important Tool
 
@@ -50,7 +50,7 @@ The result: a full gallery wall of framed art, legally and safely hung in a rent
 
 Always check your tenancy agreement — some overly cautious agreements prohibit any wall-mounted objects. In practice, most landlords have no objection to Command strips as they leave no damage, but it's worth confirming before applying.
 
-**Bold key point:** 3M Command Picture Hanging Strips — from ~£6 per pack on Amazon UK.
+3M Command Picture Hanging Strips — from ~£6 per pack on Amazon UK.
 
 ---
 
@@ -64,7 +64,7 @@ For UK renters: check your tenancy agreement and, if in doubt, send a message to
 
 [Amazon UK](https://www.amazon.co.uk) stocks an extensive range from ~£18 per roll. Botanical prints, textural faux finishes (linen, plaster, marble), and soft geometric patterns all work well. A typical chimney breast or single bedroom wall requires two to three rolls.
 
-**Bold key point:** Peel-and-stick wallpaper — from ~£18 per roll on Amazon UK.
+Peel-and-stick wallpaper — from ~£18 per roll on Amazon UK.
 
 ---
 
@@ -76,7 +76,7 @@ Ceiling hooks can be adhesive (suitable for solid ceilings, holding up to 3kg) o
 
 [Dunelm](https://www.dunelm.com) stocks plug-in pendant lights from ~£22. Pair with a 2700K warm white bulb (not included with most lights) for the correct cosy atmosphere. This is one of the highest-impact changes for the least effort in a rented property.
 
-**Bold key point:** Plug-in pendant light — from ~£22 at Dunelm.
+Plug-in pendant light — from ~£22 at Dunelm.
 
 ---
 
@@ -90,7 +90,7 @@ The rug should be large enough to ground the seating arrangement: at least the f
 
 Rugs are always deposit-safe — they're entirely freestanding and cause no damage.
 
-**Bold key point:** Large jute rug 160x230cm — from ~£45 at Dunelm.
+Large jute rug 160x230cm — from ~£45 at Dunelm.
 
 ---
 
@@ -102,7 +102,7 @@ Rented properties are typically under-shelved for anyone with more than a minima
 
 For renters who need more storage: a freestanding wardrobe (IKEA PAX from ~£115 without doors) in a bedroom is frequently more useful than the built-in alternatives many rented properties provide, and it belongs to you rather than the property.
 
-**Bold key point:** IKEA Billy bookcase — from ~£55 at (https://www.ikea.com/gb/).
+IKEA Billy bookcase — from ~£55 at (https://www.ikea.com/gb/).
 
 ---
 
@@ -114,7 +114,7 @@ New cushion covers (from ~£6 each at [Dunelm](https://www.dunelm.com)) on exist
 
 I've lived in five furnished rented properties. In every case, the first thing I did was add a throw and four new cushion covers to the sofa. The transformation was immediate and cost under £50 each time. Visitors consistently assumed I'd chosen the furniture, not inherited it.
 
-**Bold key point:** New cushion covers — from ~£6 each at Dunelm.
+New cushion covers — from ~£6 each at Dunelm.
 
 ---
 
@@ -126,7 +126,7 @@ If you want to hang curtains at ceiling height (where no existing track is insta
 
 [Dunelm's curtain range](https://www.dunelm.com) starts at ~£22 per pair and includes blackout options from ~£35. Take measurements carefully — track length, drop from track to floor, and whether the track overlaps at the centre.
 
-**Bold key point:** Replacement curtains for rented property — from ~£22 per pair at Dunelm.
+Replacement curtains for rented property — from ~£22 per pair at Dunelm.
 
 ---
 
@@ -143,7 +143,7 @@ For a gallery wall to work visually, all frames should be the same colour (all b
 
 The gallery wall is the one decorating element that most effectively communicates "this is my home, not my landlord's." It does this because it requires active curation — it says something specific about the person who made it. Every rented property should have one.
 
-**Bold key point:** IKEA Ribba A4 frame — from £3.50 each at (https://www.ikea.com/gb/).
+IKEA Ribba A4 frame — from £3.50 each at (https://www.ikea.com/gb/).
 
 ---
 
@@ -155,7 +155,7 @@ For renters who travel frequently or don't have ideal light conditions: IKEA's F
 
 For real plants: snake plants, pothos, and ZZ plants all tolerate low light and irregular watering — useful for the typical unpredictable schedule of the UK renter.
 
-**Bold key point:** IKEA Fejka faux monstera — ~£20 at (https://www.ikea.com/gb/).
+IKEA Fejka faux monstera — ~£20 at (https://www.ikea.com/gb/).
 
 ---
 
@@ -167,7 +167,7 @@ They're not a permanent solution, and they can be fiddly to apply neatly, but on
 
 Available from [Amazon UK](https://www.amazon.co.uk) from ~£15 for a pack covering a standard splashback area.
 
-**Bold key point:** Removable kitchen tile stickers — from ~£15 on Amazon UK.
+Removable kitchen tile stickers — from ~£15 on Amazon UK.
 
 ---
 
@@ -177,7 +177,7 @@ Rented properties are frequently dark — north-facing orientations, small windo
 
 Leaning a large mirror against the wall (rather than hanging it) avoids any fixings and suits the relaxed styling common in rented properties. A full-length leaner mirror (~£30–£45 from [Dunelm](https://www.dunelm.com)) works in both living rooms and bedrooms.
 
-**Bold key point:** Large leaner mirror — from ~£30 at Dunelm.
+Large leaner mirror — from ~£30 at Dunelm.
 
 ---
 
@@ -187,7 +187,7 @@ Rented properties almost always come with the wrong bulbs — typically 4000K ne
 
 Keep the original bulbs in a bag to reinstall before you leave. Most tenancy agreements specify that the property should be left in the same condition it was found — original bulbs back in place satisfies this requirement.
 
-**Bold key point:** 4-pack 2700K warm white bulbs — ~£8 from Amazon UK.
+4-pack 2700K warm white bulbs — ~£8 from Amazon UK.
 
 ---
 
@@ -199,7 +199,7 @@ The specific scent matters less than consistency: choosing one or two scents and
 
 [Dunelm](https://www.dunelm.com) stocks reed diffusers from ~£5. [Next Home](https://www.next.co.uk) has an excellent seasonal candle collection.
 
-**Bold key point:** Reed diffuser — from ~£5 at Dunelm.
+Reed diffuser — from ~£5 at Dunelm.
 
 ---
 
