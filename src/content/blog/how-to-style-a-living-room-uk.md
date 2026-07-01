@@ -1,5 +1,5 @@
 ﻿---
-title: "How to Style a Living Room UK: A Step-by-Step Guide From Scratch"
+title: "How to Style a Living Room UK: Step-by-Step Guide"
 description: "How to style a living room in the UK from scratch — focal points, furniture layout, lighting layers, and textiles. Practical steps with UK retailer prices."
 image: "https://images.pexels.com/photos/2082087/pexels-photo-2082087.jpeg?auto=compress&cs=tinysrgb&w=800"
 datePublished: "2026-01-16"
