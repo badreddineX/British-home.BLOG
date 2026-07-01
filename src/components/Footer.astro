@@ -1,4 +1,5 @@
 ---
+import CookieConsent from './CookieConsent.astro';
 const year = new Date().getFullYear();
 ---
 
@@ -69,9 +70,12 @@ const year = new Date().getFullYear();
 
     <div class="footer-bottom">
       <p>&copy; {year} by British Home Interior. All rights reserved.</p>
+      <p><a href="/privacy-policy/" class="footer-policy-link">Privacy Policy</a></p>
     </div>
   </div>
 </footer>
+
+<CookieConsent />
 
 <style>
   .site-footer { background: var(--color-dark); color: rgba(255,255,255,0.6); }
@@ -190,6 +194,9 @@ const year = new Date().getFullYear();
   }
 
   .footer-bottom p { font-size: 0.72rem; color: rgba(255,255,255,0.22); margin: 0; width: 100%; }
+
+  .footer-policy-link { color: rgba(255,255,255,0.35); text-decoration: underline; text-underline-offset: 2px; }
+  .footer-policy-link:hover { color: rgba(255,255,255,0.7); text-decoration: underline; }
 
   .footer-newsletter-thanks {
     font-size: 0.85rem;

@@ -294,7 +294,7 @@ function fmtDate(d: string) {
   }
 
   @media (max-width: 600px) {
-    .bl-filter-bar { padding: 1.25rem 1rem 1rem; }
+    .bl-filter-bar { padding: 1rem 0 0; }
   }
 
   .bl-filter-links {
@@ -302,6 +302,18 @@ function fmtDate(d: string) {
     align-items: center;
     gap: 1.5rem;
     flex-wrap: wrap;
+  }
+
+  @media (max-width: 600px) {
+    .bl-filter-links {
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      gap: 0;
+      padding: 0 1rem 1rem;
+    }
+    .bl-filter-links::-webkit-scrollbar { display: none; }
   }
 
   @media (min-width: 600px) {
@@ -321,6 +333,23 @@ function fmtDate(d: string) {
     transition: color 200ms;
     white-space: nowrap;
     line-height: 1;
+    flex-shrink: 0;
+  }
+
+  @media (max-width: 600px) {
+    .bl-filter-link {
+      font-size: 0.88rem;
+      padding: 0.6rem 1rem;
+      border-bottom: none;
+      border-radius: 20px;
+      border: 1px solid transparent;
+    }
+    .bl-filter-link.active {
+      background: var(--color-heading);
+      color: #fff;
+      border-color: var(--color-heading);
+      border-bottom-color: var(--color-heading);
+    }
   }
   .bl-filter-link:hover { color: var(--color-heading); }
   .bl-filter-link.active {

@@ -1,0 +1,98 @@
+---
+---
+<div id="cookie-banner" class="cookie-banner" hidden>
+  <p class="cookie-text">
+    We use cookies to improve your browsing experience and analyse site traffic.
+    By continuing you agree to our <a href="/privacy-policy/">Privacy Policy</a>.
+  </p>
+  <div class="cookie-btns">
+    <button id="cookie-accept" class="cookie-btn cookie-btn--accept">Accept All</button>
+    <button id="cookie-decline" class="cookie-btn cookie-btn--decline">Decline</button>
+  </div>
+</div>
+
+<script>
+  const banner = document.getElementById('cookie-banner');
+  if (!localStorage.getItem('cookie-consent') && banner) {
+    banner.hidden = false;
+  }
+  document.getElementById('cookie-accept')?.addEventListener('click', () => {
+    localStorage.setItem('cookie-consent', 'accepted');
+    if (banner) banner.hidden = true;
+  });
+  document.getElementById('cookie-decline')?.addEventListener('click', () => {
+    localStorage.setItem('cookie-consent', 'declined');
+    if (banner) banner.hidden = true;
+  });
+</script>
+
+<style>
+  .cookie-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+    background: #1a1212;
+    color: rgba(255,255,255,0.82);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1rem 2rem;
+    border-top: 1px solid rgba(255,255,255,0.1);
+    flex-wrap: wrap;
+    box-shadow: 0 -4px 24px rgba(0,0,0,0.25);
+  }
+
+  .cookie-text {
+    font-family: var(--font-body);
+    font-size: 0.85rem;
+    line-height: 1.55;
+    margin: 0;
+    flex: 1;
+    min-width: 200px;
+  }
+
+  .cookie-text a {
+    color: var(--color-gold, #B89A6A);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
+  .cookie-btns {
+    display: flex;
+    gap: 0.75rem;
+    flex-shrink: 0;
+  }
+
+  .cookie-btn {
+    font-family: var(--font-body);
+    font-size: 0.82rem;
+    font-weight: 600;
+    padding: 0.5rem 1.3rem;
+    border: none;
+    cursor: pointer;
+    transition: opacity 150ms;
+    white-space: nowrap;
+  }
+
+  .cookie-btn--accept {
+    background: var(--color-gold, #B89A6A);
+    color: #fff;
+  }
+
+  .cookie-btn--decline {
+    background: transparent;
+    color: rgba(255,255,255,0.55);
+    border: 1px solid rgba(255,255,255,0.2);
+  }
+
+  .cookie-btn:hover { opacity: 0.82; }
+
+  @media (max-width: 560px) {
+    .cookie-banner { padding: 1rem 1.25rem; }
+    .cookie-btns { width: 100%; }
+    .cookie-btn { flex: 1; text-align: center; }
+  }
+</style>

@@ -788,6 +788,27 @@ blockquote {
   cursor: not-allowed;
 }
 
+@media (max-width: 480px) {
+  .pagination {
+    gap: 0.35rem;
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    justify-content: center;
+    padding-bottom: 0.5rem;
+  }
+  .pagination::-webkit-scrollbar { display: none; }
+  .page-btn {
+    width: 34px;
+    height: 34px;
+    font-size: 0.82rem;
+    flex-shrink: 0;
+  }
+  .page-btn.arrow-btn { width: 34px; height: 34px; }
+}
+
 /* --- Utility --- */
 .text-muted { color: var(--color-text-muted); }
 .text-center { text-align: center; }
