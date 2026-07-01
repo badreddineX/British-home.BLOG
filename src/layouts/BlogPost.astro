@@ -447,16 +447,18 @@ const related = allPosts
   /* Content */
   .post-content-area { min-width: 0; }
 
-  /* Drop cap */
-  .drop-cap > p:first-child::first-letter {
-    font-family: var(--font-display);
-    font-size: 4.5rem;
-    font-weight: 700;
-    line-height: 0.78;
-    float: left;
-    margin-right: 0.08em;
-    margin-top: 0.08em;
-    color: var(--color-heading);
+  /* Drop cap — desktop only */
+  @media (min-width: 640px) {
+    .drop-cap > p:first-child::first-letter {
+      font-family: var(--font-display);
+      font-size: 4.5rem;
+      font-weight: 700;
+      line-height: 0.78;
+      float: left;
+      margin-right: 0.08em;
+      margin-top: 0.08em;
+      color: var(--color-heading);
+    }
   }
 
   .post-content { margin-top: 0; }
