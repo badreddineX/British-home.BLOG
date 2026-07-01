@@ -231,6 +231,12 @@ const related = allPosts
   const tocToggle = document.getElementById('toc-toggle') as HTMLButtonElement | null;
   const tocList   = document.getElementById('toc-sidebar-list') as HTMLElement | null;
 
+  // Start collapsed on mobile so it doesn't push content down
+  if (window.innerWidth < 960 && tocList) {
+    tocList.classList.add('toc-collapsed');
+    if (tocToggle) tocToggle.style.transform = 'rotate(180deg)';
+  }
+
   tocToggle?.addEventListener('click', () => {
     const isCollapsed = tocList?.classList.contains('toc-collapsed');
     tocList?.classList.toggle('toc-collapsed', !isCollapsed);
@@ -379,6 +385,12 @@ const related = allPosts
 
   @media (min-width: 960px) {
     .post-sidebar { align-self: stretch; }
+  }
+
+  /* On mobile: TOC moves to top of the post body */
+  @media (max-width: 959px) {
+    .post-sidebar { order: -1; }
+    .toc-sidebar { position: static; }
   }
 
   /* Left share panel — hidden on mobile */
