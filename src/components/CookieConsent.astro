@@ -1,6 +1,6 @@
 ---
 ---
-<div id="cookie-banner" class="cookie-banner" hidden>
+<div id="cookie-banner" class="cookie-banner">
   <p class="cookie-text">
     We use cookies to improve your browsing experience and analyse site traffic.
     By continuing you agree to our <a href="/privacy-policy/">Privacy Policy</a>.
@@ -11,25 +11,27 @@
   </div>
 </div>
 
-<script>
-  const banner = document.getElementById('cookie-banner');
-  if (!localStorage.getItem('cookie-consent') && banner) {
-    banner.hidden = false;
-  }
-  document.getElementById('cookie-accept')?.addEventListener('click', () => {
-    localStorage.setItem('cookie-consent', 'accepted');
-    if (banner) banner.hidden = true;
-  });
-  document.getElementById('cookie-decline')?.addEventListener('click', () => {
-    localStorage.setItem('cookie-consent', 'declined');
-    if (banner) banner.hidden = true;
-  });
+<script is:inline>
+  (function () {
+    var banner = document.getElementById('cookie-banner');
+    if (!banner) return;
+    if (!localStorage.getItem('cookie-consent')) {
+      banner.style.display = 'flex';
+    }
+    document.getElementById('cookie-accept').addEventListener('click', function () {
+      localStorage.setItem('cookie-consent', 'accepted');
+      banner.style.display = 'none';
+    });
+    document.getElementById('cookie-decline').addEventListener('click', function () {
+      localStorage.setItem('cookie-consent', 'declined');
+      banner.style.display = 'none';
+    });
+  })();
 </script>
 
 <style>
-  .cookie-banner[hidden] { display: none !important; }
-
   .cookie-banner {
+    display: none;
     position: fixed;
     bottom: 0;
     left: 0;
