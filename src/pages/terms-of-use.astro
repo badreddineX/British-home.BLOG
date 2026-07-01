@@ -1,0 +1,140 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SEO from '../components/SEO.astro';
+import '../styles/global.css';
+---
+
+<html lang="en-GB">
+  <head>
+    <SEO
+      title="Terms of Use — British Home Interior"
+      description="Read the terms and conditions governing your use of the British Home Interior website."
+      type="website"
+      canonicalPath="/terms-of-use/"
+    />
+  </head>
+  <body>
+    <Header />
+
+    <main class="policy-main">
+      <div class="policy-inner">
+        <h1>Terms of Use</h1>
+        <p class="policy-updated">Last updated: 1 July 2026</p>
+
+        <p>Welcome to <strong>British Home Interior</strong>. By accessing or using this website you agree to be bound by these Terms of Use. Please read them carefully before browsing. If you do not agree with any part of these terms, please do not use this site.</p>
+
+        <h2>1. About This Website</h2>
+        <p>British Home Interior is an independent interior styling blog run by Badreddine. The website provides home décor inspiration, room makeover guides, and interior styling tips aimed at UK homeowners and renters. It is a personal editorial website, not a commercial retailer or professional interior design service.</p>
+
+        <h2>2. Use of Content</h2>
+        <p>All content published on this website — including articles, photographs, graphics, and written guides — is the intellectual property of British Home Interior unless otherwise stated. You may:</p>
+        <ul>
+          <li>Read and share links to articles for personal, non-commercial purposes.</li>
+          <li>Quote short extracts (under 50 words) with a clear credit and a link back to the original article.</li>
+        </ul>
+        <p>You may not:</p>
+        <ul>
+          <li>Copy, reproduce, or republish full articles or images without prior written permission.</li>
+          <li>Use any content for commercial purposes without express consent.</li>
+          <li>Scrape or systematically download content from this website.</li>
+        </ul>
+
+        <h2>3. Accuracy of Information</h2>
+        <p>We make every effort to ensure the information published on this site is accurate and up to date. However, home décor trends, product availability, and retailer pricing change frequently. We cannot guarantee that all information is current at the time of reading, and we accept no liability for decisions made based on content published here.</p>
+        <p>Always verify product details, prices, and availability directly with the relevant UK retailer before purchasing.</p>
+
+        <h2>4. External Links</h2>
+        <p>This website contains links to third-party websites (retailers, brands, and other resources). These links are provided for your convenience and do not constitute an endorsement of those sites or their content. We have no control over external websites and accept no responsibility for their content, accuracy, or privacy practices.</p>
+
+        <h2>5. No Professional Advice</h2>
+        <p>The content on British Home Interior is for informational and inspirational purposes only. Nothing on this site constitutes professional interior design, structural, or financial advice. Always consult a qualified professional before undertaking significant home renovations or structural changes.</p>
+
+        <h2>6. User Conduct</h2>
+        <p>When using this website or submitting any contact form, you agree not to:</p>
+        <ul>
+          <li>Submit false, misleading, or offensive content.</li>
+          <li>Attempt to gain unauthorised access to any part of the website.</li>
+          <li>Use the site in any way that could damage, disable, or impair its operation.</li>
+          <li>Use automated tools to scrape, crawl, or harvest data from the site.</li>
+        </ul>
+
+        <h2>7. Disclaimer of Warranties</h2>
+        <p>This website is provided on an "as is" and "as available" basis without warranties of any kind. We do not warrant that the site will be uninterrupted, error-free, or free of viruses or other harmful components. Use of the site is entirely at your own risk.</p>
+
+        <h2>8. Limitation of Liability</h2>
+        <p>To the fullest extent permitted by law, British Home Interior shall not be liable for any indirect, incidental, or consequential loss or damage arising from your use of this website or reliance on any content published here.</p>
+
+        <h2>9. Privacy</h2>
+        <p>Your use of this website is also governed by our <a href="/privacy-policy/">Privacy Policy</a>, which explains how we collect and handle your personal data in accordance with UK GDPR.</p>
+
+        <h2>10. Changes to These Terms</h2>
+        <p>We may update these Terms of Use from time to time. Any changes will be posted on this page with an updated date. Continued use of the website after changes are posted constitutes your acceptance of the revised terms.</p>
+
+        <h2>11. Governing Law</h2>
+        <p>These terms are governed by and construed in accordance with the laws of England and Wales. Any disputes arising from your use of this website shall be subject to the exclusive jurisdiction of the courts of England and Wales.</p>
+
+        <h2>12. Contact</h2>
+        <p>If you have any questions about these Terms of Use, please contact us at: <a href="mailto:badreddinekx122@gmail.com">badreddinekx122@gmail.com</a></p>
+      </div>
+    </main>
+
+    <Footer />
+  </body>
+</html>
+
+<style>
+  .policy-main {
+    background: var(--color-bg, #FAF7F4);
+    padding-block: 4rem 6rem;
+  }
+
+  .policy-inner {
+    max-width: 760px;
+    margin-inline: auto;
+    padding-inline: 1.5rem;
+  }
+
+  .policy-inner h1 {
+    font-family: var(--font-display);
+    font-size: clamp(1.8rem, 4vw, 2.5rem);
+    font-weight: 700;
+    color: var(--color-heading);
+    margin-bottom: 0.5rem;
+  }
+
+  .policy-updated {
+    font-size: 0.82rem;
+    color: var(--color-text-muted);
+    margin-bottom: 2.5rem;
+  }
+
+  .policy-inner h2 {
+    font-family: var(--font-display);
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--color-heading);
+    margin-top: 2.5rem;
+    margin-bottom: 0.75rem;
+    border-left: 3px solid var(--color-gold, #B89A6A);
+    padding-left: 0.75rem;
+  }
+
+  .policy-inner p { line-height: 1.8; margin-bottom: 1rem; font-size: 0.95rem; }
+
+  .policy-inner ul {
+    padding-left: 1.4rem;
+    margin-bottom: 1rem;
+  }
+
+  .policy-inner li {
+    font-size: 0.95rem;
+    line-height: 1.75;
+    margin-bottom: 0.4rem;
+  }
+
+  .policy-inner a {
+    color: var(--color-gold, #B89A6A);
+    text-underline-offset: 2px;
+  }
+</style>
