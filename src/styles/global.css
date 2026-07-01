@@ -240,45 +240,7 @@ blockquote {
   overflow: hidden;
 }
 
-/* ============================================
-   PINTEREST SAVE BUTTON
-   ============================================ */
 .img-wrap { position: relative; overflow: hidden; }
-
-.img-wrap .pinterest-save {
-  position: absolute;
-  top: 0.6rem;
-  right: 0.6rem;
-  display: flex;
-  align-items: center;
-  gap: 0.35rem;
-  background: rgba(230,0,35,0.9);
-  color: #fff;
-  font-family: var(--font-body);
-  font-size: 0.7rem;
-  font-weight: 700;
-  padding: 0.28rem 0.65rem;
-  opacity: 0;
-  transform: translateY(-4px);
-  transition: opacity var(--transition-base), transform var(--transition-base);
-  pointer-events: none;
-  text-decoration: none;
-  z-index: 2;
-}
-.img-wrap:hover .pinterest-save { opacity: 1; transform: translateY(0); pointer-events: auto; }
-.pinterest-save svg { width: 12px; height: 12px; flex-shrink: 0; }
-
-/* ============================================
-   AFFILIATE DISCLOSURE
-   ============================================ */
-.affiliate-disclosure {
-  background: var(--color-white);
-  border-left: 3px solid var(--color-gold);
-  padding: 0.75rem 1.1rem;
-  font-size: 0.82rem;
-  color: var(--color-text-muted);
-  margin-bottom: 1.75rem;
-}
 
 /* ============================================
    POST CATEGORY PILL
@@ -778,11 +740,6 @@ blockquote {
   border-color: var(--color-text-muted);
   background: var(--color-surface);
 }
-.page-btn.disabled {
-  opacity: 0.3;
-  cursor: not-allowed;
-}
-
 .page-btn.disabled {
   opacity: 0.28;
   cursor: not-allowed;
