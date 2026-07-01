@@ -26,7 +26,6 @@ faqs:
     a: "A tall floor lamp is the best corner use in most living rooms — it adds height, anchors the corner, and provides essential ambient light. Alternatives: a tall plant, a corner shelf unit, or (in a large room) a reading chair with a side table and lamp."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 Most living rooms in the UK share the same problem: they were furnished in stages over several years, with individual pieces chosen without much reference to each other, and styled by someone (usually us, usually late on a Sunday) who just kind of placed things where they fit.
 

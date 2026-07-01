@@ -26,7 +26,6 @@ faqs:
     a: "Yes, with discipline. In a small room, vertical maximalism — tall gallery walls, floor-to-ceiling shelving, stacked art — works better than horizontal spread. Use one large bold pattern rather than multiple smaller competing patterns. And keep the floor relatively clear — maximalism works upward in small spaces."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 The pendulum has swung. After a decade of grey walls, white kitchens, and the tyranny of "less is more," the UK interior landscape is moving toward confidence, colour, and the deliberate embrace of abundance.
 

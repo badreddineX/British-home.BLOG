@@ -26,7 +26,6 @@ faqs:
     a: "Fix the lighting first. A room with excellent lighting and ordinary furniture looks far better than a room with beautiful furniture and poor lighting. Layer two or three lamp sources with warm 2700K bulbs and remove the reliance on a single overhead light."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 I've spent years thinking about what makes British homes feel genuinely good to be in. Not showroom-perfect, not Instagram-styled, but the kind of home you walk into and immediately relax. The homes that feel considered without feeling rigid, warm without being cluttered, personal without being chaotic.
 

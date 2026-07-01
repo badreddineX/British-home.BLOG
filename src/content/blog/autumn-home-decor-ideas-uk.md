@@ -26,7 +26,6 @@ faqs:
     a: "Indoor plants that suit autumn styling: deep burgundy *Begonia* rex, trailing *Pothos* in warm pots, dried pampas grass, preserved eucalyptus, and seasonal outdoor plants brought inside — heather, ornamental cabbages, and small chrysanthemums all work beautifully."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 There's a specific moment in early September in the UK when the light changes. It's not cold yet — often still warm — but the quality of the afternoon light shifts. It goes golden rather than white. Shadows lengthen. The air smells different.
 

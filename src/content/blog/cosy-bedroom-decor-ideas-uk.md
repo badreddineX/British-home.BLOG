@@ -26,7 +26,6 @@ faqs:
     a: "Entirely achievable. Plug-in bedside lamps, a soft rug, layered bedding, peel-and-stick wallpaper on one wall, removable Command hooks for pictures, and scented candles all create genuine cosiness without any permanent changes. See our full [rented home decor ideas UK guide](/blog/rented-home-decor-ideas-uk/)."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 There's a specific feeling a bedroom should have when you walk into it at the end of a difficult day. Not just tidy. Not just functional. A particular kind of exhale — the sense that this room is on your side.
 

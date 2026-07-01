@@ -26,7 +26,6 @@ faqs:
     a: "Deep jewel tones — forest green, teal, plum, burnt orange — form the best foundation for British maximalism. They work with our grey light rather than against it. See our [living room colour schemes guide](/blog/living-room-colour-schemes-uk/) for specific paint picks."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 There's a version of maximalism that looks chaotic, dated, and exhausting. And then there's the version that makes you walk into a room and feel immediately, deeply at home — surrounded by colour, texture, objects with stories, and the specific pleasure of a space that doesn't apologise for itself.
 

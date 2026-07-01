@@ -26,7 +26,6 @@ faqs:
     a: "Large L-shape sofas (they dominate the room), glass coffee tables (they reflect everything and create visual noise), tall bookcases on multiple walls (can make the room feel oppressive), and too many small pieces of furniture (five small items reads as more cluttered than two larger ones)."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 British living rooms present a very specific problem. They're not just small — they're small in specific, awkward ways. A chimney breast that juts into the middle of the room. A bay window that takes up an entire wall. A Victorian terrace lounge that's barely wider than the sofa is long. A modern flat where the front door opens directly into the seating area.
 

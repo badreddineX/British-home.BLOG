@@ -26,7 +26,6 @@ faqs:
     a: "Thermal-lined or interlined curtains are the winter standard. Dunelm's Thermal Pencil Pleat range (~£35–£65 per pair) and Next's lined velvet options (~£50–£90 per pair) are both excellent. Full-length curtains from ceiling to floor retain more heat than sill-length ones."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 British winter is a specific experience. It's not the clean, white-snow winter of Christmas films. It's grey, damp, frequently windy, occasionally icy, and characterised by very short days — London gets fewer than eight hours of daylight in December, and much of that is cloudy.
 

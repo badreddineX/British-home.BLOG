@@ -26,7 +26,6 @@ faqs:
     a: "Warm white light bulbs (2700K) — the cheapest and highest-impact purchase you can make. Replace your existing bulbs in all visible lamps. Total cost: under £10. See our full guide to [living room ideas UK](/blog/living-room-ideas-uk/) for what to do next."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 Most living room advice assumes you have a budget, a blank canvas, and a weekend free. Real British living rooms rarely have any of those things.
 

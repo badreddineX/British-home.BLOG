@@ -26,7 +26,6 @@ faqs:
     a: "Etsy UK for handmade and vintage pieces, charity shops for vintage frames and ceramics, Dunelm for linen bedding and wicker accessories, IKEA for basic furniture to layer over, and your local florist or a farmers' market for dried flowers. Many cottagecore elements can also be foraged from British hedgerows and gardens in season."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 Most cottagecore content on the internet is American — farmhouses with wraparound porches, mason jars, and shiplap walls. That's a lovely aesthetic for American homes. But it has almost nothing to do with British cottagecore, which draws from a completely different tradition: the English countryside, hedgerow foraging, Victorian botanical obsession, and the particular cosiness of a low-beamed cottage bedroom in autumn.
 

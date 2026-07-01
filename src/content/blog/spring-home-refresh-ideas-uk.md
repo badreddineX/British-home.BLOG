@@ -26,7 +26,6 @@ faqs:
     a: "Decluttering — particularly removing things rather than rearranging them. A room with 20% fewer objects but the same furniture looks larger, lighter, and more intentional. Donate to the British Red Cross or your local British Heart Foundation shop. See our [rented flat makeover guide](/blog/rented-flat-makeover-uk/) for the editing process."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 There's a particular gloom that settles into a British home by late February. It's not that anything has changed — the furniture is where it always was, the cushions are fine, the rooms are clean. But something about the accumulated weight of five months of winter dimness makes everything feel heavier and slightly dusty, even when it isn't.
 

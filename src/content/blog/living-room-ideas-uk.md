@@ -26,7 +26,6 @@ faqs:
     a: "Focus on furniture, textiles, lighting, and accessories — all fully removable. Command hook gallery walls, freestanding shelves, plug-in pendant lights, and large rugs all transform a living room without touching the walls. See our [rented home decor ideas](/blog/rented-home-decor-ideas-uk/) for deposit-safe specifics."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 Most British living rooms start from the same place: a sofa the previous tenants left behind, a carpet that's fine but not exciting, and a single central light that makes everything look slightly clinical at 7pm.
 

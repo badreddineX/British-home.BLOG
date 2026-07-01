@@ -26,7 +26,6 @@ faqs:
     a: "Use light paint colours, hang curtains close to the ceiling, choose furniture with legs (rather than skirted bases), use one large mirror instead of several small ones, and keep the floor as clear as possible. Under-bed storage keeps things tidy without taking up floor space."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 Your bedroom is the most private room in your home. No guests come in. No one else judges it. And yet, if you're honest, it's probably the room you've done the least with.
 

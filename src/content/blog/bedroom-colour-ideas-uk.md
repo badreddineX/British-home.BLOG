@@ -26,7 +26,6 @@ faqs:
     a: "A 2.5L tin of quality emulsion covers approximately 30–35 square metres — enough for a standard bedroom for £18–£60 depending on the brand. Budget around £25–£40 for a standard double bedroom, plus £8–£12 for brushes and rollers if needed."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 Bedroom colour advice from American interior blogs and Scandinavian design accounts is almost always wrong for British homes. Not because it's bad advice in principle — but because it was written for different light. The US gets stronger, warmer sunlight. Scandinavia compensates with high-contrast white on white. Neither approach travels well to a north-facing terrace bedroom in Leeds or a ground-floor flat in South London.
 

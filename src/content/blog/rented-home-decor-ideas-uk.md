@@ -26,7 +26,6 @@ faqs:
     a: "Most tenancy agreements permit curtains using existing curtain poles or tracks, and the installation of a new curtain pole (which makes two small holes that are easily filled on exit). Tension rods avoid holes entirely and work well in standard window recesses. Renters should always fill and repaint any holes on exit."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 According to the English Housing Survey 2023–24 by the Office for National Statistics (ONS), 4.6 million households in England currently rent privately — representing 19% of all households. Many of them are living in homes that feel temporary, beige, and distinctly not theirs.
 

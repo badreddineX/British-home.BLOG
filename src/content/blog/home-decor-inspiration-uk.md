@@ -26,7 +26,6 @@ faqs:
     a: "Yes, but with caveats. Most top Pinterest interior content is American, which means the light, scale, and architectural context often doesn't translate. Search specifically for 'UK home', 'British interior', or 'Victorian terrace' to find more relevant content. Also follow UK interior accounts on Instagram for more accurate reference."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 There's a specific frustration that hits when you spend an hour on Pinterest saving beautiful rooms, only to look up at your own living room and feel like you've been deceived. The light is different. The rooms are bigger. The ceilings are taller. There's a utility room that the size of your actual living room. None of it translates.
 

@@ -26,7 +26,6 @@ faqs:
     a: "The living room, because it's the most-used and most-seen room by both you and any guests. After that: the hallway (the first impression of the whole house), then the bedroom (the room you spend most time in). Kitchens and bathrooms give the lowest visual return per pound of any room without significant expenditure."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 "My house doesn't look the way I want it to — but I can't afford to do anything about it." This is the most common home decorating complaint in Britain. According to Money Saving Expert's 2024 consumer survey, 64% of UK adults would like to improve their home but consistently defer spending due to financial uncertainty.
 

@@ -26,7 +26,6 @@ faqs:
     a: "Layer familiar textiles (your own bedding, throws, cushions), add warm lighting rather than relying on overhead bulbs, bring in plants, and create dedicated zones with rugs. These are the same principles interior designers use — none require fixing anything permanently."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 The UK private rented sector has grown sharply over the past two decades. According to the English Housing Survey 2023-24 published by the Department for Levelling Up, Housing and Communities, 4.6 million households in England now rent privately — around 19% of all households. That's a lot of people living in someone else's magnolia box.
 

@@ -26,7 +26,6 @@ faqs:
     a: "Very much so — the principles of hygge (warmth, soft textures, candlelight, coziness without fussiness) translate directly into British bedroom design. The UK's grey light and cold winters make these principles arguably more important here than in Scandinavia."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 The bedroom is the one room that should always be yours. Not a spare office. Not a laundry sorting station. Not a room that looks fine but feels like a budget hotel you'd give three stars on Google. A genuine retreat — somewhere your body starts to relax before you've even pulled back the duvet.
 

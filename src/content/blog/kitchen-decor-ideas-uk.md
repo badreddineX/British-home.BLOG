@@ -26,7 +26,6 @@ faqs:
     a: "Group items in threes, mix functional and decorative pieces, keep a consistent colour palette (usually white ceramics + one accent colour), and leave 30% of the shelf space empty. Avoid overcrowding — edited shelves always look more intentional."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 Kitchen styling advice online has a problem. Every mood board, every Pinterest grid, every magazine spread shows a kitchen that has been emptied of the things that make kitchens actual kitchens. No washing-up liquid bottle. No mug tree inherited from someone's grandmother. No stack of takeaway menus shoved between the toaster and the wall.
 

@@ -26,7 +26,6 @@ faqs:
     a: "Warm neutrals and soft whites work best in small rooms — Dulux Goose Down, Crown Fossil, or Farrow & Ball Pavilion Grey. Dark colours can work in small rooms if the lighting is excellent, but they're less forgiving. Avoid cool greys in north-facing UK rooms as they read flat and cold."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 The average new-build living room in the UK measures around 17 square metres — and many older flats, particularly in London and other major cities, are significantly smaller than that. According to the Office for National Statistics (ONS) 2023 Housing Survey, UK homes are among the smallest in Western Europe, with the average floor area 30% below the European average.
 

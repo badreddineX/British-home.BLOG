@@ -26,7 +26,6 @@ faqs:
     a: "Start with your largest fixed element — usually the sofa or flooring — and build the colour scheme around it. Test 3-4 paint samples in A4 patches on different walls. View them at different times of day, especially in the evening under artificial light, before deciding."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 Most living room colour advice on the internet was written for American homes with south-facing floor-to-ceiling windows, or Scandinavian interiors where brilliant white walls work precisely because the architecture and furniture are designed around them. Neither translates to a standard British terrace or semi-detached with a 1970s bay window, a north-facing aspect, and carpet that's technically beige.
 

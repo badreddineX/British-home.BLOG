@@ -26,7 +26,6 @@ faqs:
     a: "Yes — use dark curtains, a dark rug, dark cushions and throws, and warm amber lighting to create the moody effect without touching the walls. A dark bookcase or large dark furniture piece also anchors the scheme. See our [rented flat makeover guide](/blog/rented-flat-makeover-uk/) for deposit-safe ideas."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 For years, British interiors defaulted to pale, neutral, safe. Magnolia walls, grey carpets, white gloss woodwork. The logic was sound: our grey climate means we need to maximise the light we get, so pale colours are practical.
 

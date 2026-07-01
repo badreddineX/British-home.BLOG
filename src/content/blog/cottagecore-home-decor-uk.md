@@ -26,7 +26,6 @@ faqs:
     a: "Absolutely. Cottagecore relies on freestanding objects, textiles, and accessories rather than structural changes. A rented flat can adopt the full aesthetic through rugs, throws, ceramics, dried flowers, books, and plants — none of which require landlord permission. See our [rented home decor ideas guide](/blog/rented-home-decor-ideas-uk/)."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 Cottagecore might have arrived as a social media aesthetic, but in Britain it has roots far older than TikTok. The combination of natural textiles, botanical motifs, earthenware ceramics, and wildflower references is essentially a description of traditional British domestic design — the Arts and Crafts movement, William Morris, the National Trust gift shop, the warm kitchen of a farmhouse that has existed for three centuries.
 

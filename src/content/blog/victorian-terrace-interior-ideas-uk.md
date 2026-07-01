@@ -26,7 +26,6 @@ faqs:
     a: "Original floorboards, restored and treated with hardwax oil, are always the best option where they exist. Encaustic or geometric tiles in hallways and kitchen should be preserved. If replacing, a dark stained oak or reclaimed Victorian pine boards suit the period best. Carpet in bedrooms is period-appropriate."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 There are approximately 5.5 million Victorian terraced houses in the United Kingdom — more than any other single house type in the country, according to the NHBC Foundation's 2023 Housing Stock Analysis. They were built between roughly 1840 and 1901, and the best examples are among the most architecturally rich domestic buildings in Europe.
 

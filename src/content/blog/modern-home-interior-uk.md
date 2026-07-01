@@ -26,7 +26,6 @@ faqs:
     a: "Earthy mid-tones are the modern British palette: warm clay, ochre, dusty terracotta, sage green, and warm off-white with yellow undertones. Farrow & Ball's 'Dead Salmon', Dulux's 'Pressed Clay', and B&Q's range of terracotta tones all capture this direction. See our [living room colour schemes guide](/blog/living-room-colour-schemes-uk/)."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 For a long time, "modern" in British home interiors meant Scandinavian. Clean lines, pale wood, white walls, plants in white pots, perhaps a single statement lamp in matte black. Tasteful. Inoffensive. Photographically coherent.
 

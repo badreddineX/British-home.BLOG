@@ -26,7 +26,6 @@ faqs:
     a: "You can create a genuinely beautiful Christmas atmosphere for £30–£50 using: warm fairy lights (~£8), foraged greenery (free), a seasonal candle (~£5), and a few carefully chosen ornaments (~£10–£15). Spending more adds options but not necessarily quality."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 British Christmas decorating has a specific quality when it's done well. It's generous without being gaudy, traditional without being stiff, warm without being overwhelming. It feels like Christmas as a feeling rather than Christmas as a brand.
 

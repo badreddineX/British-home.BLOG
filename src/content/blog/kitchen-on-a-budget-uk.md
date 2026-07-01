@@ -26,7 +26,6 @@ faqs:
     a: "Yes — especially on solid wood or MDF doors. Painting saves thousands versus replacing units and can last 5–7 years with proper prep and the right paint. Avoid painting thermofoil or laminate doors without specialist primer."
 ---
 
-*This post contains affiliate links. If you buy something through a link, I may earn a small commission at no extra cost to you. I only recommend products I've used or thoroughly researched.*
 
 The average full kitchen renovation in the UK costs between £8,000 and £25,000, according to Checkatrade's 2024 cost data. Most British homeowners simply don't have that sitting around. And yet almost every kitchen I've seen in a terrace, a flat, or a 1990s semi looks tired in exactly the same ways: dated handles, grimy grout, wonky cabinet doors, and that one drawer that's been broken for three years.
 

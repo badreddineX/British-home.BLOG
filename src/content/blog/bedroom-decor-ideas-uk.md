@@ -26,7 +26,6 @@ faqs:
     a: "Use freestanding furniture, plug-in lighting, removable rugs, and peel-and-stick wallpaper on one wall. A fabric headboard panel using Command strips is legal in most tenancies. See our [rented home decor ideas guide](/blog/rented-home-decor-ideas-uk/) for a full checklist."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 The bedroom is the one room in the house where you're the only audience. There's no guest to impress, no party to host. It exists entirely for you — and yet it's usually the last room we properly decorate.
 

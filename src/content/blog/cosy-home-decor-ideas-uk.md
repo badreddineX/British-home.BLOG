@@ -26,7 +26,6 @@ faqs:
     a: "Entirely possible. Lighting layers using plug-in lamps, textiles layered over existing furniture, removable rugs, scented candles and diffusers, and plants all create cosiness without touching the walls or floor. See our [rented flat makeover guide](/blog/rented-flat-makeover-uk/) for deposit-safe ideas."
 ---
 
-*This post contains affiliate links. If you purchase through my links I may earn a small commission at no extra cost to you.*
 
 Cosiness is not an aesthetic. It's a feeling — and the difference matters more than people think.
 
