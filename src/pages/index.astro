@@ -56,6 +56,7 @@ function fmtDate(d: string) {
             muted
             loop
             playsinline
+            preload="auto"
             poster={featured?.data.image ?? ''}
           >
             <!-- Free living room video from Pexels CDN -->
@@ -433,9 +434,6 @@ function fmtDate(d: string) {
   .hero-cta:hover { background: var(--color-heading); color: #fff; text-decoration: none; }
 
   @media (max-width: 600px) {
-    /* Hide video on mobile — show poster image via CSS background instead */
-    .hero-video { display: none; }
-
     .hero {
       height: 80vh;
       min-height: 480px;
@@ -451,9 +449,7 @@ function fmtDate(d: string) {
     }
 
     .hero-avatar { display: none; }
-
     .hero-welcome { font-size: 1.4rem; }
-
     .hero-tagline { font-size: 0.8rem; }
   }
 
