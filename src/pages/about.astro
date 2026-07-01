@@ -180,33 +180,33 @@ import '../styles/global.css';
           </ol>
         </div>
         <div class="contact-right">
-          <form class="contact-form" id="contact-form" novalidate>
+          <form class="contact-form" action="https://formsubmit.co/britishhomeinterior@proton.me" method="POST">
+            <input type="hidden" name="_subject" value="New Contact Message — British Home Interior" />
+            <input type="hidden" name="_captcha" value="false" />
+            <input type="hidden" name="_next" value="https://british-home-blog.vercel.app/about/?sent=1" />
+            <input type="hidden" name="_template" value="table" />
             <div class="contact-form-row">
               <div class="contact-field">
                 <label class="contact-label">Full Name</label>
-                <input id="contact-name" type="text" class="contact-input" placeholder="Your name" required />
+                <input name="name" type="text" class="contact-input" placeholder="Your name" required />
               </div>
               <div class="contact-field">
                 <label class="contact-label">Email Address</label>
-                <input id="contact-email" type="email" class="contact-input" placeholder="your@email.com" required />
+                <input name="email" type="email" class="contact-input" placeholder="your@email.com" required />
               </div>
             </div>
             <div class="contact-field">
               <label class="contact-label">
                 City / County <span class="contact-optional">(optional)</span>
               </label>
-              <input id="contact-city" type="text" class="contact-input" placeholder="e.g. London, Manchester" />
+              <input name="city" type="text" class="contact-input" placeholder="e.g. London, Manchester" />
             </div>
             <div class="contact-field">
               <label class="contact-label">Message</label>
-              <textarea id="contact-message" class="contact-input contact-textarea" placeholder="What's on your mind?" required></textarea>
+              <textarea name="message" class="contact-input contact-textarea" placeholder="What's on your mind?" required></textarea>
             </div>
             <button type="submit" class="contact-submit">Send Message</button>
           </form>
-          <div class="contact-thanks" id="contact-thanks" hidden>
-            <p class="contact-thanks-heading">Message sent!</p>
-            <p class="contact-thanks-sub">Thanks for getting in touch — I'll get back to you within 2–3 business days.</p>
-          </div>
         </div>
       </section>
 
@@ -633,40 +633,3 @@ import '../styles/global.css';
   }
 </style>
 
-<script>
-  const form      = document.getElementById('contact-form') as HTMLFormElement | null;
-  const thanks    = document.getElementById('contact-thanks') as HTMLElement | null;
-  const submitBtn = form?.querySelector('.contact-submit') as HTMLButtonElement | null;
-
-  form?.addEventListener('submit', async (e) => {
-    e.preventDefault();
-    const name    = (document.getElementById('contact-name')    as HTMLInputElement).value.trim();
-    const email   = (document.getElementById('contact-email')   as HTMLInputElement).value.trim();
-    const message = (document.getElementById('contact-message') as HTMLTextAreaElement).value.trim();
-    if (!name || !email || !message) return;
-
-    const city = (document.getElementById('contact-city') as HTMLInputElement).value.trim();
-
-    if (submitBtn) { submitBtn.textContent = 'Sending…'; submitBtn.disabled = true; }
-
-    try {
-      const res  = await fetch('/api/contact', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ name, email, city, message }),
-      });
-      const data = await res.json();
-
-      if (data.success) {
-        form.hidden = true;
-        if (thanks) thanks.hidden = false;
-      } else {
-        if (submitBtn) { submitBtn.textContent = 'Send Message'; submitBtn.disabled = false; }
-        alert(data.error ?? 'Something went wrong. Please try again.');
-      }
-    } catch {
-      if (submitBtn) { submitBtn.textContent = 'Send Message'; submitBtn.disabled = false; }
-      alert('Connection error. Please try again.');
-    }
-  });
-</script>
