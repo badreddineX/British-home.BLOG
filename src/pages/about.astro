@@ -634,10 +634,11 @@ import '../styles/global.css';
 </style>
 
 <script>
-  const form   = document.getElementById('contact-form') as HTMLFormElement | null;
-  const thanks = document.getElementById('contact-thanks') as HTMLElement | null;
+  const form      = document.getElementById('contact-form') as HTMLFormElement | null;
+  const thanks    = document.getElementById('contact-thanks') as HTMLElement | null;
+  const submitBtn = form?.querySelector('.contact-submit') as HTMLButtonElement | null;
 
-  form?.addEventListener('submit', (e) => {
+  form?.addEventListener('submit', async (e) => {
     e.preventDefault();
     const name    = (document.getElementById('contact-name')    as HTMLInputElement).value.trim();
     const email   = (document.getElementById('contact-email')   as HTMLInputElement).value.trim();
@@ -645,10 +646,27 @@ import '../styles/global.css';
     if (!name || !email || !message) return;
 
     const city = (document.getElementById('contact-city') as HTMLInputElement).value.trim();
-    const body = encodeURIComponent(`Name: ${name}\nCity: ${city || 'not provided'}\n\n${message}`);
-    window.location.href = `mailto:badreddinekx122@gmail.com?subject=${encodeURIComponent('British Home Interior — Contact from ' + name)}&body=${body}`;
 
-    form.hidden  = true;
-    if (thanks) thanks.hidden = false;
+    if (submitBtn) { submitBtn.textContent = 'Sending…'; submitBtn.disabled = true; }
+
+    try {
+      const res  = await fetch('/api/contact', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name, email, city, message }),
+      });
+      const data = await res.json();
+
+      if (data.success) {
+        form.hidden = true;
+        if (thanks) thanks.hidden = false;
+      } else {
+        if (submitBtn) { submitBtn.textContent = 'Send Message'; submitBtn.disabled = false; }
+        alert(data.error ?? 'Something went wrong. Please try again.');
+      }
+    } catch {
+      if (submitBtn) { submitBtn.textContent = 'Send Message'; submitBtn.disabled = false; }
+      alert('Connection error. Please try again.');
+    }
   });
 </script>
