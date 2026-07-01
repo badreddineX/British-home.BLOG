@@ -23,16 +23,16 @@
       }
 
       banner.style.display = 'flex';
+      document.body.style.paddingBottom = banner.offsetHeight + 'px';
 
-      document.getElementById('cookie-accept').addEventListener('click', function () {
-        localStorage.setItem('cookie-consent', 'accepted');
+      function dismiss(value) {
+        localStorage.setItem('cookie-consent', value);
         banner.style.display = 'none';
-      });
+        document.body.style.paddingBottom = '';
+      }
 
-      document.getElementById('cookie-decline').addEventListener('click', function () {
-        localStorage.setItem('cookie-consent', 'declined');
-        banner.style.display = 'none';
-      });
+      document.getElementById('cookie-accept').addEventListener('click', function () { dismiss('accepted'); });
+      document.getElementById('cookie-decline').addEventListener('click', function () { dismiss('declined'); });
     }
 
     if (document.readyState === 'loading') {
