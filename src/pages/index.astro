@@ -51,6 +51,7 @@ function fmtDate(d: string) {
       >
         <div class="hero-media">
           <video
+            id="hero-video"
             class="hero-video"
             autoplay
             muted
@@ -59,9 +60,6 @@ function fmtDate(d: string) {
             preload="auto"
             poster={featured?.data.image ?? ''}
           >
-            <!-- Free living room video from Pexels CDN -->
-            <source src="https://videos.pexels.com/video-files/5644364/5644364-hd_1920_1080_25fps.mp4" type="video/mp4" />
-            <source src="https://assets.mixkit.co/videos/preview/mixkit-interior-of-a-living-room-at-night-5823707-large.mp4" type="video/mp4" />
           </video>
           <div class="hero-overlay"></div>
         </div>
@@ -337,6 +335,30 @@ function fmtDate(d: string) {
     <Footer />
   </body>
 </html>
+
+<script is:inline>
+  (function () {
+    var video = document.getElementById('hero-video');
+    if (!video) return;
+
+    var isMobile = window.innerWidth <= 768;
+
+    // Mobile: lightweight SD source — smaller file loads fast on slow connections
+    // Desktop: full HD source
+    var src = isMobile
+      ? 'https://videos.pexels.com/video-files/5644364/5644364-sd_640_360_25fps.mp4'
+      : 'https://videos.pexels.com/video-files/5644364/5644364-hd_1920_1080_25fps.mp4';
+
+    var source = document.createElement('source');
+    source.src = src;
+    source.type = 'video/mp4';
+    video.appendChild(source);
+    video.load();
+    video.play().catch(function () {
+      // Autoplay blocked — poster image already shows as fallback
+    });
+  })();
+</script>
 
 <style>
   /* ====== HERO ====== */
