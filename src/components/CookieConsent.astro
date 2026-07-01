@@ -13,19 +13,33 @@
 
 <script is:inline>
   (function () {
-    var banner = document.getElementById('cookie-banner');
-    if (!banner) return;
-    if (!localStorage.getItem('cookie-consent')) {
+    function initCookieBanner() {
+      var banner = document.getElementById('cookie-banner');
+      if (!banner) return;
+
+      if (localStorage.getItem('cookie-consent')) {
+        banner.style.display = 'none';
+        return;
+      }
+
       banner.style.display = 'flex';
+
+      document.getElementById('cookie-accept').addEventListener('click', function () {
+        localStorage.setItem('cookie-consent', 'accepted');
+        banner.style.display = 'none';
+      });
+
+      document.getElementById('cookie-decline').addEventListener('click', function () {
+        localStorage.setItem('cookie-consent', 'declined');
+        banner.style.display = 'none';
+      });
     }
-    document.getElementById('cookie-accept').addEventListener('click', function () {
-      localStorage.setItem('cookie-consent', 'accepted');
-      banner.style.display = 'none';
-    });
-    document.getElementById('cookie-decline').addEventListener('click', function () {
-      localStorage.setItem('cookie-consent', 'declined');
-      banner.style.display = 'none';
-    });
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initCookieBanner);
+    } else {
+      initCookieBanner();
+    }
   })();
 </script>
 
