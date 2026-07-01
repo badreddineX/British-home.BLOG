@@ -432,9 +432,29 @@ function fmtDate(d: string) {
   }
   .hero-cta:hover { background: var(--color-heading); color: #fff; text-decoration: none; }
 
-  @media (max-width: 500px) {
-    .hero { height: 70vh; }
-    .hero-card { margin-left: 1rem; margin-right: 1rem; width: calc(100% - 2rem); }
+  @media (max-width: 600px) {
+    /* Hide video on mobile — show poster image via CSS background instead */
+    .hero-video { display: none; }
+
+    .hero {
+      height: 80vh;
+      min-height: 480px;
+    }
+
+    /* Hero card: compact on phones */
+    .hero-card {
+      margin-left: 1rem;
+      margin-right: 1rem;
+      width: calc(100% - 2rem);
+      padding: 1.5rem 1.25rem 1.25rem;
+      gap: 0.35rem;
+    }
+
+    .hero-avatar { display: none; }
+
+    .hero-welcome { font-size: 1.4rem; }
+
+    .hero-tagline { font-size: 0.8rem; }
   }
 
   /* ====== FEATURED POST ====== */
