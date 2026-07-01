@@ -37,7 +37,7 @@ export default async function handler(req, res) {
     if (!response.ok) {
       const err = await response.json();
       console.error('Resend error:', err);
-      return res.status(500).json({ error: 'Could not process subscription. Please try again.' });
+      return res.status(500).json({ error: err.message ?? JSON.stringify(err) });
     }
 
     return res.status(200).json({ success: true });
