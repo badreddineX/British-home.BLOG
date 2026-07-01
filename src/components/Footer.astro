@@ -213,12 +213,34 @@ const year = new Date().getFullYear();
 <script>
   const form   = document.getElementById('footer-newsletter-form') as HTMLFormElement | null;
   const thanks = document.getElementById('footer-newsletter-thanks') as HTMLElement | null;
-  form?.addEventListener('submit', (e) => {
+  const submitBtn = form?.querySelector('.footer-submit') as HTMLButtonElement | null;
+
+  form?.addEventListener('submit', async (e) => {
     e.preventDefault();
     const email   = (form.querySelector('#footer-email') as HTMLInputElement).value.trim();
     const consent = (form.querySelector('#footer-consent') as HTMLInputElement).checked;
     if (!email || !consent) return;
-    form.hidden  = true;
-    if (thanks) thanks.hidden = false;
+
+    if (submitBtn) { submitBtn.textContent = 'Subscribing…'; submitBtn.disabled = true; }
+
+    try {
+      const res  = await fetch('/api/subscribe', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email }),
+      });
+      const data = await res.json();
+
+      if (data.success) {
+        form.hidden = true;
+        if (thanks) thanks.hidden = false;
+      } else {
+        if (submitBtn) { submitBtn.textContent = 'Try again'; submitBtn.disabled = false; }
+        alert(data.error ?? 'Something went wrong. Please try again.');
+      }
+    } catch {
+      if (submitBtn) { submitBtn.textContent = 'Try again'; submitBtn.disabled = false; }
+      alert('Connection error. Please try again.');
+    }
   });
 </script>
