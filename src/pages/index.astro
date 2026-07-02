@@ -346,8 +346,8 @@ function fmtDate(d: string) {
     // Mobile: lightweight SD source — smaller file loads fast on slow connections
     // Desktop: full HD source
     var src = isMobile
-      ? 'https://videos.pexels.com/video-files/5644364/5644364-sd_640_360_25fps.mp4'
-      : 'https://videos.pexels.com/video-files/5644364/5644364-hd_1920_1080_25fps.mp4';
+      ? '/videos/hero-sd.mp4'
+      : '/videos/hero-hd.mp4';
 
     var source = document.createElement('source');
     source.src = src;

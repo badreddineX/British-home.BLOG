@@ -31,15 +31,19 @@ There are approximately 5.5 million Victorian terraced houses in the United King
 
 They are also among the most commonly mishandled interiors in Britain. White walls, grey carpet, recessed spotlights, and modern fitted kitchens in rooms designed for a completely different visual language. The architecture remains spectacular. The interiors often betray it.
 
-I own a mid-Victorian terrace in the north of England. I've spent four years returning it to something that feels appropriate to its bones. Here's what I've learned.
+I own a mid-Victorian terrace in the north of England. I've spent four years returning it to something that feels appropriate to its bones. Here's what I've learned, in two halves: first what to restore, then how to decorate around it.
 
-**TL;DR:** The golden rule for a Victorian terrace interior: trust the architecture. The rooms were designed with specific proportions, details, and palette in mind. Work with them rather than against them. Restore original features, use period-appropriate colours, mix old and new confidently, and let the building's character lead.
+*One principle governs everything below: trust the architecture. The rooms were designed with specific proportions, details, and palette in mind — work with them rather than against them, and let the building's character lead.*
 
 ---
 
 Read more: [home interior ideas](/blog/home-interior-ideas-uk/)
 
-## 1. Restore Original Features — Never Remove Them
+## Restore What the Builders Left You
+
+Before any decorating decision, deal with the original fabric of the house. Everything in this section is either irreplaceable or far cheaper to restore than its value suggests.
+
+### Original Features — Never Remove Them
 
 The most common mistake made in Victorian terraces is removing original features in a misguided attempt at modernisation. Cornicing, ceiling roses, dado rails, picture rails, and original fireplaces are the architectural vocabulary the room was designed around. Without them, you have a box. With them, you have a Victorian room.
 
@@ -55,23 +59,7 @@ I removed a dado rail in my dining room during a previous renovation, thinking i
 
 Fibrous plaster replacement coving — from ~£8 per metre from specialist suppliers.
 
----
-
-## 2. Use Period-Appropriate Paint Colours
-
-The Victorians did not use off-white walls. The era was characterised by rich, deep colours — a direct response to both the dark quality of gaslit rooms and the Victorian preference for abundance over restraint. Forest green, deep burgundy, Prussian blue, warm ochre, and chocolate brown are all documented period colours.
-
-Farrow & Ball's historical collection — particularly Hague Blue, Brinjal, Deep Roo, and Lamp Room Grey — captures the Victorian palette with the colour depth these rooms require. Their paints cost ~£60 per 2.5L, which is genuinely expensive. Little Greene's Victorian palette (from ~£48 per 2.5L) offers a slightly more affordable alternative with equally accurate historical research behind it.
-
-For those on a tighter budget, [B&Q's Valspar][B&Q](https://www.diy.com) and Dulux Heritage ranges both offer colour-matches at around ~£25 per 2.5L. The finish matters: Victorian walls were typically painted in oil-based distemper, which has a soft, chalky quality. Modern equivalents are flat emulsion or eggshell — avoid silk finishes, which read as modern and slightly plastic in period rooms.
-
-The dado rail's traditional colour division — darker, more saturated below the rail and lighter above — was functional as well as aesthetic. The lower half of a Victorian room collected far more scuff marks, handprints, and soot than the upper half. Deep colour below the dado conceals wear beautifully. This remains true in homes with children and dogs.
-
-Little Greene period colour paint — from ~£48 per 2.5L at [johnlewis.com][John Lewis](https://www.johnlewis.com).
-
----
-
-## 3. Handle Encaustic Hallway Tiles With Respect
+### Encaustic Hallway Tiles
 
 Encaustic and geometric Victorian hallway tiles are among the most valuable and irreplaceable features a terraced house can have. Laid in geometric patterns — typically black and white, or terracotta and cream — they're the first thing you see when you open the front door and they set the tone for the whole house.
 
@@ -83,9 +71,7 @@ I uncovered original encaustic tiles in my hallway from under three layers of fl
 
 Professional encaustic tile clean and seal — ~£80–£150.
 
----
-
-## 4. Approach the Fireplace as the Room's Centrepiece
+### The Fireplace as the Room's Centrepiece
 
 In a Victorian terrace, the fireplace is not a feature — it's the room's structural and visual centre. Every Victorian room was designed around its hearth. The mantlepiece, the chimney breast, the asymmetry they create — all of these are load-bearing elements of the room's composition.
 
@@ -95,21 +81,7 @@ Never replace an original Victorian fireplace surround with a modern gas or elec
 
 Original Victorian cast iron fireplace from salvage yard — from ~£100.
 
----
-
-## 5. Mix Old and New With Confidence
-
-The best Victorian terrace interiors are not period recreations — they're genuine homes where period architecture coexists with modern life. A contemporary sofa in front of an original Victorian fireplace. Mid-century lighting against original cornicing. A modern art print in a period gilt frame.
-
-The key to mixing well is proportion and confidence. Victorian rooms have generous proportions — typically higher ceilings and more architectural detail than modern equivalents. This means they can accept bold modern pieces without being overwhelmed. A minimalist concrete coffee table reads very differently against Victorian cornicing than it does in a 1990s new-build.
-
-What doesn't mix well in a Victorian room: the mass-market Scandi aesthetic that dominates contemporary British interior design. Light birch, flat-pack furniture, and bare concrete work beautifully in spaces designed for them. In a Victorian room with deep cornicing and an original fireplace, they tend to look underscaled and slightly apologetic.
-
-Mix periods confidently — the architecture is strong enough to lead the conversation.
-
----
-
-## 6. Restore Original Floorboards Where They Exist
+### Original Floorboards
 
 Under carpets installed in the 1970s–1990s, most Victorian terraces have original pine or Douglas fir floorboards. Restoring them — sanding, filling gaps with flexible filler, applying hardwax oil or a period-appropriate varnish — gives you flooring that no modern product can replicate.
 
@@ -119,9 +91,33 @@ In bedrooms, a wool or wool-look carpet in a deep tone (dark green, burgundy, na
 
 Professional floor sanding and finishing — from ~£300 per room.
 
----
+## Decorate Around the Architecture
 
-## 7. Get the Lighting Right for Victorian Proportions
+With the original fabric restored, the decorating decisions — colour, furniture, light — should answer to the building rather than fight it.
+
+### Period-Appropriate Paint Colours
+
+The Victorians did not use off-white walls. The era was characterised by rich, deep colours — a direct response to both the dark quality of gaslit rooms and the Victorian preference for abundance over restraint. Forest green, deep burgundy, Prussian blue, warm ochre, and chocolate brown are all documented period colours.
+
+Farrow & Ball's historical collection — particularly Hague Blue, Brinjal, Deep Roo, and Lamp Room Grey — captures the Victorian palette with the colour depth these rooms require. Their paints cost ~£60 per 2.5L, which is genuinely expensive. Little Greene's Victorian palette (from ~£48 per 2.5L) offers a slightly more affordable alternative with equally accurate historical research behind it.
+
+For those on a tighter budget, [B&Q's Valspar][B&Q](https://www.diy.com) and Dulux Heritage ranges both offer colour-matches at around ~£25 per 2.5L. The finish matters: Victorian walls were typically painted in oil-based distemper, which has a soft, chalky quality. Modern equivalents are flat emulsion or eggshell — avoid silk finishes, which read as modern and slightly plastic in period rooms.
+
+The dado rail's traditional colour division — darker, more saturated below the rail and lighter above — was functional as well as aesthetic. The lower half of a Victorian room collected far more scuff marks, handprints, and soot than the upper half. Deep colour below the dado conceals wear beautifully. This remains true in homes with children and dogs.
+
+Little Greene period colour paint — from ~£48 per 2.5L at [johnlewis.com][John Lewis](https://www.johnlewis.com).
+
+### Mix Old and New With Confidence
+
+The best Victorian terrace interiors are not period recreations — they're genuine homes where period architecture coexists with modern life. A contemporary sofa in front of an original Victorian fireplace. Mid-century lighting against original cornicing. A modern art print in a period gilt frame.
+
+The key to mixing well is proportion and confidence. Victorian rooms have generous proportions — typically higher ceilings and more architectural detail than modern equivalents. This means they can accept bold modern pieces without being overwhelmed. A minimalist concrete coffee table reads very differently against Victorian cornicing than it does in a 1990s new-build.
+
+What doesn't mix well in a Victorian room: the mass-market Scandi aesthetic that dominates contemporary British interior design. Light birch, flat-pack furniture, and bare concrete work beautifully in spaces designed for them. In a Victorian room with deep cornicing and an original fireplace, they tend to look underscaled and slightly apologetic.
+
+Mix periods confidently — the architecture is strong enough to lead the conversation.
+
+### Lighting for Victorian Proportions
 
 Victorian rooms were designed for gas lighting — warm, low, and intimate. They were not designed for the even, shadowless overhead lighting that modern recessed spotlights provide. In a Victorian terrace, recessed spotlights are almost always a mistake: they look incongruous, they flatten the cornicing and architectural detail that depends on shadows, and they produce the wrong quality of light for the room.
 

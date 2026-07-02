@@ -2,8 +2,8 @@
 title: "Living Room Colour Schemes UK: 11 Combinations That Work"
 description: "11 living room colour schemes that work in real British homes — warm neutrals, sage green, navy, and more with specific paint names and UK retailer picks."
 image: "/images/pexels-1457842.jpg"
-datePublished: "2026-06-20"
-dateModified: "2026-06-20"
+datePublished: "2026-05-19"
+dateModified: "2026-05-19"
 author: "Badreddine"
 tags: ["living room colour schemes UK", "living room colours UK", "best living room colours UK", "colour schemes UK homes"]
 featured: false
