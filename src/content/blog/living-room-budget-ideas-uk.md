@@ -53,7 +53,7 @@ Ranked first because no other change on this list delivers as much impact for as
 
 Cushion inserts last for years. Cushion covers are what you actually see, and what dates a sofa more than any other single element. Replacing just the covers — keeping your existing inserts — gives you a brand-new-looking sofa at roughly a quarter of the cost of new cushions.
 
-Buy a set of covers in complementary colours and textures: one velvet, one linen or cotton, one slightly textured. [Dunelm][Dunelm](https://www.dunelm.com) does excellent cushion covers from ~£6 each. Four new covers: ~£24–£32. The sofa looks transformed.
+Buy a set of covers in complementary colours and textures: one velvet, one linen or cotton, one slightly textured. [Dunelm](https://www.dunelm.com) does excellent cushion covers from ~£6 each. Four new covers: ~£24–£32. The sofa looks transformed.
 
 I did this in my living room last winter — replaced six cushion covers for a total of £36 — and three people independently asked if I'd bought a new sofa. The inserts are still the originals from four years ago.
 
@@ -65,7 +65,7 @@ New cushion covers — from ~£6 each at Dunelm.
 
 A room without a rug is a room that isn't finished. The rug grounds the furniture, defines the seating area, and adds texture that hard floors or plain carpet alone can't provide. In a budget context, a jute or natural-weave rug is the best option: it looks more expensive than it is, works with almost any colour scheme, and wears well.
 
-[Dunelm's jute rug range][Dunelm](https://www.dunelm.com) starts at ~£35 for a 120x170cm and ~£45 for a 160x230cm. Go for the larger size if you can — it makes a proportionally bigger difference than the price difference suggests.
+[Dunelm's jute rug range](https://www.dunelm.com) starts at ~£35 for a 120x170cm and ~£45 for a 160x230cm. Go for the larger size if you can — it makes a proportionally bigger difference than the price difference suggests.
 
 Check your tenancy agreement — rugs are always allowed in rented properties as they're entirely freestanding.
 
@@ -89,7 +89,7 @@ Cost: nothing. Impact: often the highest on this list.
 
 A vase of dried botanicals on a coffee table, shelf, or windowsill adds colour, height, texture, and a sense of nature — all at once. Dried flowers require no maintenance, last 12–18 months in normal conditions, and are available in both neutral tones (pampas, lunaria, dried grasses) and more colourful options (dried strawflowers, dried roses).
 
-[Dunelm][Dunelm](https://www.dunelm.com) has dried botanical bundles from ~£6. Alternatively, if you have a garden, dry your own: tie bundles of lavender, hydrangea heads, or long grass with twine and hang upside down for three to four weeks.
+[Dunelm](https://www.dunelm.com) has dried botanical bundles from ~£6. Alternatively, if you have a garden, dry your own: tie bundles of lavender, hydrangea heads, or long grass with twine and hang upside down for three to four weeks.
 
 Dried botanical bundle — from ~£6 at Dunelm.
 
@@ -123,7 +123,7 @@ Raise curtain pole — free (if you have a drill) or ~£8 for an IKEA pole.
 
 A large mirror bounces light around a room and makes the space feel up to a third larger. In north-facing British living rooms — where natural light is limited for much of the year — this is genuinely functional as well as aesthetic.
 
-Lean a large mirror against the wall opposite the main window for maximum effect. Leaning rather than hanging is free, looks deliberately casual, and avoids any tenancy complications. [Dunelm][Dunelm](https://www.dunelm.com) has large round mirrors from ~£25 and rectangular full-length options from ~£20.
+Lean a large mirror against the wall opposite the main window for maximum effect. Leaning rather than hanging is free, looks deliberately casual, and avoids any tenancy complications. [Dunelm](https://www.dunelm.com) has large round mirrors from ~£25 and rectangular full-length options from ~£20.
 
 Large round mirror — from ~£25 at Dunelm.
 
@@ -143,7 +143,7 @@ IKEA Ribba A4 frame — £3.50 each from [IKEA](https://www.ikea.com/gb/).
 
 Scent is the finishing layer of a room — the element that makes a space feel complete and considered rather than merely tidy. A single good-quality candle or reed diffuser in a warm, cosy scent (amber, sandalwood, vanilla, or fig) costs under £12 and makes an immediate difference to the atmosphere.
 
-[Dunelm][Dunelm](https://www.dunelm.com) sells reed diffusers from ~£5 and candles from ~£4. At this price point, scent is genuinely the cheapest way to make a room feel deliberately styled rather than accidentally furnished.
+[Dunelm](https://www.dunelm.com) sells reed diffusers from ~£5 and candles from ~£4. At this price point, scent is genuinely the cheapest way to make a room feel deliberately styled rather than accidentally furnished.
 
 Reed diffuser in amber or sandalwood — from ~£5 at Dunelm.
 

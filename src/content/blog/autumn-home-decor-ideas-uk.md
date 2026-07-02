@@ -56,7 +56,7 @@ Summer cushions tend to be lighter — cotton, in soft pastels, terracotta, or p
 
 I keep a dedicated "autumn box" in my storage that comes out each September — four velvet cushion covers in terracotta and rust that replace my summer linen covers on the same cushion inserts. The swap takes ten minutes and the room looks completely different.
 
-[Dunelm][Dunelm](https://www.dunelm.com) typically launches its autumn textiles range in late August — velvet cushions from ~£8, faux-fur throws from ~£18.
+[Dunelm](https://www.dunelm.com) typically launches its autumn textiles range in late August — velvet cushions from ~£8, faux-fur throws from ~£18.
 
 ---
 
@@ -116,10 +116,10 @@ Autumn is when the lightweight linen throw gets retired and the heavy alternativ
 
 **The autumn textile upgrade list:**
 
-- **Replace lightweight cotton throw with chunky knit** — [Next Home][Next Home](https://www.next.co.uk) chunky throws from ~£30
-- **Swap linen cushion covers for velvet** — [Dunelm][Dunelm](https://www.dunelm.com) from ~£8
+- **Replace lightweight cotton throw with chunky knit** — [Next Home](https://www.next.co.uk) chunky throws from ~£30
+- **Swap linen cushion covers for velvet** — [Dunelm](https://www.dunelm.com) from ~£8
 - **Add a second rug layer** — a smaller patterned rug over your existing one
-- **Hang heavier curtains** — or add a thermal lining to existing curtains (~£15/metre from [John Lewis][John Lewis](https://www.johnlewis.com))
+- **Hang heavier curtains** — or add a thermal lining to existing curtains (~£15/metre from [John Lewis](https://www.johnlewis.com))
 - **Bring out the bed blanket** — a folded wool blanket at the foot of the bed signals the change of season beautifully
 
 **Renter note:** All of the above are completely deposit-safe and portable.

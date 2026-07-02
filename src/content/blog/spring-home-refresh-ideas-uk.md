@@ -80,8 +80,8 @@ This is the parallel to the autumn cushion swap — but in reverse. Out go the h
 
 **The spring textile swap:**
 
-- **Replace chunky knit throw with lightweight linen throw** — [Dunelm][Dunelm](https://www.dunelm.com) from ~£25
-- **Swap velvet cushion covers for cotton or linen alternatives** — [Next Home][Next Home](https://www.next.co.uk) from ~£12/cover
+- **Replace chunky knit throw with lightweight linen throw** — [Dunelm](https://www.dunelm.com) from ~£25
+- **Swap velvet cushion covers for cotton or linen alternatives** — [Next Home](https://www.next.co.uk) from ~£12/cover
 - **Wash and rehang lighter curtains** — or replace thermal-lined curtains with unlined linen
 - **Change bedding to lighter tog** — 7.5 tog or 4.5 tog for spring, rather than 10.5 or 13.5 tog
 
@@ -152,7 +152,7 @@ Just as autumn calls for spiced, resinous scents, spring has its own olfactory s
 
 Swap out the amber and clove of winter for these lighter alternatives in late February. The olfactory cue to your brain that the season is changing is powerful.
 
-**Budget option:** [Dunelm's][Dunelm](https://www.dunelm.com) reed diffuser range includes spring-appropriate scents from ~£8. Swap in early March.
+**Budget option:** [Dunelm's](https://www.dunelm.com) reed diffuser range includes spring-appropriate scents from ~£8. Swap in early March.
 
 ---
 

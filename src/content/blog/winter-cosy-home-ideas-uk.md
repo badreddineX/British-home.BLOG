@@ -57,8 +57,8 @@ The Energy Saving Trust estimates that draught-proofing a typical semi-detached 
 - **Loft hatches** — often completely unsealed
 
 **What to buy:**
-- **Door draught excluders** — fabric or foam brush type, from ~£8–£15 at [B&Q][B&Q](https://www.diy.com) or [Amazon UK](https://www.amazon.co.uk)
-- **Window self-adhesive seal tape** — V-strip or foam, a roll covers several windows, ~£6 from [B&Q][B&Q](https://www.diy.com)
+- **Door draught excluders** — fabric or foam brush type, from ~£8–£15 at [B&Q](https://www.diy.com) or [Amazon UK](https://www.amazon.co.uk)
+- **Window self-adhesive seal tape** — V-strip or foam, a roll covers several windows, ~£6 from [B&Q](https://www.diy.com)
 - **Chimney balloon** (if your fireplace is decorative or unused) — inflatable device that sits in the flue, ~£20–£25 from [Amazon UK](https://www.amazon.co.uk)
 - **Letterbox brush excluder** — fits inside the letterbox, ~£5–£8
 
@@ -82,8 +82,8 @@ The difference between a thin unlined curtain and a properly interlined one is s
 - **Good coverage** — curtains should extend 15–20cm past each side of the window frame to prevent side draughts
 
 **Where to buy:**
-- [Dunelm][Dunelm](https://www.dunelm.com) — Thermal Pencil Pleat range from ~£35/pair. Good quality for the price.
-- [Next Home][Next Home](https://www.next.co.uk) — lined velvet options from ~£50/pair. Excellent thermal performance.
+- [Dunelm](https://www.dunelm.com) — Thermal Pencil Pleat range from ~£35/pair. Good quality for the price.
+- [Next Home](https://www.next.co.uk) — lined velvet options from ~£50/pair. Excellent thermal performance.
 - [IKEA](https://www.ikea.com/gb/) — blackout curtains from ~£20/pair. Less thermal than heavier options but significantly better than nothing.
 
 Velvet curtains are both the most thermal and the most beautiful option for a British winter living room. They trap air in their pile, which insulates, and they absorb the warm amber light of evening lamps in a way that makes the room feel genuinely cocooned.
@@ -119,7 +119,7 @@ Winter textiles are heavier, denser, and warmer than their spring or summer equi
 
 In my own home, the winter textile setup costs me an additional ~£0 per year because I store and rotate seasonally. The outlay happened once; the benefit recurs every year.
 
-[Next Home][Next Home](https://www.next.co.uk) consistently does the best chunky throws for the price — from ~£25 in their seasonal range. [Dunelm][Dunelm](https://www.dunelm.com) has good options from ~£18.
+[Next Home](https://www.next.co.uk) consistently does the best chunky throws for the price — from ~£25 in their seasonal range. [Dunelm](https://www.dunelm.com) has good options from ~£18.
 
 ---
 
