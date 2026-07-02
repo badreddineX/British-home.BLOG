@@ -19,7 +19,7 @@ faqs:
   - q: "What are the best bedroom colours for a UK home?"
     a: "Warm neutrals (Dulux Goose Down, Farrow & Ball Elephant's Breath), soft sage green (Farrow & Ball Mizzle), and deep navy (Little Greene Dark Lead) all perform well in UK bedrooms. Avoid stark whites, which read cold in grey natural light. Deep tones work particularly well for a boutique hotel feel."
   - q: "How do I make my bedroom look more luxurious on a budget UK?"
-    a: "Three changes with the most impact per pound: layer your bedding (add a throw and a flat sheet to your existing set), add bedside lamps in place of ceiling-only lighting, and hang curtains close to the ceiling. Total spend: under £100. See our full guide to [cosy bedroom decor ideas UK](/blog/cosy-bedroom-decor-ideas-uk/)."
+    a: "Three changes with the most impact per pound: layer your bedding (add a throw and a flat sheet to your existing set), add bedside lamps in place of ceiling-only lighting, and hang curtains close to the ceiling. Total spend: under £100. See our full guide to [cosy bedroom decor ideas UK](/blog/cosy-bedroom-ideas-uk/)."
   - q: "What bedding is best for UK bedrooms?"
     a: "For most British bedrooms: a 10.5–13.5 tog duvet for winter (with a lighter summer option), 200+ thread count cotton or percale sheets, and a chunky knit or waffle throw for layering. The White Company, Dunelm's Dorma range, and John Lewis all offer excellent mid-range options."
   - q: "How can I decorate my rented bedroom in the UK without losing my deposit?"
@@ -37,7 +37,7 @@ We neglect the room we're in the most. Here are 12 ideas to fix that.
 
 ---
 
-Read more: [cosy bedroom ideas](/blog/cosy-bedroom-decor-ideas-uk/)
+Read more: [cosy bedroom ideas](/blog/cosy-bedroom-ideas-uk/)
 
 ## 1. Choose Your Colour Before Anything Else
 
@@ -193,5 +193,5 @@ Storage baskets to hide clutter — from ~£8 each at Dunelm.
 | 7 | Style bedside table with three-object rule | ~£10–£30 |
 | 8 | Declutter to minimum visible surfaces | Free |
 
-→ For a deeper guide to bedroom cosiness see [Cosy Bedroom Decor Ideas UK](/blog/cosy-bedroom-decor-ideas-uk/).
+→ For a deeper guide to bedroom cosiness see [Cosy Bedroom Decor Ideas UK](/blog/cosy-bedroom-ideas-uk/).
 → For renter-safe bedroom changes see [Rented Home Decor Ideas UK](/blog/rented-home-decor-ideas-uk/).

@@ -74,6 +74,18 @@ const pageTitle = title.includes('British Home Interior') ? title : `${title} | 
 <!-- Favicon -->
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
+<!-- Fallback for broken external images (hero images are hotlinked from Pexels) -->
+<script is:inline>
+window.addEventListener('error', function (e) {
+  var t = e.target;
+  if (t && t.tagName === 'IMG' && !t.dataset.fellBack) {
+    t.dataset.fellBack = '1';
+    t.removeAttribute('srcset');
+    t.src = '/images/placeholder.svg';
+  }
+}, true);
+</script>
+
 <!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

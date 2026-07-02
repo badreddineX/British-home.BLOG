@@ -46,7 +46,7 @@ I spent about two years in a bedroom that looked fine in photographs and felt co
 > - Most meaningful cosiness upgrades cost under £50 per element
 > - Deep or warm paint colours outperform stark white in the UK's grey natural light
 
-Read more: [cosy bedroom decor ideas UK](/blog/cosy-bedroom-decor-ideas-uk/)
+Read more: [bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk/)
 
 ---
 
@@ -275,6 +275,6 @@ A cosy bedroom isn't a style choice. It's a sleep environment choice, and the tw
 
 You don't need fourteen new things. Pick the two or three ideas from this list that are obviously missing from your room right now. Switch the light off. Buy a throw. Raise the curtain rod. Live with those changes for a week and see how the room feels. Then add the next layer.
 
-For a deeper look at the styling principles behind a cosy bedroom, see our full guide to [cosy bedroom decor ideas UK](/blog/cosy-bedroom-decor-ideas-uk/) — it covers the seven core elements in more detail. And if you're starting from scratch with a whole room, the [bedroom decor ideas UK guide](/blog/bedroom-decor-ideas-uk/) walks through everything from furniture layout to colour choices.
+If you're starting from scratch with a whole room, the [bedroom decor ideas UK guide](/blog/bedroom-decor-ideas-uk/) walks through everything from furniture layout to colour choices.
 
 Your bedroom should be the room in the house you most want to be in. These fourteen ideas will get you there.

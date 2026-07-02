@@ -8,4 +8,7 @@ export default defineConfig({
       filter: (page) => !page.endsWith('/404/'),
     }),
   ],
+  redirects: {
+    '/blog/cosy-bedroom-decor-ideas-uk': '/blog/cosy-bedroom-ideas-uk',
+  },
 });
