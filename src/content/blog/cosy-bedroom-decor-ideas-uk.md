@@ -1,7 +1,7 @@
 ﻿---
 title: "Cosy Bedroom Decor Ideas UK: Create a Proper Retreat"
 description: "Step-by-step guide to a genuinely cosy British bedroom — layered bedding, 2700K lighting, textiles, scent, and morning atmosphere. UK prices and retailer picks."
-image: "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1200"
 datePublished: "2026-03-27"
 dateModified: "2026-03-27"
 author: "Badreddine"
@@ -57,7 +57,7 @@ I tested this side by side in two identical hotel rooms on a press trip — one 
 
 A cosy bed is not a matter of expensive thread count. It's a matter of layers. The sequence that creates the hotel-bed effect: fitted sheet, flat sheet (folded back over the duvet at the turn-down), duvet in a clean cover, two sleeping pillows, two euro square pillows (65x65cm) standing up behind them, and a throw folded across the lower third of the bed.
 
-The flat sheet is the element most British bedrooms skip — and it's the one that creates the visible layered effect. A plain white flat sheet (from ~£12 at [Dunelm](https://www.dunelm.com)) folded back across the top of the duvet creates the turn-down look that makes a bed look dressed rather than just made.
+The flat sheet is the element most British bedrooms skip — and it's the one that creates the visible layered effect. A plain white flat sheet (from ~£12 at [Dunelm][Dunelm](https://www.dunelm.com)) folded back across the top of the duvet creates the turn-down look that makes a bed look dressed rather than just made.
 
 Euro pillows add height and architecture. Without them, most UK double beds look slightly flat. At ~£8 each from Dunelm, they're one of the best-value bedroom upgrades available.
 
@@ -69,7 +69,7 @@ Full layered bedding setup — under £80 from Dunelm Dorma range.
 
 The UK's latitude means summer dawns before 5am in many parts of the country and light evenings past 10pm. Without blackout lining, you cannot control the light in your bedroom — and uncontrolled light is the enemy of sleep quality.
 
-Blackout curtains don't have to be ugly heavy things. Modern blackout fabrics come in every colour and texture — [Dunelm](https://www.dunelm.com) offers made-to-measure blackout curtains in velvet, linen-look, and cotton-look fabrics from ~£35 per pair. Alternatively, a blackout lining can be sewn or clipped onto existing curtains — clip-on blackout linings from [Amazon UK](https://www.amazon.co.uk) start at ~£15 and require no sewing.
+Blackout curtains don't have to be ugly heavy things. Modern blackout fabrics come in every colour and texture — [Dunelm][Dunelm](https://www.dunelm.com) offers made-to-measure blackout curtains in velvet, linen-look, and cotton-look fabrics from ~£35 per pair. Alternatively, a blackout lining can be sewn or clipped onto existing curtains — clip-on blackout linings from [Amazon UK](https://www.amazon.co.uk) start at ~£15 and require no sewing.
 
 For maximum cosiness: velvet blackout curtains in deep green, navy, or warm terracotta create exactly the enveloping quality a bedroom retreat needs. Hang them close to the ceiling and wide of the window frame.
 
@@ -81,7 +81,7 @@ Made-to-measure blackout curtains — from ~£35 at Dunelm.
 
 The moment of getting out of bed is one of the most underrated comfort experiences in a home. Bare floorboards or cold carpet under bare feet at 7am on a grey January morning is a specifically British suffering. A soft, deep-pile rug beside the bed fixes this.
 
-The rug should extend at least 60cm beyond both sides of the bed and 60cm at the foot. You want to step onto it from every exit point. A high-pile or shearling-style rug gives the best underfoot experience. [Dunelm](https://www.dunelm.com) has deep-pile bedroom rugs from ~£25, and [Wayfair UK](https://www.wayfair.co.uk) has excellent shearling-style options from ~£35.
+The rug should extend at least 60cm beyond both sides of the bed and 60cm at the foot. You want to step onto it from every exit point. A high-pile or shearling-style rug gives the best underfoot experience. [Dunelm][Dunelm](https://www.dunelm.com) has deep-pile bedroom rugs from ~£25, and [Wayfair UK][Wayfair](https://www.wayfair.co.uk) has excellent shearling-style options from ~£35.
 
 The bedside rug is the one piece of home decor that is experienced through touch rather than sight. This makes it different from almost every other decorating decision. Buy the softest one you can find within your budget, not the most visually interesting.
 
@@ -94,13 +94,13 @@ Deep-pile bedroom rug — from ~£25 at Dunelm.
 Synthetic textiles — acrylic throws, polyester cushion covers — look similar to natural alternatives in photographs and catalogues. In person, they feel different. Natural fibres (wool, cotton, linen, cashmere-mix) have a weight, drape, and texture that synthetics can't replicate. In a bedroom specifically designed for rest and comfort, this physical quality matters.
 
 The specific pieces worth investing in for a cosy bedroom:
-- **Cotton or percale duvet cover:** A 200+ thread count percale cover feels considerably crisper and more luxurious than cheaper alternatives. [John Lewis](https://www.johnlewis.com) own-brand percale from ~£28
+- **Cotton or percale duvet cover:** A 200+ thread count percale cover feels considerably crisper and more luxurious than cheaper alternatives. [John Lewis][John Lewis](https://www.johnlewis.com) own-brand percale from ~£28
 - **Chunky knit throw:** Real wool or wool-mix, draped over the foot of the bed or an armchair. From ~£28 at Next Home
 - **Linen cushion covers:** Linen creases naturally and looks more considered for it. From ~£14 each at Dunelm
 
 Renters and budget-conscious readers: prioritise the throw first. A single good-quality throw does more to make a bed look and feel luxurious than almost any other single purchase.
 
-Wool-mix chunky knit throw — from ~£28 at [Next Home](https://www.next.co.uk).
+Wool-mix chunky knit throw — from ~£28 at [Next Home][Next Home](https://www.next.co.uk).
 
 ---
 
@@ -108,7 +108,7 @@ Wool-mix chunky knit throw — from ~£28 at [Next Home](https://www.next.co.uk)
 
 Scent affects mood faster and more reliably than almost any other sensory input — and in a bedroom specifically designed for rest, scent can actively support sleep onset. Lavender is the most well-evidenced option: a 2015 study published in the Journal of Alternative and Complementary Medicine found that lavender aromatherapy improved sleep quality in participants by 14% compared to a control group.
 
-This Works Deep Sleep Pillow Spray (~£19 from [John Lewis](https://www.johnlewis.com)) is the most widely recommended UK product for this purpose and consistently earns its reputation. A few sprays on the pillow 10 minutes before sleep.
+This Works Deep Sleep Pillow Spray (~£19 from [John Lewis][John Lewis](https://www.johnlewis.com)) is the most widely recommended UK product for this purpose and consistently earns its reputation. A few sprays on the pillow 10 minutes before sleep.
 
 Beyond lavender: chamomile, sandalwood, and vetiver all have supporting evidence. A reed diffuser on the bedside table or a small beeswax candle (burned for 30 minutes and extinguished before sleep) also creates the right atmospheric association.
 

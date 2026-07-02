@@ -1,7 +1,7 @@
 ﻿---
 title: "Cosy Home Decor Ideas UK: Guide to Genuine Warmth"
-description: "How to make any UK home feel genuinely cosy — layered lighting, textiles, scent, and the British approach to hygge. Practical ideas with UK prices and retailers."
-image: "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?auto=compress&cs=tinysrgb&w=800"
+description: "How to make any UK home feel genuinely cosy — layered lighting, textiles, scent, and the British approach to hygge. UK prices and retailers."
+image: "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg?auto=compress&cs=tinysrgb&w=1200"
 datePublished: "2026-01-26"
 dateModified: "2026-01-26"
 author: "Badreddine"
@@ -50,14 +50,14 @@ The rule is simple: **layer your lighting, use warm bulbs, and stop relying on a
 According to the Lighting Industry Association, 82% of UK homes still use a single central ceiling light as their primary living room source. This is the single most common cause of rooms that feel bright but not cosy.
 
 What to do instead:
-- **One floor lamp** positioned in a corner (~£35–£65, [Dunelm](https://www.dunelm.com))
-- **One table lamp** near the sofa or reading chair (~£25–£45, [Next Home](https://www.next.co.uk))
+- **One floor lamp** positioned in a corner (~£35–£65, [Dunelm][Dunelm](https://www.dunelm.com))
+- **One table lamp** near the sofa or reading chair (~£25–£45, [Next Home][Next Home](https://www.next.co.uk))
 - **Smaller accent sources** — fairy lights behind furniture, a small lamp on a bookshelf
 - **All bulbs at 2700K warm white** — not 4000K cool white, not 6500K daylight
 
 The ceiling light stays off after 4pm. This one rule changes the entire feeling of an evening.
 
-Dimmer switches make a huge difference if you can install them. They're landlord-friendly in an owned home and cost ~£12–£20 per switch from [B&Q](https://www.diy.com).
+Dimmer switches make a huge difference if you can install them. They're landlord-friendly in an owned home and cost ~£12–£20 per switch from [B&Q][B&Q](https://www.diy.com).
 
 ---
 
@@ -71,10 +71,10 @@ The most useful thing I've done to make my flat feel genuinely cosy is to keep a
 
 **What to buy and where:**
 
-- **Chunky knit throw** — [Next Home](https://www.next.co.uk) from ~£25. Drape, don't fold.
-- **Large wool or jute rug** — [Dunelm](https://www.dunelm.com) from ~£45. One large rug beats several small ones.
-- **Velvet cushions** — [Dunelm](https://www.dunelm.com) from ~£8 each. Cluster in warm tones.
-- **Linen curtains, lined** — (https://www.ikea.com/gb) from ~£35/pair. Full-length, hung from ceiling level.
+- **Chunky knit throw** — [Next Home][Next Home](https://www.next.co.uk) from ~£25. Drape, don't fold.
+- **Large wool or jute rug** — [Dunelm][Dunelm](https://www.dunelm.com) from ~£45. One large rug beats several small ones.
+- **Velvet cushions** — [Dunelm][Dunelm](https://www.dunelm.com) from ~£8 each. Cluster in warm tones.
+- **Linen curtains, lined** — [IKEA](https://www.ikea.com/gb/) from ~£35/pair. Full-length, hung from ceiling level.
 
 **Renter note:** All of the above are portable and reversible — no tenancy agreement considerations at all.
 
@@ -107,7 +107,7 @@ The more effective approach is the hibernation corner: one spot in the room that
 What makes a hibernation corner work is that everything needed is within reach without getting up. Chair you love, lamp positioned for reading, small table for a cup of tea, throw within reach. The completeness of the setup is what creates the feeling of cosy rather than just the individual elements.
 
 The elements:
-- **A chair you genuinely want to sit in** — not your sofa, a specific chair. [IKEA's Poäng](https://www.ikea.com/gb) at ~£115, a charity shop armchair, or Facebook Marketplace find
+- **A chair you genuinely want to sit in** — not your sofa, a specific chair. [IKEA's Poäng][IKEA](https://www.ikea.com/gb/) at ~£115, a charity shop armchair, or Facebook Marketplace find
 - **A lamp at shoulder height** positioned for reading
 - **A small side table** at cup-height
 - **A throw within arm's reach** — not in a basket, draped nearby
@@ -145,7 +145,7 @@ Heavy, properly lined curtains do three things at once: they reduce heat loss fr
 
 I added velvet curtains to my living room in October three years ago. The room felt immediately warmer — and it was warmer, because single-glazed Victorian windows lose significant heat through unlined curtains. But the psychological warmth was just as real. The room felt like a room with an inside and an outside.
 
-**Where to buy:** [Dunelm](https://www.dunelm.com) has excellent thermal and velvet curtains from ~£35/pair. [Next Home](https://www.next.co.uk) from ~£45/pair. Always hang from ceiling level, not just above the window frame.
+**Where to buy:** [Dunelm][Dunelm](https://www.dunelm.com) has excellent thermal and velvet curtains from ~£35/pair. [Next Home][Next Home](https://www.next.co.uk) from ~£45/pair. Always hang from ceiling level, not just above the window frame.
 
 ---
 

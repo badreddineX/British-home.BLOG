@@ -1,7 +1,7 @@
 ﻿---
 title: "Bedroom Colour Ideas UK: Best Paint Colours for 2026"
 description: "The best paint colours for British bedrooms in 2026 — warm neutrals, muted blues, and bold statement tones with UK retailer picks from Dulux and Farrow & Ball."
-image: "https://images.pexels.com/photos/3049121/pexels-photo-3049121.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/3049121/pexels-photo-3049121.jpeg?auto=compress&cs=tinysrgb&w=1200"
 datePublished: "2026-06-19"
 dateModified: "2026-06-19"
 author: "Badreddine"
@@ -45,14 +45,14 @@ Warm neutrals are the most universally flattering bedroom colour choice in the U
 
 The specific shades that work:
 
-- **Dulux Goose Down** (~£22 per 2.5L from [B&Q](https://www.diy.com)) — a warm oat tone that reads differently at different times of day. Grey-beige in the morning, soft honey in lamplight.
+- **Dulux Goose Down** (~£22 per 2.5L from [B&Q][B&Q](https://www.diy.com)) — a warm oat tone that reads differently at different times of day. Grey-beige in the morning, soft honey in lamplight.
 - **Farrow & Ball Dead Salmon** (~£59 per 2.5L from [Farrow & Ball](https://www.farrow-ball.com)) — a dusty salmon-pink that sits squarely in neutral territory. More interesting than a standard beige, not as committed as a pink.
-- **Crown Country Cream** (~£18 per 2.5L from [B&Q](https://www.diy.com)) — a yellow-toned cream that looks warm and inviting in low light. An excellent budget option.
+- **Crown Country Cream** (~£18 per 2.5L from [B&Q][B&Q](https://www.diy.com)) — a yellow-toned cream that looks warm and inviting in low light. An excellent budget option.
 - **Farrow & Ball Elephant's Breath** (~£59 per 2.5L) — the iconic mid-warm grey that reads slightly lilac in cool light and warm taupe in lamplight. Suits both contemporary and period homes.
 
 I repainted my bedroom in Crown Country Cream after the cool grey failure. The difference was immediate and significant — not just aesthetically, but in how the room felt to be in. Warm neutrals have an effect on mood that cooler colours don't.
 
-Dulux Goose Down 2.5L — ~£22 from [B&Q](https://www.diy.com). Covers approximately 30–35 square metres.
+Dulux Goose Down 2.5L — ~£22 from [B&Q][B&Q](https://www.diy.com). Covers approximately 30–35 square metres.
 
 ---
 
@@ -83,7 +83,7 @@ The reason it works so well in British bedrooms is botanical. Sage and muted gre
 The shades to consider:
 
 - **Farrow & Ball Mizzle** (~£59 per 2.5L) — the definitive British sage green. Named after the Welsh word for fine rain. Dark enough to feel considered, muted enough to feel calm.
-- **Dulux Sage Wisdom** (~£22 per 2.5L from [B&Q](https://www.diy.com)) — a mid-sage that reads fresher and more contemporary than Mizzle. A strong budget alternative.
+- **Dulux Sage Wisdom** (~£22 per 2.5L from [B&Q][B&Q](https://www.diy.com)) — a mid-sage that reads fresher and more contemporary than Mizzle. A strong budget alternative.
 - **Little Greene Aquamarine** (~£48 per 2.5L) — a blue-toned sage that leans slightly teal. Particularly good in south-facing bedrooms that get real sunlight.
 - **Crown Moody Moss** (~£18 per 2.5L) — a deeper, earthier green. More forest than garden. Excellent for a moody feature wall.
 
@@ -140,12 +140,12 @@ The deep tones that translate best:
 
 - **Farrow & Ball Studio Green** (~£59 per 2.5L) — a deep, cool forest green. One of the most popular Farrow & Ball colours for bedrooms in the past five years.
 - **Little Greene Obsidian** (~£48 per 2.5L) — an almost-black charcoal with warm undertones. Dramatic and genuinely beautiful with brass bedside lamps.
-- **Dulux Night Jewels** (~£22 per 2.5L from [B&Q](https://www.diy.com)) — a deep teal-navy. More complex than a standard navy. Excellent value for the effect.
+- **Dulux Night Jewels** (~£22 per 2.5L from [B&Q][B&Q](https://www.diy.com)) — a deep teal-navy. More complex than a standard navy. Excellent value for the effect.
 - **Crown Forest Bathed in Light** (~£18 per 2.5L) — a rich forest green. One of Crown's most successful bedroom colours and available at most B&Q stores.
 
 A friend painted her spare bedroom in Farrow & Ball Studio Green on my recommendation. She was nervous — the room is only 9 square metres. The result was the most frequently photographed room in her home for the next two years. Small rooms and deep colours are not enemies.
 
-Dulux Night Jewels 2.5L — ~£22 from [B&Q](https://www.diy.com). Deep teal-navy that reads beautifully under warm lamp light.
+Dulux Night Jewels 2.5L — ~£22 from [B&Q][B&Q](https://www.diy.com). Deep teal-navy that reads beautifully under warm lamp light.
 
 ---
 
@@ -208,12 +208,12 @@ Here's the practical difference between UK paint brands at different price point
 Good coverage (typically 2 coats), wide colour range, available everywhere. The limiting factor at this price point is depth of pigment — some colours, especially deep or saturated ones, look slightly flat compared to premium alternatives. Excellent for neutrals and off-whites.
 
 **Mid tier (£30–£45 per 2.5L) — Valspar at B&Q, Rust-Oleum, Little Greene Aqua range:**
-Noticeably better coverage than budget tiers, often one-coat capability on lighter colours. Little Greene's Aqua range (~£33 per 2.5L from [B&Q](https://www.diy.com)) gives you the Little Greene colour palette at significantly reduced prices.
+Noticeably better coverage than budget tiers, often one-coat capability on lighter colours. Little Greene's Aqua range (~£33 per 2.5L from [B&Q][B&Q](https://www.diy.com)) gives you the Little Greene colour palette at significantly reduced prices.
 
 **Premium tier (£45–£65 per 2.5L) — Farrow & Ball, Little Greene, Paint & Paper Library:**
 The pigment depth at this level is genuinely different. Deep colours in particular — Forest Green, Hague Blue, Studio Green — look considerably richer and more complex than budget equivalents. The coverage is excellent. For deep, moody bedroom colours specifically, the premium difference is visible and arguably worth it.
 
-Little Greene Aqua range — ~£33 per 2.5L from [B&Q](https://www.diy.com). Mid-tier pricing with premium-brand colours.
+Little Greene Aqua range — ~£33 per 2.5L from [B&Q][B&Q](https://www.diy.com). Mid-tier pricing with premium-brand colours.
 
 ---
 

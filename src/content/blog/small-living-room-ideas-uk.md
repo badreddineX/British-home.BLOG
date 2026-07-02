@@ -1,7 +1,7 @@
 ﻿---
 title: "Small Living Room Ideas UK: 11 Ways to Feel Bigger"
 description: "11 practical small living room ideas for UK flats — layout tricks, mirror placement, rug sizing, lighting and furniture tips. Real fixes for small British spaces."
-image: "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg?auto=compress&cs=tinysrgb&w=1200"
 datePublished: "2026-03-13"
 dateModified: "2026-03-13"
 author: "Badreddine"
@@ -59,7 +59,7 @@ This applies to coffee tables and side tables too. A glass or acrylic coffee tab
 
 I replaced my skirted three-seater with a raised-leg sofa (IKEA Söderhamn, ~£499) and the room felt measurably more open before I changed anything else. The sofa is only slightly smaller in footprint but the visible floor beneath it transformed the room.
 
-Sofa with visible legs — IKEA Söderhamn from ~£499 at (https://www.ikea.com/gb/).
+Sofa with visible legs — IKEA Söderhamn from ~£499 at [IKEA](https://www.ikea.com/gb/).
 
 ---
 
@@ -69,7 +69,7 @@ In a small room, a large mirror does two things: it bounces natural light deeper
 
 The mirror should be statement-sized — at least 60–80cm wide — to have real impact. Position it opposite or at a 45-degree angle to the main window. Leaning it against the wall rather than hanging it creates a more casual look and avoids renter complications.
 
-Round mirrors are particularly good in small rooms because they avoid competing with the room's angular architecture. [Dunelm's mirror range](https://www.dunelm.com) starts at ~£25 and includes excellent large-format options.
+Round mirrors are particularly good in small rooms because they avoid competing with the room's angular architecture. [Dunelm's mirror range][Dunelm](https://www.dunelm.com) starts at ~£25 and includes excellent large-format options.
 
 Large round mirror — from ~£25 at Dunelm.
 
@@ -93,7 +93,7 @@ Many people assume white is the best colour for a small room. In UK conditions, 
 
 Warm neutrals — Dulux Goose Down, Crown Fossil, Farrow & Ball Pavilion Grey (which despite its name reads very warm) — work better. They add warmth, they read as brighter than they are because warm tones respond well to lamplight in the evening, and they don't draw attention to the room's limited size the way that a very particular or saturated colour might.
 
-Warm neutral paint — Dulux Goose Down ~£22 per 2.5L from [B&Q](https://www.diy.com).
+Warm neutral paint — Dulux Goose Down ~£22 per 2.5L from [B&Q][B&Q](https://www.diy.com).
 
 ---
 
@@ -101,7 +101,7 @@ Warm neutral paint — Dulux Goose Down ~£22 per 2.5L from [B&Q](https://www.di
 
 Bookshelves and storage units that sit on the floor add to the visual mass of a small room. Floating shelves mounted on the wall preserve floor area and draw the eye upward, making the ceiling feel higher.
 
-In a small living room, a grid of floating shelves on one wall — styled with books, plants, and objects — creates significant storage and visual interest without occupying any floor space at all. [IKEA's LACK shelves](https://www.ikea.com/gb/) are the most reliable budget option at ~£8 per shelf. B&Q has wider and deeper floating shelf options from ~£15.
+In a small living room, a grid of floating shelves on one wall — styled with books, plants, and objects — creates significant storage and visual interest without occupying any floor space at all. [IKEA's LACK shelves][IKEA](https://www.ikea.com/gb/) are the most reliable budget option at ~£8 per shelf. B&Q has wider and deeper floating shelf options from ~£15.
 
 Renters: floating shelves require wall fixings. Check your tenancy agreement — some landlords permit shelving with written approval, especially if you agree to fill the holes on exit.
 
@@ -113,7 +113,7 @@ Floating shelf — IKEA LACK from ~£8 at IKEA.
 
 In a small living room, sofa scale matters more than almost any other furniture decision. A large three-seater or sectional sofa in a small room dominates the space and leaves little room to move. A two-seater or compact three-seater at the right depth (typically under 90cm deep from front to back) allows the room to breathe.
 
-Standard UK sofas are often too deep for small living rooms. Look for sofas described as "apartment" or "compact" sizes — [Dunelm](https://www.dunelm.com) and [Next Home](https://www.next.co.uk) both label these clearly. Pair with a single armchair for flexibility without bulk.
+Standard UK sofas are often too deep for small living rooms. Look for sofas described as "apartment" or "compact" sizes — [Dunelm][Dunelm](https://www.dunelm.com) and [Next Home][Next Home](https://www.next.co.uk) both label these clearly. Pair with a single armchair for flexibility without bulk.
 
 Compact two-seater sofa — from ~£299 at Next Home.
 
@@ -125,7 +125,7 @@ A fixed coffee table in a small living room takes up floor space permanently. Ne
 
 They're particularly useful for small flats where the living room doubles as a dining space, or where you regularly have people over. When nested, the floor area they reveal makes the room feel considerably more open.
 
-[Dunelm](https://www.dunelm.com) and [Wayfair](https://www.wayfair.co.uk) both stock nesting tables from ~£35 per set.
+[Dunelm][Dunelm](https://www.dunelm.com) and [Wayfair][Wayfair](https://www.wayfair.co.uk) both stock nesting tables from ~£35 per set.
 
 Set of nesting tables — from ~£35 at Dunelm.
 
@@ -145,7 +145,7 @@ Correct TV size for small rooms: 43–50 inches at 2–2.5m viewing distance.
 
 Rather than relying on a central ceiling rose (which draws the eye to the middle of the ceiling and makes the room feel boxier), use a pendant hung low over a side table, or a picture light mounted on the wall, to create lighting that exists at a lower level and adds depth rather than overhead glare.
 
-Plug-in pendant lights — which don't require rewiring and work in rented properties — are available from [Dunelm](https://www.dunelm.com) from ~£22. These hang from a ceiling hook (which can be adhesive in plaster ceilings) and the cord runs to a wall plug.
+Plug-in pendant lights — which don't require rewiring and work in rented properties — are available from [Dunelm][Dunelm](https://www.dunelm.com) from ~£22. These hang from a ceiling hook (which can be adhesive in plaster ceilings) and the cord runs to a wall plug.
 
 Plug-in pendant light — from ~£22 at Dunelm.
 

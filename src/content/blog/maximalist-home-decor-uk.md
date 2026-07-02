@@ -1,7 +1,7 @@
 ﻿---
 title: "Maximalist Home Decor UK: Layer Boldly, Not Cluttered"
 description: "How to do maximalist interior design in a British home without it looking cluttered — rules for colour, pattern, and layering. Real tips, UK prices."
-image: "https://images.pexels.com/photos/2062431/pexels-photo-2062431.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/2062431/pexels-photo-2062431.jpeg?auto=compress&cs=tinysrgb&w=1200"
 datePublished: "2026-05-01"
 dateModified: "2026-05-01"
 author: "Badreddine"

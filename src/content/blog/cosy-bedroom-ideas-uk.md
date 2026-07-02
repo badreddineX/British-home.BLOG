@@ -1,7 +1,7 @@
 ﻿---
 title: "Cosy Bedroom Ideas UK: 14 Ways to Create a Retreat"
 description: "14 ways to make your bedroom feel like a proper retreat — lighting, layered bedding, texture, and atmosphere for UK homes and flats on any budget."
-image: "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1200"
 datePublished: "2026-06-21"
 dateModified: "2026-06-21"
 author: "Badreddine"

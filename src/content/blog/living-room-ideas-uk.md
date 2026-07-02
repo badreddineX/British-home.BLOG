@@ -1,7 +1,7 @@
 ﻿---
 title: "15 Living Room Ideas for UK Homes"
 description: "15 practical living room ideas for British homes — warm neutrals, texture layering, lighting, gallery walls, and cottagecore from UK retailers. All budgets."
-image: "https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=1200"
 datePublished: "2026-01-08"
 dateModified: "2026-01-08"
 author: "Badreddine"
@@ -55,7 +55,7 @@ One tin of paint (~£25–£35 from B&Q) is the highest-impact change you can ma
 
 The most common rug mistake in UK living rooms is going too small. A rug should be large enough that at least the front legs of all your seating pieces sit on it. If your rug floats in the middle of the room with furniture around the edges, the space reads as disconnected.
 
-In a typical UK terraced house living room (around 12ft x 14ft), a 160cm x 230cm rug is the minimum. The next size up, 200cm x 290cm, looks genuinely luxurious. [Dunelm](https://www.dunelm.com) has excellent options from ~£45, and their larger sizes stay under £120 for most styles.
+In a typical UK terraced house living room (around 12ft x 14ft), a 160cm x 230cm rug is the minimum. The next size up, 200cm x 290cm, looks genuinely luxurious. [Dunelm][Dunelm](https://www.dunelm.com) has excellent options from ~£45, and their larger sizes stay under £120 for most styles.
 
 I tested this in my flat — going from a 120x170 rug to a 160x230 made the sofa area feel like a proper room rather than an afterthought.
 
@@ -69,7 +69,7 @@ This sounds too simple, but switching off the main ceiling light in the evening 
 
 Replace your single overhead light with three or four lamp sources at different heights. A floor lamp in the corner, a table lamp by the sofa, a small lamp on a shelf. All bulbs at 2700K warm white — not 4000K, not "cool white." According to the Lighting Industry Association, 78% of UK homes still use predominantly overhead lighting in the evening, which is why so many British living rooms feel harsh rather than welcoming.
 
-Three-lamp setup — ~£35 floor lamp + ~£25 table lamp, both from [Next Home](https://www.next.co.uk).
+Three-lamp setup — ~£35 floor lamp + ~£25 table lamp, both from [Next Home][Next Home](https://www.next.co.uk).
 
 ---
 
@@ -79,7 +79,7 @@ Curtains hung at window height cut the room off visually. Hung close to the ceil
 
 The curtains should also be wide: when fully open they should sit mostly off the glass, not bunched in the middle of the window. This maximises light during the day and makes the window look larger than it is.
 
-[IKEA's Sanela velvet curtains](https://www.ikea.com/gb/) (~£55 per pair) in deep green or dusty pink are excellent for this — heavy enough to hang properly, and they pool slightly at the bottom for a more generous look.
+[IKEA's Sanela velvet curtains][IKEA](https://www.ikea.com/gb/) (~£55 per pair) in deep green or dusty pink are excellent for this — heavy enough to hang properly, and they pool slightly at the bottom for a more generous look.
 
 Ceiling-height curtains — from ~£35 per pair at Dunelm.
 
@@ -105,7 +105,7 @@ The rule I use: at least three different textures visible on the sofa at once. O
 
 The specific combination of velvet cushions with a chunky knit throw outperforms both in isolation because the contrast between smooth and rough textures reads as more deliberate and considered — it signals curation rather than accumulation.
 
-Chunky knit throw — ~£22 from [Next Home](https://www.next.co.uk). Boucle cushion — ~£14 from Dunelm.
+Chunky knit throw — ~£22 from [Next Home][Next Home](https://www.next.co.uk). Boucle cushion — ~£14 from Dunelm.
 
 ---
 
@@ -117,7 +117,7 @@ You don't need to go full wildflower meadow. A vase of dried pampas or lunaria o
 
 See our full guide to [cottagecore home decor UK](/blog/cottagecore-home-decor-uk/) for more specific sourcing advice.
 
-Dried botanical arrangement — ~£12 from Dunelm or [Wayfair](https://www.wayfair.co.uk).
+Dried botanical arrangement — ~£12 from Dunelm or [Wayfair][Wayfair](https://www.wayfair.co.uk).
 
 ---
 
@@ -129,7 +129,7 @@ It doesn't need its own room or even a separate corner. In a typical UK living r
 
 Look for armchairs with legs rather than skirted bases — raised furniture shows more floor, making the room read as larger and less cluttered.
 
-Budget armchair with legs — from ~£85 at (https://www.ikea.com/gb/) (Poäng remains the best value option).
+Budget armchair with legs — from ~£85 at [IKEA](https://www.ikea.com/gb/) (Poäng remains the best value option).
 
 ---
 
@@ -139,7 +139,7 @@ British living rooms frequently suffer from limited natural light — north-faci
 
 The mirror should be statement-sized — at least 60cm wide — to have real impact. Leaning it against the wall (rather than hanging it) gives a more relaxed, layered look and avoids wall damage for renters.
 
-Round mirrors are having a moment and suit both period and contemporary British interiors. [John Lewis](https://www.johnlewis.com) has excellent options from ~£45, and [Wayfair](https://www.wayfair.co.uk) frequently stocks large round mirrors at competitive prices.
+Round mirrors are having a moment and suit both period and contemporary British interiors. [John Lewis][John Lewis](https://www.johnlewis.com) has excellent options from ~£45, and [Wayfair][Wayfair](https://www.wayfair.co.uk) frequently stocks large round mirrors at competitive prices.
 
 Large round mirror — from ~£35 at Dunelm.
 
@@ -151,7 +151,7 @@ In a small or average-sized British living room, the coffee table does a lot of 
 
 Nesting tables are worth considering if your sofa situation changes regularly (family who visit, parties, etc.) — they take almost no space when nested and spread out generously when needed.
 
-Storage coffee table — from ~£55 at [Wayfair](https://www.wayfair.co.uk).
+Storage coffee table — from ~£55 at [Wayfair][Wayfair](https://www.wayfair.co.uk).
 
 ---
 
@@ -159,7 +159,7 @@ Storage coffee table — from ~£55 at [Wayfair](https://www.wayfair.co.uk).
 
 Plants in living rooms are not a trend — they're a design constant that works across every style and every budget. A single large-leafed plant (fiddle leaf fig, monstera, or rubber plant) adds scale and life to a corner that would otherwise need expensive furniture to fill.
 
-If you don't trust yourself with real plants, high-quality faux options have improved dramatically. [IKEA's Fejka range](https://www.ikea.com/gb/) starts at ~£4 and some of their larger pieces are genuinely convincing.
+If you don't trust yourself with real plants, high-quality faux options have improved dramatically. [IKEA's Fejka range][IKEA](https://www.ikea.com/gb/) starts at ~£4 and some of their larger pieces are genuinely convincing.
 
 Real plants improve air quality marginally but the psychological effect is more significant — a 2021 study by the University of Exeter found that plants in home spaces reduced reported stress levels by 37%.
 
@@ -181,7 +181,7 @@ Candleholders for shelf styling — from ~£4 at Dunelm.
 
 If you're not ready to paint the whole room, a feature wall in a deeper tone adds drama without commitment. Deep forest green, navy blue, and terracotta all work well in British living rooms and complement the warm neutral base colours most UK homes already have.
 
-Painting just one wall — typically the chimney breast, which already reads as architecturally distinct — costs one tin of paint and an afternoon. [B&Q's Valspar range](https://www.diy.com) lets you colour-match to almost any shade for ~£25 per 2.5L tin.
+Painting just one wall — typically the chimney breast, which already reads as architecturally distinct — costs one tin of paint and an afternoon. [B&Q's Valspar range][B&Q](https://www.diy.com) lets you colour-match to almost any shade for ~£25 per 2.5L tin.
 
 Feature wall paint — ~£20–£35 per 2.5L from B&Q.
 
@@ -203,7 +203,7 @@ Scent is the element most people forget and the one that makes the most immediat
 
 In a personal experiment comparing three identically arranged rooms — one unscented, one with a synthetic air freshener, and one with a quality reed diffuser — every person who visited rated the diffuser room as "cosier" and "more welcoming" without being able to articulate why. Scent works below the level of conscious awareness.
 
-Reed diffuser in amber or fig — from ~£8 at [Dunelm](https://www.dunelm.com).
+Reed diffuser in amber or fig — from ~£8 at [Dunelm][Dunelm](https://www.dunelm.com).
 
 ---
 

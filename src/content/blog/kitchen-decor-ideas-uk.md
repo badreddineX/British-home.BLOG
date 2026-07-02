@@ -1,7 +1,7 @@
 ﻿---
 title: "Kitchen Decor Ideas UK: 12 Ways to Style a British Kitchen"
 description: "12 kitchen decor ideas for UK homes — from open shelving and herb displays to warm lighting and classic colour palettes. Practical, budget-conscious, British."
-image: "https://images.pexels.com/photos/2062426/pexels-photo-2062426.jpeg?auto=compress&cs=tinysrgb&w=800"
+image: "https://images.pexels.com/photos/2062426/pexels-photo-2062426.jpeg?auto=compress&cs=tinysrgb&w=1200"
 datePublished: "2026-06-16"
 dateModified: "2026-06-16"
 author: "Badreddine"
@@ -45,7 +45,7 @@ Read more: [home interior ideas overview](/blog/home-interior-ideas-uk/)
 
 Under-cabinet lighting is the single highest-impact kitchen upgrade that doesn't require a builder. According to Which? UK's 2023 Home Improvement Report, kitchen lighting is cited by 43% of homeowners as the change that made the biggest difference to their kitchen's atmosphere — more than any new appliance or cabinet colour. A strip of warm-white LEDs underneath your wall cabinets floods the worktop with functional task light and adds the layered, considered feel that overhead lighting alone can't achieve.
 
-The key is colour temperature. Choose 2700K warm white, not 4000K or "daylight." Daylight LEDs make a kitchen look like a supermarket; warm white makes it look like a home. [B&Q's Diall LED strip light](https://www.diy.com) starts at ~£18 for a 1-metre self-adhesive strip with a plug-in connector — no electrician required.
+The key is colour temperature. Choose 2700K warm white, not 4000K or "daylight." Daylight LEDs make a kitchen look like a supermarket; warm white makes it look like a home. [B&Q's Diall LED strip light][B&Q](https://www.diy.com) starts at ~£18 for a 1-metre self-adhesive strip with a plug-in connector — no electrician required.
 
 I fitted under-cabinet strips in my current kitchen on a Saturday afternoon. The difference was so pronounced that my partner, who had previously resisted the idea, asked if we could add them over the hob too. Total cost: £36. Total time: 90 minutes. It's the best value kitchen upgrade I've ever made.
 
@@ -57,7 +57,7 @@ Diall LED strip light (2700K, self-adhesive) — from ~£18 at B&Q.
 
 This is the cheapest and most underrated kitchen styling idea. A matching set of tea towels, a coordinating oven glove, and a washing-up brush in a consistent colour family transform a kitchen from cluttered to curated without changing a single fixture. The effect is not subtle. Mismatched textiles make even a beautiful kitchen look chaotic; a matched set makes even an ordinary kitchen feel considered.
 
-Pick one colour to coordinate around — sage green, navy, terracotta, or classic stripe are the most popular in British kitchens. Then buy a set of three matching tea towels (~£8–£12 from [Dunelm](https://www.dunelm.com) or [H&M Home](https://www2.hm.com/en_gb/home.html)) and replace any visually jarring accessories — that fluorescent washing-up brush, the plastic-handled oven glove — with ones in your chosen colour.
+Pick one colour to coordinate around — sage green, navy, terracotta, or classic stripe are the most popular in British kitchens. Then buy a set of three matching tea towels (~£8–£12 from [Dunelm][Dunelm](https://www.dunelm.com) or [H&M Home](https://www2.hm.com/en_gb/home.html)) and replace any visually jarring accessories — that fluorescent washing-up brush, the plastic-handled oven glove — with ones in your chosen colour.
 
 Set of 3 coordinating tea towels — from ~£8 at Dunelm.
 
@@ -67,7 +67,7 @@ Set of 3 coordinating tea towels — from ~£8 at Dunelm.
 
 A row of three ceramic herb pots on the kitchen windowsill serves two purposes at once: it looks intentional and styled, and it actually provides fresh herbs for cooking. This is the only kitchen decor idea where the decor genuinely earns its place. The display works best with an odd number of pots — three is ideal — all in the same style and colour.
 
-[IKEA's Plastis pot](https://www.ikea.com/gb/) in white is the most popular choice for good reason: it's clean, inexpensive (~£1.50 each), and works in every kitchen. For something more textured, Dunelm sells ribbed ceramic herb pots in sets of three from ~£12. Plant with rosemary, basil, and thyme — the three herbs that look good at the window, tolerate kitchen conditions, and get used often enough to stay healthy.
+[IKEA's Plastis pot][IKEA](https://www.ikea.com/gb/) in white is the most popular choice for good reason: it's clean, inexpensive (~£1.50 each), and works in every kitchen. For something more textured, Dunelm sells ribbed ceramic herb pots in sets of three from ~£12. Plant with rosemary, basil, and thyme — the three herbs that look good at the window, tolerate kitchen conditions, and get used often enough to stay healthy.
 
 The herb display signals something about the kitchen that no other single element does: it says the person who cooks here cares about what they eat. That's a form of personality. Most kitchen decor is neutral and aspirational; a genuine herb display is specific and personal.
 
@@ -79,7 +79,7 @@ Set of 3 ribbed ceramic herb pots — ~£12 from Dunelm.
 
 Open shelving or visible worktop storage only looks good when the containers match. A row of mismatched pasta packets, cereal boxes, and half-empty bags reads as clutter no matter how stylish the shelf behind them is. Decanting dry goods — pasta, rice, oats, lentils, coffee, tea — into a matching set of glass jars solves this immediately.
 
-Glass jars also let you see what you have at a glance, which reduces waste. [Dunelm's Klip glass jar range](https://www.dunelm.com) starts at ~£8 for four 0.5-litre jars — enough for a basic starter set. For a larger kitchen, [IKEA's Korken range](https://www.ikea.com/gb/) provides eight jars for ~£12. Label them with chalk labels (included with many sets, or ~£3 separately) for a finished look.
+Glass jars also let you see what you have at a glance, which reduces waste. [Dunelm's Klip glass jar range][Dunelm](https://www.dunelm.com) starts at ~£8 for four 0.5-litre jars — enough for a basic starter set. For a larger kitchen, [IKEA's Korken range][IKEA](https://www.ikea.com/gb/) provides eight jars for ~£12. Label them with chalk labels (included with many sets, or ~£3 separately) for a finished look.
 
 Set of 4 glass storage jars — from ~£8 at Dunelm.
 
@@ -91,7 +91,7 @@ Set of 4 glass storage jars — from ~£8 at Dunelm.
 
 A large wooden chopping board leaned against the splashback or laid flat on the worktop as a "station" anchors the kitchen's cooking area and makes it look immediately more styled. The board grounds any objects placed alongside it — a bottle of olive oil, a small jar of salt, a lemon — into a deliberate composition rather than scattered items.
 
-Oak and acacia boards photograph and look best. A good-sized one (at least 35x25cm) from [John Lewis](https://www.johnlewis.com) runs ~£18–£30, or Dunelm stocks acacia options from ~£10. The board doesn't even need to be actively used in cooking — it works purely as a styling anchor. Though in practice, having a beautiful board on the worktop means you actually use it more.
+Oak and acacia boards photograph and look best. A good-sized one (at least 35x25cm) from [John Lewis][John Lewis](https://www.johnlewis.com) runs ~£18–£30, or Dunelm stocks acacia options from ~£10. The board doesn't even need to be actively used in cooking — it works purely as a styling anchor. Though in practice, having a beautiful board on the worktop means you actually use it more.
 
 Large acacia chopping board — from ~£10 at Dunelm.
 
@@ -101,7 +101,7 @@ Large acacia chopping board — from ~£10 at Dunelm.
 
 Cabinet hardware is the jewellery of a kitchen. Replacing the standard chrome or plastic handles that come with most UK fitted kitchens — or the existing ones in a rented or older property — is one of the most cost-effective ways to change the entire character of the room. New handles don't require any specialist tools: a screwdriver and 30 minutes is usually sufficient.
 
-Ceramic handles in white or sage suit period and cottage-style kitchens. Brushed brass suits modern and Shaker-style kitchens. Matte black suits industrial and contemporary spaces. [Dunelm's hardware range](https://www.dunelm.com) includes ceramic cup handles from ~£2.50 each. For a typical 10-cabinet kitchen, expect to spend ~£25–£50 total — a fraction of the cost of re-painting or replacing the cabinets themselves.
+Ceramic handles in white or sage suit period and cottage-style kitchens. Brushed brass suits modern and Shaker-style kitchens. Matte black suits industrial and contemporary spaces. [Dunelm's hardware range][Dunelm](https://www.dunelm.com) includes ceramic cup handles from ~£2.50 each. For a typical 10-cabinet kitchen, expect to spend ~£25–£50 total — a fraction of the cost of re-painting or replacing the cabinets themselves.
 
 Note for renters: keep the original handles in a bag and reinstall them before moving out.
 
@@ -125,7 +125,7 @@ Keep 30% of open shelf space deliberately empty — it makes everything else loo
 
 Beyond the herb display on the windowsill, a single non-edible plant on the kitchen counter or shelf adds life and softness to what is typically a very hard, shiny environment. The kitchen's conditions — fluctuating temperature, steam, limited natural light if the window is small — rule out many species. But a few do exceptionally well.
 
-Pothos (devil's ivy) thrives in kitchen conditions, trails attractively over shelf edges, and tolerates inconsistent watering. A small pothos from a garden centre or (https://www.ikea.com/gb/) costs ~£4–£8. Spider plants and aloe vera are equally tolerant. Place in a ceramic pot that matches your textile colour palette — this ties the plant into the room's scheme rather than making it feel like an afterthought.
+Pothos (devil's ivy) thrives in kitchen conditions, trails attractively over shelf edges, and tolerates inconsistent watering. A small pothos from a garden centre or [IKEA](https://www.ikea.com/gb/) costs ~£4–£8. Spider plants and aloe vera are equally tolerant. Place in a ceramic pot that matches your textile colour palette — this ties the plant into the room's scheme rather than making it feel like an afterthought.
 
 Small pothos plant in a ceramic pot — ~£4–£8 from IKEA or any garden centre.
 
@@ -135,9 +135,9 @@ Small pothos plant in a ceramic pot — ~£4–£8 from IKEA or any garden centr
 
 A magnetic knife strip does two things simultaneously: it frees up the drawer space that a knife block occupies and it makes the kitchen look more purposeful. A row of knives mounted on the wall reads as "someone who actually cooks lives here" — which is the specific atmosphere a kitchen should have.
 
-[IKEA's Kungsfors magnetic knife rack](https://www.ikea.com/gb/) costs £6 and comes in stainless steel that suits most kitchen finishes. It requires two small wall fixings, which is standard for most tenancy agreements (and fills with a tiny dab of Polyfilla on exit). For renters who want to avoid drilling: a countertop magnetic block from Amazon UK starts at ~£15 and needs no fixings.
+[IKEA's Kungsfors magnetic knife rack][IKEA](https://www.ikea.com/gb/) costs £6 and comes in stainless steel that suits most kitchen finishes. It requires two small wall fixings, which is standard for most tenancy agreements (and fills with a tiny dab of Polyfilla on exit). For renters who want to avoid drilling: a countertop magnetic block from Amazon UK starts at ~£15 and needs no fixings.
 
-IKEA Kungsfors magnetic knife rack — £6 from (https://www.ikea.com/gb/).
+IKEA Kungsfors magnetic knife rack — £6 from [IKEA](https://www.ikea.com/gb/).
 
 ---
 
@@ -169,7 +169,7 @@ A3 art print in an IKEA Ribba frame — total ~£6.50.
 
 This is the least often mentioned kitchen styling idea and one of the most effective. The typical British kitchen worktop hosts a kettle, a toaster, and often a coffee machine or air fryer — all frequently in different colours, finishes, and eras. Mismatched appliances create a restless, unresolved look that no amount of decor can overcome.
 
-Replacing even two of the three main appliances in a matching colourway makes a substantial difference. Cream or off-white appliances suit classic and country kitchens. Black suits contemporary spaces. Sage green, cobalt blue, and red have all had strong moments in British kitchen trends. [Dunelm's own-brand appliance range](https://www.dunelm.com) and Russell Hobbs both offer matching kettle-and-toaster sets from ~£45 combined. That's a single purchase that changes the entire visual register of the worktop.
+Replacing even two of the three main appliances in a matching colourway makes a substantial difference. Cream or off-white appliances suit classic and country kitchens. Black suits contemporary spaces. Sage green, cobalt blue, and red have all had strong moments in British kitchen trends. [Dunelm's own-brand appliance range][Dunelm](https://www.dunelm.com) and Russell Hobbs both offer matching kettle-and-toaster sets from ~£45 combined. That's a single purchase that changes the entire visual register of the worktop.
 
 Matching kettle and toaster set — from ~£45 combined at Dunelm or Russell Hobbs.
 
