@@ -1,9 +1,9 @@
-﻿---
+---
 title: "Kitchen on a Budget UK: 14 Upgrades Without Renovation"
 description: "14 budget kitchen upgrades for UK homes — paint cabinets, swap handles, add open shelving, and refresh worktops without spending thousands."
-image: "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg?auto=compress&cs=tinysrgb&w=1200"
-datePublished: "2026-06-15"
-dateModified: "2026-06-15"
+image: "/images/pexels-1080721.jpg"
+datePublished: "2026-02-10"
+dateModified: "2026-02-10"
 author: "Badreddine"
 tags: ["kitchen on a budget UK", "budget kitchen ideas UK", "kitchen upgrade UK", "cheap kitchen makeover UK"]
 featured: false
@@ -33,7 +33,16 @@ I've been there. A couple of years ago, my kitchen was genuinely embarrassing. O
 
 What followed was three weekends and some genuinely satisfying before-and-after results. This post is everything I did and everything I'd add if I were doing it now.
 
-**TL;DR: You don't need a new kitchen. You need paint, new handles, better lighting, and about two weekends. The 14 changes below can be done individually or stacked for a full refresh — most cost under £50 each, and none require a tradesperson.**
+You don't need a new kitchen. You need about two weekends and four things:
+
+| What | Why it matters |
+|------|----------------|
+| Paint for the cabinet doors | The biggest visual change per pound spent |
+| New handles and knobs | Instantly de-dates any kitchen |
+| Better lighting | Poor fittings make even new kitchens look tired |
+| A ruthless declutter | Free, and makes every other change look better |
+
+The 14 changes below can be done individually or stacked for a full refresh — most cost under £50 each, and none require a tradesperson.
 
 Read more: [budget home transformation framework](/blog/budget-home-makeover-uk)
 
@@ -41,7 +50,7 @@ Read more: [budget home transformation framework](/blog/budget-home-makeover-uk)
 
 [IMAGE: A bright, refreshed UK kitchen with painted white cabinets, brushed brass handles, and open shelving — search Pexels for "white kitchen budget UK renovation"]
 
-## 1. Paint Your Cabinet Doors
+## Paint Your Cabinet Doors
 
 Painting cabinet doors is the single highest-impact change you can make to a tired kitchen. Rust-Oleum Kitchen Cupboard Paint (around £18 per 750ml tin at B&Q and Screwfix) covers roughly 12–15 cabinet doors per tin and dries to a hard, wipeable finish. Most average kitchens need two tins.
 
@@ -53,7 +62,7 @@ Two tins of Rust-Oleum Kitchen Cupboard Paint at around £36 total will transfor
 
 ---
 
-## 2. Swap Every Handle and Knob
+## Swap Every Handle and Knob
 
 Cabinet handles are one of those things you stop noticing — until you see a kitchen where they've been changed. Replacing brass bar pulls from 2002 with something modern takes thirty minutes and a screwdriver. The visual difference is disproportionate to the effort.
 
@@ -65,7 +74,7 @@ New handles cost £15–£40 for a full kitchen and make flatpack units look con
 
 ---
 
-## 3. Add Open Shelving
+## Add Open Shelving
 
 Removing a couple of upper cabinet doors and using the space as open shelving costs almost nothing and makes even a small kitchen feel more intentional. If you want proper dedicated shelving, IKEA's Boaxel wall-mounted system starts at around £25 for a single shelf with brackets and holds up to 50kg per shelf.
 
@@ -79,7 +88,7 @@ One IKEA Boaxel shelf unit costs around £25–£50 depending on size and adds v
 
 [IMAGE: Close-up of open kitchen shelving with stacked white plates, mugs, and a small plant — search Pexels for "kitchen open shelving minimal UK"]
 
-## 4. Replace the Taps
+## Replace the Taps
 
 Old taps are one of the most ageing elements in any kitchen. A single-lever monobloc tap costs from £45 at B&Q (the Cooke & Lewis Palma range) and from £55 at Screwfix. Replacing a tap is a job most confident DIYers can do in under two hours with an adjustable spanner and a YouTube tutorial.
 
@@ -91,7 +100,7 @@ A new monobloc tap from B&Q or Screwfix starts at £45 and is one of the most no
 
 ---
 
-## 5. Regrout the Tile Splashback
+## Regrout the Tile Splashback
 
 If you have an existing tile splashback, there's a reasonable chance the grout has gone grey or brown. Regrout it. A tube of Mapei Ultracolor Plus grout (around £7–£9 at Wickes or Screwfix) is enough for a standard splashback area. Pair it with a £3 tube of grout rake from Amazon.
 
@@ -103,7 +112,7 @@ Regrout costs under £15 in materials and gives a tiled splashback a completely 
 
 ---
 
-## 6. Add Peel-and-Stick Splashback Tiles
+## Add Peel-and-Stick Splashback Tiles
 
 If you don't have a splashback at all, or you have bare wall behind the hob, peel-and-stick tile sheets are the budget solution that actually works. Brands like Crearreda and Vinyltiles sell A4 and A3 peel-and-stick panels that mimic metro tile, geometric patterns, and even marble. A full splashback area costs £25–£45 from Amazon UK or Dunelm.
 
@@ -117,7 +126,7 @@ Peel-and-stick splashback tile sheets cost £25–£45 for a standard area and r
 
 [CHART: Bar chart comparing cost of 6 most popular budget kitchen upgrades - handles £30, grout £15, stick-on splashback £35, new taps £55, open shelving £40, cabinet paint £36 - source: retailer pricing B&Q/Wickes/IKEA June 2026]
 
-## 7. Upgrade the Lighting
+## Upgrade the Lighting
 
 Most UK kitchens suffer from one central ceiling light and permanent shadows on the worktop. Under-cabinet LED strip lights fix this immediately. Luminoodle and LE make USB-powered or plug-in strips available on Amazon for £12–£25 for a 2–3 metre run. B&Q's own-brand LED strip kits are around £18 and come with a simple adhesive backing.
 
@@ -129,7 +138,7 @@ Under-cabinet LED strips from £12 at Amazon or B&Q eliminate worktop shadows an
 
 ---
 
-## 8. Paint the Walls a Different Colour
+## Paint the Walls a Different Colour
 
 It sounds obvious, but most people focus entirely on the units and forget that the wall colour between and above the cabinets is a significant visual element. A flat kitchen with cream walls looks completely different painted in a deep sage, a warm terracotta, or a proper off-white like Dulux Malt Chocolate or Farrow & Ball Elephant's Breath.
 
@@ -141,7 +150,7 @@ Two tins of Dulux Kitchen Matt at around £40 total changes the entire atmospher
 
 ---
 
-## 9. Replace or Wrap the Worktop
+## Replace or Wrap the Worktop
 
 Replacing a laminate worktop is more involved than most of the upgrades on this list, but laminate offcuts are sold at Wickes and B&Q for as little as £20–£50 per section if you buy remnants. A standard run of worktop (3 metres) costs around £45–£90 in laminate, plus around £30 for fitting kit and jigsaw blades if you're doing it yourself.
 
@@ -155,7 +164,7 @@ Laminate worktop remnants start at £20–£50 at Wickes and B&Q — a full DIY 
 
 [IMAGE: A close-up of a refreshed kitchen worktop with a wood-effect finish, modern tap, and ceramic bowl — search Pexels for "kitchen worktop wood UK budget"]
 
-## 10. Add a Kitchen Runner Rug
+## Add a Kitchen Runner Rug
 
 This one gets overlooked constantly. A long kitchen runner in front of the sink or along a galley layout softens the floor, adds warmth underfoot, and pulls colour into a space that is often dominated by hard surfaces. Dunelm's Thornbury and Taunton ranges include washable runners from around £18–£35.
 
@@ -167,7 +176,7 @@ A washable kitchen runner from Dunelm costs £18–£35 and immediately adds war
 
 ---
 
-## 11. Declutter and Reorganise the Worktop
+## Declutter and Reorganise the Worktop
 
 This is free, and it makes more difference than people are willing to admit. A worktop with a kettle, toaster, knife block, fruit bowl, coffee machine, bread bin, and a random pile of post looks cluttered regardless of how nice the units are. Editing the worktop down to three or four items changes the entire perceived quality of the space.
 
@@ -179,7 +188,7 @@ Worktop organisation costs nothing, takes two hours, and creates the impression 
 
 ---
 
-## 12. Install a New Sink
+## Install a New Sink
 
 Sink replacement sounds expensive. It doesn't have to be. A single bowl stainless steel undermount sink from Screwfix starts at around £55. A 1.5 bowl inset sink at B&Q starts at £65. Swapping a sink is more involved than replacing a tap, but a plumber charges roughly £80–£120 for a straightforward swap — and a new sink transforms a kitchen more than almost any other single fixture.
 
@@ -191,7 +200,7 @@ A replacement stainless steel sink starts at £55 at Screwfix and B&Q, with prof
 
 ---
 
-## 13. Paint or Tile the Floor
+## Paint or Tile the Floor
 
 Kitchen floors in UK homes are frequently sheet vinyl or ceramic tile from a decade or more ago. Sheet vinyl can be painted with specialist floor paint — Rust-Oleum Chalked Floor Paint costs around £22 for 887ml at Amazon — though this is a short-term fix that works best in low-traffic areas.
 
@@ -205,7 +214,7 @@ Peel-and-stick vinyl floor tiles from Amazon UK cost £50–£90 for a standard 
 
 [IMAGE: A kitchen with peel-and-stick herringbone vinyl floor tiles laid over old flooring — search Pexels for "kitchen vinyl floor tiles DIY"]
 
-## 14. Add Plants and Proper Accessories
+## Add Plants and Proper Accessories
 
 The final category is the one that makes everything else cohere. A kitchen with freshly painted units and new handles still looks like a home project without the finishing layer: plants, a decent chopping board on display, some matching accessories, and one or two objects that look chosen rather than default.
 

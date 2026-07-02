@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Rented Home Decor Ideas UK: 13 Deposit-Safe Ways"
 description: "13 fully reversible decorating ideas for UK renters — peel-and-stick wallpaper, Command hooks, plug-in lighting and freestanding furniture. Keep your deposit."
-image: "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "/images/pexels-1918291.jpg"
 datePublished: "2026-02-20"
 dateModified: "2026-02-20"
 author: "Badreddine"
@@ -73,7 +73,7 @@ Many rented properties in the UK have pendant light fittings that either came wi
 
 Ceiling hooks can be adhesive (suitable for solid ceilings, holding up to 3kg) or screw-type (which make a small hole that's easily filled on exit). The cord is typically run along the wall using adhesive cable clips.
 
-[Dunelm][Dunelm](https://www.dunelm.com) stocks plug-in pendant lights from ~£22. Pair with a 2700K warm white bulb (not included with most lights) for the correct cosy atmosphere. This is one of the highest-impact changes for the least effort in a rented property.
+[Dunelm](https://www.dunelm.com) stocks plug-in pendant lights from ~£22. Pair with a 2700K warm white bulb (not included with most lights) for the correct cosy atmosphere. This is one of the highest-impact changes for the least effort in a rented property.
 
 Plug-in pendant light — from ~£22 at Dunelm.
 
@@ -85,7 +85,7 @@ Rented properties frequently have carpets or floors that are functional but eith
 
 The rug should be large enough to ground the seating arrangement: at least the front legs of all furniture sitting on it in the living room, or extending 60cm beyond the bed on all sides in the bedroom. A correctly sized rug transforms a rented floor; an undersized rug makes it look worse.
 
-[Dunelm][Dunelm](https://www.dunelm.com) has excellent options from ~£35 for a 120x170cm and ~£45–£65 for 160x230cm. Jute and natural weave styles work in almost any rented property and are particularly easy to clean.
+[Dunelm](https://www.dunelm.com) has excellent options from ~£35 for a 120x170cm and ~£45–£65 for 160x230cm. Jute and natural weave styles work in almost any rented property and are particularly easy to clean.
 
 Rugs are always deposit-safe — they're entirely freestanding and cause no damage.
 
@@ -97,7 +97,7 @@ Large jute rug 160x230cm — from ~£45 at Dunelm.
 
 Rented properties are typically under-shelved for anyone with more than a minimal amount of possessions. A freestanding bookshelf or shelving unit gives you the storage and display space you need without any wall fixings — and it moves with you when you leave.
 
-[IKEA's Billy bookcase][IKEA](https://www.ikea.com/gb/) (from ~£55) is the most reliable option at the price. It's robust, neutral, and can be styled to look considerably less IKEA-standard with the right objects on it. For a more design-forward option, Wayfair and Next Home both stock freestanding shelves in various finishes from ~£65.
+[IKEA's Billy bookcase](https://www.ikea.com/gb/) (from ~£55) is the most reliable option at the price. It's robust, neutral, and can be styled to look considerably less IKEA-standard with the right objects on it. For a more design-forward option, Wayfair and Next Home both stock freestanding shelves in various finishes from ~£65.
 
 For renters who need more storage: a freestanding wardrobe (IKEA PAX from ~£115 without doors) in a bedroom is frequently more useful than the built-in alternatives many rented properties provide, and it belongs to you rather than the property.
 
@@ -109,7 +109,7 @@ IKEA Billy bookcase — from ~£55 at [IKEA](https://www.ikea.com/gb/).
 
 Most rented properties come with sofas and beds that are beige, grey, or brown — not because landlords have terrible taste, but because neutral furniture is easiest to re-let. Your job is to cover them with your own textiles.
 
-New cushion covers (from ~£6 each at [Dunelm][Dunelm](https://www.dunelm.com)) on existing sofa cushions, a throw draped over the sofa back, a rug on the floor, and a blanket folded at the foot of the bed — all of these are fully removable and collectively transform an anonymous furnished property into a personalised home.
+New cushion covers (from ~£6 each at [Dunelm](https://www.dunelm.com)) on existing sofa cushions, a throw draped over the sofa back, a rug on the floor, and a blanket folded at the foot of the bed — all of these are fully removable and collectively transform an anonymous furnished property into a personalised home.
 
 I've lived in five furnished rented properties. In every case, the first thing I did was add a throw and four new cushion covers to the sofa. The transformation was immediate and cost under £50 each time. Visitors consistently assumed I'd chosen the furniture, not inherited it.
 
@@ -123,7 +123,7 @@ Most rented properties have curtain tracks or poles already installed — but th
 
 If you want to hang curtains at ceiling height (where no existing track is installed), a tension rod can work in standard window recesses without drilling. For windows wider than 100cm, look for extendable tension rods. The effect isn't quite as elegant as a properly mounted pole, but it avoids holes entirely.
 
-[Dunelm's curtain range][Dunelm](https://www.dunelm.com) starts at ~£22 per pair and includes blackout options from ~£35. Take measurements carefully — track length, drop from track to floor, and whether the track overlaps at the centre.
+[Dunelm's curtain range](https://www.dunelm.com) starts at ~£22 per pair and includes blackout options from ~£35. Take measurements carefully — track length, drop from track to floor, and whether the track overlaps at the centre.
 
 Replacement curtains for rented property — from ~£22 per pair at Dunelm.
 
@@ -174,7 +174,7 @@ Removable kitchen tile stickers — from ~£15 on Amazon UK.
 
 Rented properties are frequently dark — north-facing orientations, small windows, and a British climate that contributes limited natural light for most of the year. A large mirror placed opposite the main window bounces light around the room and makes the space feel considerably larger.
 
-Leaning a large mirror against the wall (rather than hanging it) avoids any fixings and suits the relaxed styling common in rented properties. A full-length leaner mirror (~£30–£45 from [Dunelm][Dunelm](https://www.dunelm.com)) works in both living rooms and bedrooms.
+Leaning a large mirror against the wall (rather than hanging it) avoids any fixings and suits the relaxed styling common in rented properties. A full-length leaner mirror (~£30–£45 from [Dunelm](https://www.dunelm.com)) works in both living rooms and bedrooms.
 
 Large leaner mirror — from ~£30 at Dunelm.
 
@@ -196,7 +196,7 @@ Scent is the fastest way to make any space feel like your home rather than someo
 
 The specific scent matters less than consistency: choosing one or two scents and using them throughout the property creates a unified olfactory identity that says "this is home" more powerfully than almost any visual change.
 
-[Dunelm][Dunelm](https://www.dunelm.com) stocks reed diffusers from ~£5. [Next Home][Next Home](https://www.next.co.uk) has an excellent seasonal candle collection.
+[Dunelm](https://www.dunelm.com) stocks reed diffusers from ~£5. [Next Home](https://www.next.co.uk) has an excellent seasonal candle collection.
 
 Reed diffuser — from ~£5 at Dunelm.
 

@@ -1,9 +1,9 @@
-﻿---
+---
 title: "Rented Flat Makeover UK: Transform Without Losing Deposit"
 description: "How to transform a rented flat without losing your deposit — 12 reversible changes covering every room, with UK product picks under £200 total."
-image: "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=1200"
-datePublished: "2026-06-17"
-dateModified: "2026-06-17"
+image: "/images/pexels-1643383.jpg"
+datePublished: "2026-03-24"
+dateModified: "2026-03-24"
 author: "Badreddine"
 tags: ["rented flat makeover UK", "rental makeover UK", "rented home decor UK", "tenant home decor UK"]
 featured: false
@@ -57,11 +57,11 @@ According to Dunelm's 2024 Home Trends Report, plug-in pendant lights are one of
 
 A plug-in pendant hangs from a ceiling hook and runs a fabric-covered cable down the wall to a plug socket. The ceiling hook is either adhesive (for solid ceilings, holding up to 3kg) or a small screw-in type (which makes a hole easily filled with filler on exit). The result is a properly positioned pendant light in any room, with complete control over position, shade, and bulb temperature.
 
-[Dunelm][Dunelm](https://www.dunelm.com) stocks plug-in pendants from ~£22. [Next Home][Next Home](https://www.next.co.uk) has a wider design range from ~£25. [John Lewis][John Lewis](https://www.johnlewis.com) carries more premium options from ~£45.
+[Dunelm](https://www.dunelm.com) stocks plug-in pendants from ~£22. [Next Home](https://www.next.co.uk) has a wider design range from ~£25. [John Lewis](https://www.johnlewis.com) carries more premium options from ~£45.
 
 Fit these in the living room and bedroom at minimum. A 2700K bulb inside a fabric or rattan shade creates the kind of light that makes a room feel welcoming the moment you walk in.
 
-Plug-in pendant light — from ~£22 at [Dunelm][Dunelm](https://www.dunelm.com). One in the living room, one in the bedroom, transforms both.
+Plug-in pendant light — from ~£22 at [Dunelm](https://www.dunelm.com). One in the living room, one in the bedroom, transforms both.
 
 ---
 
@@ -73,9 +73,9 @@ The sizing rule is non-negotiable: in the living room, all front legs of the sof
 
 In testing across four different rented flats for this post, a correctly sized rug (200x290cm) produced the largest single improvement in how "finished" the room felt on a scale rated by three separate visitors who hadn't seen the rooms before. The rug scored higher than new furniture, gallery walls, and lighting changes individually.
 
-[Dunelm][Dunelm](https://www.dunelm.com) stocks a 200x290cm jute-style rug for ~£85. IKEA's STOENSE range offers 200x300cm options from ~£89. For a more contemporary look, Wayfair regularly has 200x290cm rugs from ~£65 in the sale.
+[Dunelm](https://www.dunelm.com) stocks a 200x290cm jute-style rug for ~£85. IKEA's STOENSE range offers 200x300cm options from ~£89. For a more contemporary look, Wayfair regularly has 200x290cm rugs from ~£65 in the sale.
 
-Large jute rug 200x290cm — from ~£85 at [Dunelm][Dunelm](https://www.dunelm.com). This is the makeover purchase with the highest visual return per pound.
+Large jute rug 200x290cm — from ~£85 at [Dunelm](https://www.dunelm.com). This is the makeover purchase with the highest visual return per pound.
 
 ---
 
@@ -83,7 +83,7 @@ Large jute rug 200x290cm — from ~£85 at [Dunelm][Dunelm](https://www.dunelm.c
 
 Most rented flats in the UK have two defining characteristics: not enough storage and not enough structure. Both are solved by freestanding furniture that belongs to you, goes with you, and requires nothing fixed to any wall.
 
-[IKEA's KALLAX shelving unit][IKEA](https://www.ikea.com/gb/) (from ~£45 for the 2x2 configuration) is the single most versatile piece of freestanding furniture available to UK renters. It works as a room divider, a bookshelf, a TV unit, and a storage system simultaneously. The 4x4 configuration (~£115) covers an entire wall without touching it.
+[IKEA's KALLAX shelving unit](https://www.ikea.com/gb/) (from ~£45 for the 2x2 configuration) is the single most versatile piece of freestanding furniture available to UK renters. It works as a room divider, a bookshelf, a TV unit, and a storage system simultaneously. The 4x4 configuration (~£115) covers an entire wall without touching it.
 
 IKEA's BILLY bookcase (from ~£55) gives height and vertical structure to any room. A pair of identical units flanking a sofa or bed creates a built-in look without any building work. For bedroom storage, a freestanding wardrobe (IKEA PAX from ~£115 without doors) frequently provides better storage than the built-in alternatives in older rented flats — and it moves with you when you leave.
 
@@ -97,13 +97,13 @@ IKEA KALLAX 2x4 shelving — from ~£65 at [IKEA](https://www.ikea.com/gb/). The
 
 Most furnished rented flats come with sofas and beds in beige, grey, or brown. Not because landlords have no taste, but because neutral furniture is cheapest to re-let. Your job is to cover that furniture with your own textiles until it looks like yours.
 
-The sofa: two new cushion covers in one colour (from ~£6 each at [Dunelm][Dunelm](https://www.dunelm.com)), two in a complementary texture or pattern, and a throw draped over the armrest or back. The existing sofa becomes visually unrecognisable. It takes ten minutes.
+The sofa: two new cushion covers in one colour (from ~£6 each at [Dunelm](https://www.dunelm.com)), two in a complementary texture or pattern, and a throw draped over the armrest or back. The existing sofa becomes visually unrecognisable. It takes ten minutes.
 
 The bed: a flat sheet folded back over the duvet, two euro square pillows (65x65cm) in pillowcases behind the sleeping pillows, and a throw folded at the foot. I've done this in four furnished rented bedrooms. In every case, guests assumed I'd chosen the bed, not inherited it. The duvet was the landlord's. The pillowcases were mine. Nobody could tell.
 
-[Dunelm's Dorma range][Dunelm](https://www.dunelm.com) covers most of this for under £60. Cushion covers from ~£6, euro pillowcases from ~£12 each, throws from ~£18.
+[Dunelm's Dorma range](https://www.dunelm.com) covers most of this for under £60. Cushion covers from ~£6, euro pillowcases from ~£12 each, throws from ~£18.
 
-New cushion covers for sofa — from ~£6 each at [Dunelm][Dunelm](https://www.dunelm.com). Four covers + one throw = ~£45 total. The sofa looks entirely different.
+New cushion covers for sofa — from ~£6 each at [Dunelm](https://www.dunelm.com). Four covers + one throw = ~£45 total. The sofa looks entirely different.
 
 ---
 
@@ -113,9 +113,9 @@ Most rented flats have curtain tracks or poles already fitted, and the curtains 
 
 If you want to hang curtains at ceiling height where no existing fitting exists, a tension rod works in standard UK window recesses without any drilling. For windows wider than 100cm, use an extendable heavy-duty tension rod and check the weight rating before buying.
 
-[Dunelm's curtain range][Dunelm](https://www.dunelm.com) starts at ~£22 per pair, with blackout lining from ~£35. Hanging them as high as possible — ideally just below the ceiling — makes windows look larger and rooms feel taller. This is the single most common mistake in rented flats: curtains hung just above the window frame rather than at ceiling height.
+[Dunelm's curtain range](https://www.dunelm.com) starts at ~£22 per pair, with blackout lining from ~£35. Hanging them as high as possible — ideally just below the ceiling — makes windows look larger and rooms feel taller. This is the single most common mistake in rented flats: curtains hung just above the window frame rather than at ceiling height.
 
-Ceiling-height curtains on existing pole — from ~£22 per pair at [Dunelm][Dunelm](https://www.dunelm.com). Hang them high; it transforms the proportion of the room.
+Ceiling-height curtains on existing pole — from ~£22 per pair at [Dunelm](https://www.dunelm.com). Hang them high; it transforms the proportion of the room.
 
 ---
 
@@ -137,11 +137,11 @@ Leave 5-8cm between frames. Group all small frames together rather than scatteri
 
 Most UK rented flats have a north or east-facing orientation, limited natural light, and small windows. A large mirror placed opposite the room's main window bounces available daylight around the space and can make a room feel noticeably larger.
 
-A full-length leaner mirror propped against the wall (no fixings needed) costs ~£30-£45 at [Dunelm][Dunelm](https://www.dunelm.com) and works in both living rooms and bedrooms. For something more decorative, [Next Home][Next Home](https://www.next.co.uk) and [H&M Home](https://www2.hm.com/en_gb/home.html) both stock arched and rounded mirrors from ~£35-£65 that have a distinctly more designed feel.
+A full-length leaner mirror propped against the wall (no fixings needed) costs ~£30-£45 at [Dunelm](https://www.dunelm.com) and works in both living rooms and bedrooms. For something more decorative, [Next Home](https://www.next.co.uk) and [H&M Home](https://www2.hm.com/en_gb/home.html) both stock arched and rounded mirrors from ~£35-£65 that have a distinctly more designed feel.
 
 Leaning rather than hanging removes any fixings question entirely. A leaner mirror in a small flat bedroom, positioned to reflect the window, is one of the most effective deposit-safe makeover tools available.
 
-Large leaner mirror — from ~£30 at [Dunelm][Dunelm](https://www.dunelm.com). Position opposite the window for maximum light reflection.
+Large leaner mirror — from ~£30 at [Dunelm](https://www.dunelm.com). Position opposite the window for maximum light reflection.
 
 ---
 
@@ -163,11 +163,11 @@ IKEA Fejka faux monstera — ~£20 at [IKEA](https://www.ikea.com/gb/). Snake pl
 
 This is the rental equivalent of changing cushion covers: small, reversible, and dramatically effective. Most rented flats have builder-standard chrome or brushed steel handles throughout the kitchen and bathroom. Swapping these for a more contemporary finish — brushed brass, matte black, or antique bronze — completely changes the character of existing cabinetry.
 
-Keep the original handles in a bag and reinstall them when you leave. The whole swap takes 20 minutes with a screwdriver. The new handles cost £2-£4 each from [B&Q][B&Q](https://www.diy.com), or you can buy a coordinated set of 10 from [Amazon UK](https://www.amazon.co.uk) from ~£18.
+Keep the original handles in a bag and reinstall them when you leave. The whole swap takes 20 minutes with a screwdriver. The new handles cost £2-£4 each from [B&Q](https://www.diy.com), or you can buy a coordinated set of 10 from [Amazon UK](https://www.amazon.co.uk) from ~£18.
 
 This also works on interior doors if your rented flat has builder-standard white lever handles. A set of matte black door handles from B&Q (~£6-£8 each) changes the entire feel of the hallway and every room it leads to. Store the originals carefully. Reinstall on exit. No deposit impact.
 
-Brushed brass cabinet handles — from ~£2 each at [B&Q][B&Q](https://www.diy.com). Full kitchen swap typically costs under £25.
+Brushed brass cabinet handles — from ~£2 each at [B&Q](https://www.diy.com). Full kitchen swap typically costs under £25.
 
 ---
 
@@ -199,11 +199,11 @@ Peel-and-stick wallpaper — from ~£18 per roll on [Amazon UK](https://www.amaz
 
 Scent is the most underused tool in a rented flat makeover. It bypasses visual analysis entirely and communicates "this is a home" in the most immediate way possible. A rented flat with the right scent feels cared for and personal the moment you walk through the door.
 
-Reed diffusers (from ~£5 at [Dunelm][Dunelm](https://www.dunelm.com)), soy candles (from ~£8 at [Next Home][Next Home](https://www.next.co.uk)), and linen sprays for the bed and sofa are all entirely renter-safe. Choose one or two complementary scents and use them consistently throughout the flat. Consistency matters more than the specific scent chosen.
+Reed diffusers (from ~£5 at [Dunelm](https://www.dunelm.com)), soy candles (from ~£8 at [Next Home](https://www.next.co.uk)), and linen sprays for the bed and sofa are all entirely renter-safe. Choose one or two complementary scents and use them consistently throughout the flat. Consistency matters more than the specific scent chosen.
 
 For the bathroom, a small reed diffuser on the windowsill is the single most effective upgrade available at a low price point. For the kitchen, a fresh herb plant — basil, rosemary, thyme — provides both scent and visual life for ~£2 from any supermarket.
 
-Reed diffuser — from ~£5 at [Dunelm][Dunelm](https://www.dunelm.com). One in the living room and one in the bathroom is enough to transform how the flat feels on arrival.
+Reed diffuser — from ~£5 at [Dunelm](https://www.dunelm.com). One in the living room and one in the bathroom is enough to transform how the flat feels on arrival.
 
 ---
 

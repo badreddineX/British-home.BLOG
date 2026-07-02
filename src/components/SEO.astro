@@ -9,6 +9,7 @@ interface Props {
   dateModified?: string;
   authorName?: string;
   type?: 'website' | 'article';
+  noindex?: boolean;
 }
 
 const {
@@ -16,11 +17,12 @@ const {
   description,
   slug = '',
   canonicalPath = '',
-  image = 'https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=1200',
+  image = '/images/pexels-1571453.jpg',
   datePublished = new Date().toISOString(),
   dateModified = new Date().toISOString(),
   authorName = 'British Home Interior',
   type = 'website',
+  noindex = false,
 } = Astro.props;
 
 const siteUrl = 'https://britishhomeinterior.co.uk';
@@ -38,8 +40,9 @@ const pageTitle = title.includes('British Home Interior') ? title : `${title} | 
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>{pageTitle}</title>
 <meta name="description" content={description} />
-<meta name="robots" content="index, follow" />
-<link rel="canonical" href={fullUrl} />
+<meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow'} />
+{!noindex && <link rel="canonical" href={fullUrl} />}
+<link rel="alternate" type="application/rss+xml" title="British Home Interior" href="/rss.xml" />
 <meta name="language" content="en-GB" />
 
 <!-- Open Graph — Pinterest reads these for Rich Pins -->
@@ -70,6 +73,18 @@ const pageTitle = title.includes('British Home Interior') ? title : `${title} | 
 
 <!-- Favicon -->
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+<!-- Fallback for broken images -->
+<script is:inline>
+window.addEventListener('error', function (e) {
+  var t = e.target;
+  if (t && t.tagName === 'IMG' && !t.dataset.fellBack) {
+    t.dataset.fellBack = '1';
+    t.removeAttribute('srcset');
+    t.src = '/images/placeholder.svg';
+  }
+}, true);
+</script>
 
 <!-- Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com" />

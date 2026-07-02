@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Christmas Home Decor Ideas UK: British Styling Guide"
 description: "How to decorate a British home for Christmas with real character — traditional styling, specific product picks at every budget, and ideas that work in UK rooms."
-image: "https://images.pexels.com/photos/3312671/pexels-photo-3312671.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "/images/pexels-1708601.jpg"
 datePublished: "2026-06-12"
 dateModified: "2026-06-12"
 author: "Badreddine"
@@ -68,10 +68,10 @@ Warm white fairy lights (2700K) look like stars. Cool white fairy lights look li
 I switched from cool white to warm white copper-wire fairy lights three Christmases ago. The room looked warmer, more old-fashioned, and — honestly — more magical. The lights hadn't changed position. Just the colour temperature.
 
 **What to buy:**
-- **Copper-wire warm white fairy lights** — [Dunelm][Dunelm](https://www.dunelm.com) from ~£8/set. Flexible and shape-holding.
+- **Copper-wire warm white fairy lights** — [Dunelm](https://www.dunelm.com) from ~£8/set. Flexible and shape-holding.
 - **Warm white string lights for the tree** — [Amazon UK](https://www.amazon.co.uk) has Govee and other brands from ~£12 for smart sets
 - **Candles everywhere** — beeswax pillar candles on the mantelpiece and dining table. John Lewis from ~£8 each.
-- **Candelabras** — [Next Home][Next Home](https://www.next.co.uk) has good versions from ~£25
+- **Candelabras** — [Next Home](https://www.next.co.uk) has good versions from ~£25
 
 The rule: never use cool white lights in a Christmas-decorated room. Not on the tree, not on the mantelpiece, not in windows.
 
@@ -90,7 +90,7 @@ The Nordmann fir is the standard British Christmas tree choice: it holds its nee
 
 If you genuinely can't have a real tree (a very small flat, allergies, or a permanent situation), the best artificial trees use real branch tips and have irregular, natural-looking density. Avoid perfectly symmetrical, ultra-dense artificial trees — they look like green cones.
 
-Real trees from ~£30 for a 5ft Nordmann fir at [B&Q][B&Q](https://www.diy.com) or local garden centres. Pot-grown trees can be replanted after Christmas — check with your local council about suitable sites.
+Real trees from ~£30 for a 5ft Nordmann fir at [B&Q](https://www.diy.com) or local garden centres. Pot-grown trees can be replanted after Christmas — check with your local council about suitable sites.
 
 ---
 
@@ -125,9 +125,9 @@ A beautiful Christmas tree is about layering, just like everything else in inter
 6. **Tree topper** — a star or angel. A classic star in brushed gold suits most trees.
 
 **Shopping list for ornaments:**
-- [Dunelm][Dunelm](https://www.dunelm.com) — excellent affordable sets and individual pieces, forest green/gold collections from ~£12 for a 20-pack
-- [Next Home][Next Home](https://www.next.co.uk) — more considered sets in consistent palettes from ~£18
-- [John Lewis][John Lewis](https://www.johnlewis.com) — best quality, best design, from ~£6 per individual bauble
+- [Dunelm](https://www.dunelm.com) — excellent affordable sets and individual pieces, forest green/gold collections from ~£12 for a 20-pack
+- [Next Home](https://www.next.co.uk) — more considered sets in consistent palettes from ~£18
+- [John Lewis](https://www.johnlewis.com) — best quality, best design, from ~£6 per individual bauble
 - Charity shops — antique and vintage ornaments, often the most beautiful of all
 
 ---

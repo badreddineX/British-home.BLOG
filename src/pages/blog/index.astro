@@ -85,10 +85,10 @@ function fmtDate(d: string) {
               data-excerpt={(post.data.excerpt ?? post.data.description ?? '').toLowerCase()}
               data-category={post.data.category?.toLowerCase().replace(/\s+/g, '-')}
               data-category-label={post.data.category?.toUpperCase()}
-              data-href={`/blog/${post.slug}/`}
+              data-href={`/blog/${post.id}/`}
             >
               <article class="bl-card">
-                <a href={`/blog/${post.slug}/`} class="bl-card-img-wrap" tabindex="-1" aria-hidden="true">
+                <a href={`/blog/${post.id}/`} class="bl-card-img-wrap" tabindex="-1" aria-hidden="true">
                   <img
                     src={post.data.image}
                     alt={post.data.title}
@@ -108,7 +108,7 @@ function fmtDate(d: string) {
                     <span>{post.data.readTime ?? '5 min read'}</span>
                   </div>
                   <h2 class="bl-card-title">
-                    <a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+                    <a href={`/blog/${post.id}/`}>{post.data.title}</a>
                   </h2>
                   <p class="bl-card-excerpt">{post.data.excerpt ?? post.data.description}</p>
                   <span class="bl-card-cat">{post.data.category}</span>

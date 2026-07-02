@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Maximalist Living Room Decor in a British Home"
 description: "Practical maximalist living room guide for British homes — colour anchoring, pattern mixing rules, gallery wall method, object grouping and knowing when to stop."
-image: "https://images.pexels.com/photos/1648768/pexels-photo-1648768.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "/images/pexels-1648768.jpg"
 datePublished: "2026-05-08"
 dateModified: "2026-05-08"
 author: "Badreddine"
@@ -47,7 +47,7 @@ The anchor is usually the sofa colour, the wall colour, or both. In a maximalist
 
 My living room anchors on a deep olive green sofa. Every other colour choice — the terracotta cushions, the warm mustard curtains, the rust-toned rug — works because it references or contrasts with the olive. Without the anchor, those three colours would simply fight each other.
 
-[Next Home][Next Home](https://www.next.co.uk) and [Dunelm][Dunelm](https://www.dunelm.com) both stock sofas in the bold, saturated tones that maximalism requires. Look specifically at velvet finishes — they hold colour with a depth that other materials don't achieve.
+[Next Home](https://www.next.co.uk) and [Dunelm](https://www.dunelm.com) both stock sofas in the bold, saturated tones that maximalism requires. Look specifically at velvet finishes — they hold colour with a depth that other materials don't achieve.
 
 Velvet anchor sofa in a maximalist colour — from ~£449 at Next Home.
 
@@ -65,7 +65,7 @@ Pattern mixing is the element of maximalism that most intimidates people — and
 
 The pattern-mixing confidence level that separates novice maximalists from experienced ones is this: the novice stays in the same pattern family (all florals, or all geometrics). The experienced maximalist mixes families — a floral with a stripe with a solid texture — and the variety is precisely what makes it work.
 
-Patterned cushion cover selection — from ~£8 each at [Dunelm][Dunelm](https://www.dunelm.com).
+Patterned cushion cover selection — from ~£8 each at [Dunelm](https://www.dunelm.com).
 
 ---
 
@@ -98,7 +98,7 @@ The layering formula for a maximalist sofa:
 
 The throw and blanket can be the same or different — in maximalism, different is usually better. A velvet cushion cover against a chunky knit throw against a woven blanket: three textures, three different tactile experiences, all in the same zone.
 
-Velvet cushion covers — from ~£10 each at [Next Home][Next Home](https://www.next.co.uk). Chunky knit throw — from ~£22 at Dunelm.
+Velvet cushion covers — from ~£10 each at [Next Home](https://www.next.co.uk). Chunky knit throw — from ~£22 at Dunelm.
 
 ---
 
@@ -122,7 +122,7 @@ Maximalism and dark paint are natural companions. A deeply coloured wall — for
 
 The common fear about dark paint in British rooms (where natural light is already limited) is partly justified. But maximalist rooms are meant to be experienced as much in lamplight as in daylight. A dark wall lit by two or three warm lamps and decorated with a gallery wall and bold textiles looks spectacular in the evening — which is when most living rooms are used most intensely.
 
-Farrow & Ball Hague Blue (~£60 per 2.5L) and Little Greene Inferno (~£48 per 2.5L) are two of the most-used deep maximalist colours in British homes. [B&Q's Valspar][B&Q](https://www.diy.com) can match either shade for ~£25 per tin.
+Farrow & Ball Hague Blue (~£60 per 2.5L) and Little Greene Inferno (~£48 per 2.5L) are two of the most-used deep maximalist colours in British homes. [B&Q's Valspar](https://www.diy.com) can match either shade for ~£25 per tin.
 
 Dark feature wall paint — from ~£25 per 2.5L at B&Q (matched to Hague Blue or similar).
 

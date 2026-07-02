@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Cottagecore Home Decor UK: Get the Look at Home"
 description: "Full cottagecore guide for UK homes — living room, kitchen, hallway, British plants, vintage sourcing, and retailer picks. Authentic British cottagecore styling."
-image: "https://images.pexels.com/photos/6214476/pexels-photo-6214476.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "/images/pexels-4273433.jpg"
 datePublished: "2026-04-03"
 dateModified: "2026-04-03"
 author: "Badreddine"
@@ -43,7 +43,7 @@ Read more: [cosy home decor ideas](/blog/cosy-home-decor-ideas-uk/)
 
 The cottagecore palette is the colour of a dried wildflower meadow: warm creams, faded terracotta, dusty sage green, and soft brown. These are not vivid colours. They're the tones you see when you let a flower dry naturally — muted, warm, slightly faded.
 
-For walls: Farrow & Ball Mole's Breath (warm grey-brown), String (pale warm cream), or Mizzle (dusty sage) are the most frequently cited cottagecore colours — and they suit British light because they all carry warm undertones. Dulux equivalents cost considerably less: Dulux Perfectly Taupe and Dulux Sage Salutation are close matches at ~£22 per 2.5L from [B&Q][B&Q](https://www.diy.com).
+For walls: Farrow & Ball Mole's Breath (warm grey-brown), String (pale warm cream), or Mizzle (dusty sage) are the most frequently cited cottagecore colours — and they suit British light because they all carry warm undertones. Dulux equivalents cost considerably less: Dulux Perfectly Taupe and Dulux Sage Salutation are close matches at ~£22 per 2.5L from [B&Q](https://www.diy.com).
 
 For textiles: cream linen, dusty rose cotton, and oatmeal boucle. Avoid bright whites and anything with a synthetic sheen.
 
@@ -68,7 +68,7 @@ William Morris framed print — from ~£15 on Amazon UK; originals from ~£8 at 
 The cottagecore living room centres on the fireplace (original, if you have one), surrounded by natural textiles, dried botanicals, and collected objects that look as though they've been gathered over time rather than purchased in one shop on one Saturday.
 
 Key elements:
-- **Dried botanicals in earthenware vases** — dried lunaria, pampas, ruscus, or poppy heads. From ~£10 at [Dunelm][Dunelm](https://www.dunelm.com) or foraged from the garden
+- **Dried botanicals in earthenware vases** — dried lunaria, pampas, ruscus, or poppy heads. From ~£10 at [Dunelm](https://www.dunelm.com) or foraged from the garden
 - **Linen or cotton cushion covers** in warm cream or dusty rose — from ~£12 at Next Home
 - **A woven jute or natural wool rug** — from ~£35 at Dunelm
 - **A stack of old books** — charity shop, ~£1 each — displayed spine-out or as a riser for a ceramic object
@@ -114,7 +114,7 @@ Charity shop earthenware jug — typically ~£3–£8.
 
 The hallway is often neglected but matters enormously for establishing the mood of a home before you even enter a room. In cottagecore terms, the hallway should feel like stepping into a country house: slightly worn, warm, full of the evidence of outdoor life.
 
-A vintage or vintage-look coat rack (~£25 from [Wayfair][Wayfair](https://www.wayfair.co.uk)) with a few coats, scarves, and a flat cap hanging on it sets the tone. A small earthenware pot for umbrellas, a botanical print or two, and a small table with a candle and a handful of foraged objects complete the picture.
+A vintage or vintage-look coat rack (~£25 from [Wayfair](https://www.wayfair.co.uk)) with a few coats, scarves, and a flat cap hanging on it sets the tone. A small earthenware pot for umbrellas, a botanical print or two, and a small table with a candle and a handful of foraged objects complete the picture.
 
 If your hallway has original Victorian or Edwardian tiles (increasingly common in British terraced houses), resist any temptation to cover them. They're the single most valuable cottagecore element you can have and can't be replicated.
 
