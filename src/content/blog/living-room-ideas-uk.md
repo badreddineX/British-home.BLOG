@@ -1,4 +1,4 @@
-﻿---
+---
 title: "15 Living Room Ideas for UK Homes"
 description: "15 practical living room ideas for British homes — warm neutrals, texture layering, lighting, gallery walls, and cottagecore from UK retailers. All budgets."
 image: "https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=1200"

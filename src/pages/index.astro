@@ -87,7 +87,7 @@ function fmtDate(d: string) {
           <div class="featured-inner">
             <h2 class="featured-label">Featured Post</h2>
             <div class="featured-card">
-              <a href={`/blog/${featured.slug}/`} class="featured-img-wrap img-wrap">
+              <a href={`/blog/${featured.id}/`} class="featured-img-wrap img-wrap">
                 <img
                   src={featured.data.image}
                   alt={featured.data.title}
@@ -102,11 +102,11 @@ function fmtDate(d: string) {
                   <time datetime={featured.data.datePublished}>{fmtDate(featured.data.datePublished)}</time>
                   &nbsp;·&nbsp;{featured.data.readTime ?? '5 min read'}
                 </p>
-                <a href={`/blog/${featured.slug}/`} class="featured-title-link">
+                <a href={`/blog/${featured.id}/`} class="featured-title-link">
                   <h3 class="featured-title">{featured.data.title}</h3>
                 </a>
                 <p class="featured-excerpt">{featured.data.excerpt ?? featured.data.description}</p>
-                <a href={`/blog/${featured.slug}/`} class="featured-read">Read More →</a>
+                <a href={`/blog/${featured.id}/`} class="featured-read">Read More →</a>
               </div>
             </div>
           </div>
@@ -119,7 +119,7 @@ function fmtDate(d: string) {
           <h2 class="recent-label">Recent Posts</h2>
           <div class="recent-grid">
             {(recent.length ? recent : sorted.slice(0, 3)).map(post => (
-              <a href={`/blog/${post.slug}/`} class="recent-card">
+              <a href={`/blog/${post.id}/`} class="recent-card">
                 {post.data.image && (
                   <div class="recent-card-img img-wrap">
                     <img
@@ -177,7 +177,7 @@ function fmtDate(d: string) {
           <div class="cat-col">
             <h2 class="cat-section-label">Living Room</h2>
             {col1.map(post => (
-              <a href={`/blog/${post.slug}/`} class="h-card">
+              <a href={`/blog/${post.id}/`} class="h-card">
                 <div class="h-card-thumb">
                   <img src={post.data.image} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
                 </div>
@@ -194,7 +194,7 @@ function fmtDate(d: string) {
           <div class="cat-col">
             <h2 class="cat-section-label">Bedroom</h2>
             {col2.map(post => (
-              <a href={`/blog/${post.slug}/`} class="h-card">
+              <a href={`/blog/${post.id}/`} class="h-card">
                 <div class="h-card-thumb img-wrap">
                   <img src={post.data.image} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
                 </div>
@@ -215,7 +215,7 @@ function fmtDate(d: string) {
           <div class="cat-col">
             <h2 class="cat-section-label">Kitchen</h2>
             {col3.map(post => (
-              <a href={`/blog/${post.slug}/`} class="h-card">
+              <a href={`/blog/${post.id}/`} class="h-card">
                 <div class="h-card-thumb img-wrap">
                   <img src={post.data.image} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
                 </div>
@@ -232,7 +232,7 @@ function fmtDate(d: string) {
           <div class="cat-col">
             <h2 class="cat-section-label">Room Makeovers</h2>
             {col4.map(post => (
-              <a href={`/blog/${post.slug}/`} class="h-card">
+              <a href={`/blog/${post.id}/`} class="h-card">
                 <div class="h-card-thumb img-wrap">
                   <img src={post.data.image} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
                 </div>

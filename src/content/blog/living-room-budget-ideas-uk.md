@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Living Room on a Budget UK: 10 Ideas Under £100"
 description: "10 high-impact living room upgrades for under £100 total — ranked by impact per pound, all from UK retailers. Real prices, real results for British homes."
 image: "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=1200"

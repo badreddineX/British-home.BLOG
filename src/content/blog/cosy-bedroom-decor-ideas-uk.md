@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cosy Bedroom Decor Ideas UK: Create a Proper Retreat"
 description: "Step-by-step guide to a genuinely cosy British bedroom — layered bedding, 2700K lighting, textiles, scent, and morning atmosphere. UK prices and retailer picks."
 image: "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1200"

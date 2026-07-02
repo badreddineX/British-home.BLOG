@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Home Decor Inspiration UK: Ideas for British Homes"
 description: "Where to find genuine UK home decor inspiration — not American Pinterest boards — and how to adapt trends for British homes, light, and budgets."
 image: "https://images.pexels.com/photos/1648776/pexels-photo-1648776.jpeg?auto=compress&cs=tinysrgb&w=1200"

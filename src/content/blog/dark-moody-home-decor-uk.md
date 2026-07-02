@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Dark and Moody Home Decor Ideas UK"
 description: "How to use dark, moody colours in a British home — walls, lighting, textiles, and the rules that stop dark rooms feeling oppressive. UK paint names and prices."
 image: "https://images.pexels.com/photos/1571468/pexels-photo-1571468.jpeg?auto=compress&cs=tinysrgb&w=1200"
