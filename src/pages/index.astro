@@ -60,6 +60,7 @@ function fmtDate(d: string) {
             preload="auto"
             poster={featured?.data.image ?? ''}
           >
+            <source src="/videos/hero-hd.mp4" type="video/mp4" />
           </video>
           <div class="hero-overlay"></div>
         </div>
@@ -341,22 +342,25 @@ function fmtDate(d: string) {
     var video = document.getElementById('hero-video');
     if (!video) return;
 
-    var isMobile = window.innerWidth <= 768;
+    // The HD source is in the markup so the video plays even without JS.
+    // Mobile: swap to the lightweight SD file before the HD download gets far.
+    if (window.innerWidth <= 768) {
+      video.src = '/videos/hero-sd.mp4';
+      video.load();
+    }
 
-    // Mobile: lightweight SD source — smaller file loads fast on slow connections
-    // Desktop: full HD source
-    var src = isMobile
-      ? '/videos/hero-sd.mp4'
-      : '/videos/hero-hd.mp4';
+    // If the file can't be fetched or decoded, hide the element so the
+    // hero's CSS background image shows instead of a black box.
+    video.addEventListener('error', function () {
+      video.style.display = 'none';
+    }, true);
 
-    var source = document.createElement('source');
-    source.src = src;
-    source.type = 'video/mp4';
-    video.appendChild(source);
-    video.load();
-    video.play().catch(function () {
-      // Autoplay blocked — poster image already shows as fallback
-    });
+    var playing = video.play();
+    if (playing && playing.catch) {
+      playing.catch(function () {
+        // Autoplay blocked — poster image already shows as fallback
+      });
+    }
   })();
 </script>
 
