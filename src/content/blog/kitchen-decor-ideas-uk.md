@@ -1,7 +1,7 @@
 ---
 title: "Kitchen Decor Ideas UK: 12 Ways to Style a British Kitchen"
 description: "12 kitchen decor ideas for UK homes — from open shelving and herb displays to warm lighting and classic colour palettes. Practical, budget-conscious, British."
-image: "https://images.pexels.com/photos/2062426/pexels-photo-2062426.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "/images/pexels-2062426.jpg"
 datePublished: "2026-06-16"
 dateModified: "2026-06-16"
 author: "Badreddine"

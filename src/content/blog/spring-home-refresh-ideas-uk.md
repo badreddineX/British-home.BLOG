@@ -1,7 +1,7 @@
 ---
 title: "Spring Home Refresh Ideas UK: Lighten and Brighten"
 description: "How to refresh your UK home for spring — lighter textiles, fresh colours, a proper declutter, and bringing nature inside. Practical ideas from UK shops with prices."
-image: "https://images.pexels.com/photos/4846097/pexels-photo-4846097.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "/images/pexels-4846097.jpg"
 datePublished: "2026-05-22"
 dateModified: "2026-05-22"
 author: "Badreddine"

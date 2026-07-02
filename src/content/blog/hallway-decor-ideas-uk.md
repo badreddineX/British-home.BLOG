@@ -1,7 +1,7 @@
 ---
 title: "Hallway Decor Ideas UK: Style a Small Entrance"
 description: "Transform a narrow British hallway with smart paint, slim furniture, mirrors, and renter-friendly ideas. UK retailers, real prices, practical order."
-image: "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "/images/pexels-1090638.jpg"
 datePublished: "2026-07-01"
 dateModified: "2026-07-01"
 author: "Badreddine"

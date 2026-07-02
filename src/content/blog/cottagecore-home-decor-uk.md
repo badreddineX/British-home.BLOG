@@ -1,7 +1,7 @@
 ---
 title: "Cottagecore Home Decor UK: Get the Look at Home"
 description: "Full cottagecore guide for UK homes — living room, kitchen, hallway, British plants, vintage sourcing, and retailer picks. Authentic British cottagecore styling."
-image: "https://images.pexels.com/photos/6214476/pexels-photo-6214476.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "/images/pexels-6214476.jpg"
 datePublished: "2026-04-03"
 dateModified: "2026-04-03"
 author: "Badreddine"

@@ -1,7 +1,7 @@
 ---
 title: "Bedroom Makeover UK: 13 Transforming Changes"
 description: "13 bedroom makeover ideas for UK homes — from new bedding and lighting to paint colours and furniture arrangement. All achievable without a full renovation."
-image: "https://images.pexels.com/photos/1743229/pexels-photo-1743229.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "/images/pexels-90317.jpg"
 datePublished: "2026-06-18"
 dateModified: "2026-06-18"
 author: "Badreddine"

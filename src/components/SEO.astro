@@ -17,7 +17,7 @@ const {
   description,
   slug = '',
   canonicalPath = '',
-  image = 'https://images.pexels.com/photos/1571453/pexels-photo-1571453.jpeg?auto=compress&cs=tinysrgb&w=1200',
+  image = '/images/pexels-1571453.jpg',
   datePublished = new Date().toISOString(),
   dateModified = new Date().toISOString(),
   authorName = 'British Home Interior',
@@ -74,7 +74,7 @@ const pageTitle = title.includes('British Home Interior') ? title : `${title} | 
 <!-- Favicon -->
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 
-<!-- Fallback for broken external images (hero images are hotlinked from Pexels) -->
+<!-- Fallback for broken images -->
 <script is:inline>
 window.addEventListener('error', function (e) {
   var t = e.target;

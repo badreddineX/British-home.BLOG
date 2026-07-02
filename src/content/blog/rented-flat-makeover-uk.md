@@ -1,7 +1,7 @@
 ---
 title: "Rented Flat Makeover UK: Transform Without Losing Deposit"
 description: "How to transform a rented flat without losing your deposit — 12 reversible changes covering every room, with UK product picks under £200 total."
-image: "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=1200"
+image: "/images/pexels-1643383.jpg"
 datePublished: "2026-06-17"
 dateModified: "2026-06-17"
 author: "Badreddine"
