@@ -7,7 +7,7 @@ dateModified: "2026-07-01"
 author: "Badreddine"
 tags: ["hallway decor ideas UK", "small hallway ideas UK", "hallway decorating UK", "British hallway", "entryway ideas UK"]
 featured: false
-category: "Hallway"
+category: "Room Makeovers"
 readTime: "8 min read"
 excerpt: "The British hallway is usually the most neglected room in the house — here's how to fix it without a renovation."
 tldr:
