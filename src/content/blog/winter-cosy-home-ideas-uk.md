@@ -1,7 +1,7 @@
 ---
 title: "Winter Cosy Home Ideas UK: Make Your Home Feel Warm"
 description: "How to make your UK home feel warm and cosy through the British winter — draught-proofing, layered lighting, heavy curtains, warm scents, and hibernation corners."
-image: "/images/pexels-6045249.jpg"
+image: "/images/pexels-2082090.jpg"
 datePublished: "2026-06-05"
 dateModified: "2026-06-05"
 author: "Badreddine"

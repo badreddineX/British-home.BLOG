@@ -1,7 +1,7 @@
 ---
 title: "Christmas Home Decor Ideas UK: British Styling Guide"
 description: "How to decorate a British home for Christmas with real character — traditional styling, specific product picks at every budget, and ideas that work in UK rooms."
-image: "/images/pexels-3312671.jpg"
+image: "/images/pexels-1708601.jpg"
 datePublished: "2026-06-12"
 dateModified: "2026-06-12"
 author: "Badreddine"
