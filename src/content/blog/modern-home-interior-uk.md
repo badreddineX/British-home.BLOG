@@ -65,7 +65,7 @@ Limewash is the defining paint trend of modern British interiors right now. You'
 
 Traditional limewash is a chalk-and-water paint that's been used on British buildings for centuries. Modern versions replicate the visual effect with regular paint technology. The result is a wall that looks like it has depth and history — even in a new build.
 
-I tried the limewash technique in my hallway using Rust-Oleum's Chalky Finish paint (~£14 per 750ml from [B&Q](https://www.diy.com)) applied with a dry brush in circular strokes over a base coat. The result wasn't identical to true limewash, but it was significantly more interesting than flat emulsion and cost about £30 total for a small hallway.
+I tried the limewash technique in my hallway using Rust-Oleum's Chalky Finish paint (~£14 per 750ml from B&Q) applied with a dry brush in circular strokes over a base coat. The result wasn't identical to true limewash, but it was significantly more interesting than flat emulsion and cost about £30 total for a small hallway.
 
 Bauwerk Colour (~£65 per 2.5L) and Little Greene both do genuine limewash paint at a higher price point if you want the real thing.
 
@@ -97,10 +97,10 @@ Linen, jute, rattan, unglazed ceramic, natural wood with the grain visible — t
 
 **How to use natural materials in practice:**
 
-- **Linen curtains** — [IKEA's *Dytåg* range](https://www.ikea.com/gb/) from ~£45/pair is a genuine bargain
-- **Jute or sisal rugs** — [Dunelm](https://www.dunelm.com) has a good selection from ~£35
+- **Linen curtains** — IKEA's *Dytåg* range from ~£45/pair is a genuine bargain
+- **Jute or sisal rugs** — Dunelm has a good selection from ~£35
 - **Rattan or seagrass storage baskets** — functional and textural, from ~£12
-- **Unglazed ceramic vases** — [Next Home](https://www.next.co.uk) does good versions from ~£18
+- **Unglazed ceramic vases** — Next Home does good versions from ~£18
 - **Wooden chopping boards and trays displayed on kitchen shelves** — purely decorative use of something functional
 
 **Renter note:** Natural materials are one of the easiest ways to update a rented home because they're entirely freestanding and portable. No permission needed.
@@ -113,9 +113,9 @@ A decade ago, chrome was the default finish for taps, door handles, towel rails,
 
 Aged brass is the dominant finish — but not the shiny, bright brass of the 1980s. The modern version is darker, slightly worn-looking, with a warmth that reads as sophisticated rather than dated. Burnished copper and warm bronze are close alternatives.
 
-Switching hardware is one of the most effective ways to modernise a home without a full renovation. New door handles (from ~£4 each at [B&Q](https://www.diy.com)), a new kitchen tap (from ~£80), new light fittings — these feel minor individually but collectively shift the tone of a room significantly.
+Switching hardware is one of the most effective ways to modernise a home without a full renovation. New door handles (from ~£4 each at B&Q), a new kitchen tap (from ~£80), new light fittings — these feel minor individually but collectively shift the tone of a room significantly.
 
-Aged brass light fittings from ~£35 at [Dunelm](https://www.dunelm.com). For something more considered, [John Lewis](https://www.johnlewis.com) carries better quality options from ~£65.
+Aged brass light fittings from ~£35 at Dunelm. For something more considered, John Lewis carries better quality options from ~£65.
 
 ---
 

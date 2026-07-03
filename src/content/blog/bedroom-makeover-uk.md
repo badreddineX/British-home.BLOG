@@ -50,13 +50,13 @@ Read more: [bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/)
 
 ## 1. Start With New Bedding
 
-The bed occupies roughly 60% of the visual space in a typical British bedroom. This means the single fastest way to transform how a room looks is to change what's on the bed. New bedding in a linen or cotton weave, from £35 at [Dunelm](https://www.dunelm.com), shifts the entire character of the room before you've touched anything else.
+The bed occupies roughly 60% of the visual space in a typical British bedroom. This means the single fastest way to transform how a room looks is to change what's on the bed. New bedding in a linen or cotton weave, from £35 at Dunelm, shifts the entire character of the room before you've touched anything else.
 
 The specific upgrade that makes the biggest difference isn't just a new duvet cover. It's adding a flat sheet (folded back at the turn-down), two euro square pillows (65x65cm) behind your standard sleeping pillows, and a throw across the lower third of the bed. This layered structure creates the hotel-bed effect that photographs beautifully and feels genuinely different to sleep in.
 
 I changed my bedding from a supermarket polyester set to a cotton percale duvet cover with a linen throw and two euro pillows from Dunelm. The room looked like a different room — and I hadn't touched a single other thing in it yet.
 
-Full layered bedding setup (duvet cover, flat sheet, euro pillows, throw) — from £55–£80 at [Dunelm](https://www.dunelm.com).
+Full layered bedding setup (duvet cover, flat sheet, euro pillows, throw) — from £55–£80 at Dunelm.
 
 ---
 
@@ -68,7 +68,7 @@ Research from the University of Oxford (2023) found that reducing light intensit
 
 The overhead light doesn't need to go permanently. It's useful for getting dressed, cleaning, and finding things. But after 8pm, turn it off and let the bedside lamps do the work. This costs nothing extra once you have the lamps.
 
-Two bedside lamps at 2700K warm white — from £25 each at [Next Home](https://www.next.co.uk).
+Two bedside lamps at 2700K warm white — from £25 each at Next Home.
 
 ---
 
@@ -94,7 +94,7 @@ The colours that work best in UK bedrooms account for British natural light, whi
 
 A 2.5-litre tin of Dulux costs £20–£28 and covers one wall with two coats in most UK bedrooms. One wall typically takes two to three hours including preparation.
 
-Feature wall paint (2.5L) — £20–£35 from [B&Q](https://www.diy.com) or direct from the paint brand.
+Feature wall paint (2.5L) — £20–£35 from B&Q or direct from the paint brand.
 
 ---
 
@@ -104,21 +104,21 @@ The position of curtains matters as much as the curtains themselves. Curtains hu
 
 Hang the curtain pole 10–15cm below the ceiling (not at window-frame height) and extend it 30–40cm past the window frame on each side. This makes the window look significantly larger, the ceiling feel higher, and the room feel more generous than it actually is. In a standard UK bedroom with 2.4m ceilings, this one change is visually dramatic.
 
-For British bedrooms specifically: blackout lining is non-negotiable. UK summers mean light before 5am in many parts of the country. Without blackout lining, the best bedding and lighting in the world won't help you sleep properly. [Dunelm's made-to-measure blackout curtains](https://www.dunelm.com) start from approximately £35 per pair.
+For British bedrooms specifically: blackout lining is non-negotiable. UK summers mean light before 5am in many parts of the country. Without blackout lining, the best bedding and lighting in the world won't help you sleep properly. Dunelm's made-to-measure blackout curtains start from approximately £35 per pair.
 
-Blackout curtains hung 10–15cm below ceiling — from £35 per pair at [Dunelm](https://www.dunelm.com).
+Blackout curtains hung 10–15cm below ceiling — from £35 per pair at Dunelm.
 
 ---
 
 ## 6. Add a Full-Length Mirror
 
-A full-length mirror leaned against a wall is one of the cheapest and most effective bedroom makeover moves available. It adds light by reflecting it back into the room, adds the visual impression of depth and space, and creates a boutique-hotel feel that costs £30–£60 from [IKEA](https://www.ikea.com/gb/) or Dunelm.
+A full-length mirror leaned against a wall is one of the cheapest and most effective bedroom makeover moves available. It adds light by reflecting it back into the room, adds the visual impression of depth and space, and creates a boutique-hotel feel that costs £30–£60 from IKEA or Dunelm.
 
 Position matters. A mirror on the wall opposite a window doubles the natural light in the room. A mirror beside the wardrobe creates the illusion of a wider space. A mirror leaned against the wall at a slight angle (rather than mounted flush) looks more considered and styled than a wall-hung mirror in most bedroom contexts.
 
 For renters: a leaning mirror requires no wall fixings at all. It's the most renter-friendly major bedroom upgrade there is.
 
-Full-length leaning mirror — from £35 at [IKEA](https://www.ikea.com/gb/) or Dunelm.
+Full-length leaning mirror — from £35 at IKEA or Dunelm.
 
 ---
 
@@ -130,9 +130,9 @@ The rug in a bedroom has a different job from a living room rug. Its primary fun
 
 The most common rug mistake in UK bedrooms is buying one that's too small. A rug that only extends a few centimetres past the bed looks like an afterthought. The correct size for a UK double bed is 160x230cm; for a king, 200x290cm. The rug should extend at least 60cm beyond the sides of the bed and show clearly at the foot.
 
-Material matters here more than in any other room. A soft, deep-pile rug beside the bed is experienced through bare feet at 7am on a cold January morning. Buy the softest version within your budget, not the most visually interesting one. [Dunelm](https://www.dunelm.com) has deep-pile bedroom rugs from approximately £45.
+Material matters here more than in any other room. A soft, deep-pile rug beside the bed is experienced through bare feet at 7am on a cold January morning. Buy the softest version within your budget, not the most visually interesting one. Dunelm has deep-pile bedroom rugs from approximately £45.
 
-Deep-pile bedroom rug (160x230cm) — from £45 at [Dunelm](https://www.dunelm.com).
+Deep-pile bedroom rug (160x230cm) — from £45 at Dunelm.
 
 ---
 
@@ -144,7 +144,7 @@ If you already have a headboard, this step is about improving the wall behind it
 
 For a budget alternative: a piece of MDF cut to size, wrapped in wadding and fabric, and hung with picture hooks makes a convincing DIY upholstered headboard for £40–£60 in materials. The result looks considerably more expensive than it is. Off-cut velvet from a fabric warehouse is the best material for this.
 
-Upholstered headboard — from £85 at [IKEA](https://www.ikea.com/gb/). DIY version from approximately £40 in materials.
+Upholstered headboard — from £85 at IKEA. DIY version from approximately £40 in materials.
 
 ---
 
@@ -156,7 +156,7 @@ The goal is managed visibility, not minimalism. Everything you use daily can sta
 
 This costs nothing and takes an afternoon. It consistently ranks as one of the highest-impact changes in bedroom makeovers precisely because it's free and most people underestimate how much visual clutter is affecting their experience of the room.
 
-Wicker storage baskets to hide clutter — from £8 each at [Dunelm](https://www.dunelm.com).
+Wicker storage baskets to hide clutter — from £8 each at Dunelm.
 
 ---
 
@@ -168,9 +168,9 @@ A bedside table covered in whatever landed there — phone charger, empty glasse
 
 The formula is simple: three objects, three heights. One lamp (tall). One small plant, candle, or ornamental object (medium height). One book or small ceramic tray (low). Everything else goes in the drawer. The phone charges out of sight.
 
-The lamp does the most work visually, so choose one with some character. Ceramic bases in warm terracotta, earthy beige, or brushed brass all look excellent against the neutral and warm-toned walls that work best in UK bedrooms. [Next Home](https://www.next.co.uk) has an excellent range from £25 each.
+The lamp does the most work visually, so choose one with some character. Ceramic bases in warm terracotta, earthy beige, or brushed brass all look excellent against the neutral and warm-toned walls that work best in UK bedrooms. Next Home has an excellent range from £25 each.
 
-Ceramic bedside lamp — from £25 at [Next Home](https://www.next.co.uk). Three-object rule: lamp, plant or candle, one book.
+Ceramic bedside lamp — from £25 at Next Home. Three-object rule: lamp, plant or candle, one book.
 
 ---
 
@@ -180,9 +180,9 @@ A throw is not just decorative — it's the element that makes a bed look styled
 
 The material matters considerably more here than in a living room throw. Natural fibres — wool, cashmere-mix, waffle cotton — have a drape and weight that acrylic and polyester simply don't replicate. In person, the difference is immediately noticeable. A synthetic throw looks good in a photograph; a wool throw looks and feels better in the room itself.
 
-[John Lewis](https://www.johnlewis.com) has excellent wool throws from approximately £35. Next Home's faux mohair range from £28 is a solid mid-range option. Chunky knit throws in natural tones or sage green work particularly well in UK bedroom colour schemes.
+John Lewis has excellent wool throws from approximately £35. Next Home's faux mohair range from £28 is a solid mid-range option. Chunky knit throws in natural tones or sage green work particularly well in UK bedroom colour schemes.
 
-Wool-mix throw — from £28 at [Next Home](https://www.next.co.uk), or from £35 for wool at John Lewis.
+Wool-mix throw — from £28 at Next Home, or from £35 for wool at John Lewis.
 
 ---
 
@@ -190,11 +190,11 @@ Wool-mix throw — from £28 at [Next Home](https://www.next.co.uk), or from £3
 
 Scent is processed by the limbic system — the part of the brain associated with memory and emotion — which is why a bedroom that smells good feels genuinely different to one that merely looks good. The right scent actively supports the transition from wakefulness to rest.
 
-A 2015 study published in the *Journal of Alternative and Complementary Medicine* found that lavender aromatherapy improved sleep quality by 14% compared with a control group. This Works Deep Sleep Pillow Spray (approximately £19 from [John Lewis](https://www.johnlewis.com)) delivers this consistently and earns its reputation as the most recommended sleep-support product in UK bedrooms.
+A 2015 study published in the *Journal of Alternative and Complementary Medicine* found that lavender aromatherapy improved sleep quality by 14% compared with a control group. This Works Deep Sleep Pillow Spray (approximately £19 from John Lewis) delivers this consistently and earns its reputation as the most recommended sleep-support product in UK bedrooms.
 
 The wider principle: a bedroom that smells the same way every night becomes neurologically associated with sleep. A reed diffuser on the bedside table or a beeswax candle burned for 30 minutes then extinguished achieves this conditioning over time.
 
-This Works Deep Sleep Pillow Spray — £19 from [John Lewis](https://www.johnlewis.com).
+This Works Deep Sleep Pillow Spray — £19 from John Lewis.
 
 ---
 
@@ -206,7 +206,7 @@ In an informal survey of 40 readers who shared before-and-after photos of their 
 
 For renters: Command strips hold frames up to 5kg without wall damage. A set of three matching frames (from £5 each at IKEA or Dunelm) with printed photographs from a service like Photobox (prints from £0.09) creates a personalised gallery wall for under £30. Use the same frame finish throughout for cohesion.
 
-Three matching frames with personal photographs — from £15 total at [IKEA](https://www.ikea.com/gb/).
+Three matching frames with personal photographs — from £15 total at IKEA.
 
 ---
 

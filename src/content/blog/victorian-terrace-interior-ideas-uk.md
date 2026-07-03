@@ -101,11 +101,11 @@ The Victorians did not use off-white walls. The era was characterised by rich, d
 
 Farrow & Ball's historical collection — particularly Hague Blue, Brinjal, Deep Roo, and Lamp Room Grey — captures the Victorian palette with the colour depth these rooms require. Their paints cost ~£60 per 2.5L, which is genuinely expensive. Little Greene's Victorian palette (from ~£48 per 2.5L) offers a slightly more affordable alternative with equally accurate historical research behind it.
 
-For those on a tighter budget, [B&Q's Valspar](https://www.diy.com) and Dulux Heritage ranges both offer colour-matches at around ~£25 per 2.5L. The finish matters: Victorian walls were typically painted in oil-based distemper, which has a soft, chalky quality. Modern equivalents are flat emulsion or eggshell — avoid silk finishes, which read as modern and slightly plastic in period rooms.
+For those on a tighter budget, B&Q's Valspar and Dulux Heritage ranges both offer colour-matches at around ~£25 per 2.5L. The finish matters: Victorian walls were typically painted in oil-based distemper, which has a soft, chalky quality. Modern equivalents are flat emulsion or eggshell — avoid silk finishes, which read as modern and slightly plastic in period rooms.
 
 The dado rail's traditional colour division — darker, more saturated below the rail and lighter above — was functional as well as aesthetic. The lower half of a Victorian room collected far more scuff marks, handprints, and soot than the upper half. Deep colour below the dado conceals wear beautifully. This remains true in homes with children and dogs.
 
-Little Greene period colour paint — from ~£48 per 2.5L at [johnlewis.com](https://www.johnlewis.com).
+Little Greene period colour paint — from ~£48 per 2.5L at johnlewis.com.
 
 ### Mix Old and New With Confidence
 
@@ -123,7 +123,7 @@ Victorian rooms were designed for gas lighting — warm, low, and intimate. They
 
 Use pendant lights on long cords from the ceiling rose — this is the original Victorian fitting point. A single generous pendant in the centre of the room, with table lamps and floor lamps for supplementary lighting, suits Victorian proportions far better than a grid of spots.
 
-[Dunelm](https://www.dunelm.com) and [Wayfair UK](https://www.wayfair.co.uk) both stock pendant lights appropriate for Victorian rooms. For a particularly authentic look, a cluster of Edison-style filament bulbs — warm, amber, and visible — suits the period perfectly.
+Dunelm and Wayfair UK both stock pendant lights appropriate for Victorian rooms. For a particularly authentic look, a cluster of Edison-style filament bulbs — warm, amber, and visible — suits the period perfectly.
 
 Period-style pendant light — from ~£35 at Dunelm.
 

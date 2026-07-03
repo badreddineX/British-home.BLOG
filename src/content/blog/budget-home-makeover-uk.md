@@ -60,13 +60,13 @@ After these three steps, assess. Many rooms need nothing else.
 The living room priority order, ranked by visual return per pound:
 
 **Step 1: Replace bulbs — ~£8**
-All lamps to 2700K warm white. The room looks warm in the evening instead of clinical. This is the cheapest dramatic improvement available. ([Amazon UK](https://www.amazon.co.uk), 4-pack Philips 2700K LEDs.)
+All lamps to 2700K warm white. The room looks warm in the evening instead of clinical. This is the cheapest dramatic improvement available. (Amazon UK, 4-pack Philips 2700K LEDs.)
 
 **Step 2: New cushion covers — ~£30**
-Four new cushion covers for the sofa, keeping existing inserts. Two in one colour/texture, two in a complementary pattern. [Dunelm](https://www.dunelm.com) from ~£6–£8 each. The sofa looks entirely different.
+Four new cushion covers for the sofa, keeping existing inserts. Two in one colour/texture, two in a complementary pattern. Dunelm from ~£6–£8 each. The sofa looks entirely different.
 
 **Step 3: Correctly sized rug — ~£45**
-A jute or natural-weave rug in the right size — at least 160x230cm for a typical UK living room. [Dunelm](https://www.dunelm.com) from ~£45. The seating area coheres; the room feels designed rather than furnished by accident.
+A jute or natural-weave rug in the right size — at least 160x230cm for a typical UK living room. Dunelm from ~£45. The seating area coheres; the room feels designed rather than furnished by accident.
 
 **Step 4: Dried flowers or a plant — ~£8**
 A dried botanical bundle or a small plant on a shelf or coffee table. Adds life, nature, and visual warmth for under £10.
@@ -85,10 +85,10 @@ The bedroom has fewer high-impact-per-pound options than the living room, but th
 Bedside lamps to 2700K. Ceiling light off after 8pm. Same principle as the living room but more important here — wrong bulb temperature in a bedroom disrupts sleep and makes the room feel cold.
 
 **Step 2: Layered bedding — ~£40**
-A flat sheet folded back over the existing duvet, two euro square pillows (65x65cm) behind your sleeping pillows, and a throw folded at the foot. Full setup from [Dunelm's Dorma range](https://www.dunelm.com) for ~£40 if you need all three. If you have a throw already, just add the flat sheet and euro pillows for ~£20.
+A flat sheet folded back over the existing duvet, two euro square pillows (65x65cm) behind your sleeping pillows, and a throw folded at the foot. Full setup from Dunelm's Dorma range for ~£40 if you need all three. If you have a throw already, just add the flat sheet and euro pillows for ~£20.
 
 **Step 3: Blackout curtain lining — ~£15**
-If your bedroom curtains don't block morning light, clip-on blackout lining from [Amazon UK](https://www.amazon.co.uk) costs ~£15 and requires no sewing. It clips onto the existing curtain header tape and dramatically improves both sleep quality and the morning atmosphere of the room.
+If your bedroom curtains don't block morning light, clip-on blackout lining from Amazon UK costs ~£15 and requires no sewing. It clips onto the existing curtain header tape and dramatically improves both sleep quality and the morning atmosphere of the room.
 
 **Step 4: Bedside styling — ~£10**
 Clear the bedside table to: one lamp, one book, one glass of water. Add one small decorative object — a ceramic dish, a small plant, a candle. Total cost for the object: ~£5–£10.
@@ -102,10 +102,10 @@ Total: ~£73. A bedroom that feels like a retreat rather than a place to sleep.
 The hallway is the most-seen space in your home and the one most people spend the least time decorating. It takes 30 seconds to form a first impression. Making it count costs less than almost any other room.
 
 **Step 1: Paint the hallway — ~£22–£35**
-Hallways handle more traffic than any other room and show wear fastest. A fresh coat of paint in a warm neutral (Dulux Goose Down, Crown Fossil) makes an immediate difference. One tin typically covers a standard UK hallway. [B&Q](https://www.diy.com) from ~£22.
+Hallways handle more traffic than any other room and show wear fastest. A fresh coat of paint in a warm neutral (Dulux Goose Down, Crown Fossil) makes an immediate difference. One tin typically covers a standard UK hallway. B&Q from ~£22.
 
 **Step 2: Add a coat hook or rack — ~£15–£25**
-Most UK hallways have inadequate coat storage, leading to a pile of coats and shoes that greets every visitor. A simple wall-mounted coat hook strip (~£15 from [Amazon UK](https://www.amazon.co.uk)) or a more decorative freestanding rack (~£25 from [Wayfair](https://www.wayfair.co.uk)) solves this and immediately tidies the entrance.
+Most UK hallways have inadequate coat storage, leading to a pile of coats and shoes that greets every visitor. A simple wall-mounted coat hook strip (~£15 from Amazon UK) or a more decorative freestanding rack (~£25 from Wayfair) solves this and immediately tidies the entrance.
 
 **Step 3: Add a mirror — ~£20–£30**
 A mirror in the hallway makes the space feel larger and serves a practical purpose. A round mirror from Dunelm from ~£25 works well in most standard UK hallway widths.
@@ -119,7 +119,7 @@ Total: ~£57–£90.
 Kitchens are expensive to properly renovate and offer the lowest visual return per pound of any room at budget level. Full refits cost £5,000–£30,000+. But surface-level changes can make a dated kitchen feel considerably fresher for under £50.
 
 **Step 1: Replace handles — ~£15–£25**
-Swapping out cabinet door handles is the kitchen equivalent of changing cushion covers. New handles in a contemporary finish (brushed brass, matte black, antique brass) completely change the character of existing cabinets. Available from [B&Q](https://www.diy.com) from ~£2 each, or [Amazon UK](https://www.amazon.co.uk) for sets of 10 from ~£15.
+Swapping out cabinet door handles is the kitchen equivalent of changing cushion covers. New handles in a contemporary finish (brushed brass, matte black, antique brass) completely change the character of existing cabinets. Available from B&Q from ~£2 each, or Amazon UK for sets of 10 from ~£15.
 
 **Step 2: Clear countertops — Free**
 Remove every appliance and object from the countertops. Put back only what you use daily. The visual effect of clear countertops in a kitchen is more dramatic than almost any other single change, and it costs nothing.
@@ -136,7 +136,7 @@ Total: ~£20–£35.
 Like kitchens, bathrooms give the lowest renovation return per pound. But a few targeted changes make a real difference.
 
 **Step 1: Replace towels and bath mat — ~£20–£30**
-Matching towels in a consistent colour (white is always right, or a strong single colour like deep navy or sage green) plus a new bath mat immediately improve the look of any bathroom. [Dunelm](https://www.dunelm.com) stocks towel sets from ~£12 for two.
+Matching towels in a consistent colour (white is always right, or a strong single colour like deep navy or sage green) plus a new bath mat immediately improve the look of any bathroom. Dunelm stocks towel sets from ~£12 for two.
 
 **Step 2: Add a diffuser or a plant — ~£5–£10**
 A reed diffuser on the windowsill or a humidity-loving plant (peace lily, pothos, or bathroom fern) adds life and scent to a space that's frequently neglected.

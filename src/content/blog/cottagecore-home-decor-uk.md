@@ -43,7 +43,7 @@ Read more: [cosy home decor ideas](/blog/cosy-home-decor-ideas-uk/)
 
 The cottagecore palette is the colour of a dried wildflower meadow: warm creams, faded terracotta, dusty sage green, and soft brown. These are not vivid colours. They're the tones you see when you let a flower dry naturally — muted, warm, slightly faded.
 
-For walls: Farrow & Ball Mole's Breath (warm grey-brown), String (pale warm cream), or Mizzle (dusty sage) are the most frequently cited cottagecore colours — and they suit British light because they all carry warm undertones. Dulux equivalents cost considerably less: Dulux Perfectly Taupe and Dulux Sage Salutation are close matches at ~£22 per 2.5L from [B&Q](https://www.diy.com).
+For walls: Farrow & Ball Mole's Breath (warm grey-brown), String (pale warm cream), or Mizzle (dusty sage) are the most frequently cited cottagecore colours — and they suit British light because they all carry warm undertones. Dulux equivalents cost considerably less: Dulux Perfectly Taupe and Dulux Sage Salutation are close matches at ~£22 per 2.5L from B&Q.
 
 For textiles: cream linen, dusty rose cotton, and oatmeal boucle. Avoid bright whites and anything with a synthetic sheen.
 
@@ -55,7 +55,7 @@ Dulux Perfectly Taupe wall paint — ~£22 per 2.5L from B&Q.
 
 William Morris is the most British thing you can put on a cottagecore wall, and he's been relevant to interior design for over 150 years for good reason. His botanical repeat prints — Willow Bough, Strawberry Thief, Acanthus — capture the English countryside in a way nothing produced since has bettered.
 
-You don't need original Morris fabric. The William Morris Gallery in Walthamstow licenses prints through several UK retailers, and you can find affordable framed Morris prints from ~£15 on [Amazon UK](https://www.amazon.co.uk). A single large Morris print on a feature wall, in a warm wood frame, is one of the most effective single cottagecore moves you can make.
+You don't need original Morris fabric. The William Morris Gallery in Walthamstow licenses prints through several UK retailers, and you can find affordable framed Morris prints from ~£15 on Amazon UK. A single large Morris print on a feature wall, in a warm wood frame, is one of the most effective single cottagecore moves you can make.
 
 I have a Willow Bough print above my fireplace that I bought for £8 at a charity shop, originally sold as a greetings card. Framed in a charity shop frame repainted in sage green, it has received more compliments than anything I've bought new.
 
@@ -68,7 +68,7 @@ William Morris framed print — from ~£15 on Amazon UK; originals from ~£8 at 
 The cottagecore living room centres on the fireplace (original, if you have one), surrounded by natural textiles, dried botanicals, and collected objects that look as though they've been gathered over time rather than purchased in one shop on one Saturday.
 
 Key elements:
-- **Dried botanicals in earthenware vases** — dried lunaria, pampas, ruscus, or poppy heads. From ~£10 at [Dunelm](https://www.dunelm.com) or foraged from the garden
+- **Dried botanicals in earthenware vases** — dried lunaria, pampas, ruscus, or poppy heads. From ~£10 at Dunelm or foraged from the garden
 - **Linen or cotton cushion covers** in warm cream or dusty rose — from ~£12 at Next Home
 - **A woven jute or natural wool rug** — from ~£35 at Dunelm
 - **A stack of old books** — charity shop, ~£1 each — displayed spine-out or as a riser for a ceramic object
@@ -86,7 +86,7 @@ The cottagecore kitchen is the heart of the aesthetic — it's where the British
 
 If you have open shelving already (common in older UK kitchens), the display itself does the work. If you don't, a freestanding plate rack or open shelf unit (~£25 from IKEA) achieves the same effect without permanent installation.
 
-Swap plastic containers for glass Kilner jars (~£2.50 each from [Amazon UK](https://www.amazon.co.uk)) for dried pasta, grains, and pulses. The visual difference is enormous for minimal cost. A living herb plant on the windowsill — basil, thyme, rosemary — costs ~£2 from any supermarket and adds both scent and visual warmth.
+Swap plastic containers for glass Kilner jars (~£2.50 each from Amazon UK) for dried pasta, grains, and pulses. The visual difference is enormous for minimal cost. A living herb plant on the windowsill — basil, thyme, rosemary — costs ~£2 from any supermarket and adds both scent and visual warmth.
 
 The reason earthenware mugs and mismatched plates work better in cottagecore than matched sets is that they imply a history — cups bought at different times, in different places, accumulated over a life rather than selected from a catalogue. This is why genuine vintage pieces always beat reproduction: they carry real history.
 
@@ -114,7 +114,7 @@ Charity shop earthenware jug — typically ~£3–£8.
 
 The hallway is often neglected but matters enormously for establishing the mood of a home before you even enter a room. In cottagecore terms, the hallway should feel like stepping into a country house: slightly worn, warm, full of the evidence of outdoor life.
 
-A vintage or vintage-look coat rack (~£25 from [Wayfair](https://www.wayfair.co.uk)) with a few coats, scarves, and a flat cap hanging on it sets the tone. A small earthenware pot for umbrellas, a botanical print or two, and a small table with a candle and a handful of foraged objects complete the picture.
+A vintage or vintage-look coat rack (~£25 from Wayfair) with a few coats, scarves, and a flat cap hanging on it sets the tone. A small earthenware pot for umbrellas, a botanical print or two, and a small table with a candle and a handful of foraged objects complete the picture.
 
 If your hallway has original Victorian or Edwardian tiles (increasingly common in British terraced houses), resist any temptation to cover them. They're the single most valuable cottagecore element you can have and can't be replicated.
 

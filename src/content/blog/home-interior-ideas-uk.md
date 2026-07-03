@@ -47,7 +47,7 @@ That means layering warm artificial light rather than relying on daylight to do 
 
 I spent three years in a flat with a single overhead pendant in the living room. When I finally bought two floor lamps and a table lamp, the room stopped feeling like a waiting room and started feeling like somewhere I actually wanted to sit. The furniture hadn't changed. The lighting had.
 
-Good floor lamps from ~£35 at [Dunelm](https://www.dunelm.com). For something more considered, John Lewis carries excellent options from ~£65.
+Good floor lamps from ~£35 at Dunelm. For something more considered, John Lewis carries excellent options from ~£65.
 
 ---
 
@@ -61,7 +61,7 @@ When I've tested this by painting opposite walls in the same room — one warm n
 
 **The principle:** Always choose the warmer version of whatever colour you're drawn to. If you like grey, go for a warm grey with brown or taupe undertones (like Farrow & Ball's *Elephant's Breath*) rather than a cool blue-grey.
 
-Tester pots cost ~£3–£5 from [Dulux at B&Q](https://www.diy.com) or [Farrow & Ball](https://www.farrow-ball.com). Paint two large patches on different walls and live with them for 48 hours before committing.
+Tester pots cost ~£3–£5 from Dulux at B&Q or Farrow & Ball. Paint two large patches on different walls and live with them for 48 hours before committing.
 
 ---
 
@@ -73,7 +73,7 @@ Texture does several things at once. It absorbs sound, making rooms feel quieter
 
 The most accessible way to add texture is through soft furnishings: cushions in different materials (velvet, linen, wool), throws in chunky knit or bouclé, rugs in jute or wool, and curtains in heavier fabrics like velvet or cotton.
 
-Start with one large rug — it anchors the room and adds more texture than any other single item. [Wayfair UK](https://www.wayfair.co.uk) has a wide range from ~£45.
+Start with one large rug — it anchors the room and adds more texture than any other single item. Wayfair UK has a wide range from ~£45.
 
 ---
 
@@ -139,20 +139,20 @@ Not everyone is starting from the same place. Here's a realistic framework:
 
 ### Under £50
 
-- Replace overhead bulbs with warm 2700K alternatives (~£8, [Amazon UK](https://www.amazon.co.uk))
+- Replace overhead bulbs with warm 2700K alternatives (~£8, Amazon UK)
 - Add one good-quality scented candle or reed diffuser (~£8–£15)
 - Rearrange existing furniture — often the most transformative free intervention
 
 ### £50–£150
 
-- One large floor lamp (~£35–£65, [Dunelm](https://www.dunelm.com))
-- A new rug in the living room or bedroom (~£45–£80, [Wayfair UK](https://www.wayfair.co.uk))
-- Two velvet cushions in a warm tone (~£20–£30, [Next Home](https://www.next.co.uk))
+- One large floor lamp (~£35–£65, Dunelm)
+- A new rug in the living room or bedroom (~£45–£80, Wayfair UK)
+- Two velvet cushions in a warm tone (~£20–£30, Next Home)
 
 ### £150–£300
 
-- A quality throw in natural fibre (~£35–£60, [M&S](https://www.marksandspencer.com))
-- New curtains in a heavier fabric, properly hung (~£40–£80 per pair, [IKEA](https://www.ikea.com/gb/))
+- A quality throw in natural fibre (~£35–£60, M&S)
+- New curtains in a heavier fabric, properly hung (~£40–£80 per pair, IKEA)
 - A small piece of secondhand furniture from Facebook Marketplace or a charity shop (varies)
 
 ---

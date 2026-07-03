@@ -61,7 +61,7 @@ Two strategies work well in British hallways, and they sit at opposite ends of t
 
 Avoid: magnolia, stark brilliant white, and any cool grey. They all look slightly grubby under artificial light in a narrow corridor.
 
-**Citation capsule:** UK hallways are repainted more frequently than any other room, with homeowners most commonly replacing cool greys that perform poorly under artificial light ([Dulux Colour Trends Report](https://www.dulux.co.uk), 2024). Warm-toned alternatives like Dulux Timeless cost around £22 per 2.5L at B&Q — roughly one-third of the Farrow & Ball equivalent.
+**Citation capsule:** UK hallways are repainted more frequently than any other room, with homeowners most commonly replacing cool greys that perform poorly under artificial light (Dulux Colour Trends Report, 2024). Warm-toned alternatives like Dulux Timeless cost around £22 per 2.5L at B&Q — roughly one-third of the Farrow & Ball equivalent.
 
 Paint cost: ~£20–£28 per 2.5L from B&Q or Dulux Direct.
 
