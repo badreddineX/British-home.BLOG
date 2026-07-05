@@ -1,7 +1,7 @@
 ---
 title: "Modern Home Interior Ideas UK: What Modern Really Means"
 description: "What modern really means in British homes in 2026 — warm minimalism, tactile materials, and practical ideas for UK houses and flats at every budget."
-image: "/images/pexels-3356416.jpg"
+image: "/images/pexels-1571468.jpg"
 datePublished: "2026-04-24"
 dateModified: "2026-04-24"
 author: "Badreddine"
