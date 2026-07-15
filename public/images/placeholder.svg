@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" role="img" aria-label="Image unavailable">
+  <rect width="1200" height="675" fill="#FAF7F4"/>
+  <g stroke="#B89A6A" stroke-width="10" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M480 380 L600 280 L720 380"/>
+    <path d="M510 360 L510 470 L690 470 L690 360"/>
+    <rect x="575" y="405" width="50" height="65"/>
+  </g>
+  <text x="600" y="540" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#8a8a8a">British Home Interior</text>
+</svg>

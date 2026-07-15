@@ -1,9 +1,9 @@
-﻿---
+---
 title: "Small Living Room Layout Ideas UK: Furniture Arrangement"
 description: "How to arrange furniture in a tiny British lounge — layout principles, scale rules, and specific configurations for rooms under 15 square metres."
-image: "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg?auto=compress&cs=tinysrgb&w=1200"
-datePublished: "2026-06-22"
-dateModified: "2026-06-22"
+image: "/images/pexels-6538933.jpg"
+datePublished: "2026-06-17"
+dateModified: "2026-06-17"
 author: "Badreddine"
 tags: ["small living room layout ideas UK", "small lounge layout UK", "tiny living room UK", "furniture arrangement UK"]
 featured: false
@@ -136,7 +136,7 @@ For rooms under 12ft (approximately 3.65m) wide, a two-seater sofa in the 180-20
 
 Read more: [more living room layout and styling advice](/blog/living-room-ideas-uk/)
 
-Sofa depth is as important as sofa length. A sofa that is 95cm deep eats almost a metre of your room's width before you've added circulation space. Look for "compact" or "apartment" sofas — [Dunelm][Dunelm](https://www.dunelm.com) and [Next Home][Next Home](https://www.next.co.uk) label these clearly, and some run as shallow as 80cm from front to back.
+Sofa depth is as important as sofa length. A sofa that is 95cm deep eats almost a metre of your room's width before you've added circulation space. Look for "compact" or "apartment" sofas — Dunelm and Next Home label these clearly, and some run as shallow as 80cm from front to back.
 
 Avoid these sofa choices in small UK living rooms:
 - Large L-shape sectionals (the corner section takes up a disproportionate amount of floor space)
@@ -144,7 +144,7 @@ Avoid these sofa choices in small UK living rooms:
 - Sofas with fixed high backs over 90cm (they create a wall-within-a-wall effect)
 - Very low-profile sofas under 45cm seat height (they look good in showrooms, they're punishing to get out of daily)
 
-Compact two-seater sofa, 180-200cm long, under 90cm deep — from ~£299 at [Next Home][Next Home](https://www.next.co.uk).
+Compact two-seater sofa, 180-200cm long, under 90cm deep — from ~£299 at Next Home.
 
 [CHART: Bar chart comparing sofa dimensions vs. average UK living room widths — showing clearance available for 2-seater vs 3-seater in rooms of 3m, 3.5m, and 4m width - source: English Housing Survey 2023]
 
@@ -158,7 +158,7 @@ The minimum comfortable gap between sofa and coffee table is 40-45cm — enough 
 
 The most practical alternatives for small British living rooms:
 
-- **Nesting tables:** Take the footprint of one small table when stacked, spread out when needed. [Dunelm][Dunelm](https://www.dunelm.com) stocks these from ~£35 per set
+- **Nesting tables:** Take the footprint of one small table when stacked, spread out when needed. Dunelm stocks these from ~£35 per set
 - **Drum side tables:** One on each end of the sofa instead of a central coffee table — keeps the central floor area clear
 - **Ottoman coffee table:** Softer edge than a hard table, serves double duty as storage, works in very tight spaces
 
@@ -172,7 +172,7 @@ The rug is a layout tool as much as a decorative one. It defines the boundary of
 
 The minimum rug size for a small UK living room seating arrangement is 160x230cm. At this size, the front legs of all seating pieces sit on the rug and the arrangement reads as unified. A rug smaller than this — the very common 120x170cm — sits under the coffee table and floats in the middle of the arrangement without grounding anything.
 
-[Dunelm's rug range][Dunelm](https://www.dunelm.com) includes excellent 160x230cm options from ~£45. This is almost always worth spending on rather than buying a smaller, cheaper rug — the size difference has a much larger visual impact than the price difference would suggest.
+Dunelm's rug range includes excellent 160x230cm options from ~£45. This is almost always worth spending on rather than buying a smaller, cheaper rug — the size difference has a much larger visual impact than the price difference would suggest.
 
 One correctly sized rug (160x230cm minimum) — from ~£45 at Dunelm. The rug is the foundation of the layout.
 
@@ -192,7 +192,7 @@ The ideal lighting layout for a small UK lounge:
 
 All bulbs should be 2700K warm white. The overhead light can stay for daytime use, but after 4pm, turn it off and use only the lower-level sources.
 
-Floor lamp in the far corner — from ~£35 at [Next Home][Next Home](https://www.next.co.uk). This single addition makes more difference to a small room's atmosphere than almost any furniture change.
+Floor lamp in the far corner — from ~£35 at Next Home. This single addition makes more difference to a small room's atmosphere than almost any furniture change.
 
 ---
 

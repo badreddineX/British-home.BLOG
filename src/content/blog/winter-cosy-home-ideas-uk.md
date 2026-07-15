@@ -1,9 +1,9 @@
-﻿---
+---
 title: "Winter Cosy Home Ideas UK: Make Your Home Feel Warm"
 description: "How to make your UK home feel warm and cosy through the British winter — draught-proofing, layered lighting, heavy curtains, warm scents, and hibernation corners."
-image: "https://images.pexels.com/photos/6045249/pexels-photo-6045249.jpeg?auto=compress&cs=tinysrgb&w=1200"
-datePublished: "2026-06-05"
-dateModified: "2026-06-05"
+image: "/images/pexels-2082090.jpg"
+datePublished: "2025-12-11"
+dateModified: "2025-12-11"
 author: "Badreddine"
 tags: ["winter cosy home ideas UK", "cosy home UK winter", "British winter home decor", "warm home UK", "winter living room UK"]
 featured: false
@@ -57,9 +57,9 @@ The Energy Saving Trust estimates that draught-proofing a typical semi-detached 
 - **Loft hatches** — often completely unsealed
 
 **What to buy:**
-- **Door draught excluders** — fabric or foam brush type, from ~£8–£15 at [B&Q][B&Q](https://www.diy.com) or [Amazon UK](https://www.amazon.co.uk)
-- **Window self-adhesive seal tape** — V-strip or foam, a roll covers several windows, ~£6 from [B&Q][B&Q](https://www.diy.com)
-- **Chimney balloon** (if your fireplace is decorative or unused) — inflatable device that sits in the flue, ~£20–£25 from [Amazon UK](https://www.amazon.co.uk)
+- **Door draught excluders** — fabric or foam brush type, from ~£8–£15 at B&Q or Amazon UK
+- **Window self-adhesive seal tape** — V-strip or foam, a roll covers several windows, ~£6 from B&Q
+- **Chimney balloon** (if your fireplace is decorative or unused) — inflatable device that sits in the flue, ~£20–£25 from Amazon UK
 - **Letterbox brush excluder** — fits inside the letterbox, ~£5–£8
 
 I put a chimney balloon in my Victorian terrace's living room fireplace three winters ago, combined with a door draught excluder on the front door. The difference in room temperature was immediate and measurable — the room held heat for noticeably longer after the heating went off.
@@ -82,9 +82,9 @@ The difference between a thin unlined curtain and a properly interlined one is s
 - **Good coverage** — curtains should extend 15–20cm past each side of the window frame to prevent side draughts
 
 **Where to buy:**
-- [Dunelm][Dunelm](https://www.dunelm.com) — Thermal Pencil Pleat range from ~£35/pair. Good quality for the price.
-- [Next Home][Next Home](https://www.next.co.uk) — lined velvet options from ~£50/pair. Excellent thermal performance.
-- [IKEA](https://www.ikea.com/gb/) — blackout curtains from ~£20/pair. Less thermal than heavier options but significantly better than nothing.
+- Dunelm — Thermal Pencil Pleat range from ~£35/pair. Good quality for the price.
+- Next Home — lined velvet options from ~£50/pair. Excellent thermal performance.
+- IKEA — blackout curtains from ~£20/pair. Less thermal than heavier options but significantly better than nothing.
 
 Velvet curtains are both the most thermal and the most beautiful option for a British winter living room. They trap air in their pile, which insulates, and they absorb the warm amber light of evening lamps in a way that makes the room feel genuinely cocooned.
 
@@ -98,7 +98,7 @@ We've talked about 2700K warm white bulbs as the year-round standard for British
 
 The difference from 2700K to 2200K is subtle when you look at a single bulb. But in a whole room, layered across three or four lamp sources, on a dark January evening with the curtains drawn, the effect is significant.
 
-2200K bulbs cost ~£6 for a four-pack from [Amazon UK](https://www.amazon.co.uk) — Philips Warm Glow is the most reliable brand. Worth buying in October and swapping in before the clocks go back.
+2200K bulbs cost ~£6 for a four-pack from Amazon UK — Philips Warm Glow is the most reliable brand. Worth buying in October and swapping in before the clocks go back.
 
 Add to this:
 - **Candles** — pillar candles, tealights, and taper candles throughout the room. Not just on the mantelpiece.
@@ -119,7 +119,7 @@ Winter textiles are heavier, denser, and warmer than their spring or summer equi
 
 In my own home, the winter textile setup costs me an additional ~£0 per year because I store and rotate seasonally. The outlay happened once; the benefit recurs every year.
 
-[Next Home][Next Home](https://www.next.co.uk) consistently does the best chunky throws for the price — from ~£25 in their seasonal range. [Dunelm][Dunelm](https://www.dunelm.com) has good options from ~£18.
+Next Home consistently does the best chunky throws for the price — from ~£25 in their seasonal range. Dunelm has good options from ~£18.
 
 ---
 

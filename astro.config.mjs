@@ -3,5 +3,12 @@ import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
   site: 'https://britishhomeinterior.co.uk',
-  integrations: [sitemap()],
+  integrations: [
+    sitemap({
+      filter: (page) => !page.endsWith('/404/'),
+    }),
+  ],
+  redirects: {
+    '/blog/cosy-bedroom-decor-ideas-uk': '/blog/cosy-bedroom-ideas-uk',
+  },
 });

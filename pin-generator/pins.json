@@ -1,0 +1,121 @@
+[
+  {"slug":"autumn-home-decor","template":"A","kicker":"Cosy Season &nbsp;·&nbsp; UK","headline":"Cosy <em>Autumn</em> Home Decor Ideas","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-5825578.jpg"},
+  {"slug":"autumn-home-decor","template":"B","kicker":"Warm &nbsp;·&nbsp; Layered &nbsp;·&nbsp; British","headline":"Make Your Home Feel Like <em>Autumn</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-5825578.jpg"},
+  {"slug":"autumn-home-decor","template":"C","kicker":"The Autumn Edit","headline":"The Cosy <em>Autumn</em> Home Guide","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-5825578.jpg"},
+
+  {"slug":"bedroom-colour-ideas","template":"A","kicker":"Paint Colours &nbsp;·&nbsp; 2026","headline":"Bedroom <em>Colour</em> Ideas UK","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1454806.jpg"},
+  {"slug":"bedroom-colour-ideas","template":"B","kicker":"Tester Pots First &nbsp;·&nbsp; 2026","headline":"The Best Bedroom <em>Paint</em> Colours","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1454806.jpg"},
+  {"slug":"bedroom-colour-ideas","template":"C","kicker":"The Colour Edit","headline":"2026's Best Bedroom <em>Colours</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1454806.jpg"},
+
+  {"slug":"bedroom-decor-ideas","template":"A","kicker":"12 Ideas &nbsp;·&nbsp; UK Homes","headline":"Bedroom <em>Decor</em> Ideas for UK Homes","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1743229.jpg"},
+  {"slug":"bedroom-decor-ideas","template":"B","kicker":"From Blank to Beautiful","headline":"12 Bedroom Ideas to <em>Steal</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1743229.jpg"},
+  {"slug":"bedroom-decor-ideas","template":"C","kicker":"The Bedroom Edit","headline":"12 Ways to a <em>Prettier</em> Bedroom","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1743229.jpg"},
+
+  {"slug":"bedroom-makeover","template":"A","kicker":"13 Changes &nbsp;·&nbsp; Big Impact","headline":"Bedroom <em>Makeover</em> UK","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-90317.jpg"},
+  {"slug":"bedroom-makeover","template":"B","kicker":"One Weekend &nbsp;·&nbsp; Real Budgets","headline":"13 Changes That <em>Transform</em> a Bedroom","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-90317.jpg"},
+  {"slug":"bedroom-makeover","template":"C","kicker":"Before &amp; After","headline":"The 13-Step Bedroom <em>Makeover</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-90317.jpg"},
+
+  {"slug":"budget-home-makeover","template":"A","kicker":"Under £150 &nbsp;·&nbsp; Any Room","headline":"Budget Home <em>Makeover</em> UK","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1571459.jpg"},
+  {"slug":"budget-home-makeover","template":"B","kicker":"Under £150 &nbsp;·&nbsp; One Weekend","headline":"Transform Any Room for <em>£150</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1571459.jpg"},
+  {"slug":"budget-home-makeover","template":"C","kicker":"The Budget Edit","headline":"A Whole-Room Refresh Under <em>£150</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1571459.jpg"},
+
+  {"slug":"christmas-home-decor","template":"A","kicker":"Christmas &nbsp;·&nbsp; British Style","headline":"Christmas Home <em>Decor</em> Ideas UK","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1708601.jpg"},
+  {"slug":"christmas-home-decor","template":"B","kicker":"Festive &nbsp;·&nbsp; Not Fussy","headline":"A Very <em>British</em> Christmas Home","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1708601.jpg"},
+  {"slug":"christmas-home-decor","template":"C","kicker":"The Festive Edit","headline":"Christmas Styling the <em>British</em> Way","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1708601.jpg"},
+
+  {"slug":"cosy-bedroom-ideas","template":"A","kicker":"14 Ways &nbsp;·&nbsp; Cosy Season","headline":"<em>Cosy</em> Bedroom Ideas UK","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-271624.jpg"},
+  {"slug":"cosy-bedroom-ideas","template":"B","kicker":"Layers &nbsp;·&nbsp; Light &nbsp;·&nbsp; Texture","headline":"14 Ways to a <em>Cosier</em> Bedroom","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-271624.jpg"},
+  {"slug":"cosy-bedroom-ideas","template":"C","kicker":"The Cosy Edit","headline":"Turn Your Bedroom Into a <em>Retreat</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-271624.jpg"},
+
+  {"slug":"cosy-home-decor","template":"A","kicker":"Genuine Warmth &nbsp;·&nbsp; UK","headline":"<em>Cosy</em> Home Decor Ideas","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1866149.jpg"},
+  {"slug":"cosy-home-decor","template":"B","kicker":"Not Just Candles","headline":"The Real Guide to a <em>Cosy</em> Home","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1866149.jpg"},
+  {"slug":"cosy-home-decor","template":"C","kicker":"The Warmth Edit","headline":"A Genuinely <em>Cosy</em> British Home","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1866149.jpg"},
+
+  {"slug":"cottagecore-bedroom","template":"A","kicker":"Cottagecore &nbsp;·&nbsp; UK","headline":"<em>Cottagecore</em> Bedroom Ideas","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-2079249.jpg"},
+  {"slug":"cottagecore-bedroom","template":"B","kicker":"Florals &nbsp;·&nbsp; Linen &nbsp;·&nbsp; Charm","headline":"The <em>Cottagecore</em> Bedroom Look","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-2079249.jpg"},
+  {"slug":"cottagecore-bedroom","template":"C","kicker":"Period Charm","headline":"A <em>Cottagecore</em> Bedroom, Done Right","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-2079249.jpg"},
+
+  {"slug":"cottagecore-home-decor","template":"A","kicker":"Get the Look &nbsp;·&nbsp; UK","headline":"<em>Cottagecore</em> Home Decor","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-4273433.jpg"},
+  {"slug":"cottagecore-home-decor","template":"B","kicker":"High Street Budget","headline":"Get the <em>Cottagecore</em> Look at Home","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-4273433.jpg"},
+  {"slug":"cottagecore-home-decor","template":"C","kicker":"The Cottage Edit","headline":"<em>Cottagecore</em> for Real British Homes","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-4273433.jpg"},
+
+  {"slug":"dark-moody-home-decor","template":"A","kicker":"Dark &amp; Moody &nbsp;·&nbsp; UK","headline":"Dark and <em>Moody</em> Home Decor","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-3356416.jpg"},
+  {"slug":"dark-moody-home-decor","template":"B","kicker":"Paint Dark &nbsp;·&nbsp; Live Warm","headline":"The <em>Moody</em> Home Decor Guide","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-3356416.jpg"},
+  {"slug":"dark-moody-home-decor","template":"C","kicker":"The Moody Edit","headline":"Decorating with <em>Darkness</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-3356416.jpg"},
+
+  {"slug":"hallway-decor-ideas","template":"A","kicker":"First Impressions","headline":"Hallway <em>Decor</em> Ideas UK","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1090638.jpg"},
+  {"slug":"hallway-decor-ideas","template":"B","kicker":"Narrow Halls &nbsp;·&nbsp; Big Style","headline":"Style a Small <em>Entrance</em> Beautifully","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1090638.jpg"},
+  {"slug":"hallway-decor-ideas","template":"C","kicker":"The Hallway Edit","headline":"A Hallway With <em>Presence</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1090638.jpg"},
+
+  {"slug":"home-decor-inspiration","template":"A","kicker":"Inspiration &nbsp;·&nbsp; British Homes","headline":"Home <em>Decor</em> Inspiration UK","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1648768.jpg"},
+  {"slug":"home-decor-inspiration","template":"B","kicker":"Real Rooms &nbsp;·&nbsp; Real Ideas","headline":"Decor Ideas for <em>British</em> Homes","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1648768.jpg"},
+  {"slug":"home-decor-inspiration","template":"C","kicker":"The Inspiration Edit","headline":"Ideas for <em>Beautiful</em> British Homes","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1648768.jpg"},
+
+  {"slug":"home-interior-ideas","template":"A","kicker":"Key Principles","headline":"Home <em>Interior</em> Ideas UK","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1571460.jpg"},
+  {"slug":"home-interior-ideas","template":"B","kicker":"What Designers Know","headline":"The Principles of a <em>Beautiful</em> Home","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1571460.jpg"},
+  {"slug":"home-interior-ideas","template":"C","kicker":"The Foundations","headline":"Interior Rules That Never <em>Fail</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1571460.jpg"},
+
+  {"slug":"style-a-living-room","template":"A","kicker":"Step-by-Step &nbsp;·&nbsp; UK","headline":"How to <em>Style</em> a Living Room","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-2082087.jpg"},
+  {"slug":"style-a-living-room","template":"B","kicker":"From Bare to Styled","headline":"Style Your Living Room Like a <em>Pro</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-2082087.jpg"},
+  {"slug":"style-a-living-room","template":"C","kicker":"The Styling Guide","headline":"The Living Room <em>Styling</em> Order","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-2082087.jpg"},
+
+  {"slug":"kitchen-decor-ideas","template":"A","kicker":"12 Ways &nbsp;·&nbsp; British Kitchens","headline":"Kitchen <em>Decor</em> Ideas UK","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-2062426.jpg"},
+  {"slug":"kitchen-decor-ideas","template":"B","kicker":"No Renovation Needed","headline":"12 Ways to Style a <em>British</em> Kitchen","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-2062426.jpg"},
+  {"slug":"kitchen-decor-ideas","template":"C","kicker":"The Kitchen Edit","headline":"A Prettier Kitchen, No <em>Builders</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-2062426.jpg"},
+
+  {"slug":"kitchen-on-a-budget","template":"A","kicker":"14 Upgrades &nbsp;·&nbsp; No Renovation","headline":"Kitchen on a <em>Budget</em> UK","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1080721.jpg"},
+  {"slug":"kitchen-on-a-budget","template":"B","kicker":"Under £50 &nbsp;·&nbsp; Two Weekends","headline":"Kitchen <em>Makeover</em> on a Budget","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1080721.jpg"},
+  {"slug":"kitchen-on-a-budget","template":"C","kicker":"The Budget Kitchen","headline":"14 Upgrades Without <em>Renovation</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1080721.jpg"},
+
+  {"slug":"living-room-budget","template":"A","kicker":"Under £100 &nbsp;·&nbsp; 10 Ideas","headline":"Living Room on a <em>Budget</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-6480707.jpg"},
+  {"slug":"living-room-budget","template":"B","kicker":"Under £100 &nbsp;·&nbsp; High Street","headline":"10 Living Room Ideas Under <em>£100</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-6480707.jpg"},
+  {"slug":"living-room-budget","template":"C","kicker":"The Budget Edit","headline":"A <em>£100</em> Living Room Refresh","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-6480707.jpg"},
+
+  {"slug":"living-room-colour-schemes","template":"A","kicker":"11 Combinations","headline":"Living Room <em>Colour</em> Schemes UK","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1457842.jpg"},
+  {"slug":"living-room-colour-schemes","template":"B","kicker":"Tested Pairings","headline":"11 Colour Schemes That Just <em>Work</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1457842.jpg"},
+  {"slug":"living-room-colour-schemes","template":"C","kicker":"The Colour Edit","headline":"Colour Pairings for British <em>Light</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1457842.jpg"},
+
+  {"slug":"living-room-ideas","template":"A","kicker":"15 Ideas &nbsp;·&nbsp; UK Homes","headline":"Living Room <em>Ideas</em> for UK Homes","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1571453.jpg"},
+  {"slug":"living-room-ideas","template":"B","kicker":"Classic to Contemporary","headline":"15 Living Rooms to <em>Copy</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1571453.jpg"},
+  {"slug":"living-room-ideas","template":"C","kicker":"The Living Room Edit","headline":"15 Ideas for a <em>Lovelier</em> Lounge","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1571453.jpg"},
+
+  {"slug":"maximalist-home-decor","template":"A","kicker":"Bold &nbsp;·&nbsp; Not Cluttered","headline":"<em>Maximalist</em> Home Decor UK","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-2062431.jpg"},
+  {"slug":"maximalist-home-decor","template":"B","kicker":"Layer With Confidence","headline":"Maximalism Without the <em>Clutter</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-2062431.jpg"},
+  {"slug":"maximalist-home-decor","template":"C","kicker":"The Maximalist Edit","headline":"Layer <em>Boldly</em>, Not Loudly","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-2062431.jpg"},
+
+  {"slug":"maximalist-living-room","template":"A","kicker":"Maximalism &nbsp;·&nbsp; British Homes","headline":"<em>Maximalist</em> Living Room Decor","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1648776.jpg"},
+  {"slug":"maximalist-living-room","template":"B","kicker":"Pattern &nbsp;·&nbsp; Colour &nbsp;·&nbsp; Nerve","headline":"A <em>Maximalist</em> British Living Room","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1648776.jpg"},
+  {"slug":"maximalist-living-room","template":"C","kicker":"The Bold Edit","headline":"Maximalism in a <em>British</em> Home","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1648776.jpg"},
+
+  {"slug":"modern-home-interior","template":"A","kicker":"What Modern Means","headline":"<em>Modern</em> Home Interior Ideas UK","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1571468.jpg"},
+  {"slug":"modern-home-interior","template":"B","kicker":"Warm &nbsp;·&nbsp; Clean &nbsp;·&nbsp; Current","headline":"What <em>Modern</em> Really Looks Like","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1571468.jpg"},
+  {"slug":"modern-home-interior","template":"C","kicker":"The Modern Edit","headline":"Modern Interiors, <em>British</em> Homes","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1571468.jpg"},
+
+  {"slug":"rented-flat-makeover","template":"A","kicker":"Deposit-Safe &nbsp;·&nbsp; UK","headline":"Rented Flat <em>Makeover</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1643383.jpg"},
+  {"slug":"rented-flat-makeover","template":"B","kicker":"No Drills &nbsp;·&nbsp; No Drama","headline":"Transform a Rental, Keep the <em>Deposit</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1643383.jpg"},
+  {"slug":"rented-flat-makeover","template":"C","kicker":"The Renter's Edit","headline":"A Makeover Your Landlord Won't <em>Mind</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1643383.jpg"},
+
+  {"slug":"rented-home-decor","template":"A","kicker":"13 Deposit-Safe Ways","headline":"Rented Home <em>Decor</em> Ideas","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1918291.jpg"},
+  {"slug":"rented-home-decor","template":"B","kicker":"Renter-Friendly &nbsp;·&nbsp; UK","headline":"13 Ways to Decorate a <em>Rental</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1918291.jpg"},
+  {"slug":"rented-home-decor","template":"C","kicker":"The Renter's Edit","headline":"Deposit-Safe <em>Style</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-1918291.jpg"},
+
+  {"slug":"small-living-room","template":"A","kicker":"11 Ways &nbsp;·&nbsp; Feel Bigger","headline":"Small <em>Living Room</em> Ideas UK","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-276583.jpg"},
+  {"slug":"small-living-room","template":"B","kicker":"Small Room &nbsp;·&nbsp; Big Feel","headline":"Make a Small Living Room Feel <em>Bigger</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-276583.jpg"},
+  {"slug":"small-living-room","template":"C","kicker":"The Small-Space Edit","headline":"11 Tricks for <em>Bigger</em>-Feeling Rooms","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-276583.jpg"},
+
+  {"slug":"small-living-room-layout","template":"A","kicker":"Furniture Arrangement","headline":"Small Living Room <em>Layouts</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-6538933.jpg"},
+  {"slug":"small-living-room-layout","template":"B","kicker":"Sofa First &nbsp;·&nbsp; Then the Rest","headline":"The Right <em>Layout</em> for a Small Lounge","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-6538933.jpg"},
+  {"slug":"small-living-room-layout","template":"C","kicker":"The Layout Edit","headline":"Arrange a Small Room <em>Properly</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-6538933.jpg"},
+
+  {"slug":"spring-home-refresh","template":"A","kicker":"Lighten &amp; Brighten","headline":"<em>Spring</em> Home Refresh Ideas UK","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-4846097.jpg"},
+  {"slug":"spring-home-refresh","template":"B","kicker":"One Weekend &nbsp;·&nbsp; Whole Home","headline":"<em>Spring</em> Refresh Your Home","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-4846097.jpg"},
+  {"slug":"spring-home-refresh","template":"C","kicker":"The Spring Edit","headline":"Lighten Up for <em>Spring</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-4846097.jpg"},
+
+  {"slug":"victorian-terrace","template":"A","kicker":"Period Homes &nbsp;·&nbsp; UK","headline":"Victorian <em>Terrace</em> Interior Ideas","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-3757055.jpg"},
+  {"slug":"victorian-terrace","template":"B","kicker":"Original Features &nbsp;·&nbsp; Modern Life","headline":"Style a <em>Victorian</em> Terrace","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-3757055.jpg"},
+  {"slug":"victorian-terrace","template":"C","kicker":"Period Homes","headline":"Victorian Terrace <em>Interior</em> Ideas","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-3757055.jpg"},
+
+  {"slug":"winter-cosy-home","template":"A","kicker":"Cosy Season &nbsp;·&nbsp; UK","headline":"Winter <em>Cosy</em> Home Ideas","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-2082090.jpg"},
+  {"slug":"winter-cosy-home","template":"B","kicker":"Warmth Without the Bills","headline":"Make Your Home Feel <em>Warm</em> This Winter","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-2082090.jpg"},
+  {"slug":"winter-cosy-home","template":"C","kicker":"The Winter Edit","headline":"A Warmer Home All <em>Winter</em>","domain":"britishhomeinterior.co.uk","photo":"./public/images/pexels-2082090.jpg"}
+]

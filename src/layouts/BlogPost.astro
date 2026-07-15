@@ -50,7 +50,7 @@ const h2s = headings.filter(h => h.depth === 2);
 // Related posts: same category, excluding current
 const allPosts = await getCollection('blog');
 const related = allPosts
-  .filter(p => p.slug !== slug && p.data.category?.toLowerCase() === category.toLowerCase())
+  .filter(p => p.id !== slug && p.data.category?.toLowerCase() === category.toLowerCase())
   .sort((a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime())
   .slice(0, 3);
 ---
@@ -188,7 +188,7 @@ const related = allPosts
             <h2 class="related-title">Related Articles</h2>
             <div class="related-grid">
               {related.map(post => (
-                <a href={`/blog/${post.slug}/`} class="related-card">
+                <a href={`/blog/${post.id}/`} class="related-card">
                   <div class="related-card-img img-wrap">
                     <img
                       src={post.data.image}

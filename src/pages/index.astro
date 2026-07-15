@@ -60,6 +60,7 @@ function fmtDate(d: string) {
             preload="auto"
             poster={featured?.data.image ?? ''}
           >
+            <source src="/videos/hero-hd.mp4" type="video/mp4" />
           </video>
           <div class="hero-overlay"></div>
         </div>
@@ -87,7 +88,7 @@ function fmtDate(d: string) {
           <div class="featured-inner">
             <h2 class="featured-label">Featured Post</h2>
             <div class="featured-card">
-              <a href={`/blog/${featured.slug}/`} class="featured-img-wrap img-wrap">
+              <a href={`/blog/${featured.id}/`} class="featured-img-wrap img-wrap">
                 <img
                   src={featured.data.image}
                   alt={featured.data.title}
@@ -102,11 +103,11 @@ function fmtDate(d: string) {
                   <time datetime={featured.data.datePublished}>{fmtDate(featured.data.datePublished)}</time>
                   &nbsp;·&nbsp;{featured.data.readTime ?? '5 min read'}
                 </p>
-                <a href={`/blog/${featured.slug}/`} class="featured-title-link">
+                <a href={`/blog/${featured.id}/`} class="featured-title-link">
                   <h3 class="featured-title">{featured.data.title}</h3>
                 </a>
                 <p class="featured-excerpt">{featured.data.excerpt ?? featured.data.description}</p>
-                <a href={`/blog/${featured.slug}/`} class="featured-read">Read More →</a>
+                <a href={`/blog/${featured.id}/`} class="featured-read">Read More →</a>
               </div>
             </div>
           </div>
@@ -119,7 +120,7 @@ function fmtDate(d: string) {
           <h2 class="recent-label">Recent Posts</h2>
           <div class="recent-grid">
             {(recent.length ? recent : sorted.slice(0, 3)).map(post => (
-              <a href={`/blog/${post.slug}/`} class="recent-card">
+              <a href={`/blog/${post.id}/`} class="recent-card">
                 {post.data.image && (
                   <div class="recent-card-img img-wrap">
                     <img
@@ -177,7 +178,7 @@ function fmtDate(d: string) {
           <div class="cat-col">
             <h2 class="cat-section-label">Living Room</h2>
             {col1.map(post => (
-              <a href={`/blog/${post.slug}/`} class="h-card">
+              <a href={`/blog/${post.id}/`} class="h-card">
                 <div class="h-card-thumb">
                   <img src={post.data.image} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
                 </div>
@@ -194,7 +195,7 @@ function fmtDate(d: string) {
           <div class="cat-col">
             <h2 class="cat-section-label">Bedroom</h2>
             {col2.map(post => (
-              <a href={`/blog/${post.slug}/`} class="h-card">
+              <a href={`/blog/${post.id}/`} class="h-card">
                 <div class="h-card-thumb img-wrap">
                   <img src={post.data.image} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
                 </div>
@@ -215,7 +216,7 @@ function fmtDate(d: string) {
           <div class="cat-col">
             <h2 class="cat-section-label">Kitchen</h2>
             {col3.map(post => (
-              <a href={`/blog/${post.slug}/`} class="h-card">
+              <a href={`/blog/${post.id}/`} class="h-card">
                 <div class="h-card-thumb img-wrap">
                   <img src={post.data.image} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
                 </div>
@@ -232,7 +233,7 @@ function fmtDate(d: string) {
           <div class="cat-col">
             <h2 class="cat-section-label">Room Makeovers</h2>
             {col4.map(post => (
-              <a href={`/blog/${post.slug}/`} class="h-card">
+              <a href={`/blog/${post.id}/`} class="h-card">
                 <div class="h-card-thumb img-wrap">
                   <img src={post.data.image} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
                 </div>
@@ -274,7 +275,7 @@ function fmtDate(d: string) {
 
           <!-- Photo A — left, tilted left -->
           <div class="mood-photo mood-photo-a">
-            <img src="https://images.pexels.com/photos/1571460/pexels-photo-1571460.jpeg?auto=compress&cs=tinysrgb&w=600" alt="British living room" loading="lazy" />
+            <img src="/images/pexels-1571460.jpg" alt="British living room" loading="lazy" />
           </div>
 
           <!-- Inspiration card (boarding-pass style) -->
@@ -319,12 +320,12 @@ function fmtDate(d: string) {
 
           <!-- Photo B — right, tilted right -->
           <div class="mood-photo mood-photo-b">
-            <img src="https://images.pexels.com/photos/2082087/pexels-photo-2082087.jpeg?auto=compress&cs=tinysrgb&w=500" alt="Cosy British bedroom" loading="lazy" />
+            <img src="/images/pexels-2082087.jpg" alt="Cosy British bedroom" loading="lazy" />
           </div>
 
           <!-- Photo C — centre-low, slight tilt -->
           <div class="mood-photo mood-photo-c">
-            <img src="https://images.pexels.com/photos/1648768/pexels-photo-1648768.jpeg?auto=compress&cs=tinysrgb&w=400" alt="Room makeover" loading="lazy" />
+            <img src="/images/pexels-1648768.jpg" alt="Room makeover" loading="lazy" />
           </div>
 
         </div>
@@ -341,22 +342,25 @@ function fmtDate(d: string) {
     var video = document.getElementById('hero-video');
     if (!video) return;
 
-    var isMobile = window.innerWidth <= 768;
+    // The HD source is in the markup so the video plays even without JS.
+    // Mobile: swap to the lightweight SD file before the HD download gets far.
+    if (window.innerWidth <= 768) {
+      video.src = '/videos/hero-sd.mp4';
+      video.load();
+    }
 
-    // Mobile: lightweight SD source — smaller file loads fast on slow connections
-    // Desktop: full HD source
-    var src = isMobile
-      ? 'https://videos.pexels.com/video-files/5644364/5644364-sd_640_360_25fps.mp4'
-      : 'https://videos.pexels.com/video-files/5644364/5644364-hd_1920_1080_25fps.mp4';
+    // If the file can't be fetched or decoded, hide the element so the
+    // hero's CSS background image shows instead of a black box.
+    video.addEventListener('error', function () {
+      video.style.display = 'none';
+    }, true);
 
-    var source = document.createElement('source');
-    source.src = src;
-    source.type = 'video/mp4';
-    video.appendChild(source);
-    video.load();
-    video.play().catch(function () {
-      // Autoplay blocked — poster image already shows as fallback
-    });
+    var playing = video.play();
+    if (playing && playing.catch) {
+      playing.catch(function () {
+        // Autoplay blocked — poster image already shows as fallback
+      });
+    }
   })();
 </script>
 
