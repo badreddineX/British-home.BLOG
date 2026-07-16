@@ -32,7 +32,7 @@ export default async function handler(req, res) {
       },
       body: JSON.stringify({
         from: 'British Home Interior <onboarding@resend.dev>',
-        to: ['britishhomeinterior@proton.me'],
+        to: ['hello@britishhomeinterior.co.uk'],
         subject: '🏡 New Newsletter Subscriber — British Home Interior',
         html: `
           <div style="font-family: Georgia, serif; max-width: 520px; margin: 0 auto; padding: 2rem; background: #FAF7F4; border: 1px solid #E8E0D8;">
