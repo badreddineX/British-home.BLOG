@@ -37,6 +37,8 @@ function fmtDate(d: string) {
       type="website"
       canonicalPath="/"
     />
+    <link rel="preload" as="video" href="/videos/hero-sd.mp4" media="(max-width: 768px)" fetchpriority="high" />
+    <link rel="preload" as="video" href="/videos/hero-hd.mp4" media="(min-width: 769px)" fetchpriority="high" />
   </head>
   <body>
     <Header />
@@ -57,7 +59,7 @@ function fmtDate(d: string) {
             muted
             loop
             playsinline
-            preload="metadata"
+            preload="auto"
             poster={featured?.data.image ?? ''}
           >
             <source src="/videos/hero-sd.mp4" type="video/mp4" media="(max-width: 768px)" />
