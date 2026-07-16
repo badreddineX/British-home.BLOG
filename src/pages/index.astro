@@ -343,12 +343,12 @@ function fmtDate(d: string) {
     var video = document.getElementById('hero-video');
     if (!video) return;
 
-    // The HD source is in the markup so the video plays even without JS.
-    // Mobile: swap to the lightweight SD file before the HD download gets far.
-    if (window.innerWidth <= 768) {
-      video.src = '/videos/hero-sd.mp4';
-      video.load();
-    }
+    // Responsive source is handled declaratively via <source media> in the
+    // markup — do not touch video.src/load() here. Setting .src directly on
+    // the <video> element overrides all child <source> tags and forces a
+    // second load, which can race with the browser's own source selection
+    // and fire a spurious error event (caught below), permanently hiding
+    // the video on refresh.
 
     // If the file can't be fetched or decoded, hide the element so the
     // hero's CSS background image shows instead of a black box.
