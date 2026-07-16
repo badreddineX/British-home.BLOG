@@ -29,7 +29,7 @@ faqs:
 
 Most living room advice assumes you have a budget, a blank canvas, and a weekend free. Real British living rooms rarely have any of those things.
 
-According to the Money Saving Expert 2024 Consumer Spending Report, 58% of UK households say home improvement is something they'd like to prioritise but consistently defer due to cost. The result is rooms that feel stuck — not bad enough to properly address, not good enough to feel proud of.
+According to the [Money Saving Expert](https://www.moneysavingexpert.com) 2024 Consumer Spending Report, 58% of UK households say home improvement is something they'd like to prioritise but consistently defer due to cost. The result is rooms that feel stuck — not bad enough to properly address, not good enough to feel proud of.
 
 I've decorated on tight budgets multiple times — in rented flats, in first-time buyer homes with more mortgage than money left. Here's what I've learned: the highest-impact changes almost never cost the most money.
 

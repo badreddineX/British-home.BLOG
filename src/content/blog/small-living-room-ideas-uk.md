@@ -27,7 +27,7 @@ faqs:
 ---
 
 
-The average new-build living room in the UK measures around 17 square metres — and many older flats, particularly in London and other major cities, are significantly smaller than that. According to the Office for National Statistics (ONS) 2023 Housing Survey, UK homes are among the smallest in Western Europe, with the average floor area 30% below the European average.
+The average new-build living room in the UK measures around 17 square metres — and many older flats, particularly in London and other major cities, are significantly smaller than that. According to the [Office for National Statistics (ONS)](https://www.ons.gov.uk) 2023 Housing Survey, UK homes are among the smallest in Western Europe, with the average floor area 30% below the European average.
 
 We're working with less space than almost any other European country. And most advice about "making rooms feel bigger" was written for spaces that are already considerably larger than most British flats.
 

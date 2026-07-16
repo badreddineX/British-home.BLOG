@@ -62,7 +62,7 @@ Measure before you buy. Then measure again. Then measure the door frames, the st
 
 ## 2. How Do You Find the Focal Point in a Small Room?
 
-Every successful living room layout — regardless of size — organises itself around a single focal point. In British homes, that's almost always one of three things: the original fireplace, the television wall, or a large window. According to a 2024 survey by Houzz UK, 71% of UK homeowners cite the fireplace as their preferred living room focal point, even in rooms where the television is the more frequently used feature.
+Every successful living room layout — regardless of size — organises itself around a single focal point. In British homes, that's almost always one of three things: the original fireplace, the television wall, or a large window. According to a 2024 survey by [Houzz UK](https://www.houzz.co.uk), 71% of UK homeowners cite the fireplace as their preferred living room focal point, even in rooms where the television is the more frequently used feature.
 
 The focal point is the wall or feature that your sofa faces. It's the anchor from which everything else radiates. Without one, the room has no logic and no sense of arrival — even if every individual piece of furniture is well chosen.
 
@@ -211,7 +211,7 @@ One correctly sized rug (160x230cm minimum) — from ~£45 at Dunelm. The rug is
 
 Lighting layout matters almost as much as furniture layout in a small room. A single overhead light source — the default in most British homes — creates flat, even illumination that emphasises the room's dimensions rather than its depth. Multiple light sources at different heights create shadow, warmth, and the impression of a larger, more complex space.
 
-According to the Lighting Industry Association's 2023 UK Home Lighting Report, 74% of British homes rely predominantly on ceiling lights in the evening — which is exactly why so many British living rooms feel harsh and slightly clinical after dark.
+According to the [Lighting Industry Association](https://www.thelia.org.uk)'s 2023 UK Home Lighting Report, 74% of British homes rely predominantly on ceiling lights in the evening — which is exactly why so many British living rooms feel harsh and slightly clinical after dark.
 
 The ideal lighting layout for a small UK lounge:
 
@@ -255,7 +255,7 @@ The classic Victorian terrace layout that works:
 
 The bay window, if you have one, is a secondary feature rather than a focal point — use it for a reading chair or a plant, not as a competing arrangement.
 
-According to the NHBC Foundation's 2023 Housing Stock Analysis, Victorian terraces represent approximately 5.5 million of the UK's total housing stock. They are the single most common house type in Britain, which means the specific layout challenges they present are shared by an enormous number of British households.
+According to the [NHBC Foundation](https://www.nhbcfoundation.org)'s 2023 Housing Stock Analysis, Victorian terraces represent approximately 5.5 million of the UK's total housing stock. They are the single most common house type in Britain, which means the specific layout challenges they present are shared by an enormous number of British households.
 
 In a Victorian terrace, the chimney breast is always the focal point. Arrange everything to face it and the room's layout logic resolves itself.
 

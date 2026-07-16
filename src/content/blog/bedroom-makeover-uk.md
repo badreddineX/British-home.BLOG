@@ -29,7 +29,7 @@ faqs:
 
 Your bedroom is the most private room in your home. No guests come in. No one else judges it. And yet, if you're honest, it's probably the room you've done the least with.
 
-According to Houzz UK's 2024 Home Renovation Trends Report, the bedroom is the second most neglected room in British homes — 58% of UK homeowners haven't updated their bedroom in over three years, despite spending more time there than in any other room. The average UK adult logs roughly 7.5 hours a day in the bedroom, according to the Sleep Foundation's 2024 survey. That's more than the living room, kitchen, and home office combined.
+According to [Houzz UK](https://www.houzz.co.uk)'s 2024 Home Renovation Trends Report, the bedroom is the second most neglected room in British homes — 58% of UK homeowners haven't updated their bedroom in over three years, despite spending more time there than in any other room. The average UK adult logs roughly 7.5 hours a day in the bedroom, according to the [Sleep Foundation](https://www.sleepfoundation.org)'s 2024 survey. That's more than the living room, kitchen, and home office combined.
 
 A bedroom makeover doesn't mean a full renovation. It doesn't require a builder, a skip, or a four-figure budget. These 13 changes work incrementally — you can do one this weekend for £20 or work through all of them over a few months. Either way, the cumulative effect is a room that feels genuinely different.
 
@@ -42,7 +42,7 @@ A bedroom makeover doesn't mean a full renovation. It doesn't require a builder,
 > - Switching to 2700K bedside lamps (and turning the overhead off) takes 20 minutes and costs under £50
 > - Rearranging furniture so the bed faces the door makes the layout feel deliberate, not accidental
 > - A full-length mirror (from £30 at IKEA) adds light and depth to any sized bedroom
-> - According to the Sleep Council's 2024 Great British Bedtime Report, 47% of UK adults call their bedroom "functional rather than relaxing" — these changes fix that
+> - According to the [Sleep Council](https://sleepcouncil.org.uk)'s 2024 Great British Bedtime Report, 47% of UK adults call their bedroom "functional rather than relaxing" — these changes fix that
 
 Read more: [bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/)
 

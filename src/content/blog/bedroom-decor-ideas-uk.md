@@ -29,7 +29,7 @@ faqs:
 
 The bedroom is the one room in the house where you're the only audience. There's no guest to impress, no party to host. It exists entirely for you — and yet it's usually the last room we properly decorate.
 
-According to the Sleep Foundation's 2024 Global Sleep Survey, UK adults spend an average of 7.6 hours in their bedroom per day, making it the most-used room in the home by time. And yet Houzz UK data shows that only 41% of British homeowners have redecorated their bedroom in the past five years, compared with 63% who've updated their living room.
+According to the [Sleep Foundation](https://www.sleepfoundation.org)'s 2024 Global Sleep Survey, UK adults spend an average of 7.6 hours in their bedroom per day, making it the most-used room in the home by time. And yet [Houzz UK](https://www.houzz.co.uk) data shows that only 41% of British homeowners have redecorated their bedroom in the past five years, compared with 63% who've updated their living room.
 
 We neglect the room we're in the most. Here are 12 ideas to fix that.
 

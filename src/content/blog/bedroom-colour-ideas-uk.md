@@ -29,7 +29,7 @@ faqs:
 
 Bedroom colour advice from American interior blogs and Scandinavian design accounts is almost always wrong for British homes. Not because it's bad advice in principle — but because it was written for different light. The US gets stronger, warmer sunlight. Scandinavia compensates with high-contrast white on white. Neither approach travels well to a north-facing terrace bedroom in Leeds or a ground-floor flat in South London.
 
-According to the House of Commons Library 2024 Housing Report, over 60% of UK bedrooms face north or north-east — the directions that receive the least direct sunlight. Paint that looks fresh and creamy in a Californian sunroom reads flat and cold in a British bedroom. The entire colour decision changes when you account for actual light conditions.
+According to the [House of Commons Library](https://commonslibrary.parliament.uk) 2024 Housing Report, over 60% of UK bedrooms face north or north-east — the directions that receive the least direct sunlight. Paint that looks fresh and creamy in a Californian sunroom reads flat and cold in a British bedroom. The entire colour decision changes when you account for actual light conditions.
 
 I've painted my bedroom twice in the past four years. The first time, following American advice, I picked a cool grey-white. It looked beautiful on Instagram. In real life, my bedroom felt like a waiting room. This guide reflects what I've actually learned.
 
@@ -76,7 +76,7 @@ Dulux Timeless 2.5L — ~£22 from B&Q. The safest light-bedroom choice in the D
 
 ## 3. Sage Green: The Most-Searched Bedroom Colour in the UK Right Now
 
-Sage green became the dominant bedroom colour trend in the UK around 2022, and it hasn't faded. Google Trends UK data shows "sage green bedroom" searches remain consistently high in 2026 — above navy, blush, and even neutral search volumes in the bedroom category.
+Sage green became the dominant bedroom colour trend in the UK around 2022, and it hasn't faded. [Google Trends](https://trends.google.com) UK data shows "sage green bedroom" searches remain consistently high in 2026 — above navy, blush, and even neutral search volumes in the bedroom category.
 
 The reason it works so well in British bedrooms is botanical. Sage and muted greens reference the British countryside, hedge-rows, and garden walls in a way that feels rooted rather than fashionable. They also sit naturally alongside the warm lamplight that most UK bedrooms run on in evenings.
 

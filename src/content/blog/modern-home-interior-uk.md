@@ -31,7 +31,7 @@ For a long time, "modern" in British home interiors meant Scandinavian. Clean li
 
 And genuinely quite cold.
 
-According to Houzz UK's 2025 State of the Home report, 58% of British homeowners now describe their ideal aesthetic as "warm contemporary" — a category that didn't meaningfully exist five years ago. The shift is real and it's visible: the coolly minimal British interior is giving way to something warmer, more personal, more rooted in actual British character.
+According to [Houzz UK](https://www.houzz.co.uk)'s 2025 State of the Home report, 58% of British homeowners now describe their ideal aesthetic as "warm contemporary" — a category that didn't meaningfully exist five years ago. The shift is real and it's visible: the coolly minimal British interior is giving way to something warmer, more personal, more rooted in actual British character.
 
 I've been watching this shift happen in real time — in the homes I've visited, the interiors I've researched, and my own flat. This is what modern actually looks like in the UK right now.
 

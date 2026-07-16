@@ -29,7 +29,7 @@ faqs:
 
 Cottagecore might have arrived as a social media aesthetic, but in Britain it has roots far older than TikTok. The combination of natural textiles, botanical motifs, earthenware ceramics, and wildflower references is essentially a description of traditional British domestic design — the Arts and Crafts movement, William Morris, the National Trust gift shop, the warm kitchen of a farmhouse that has existed for three centuries.
 
-According to Google Trends UK data, searches for "cottagecore home decor" increased by 340% between 2020 and 2024. But the most interesting thing about British cottagecore is that we already had most of the ingredients — we just hadn't given them a name.
+According to [Google Trends](https://trends.google.com) UK data, searches for "cottagecore home decor" increased by 340% between 2020 and 2024. But the most interesting thing about British cottagecore is that we already had most of the ingredients — we just hadn't given them a name.
 
 I've been pulling this aesthetic together in my own home for two years, sourcing from charity shops, car boots, and a handful of independent UK makers. Here's what I've learned about doing it authentically.
 

@@ -27,7 +27,7 @@ faqs:
 ---
 
 
-According to the English Housing Survey 2023–24 by the Office for National Statistics (ONS), 4.6 million households in England currently rent privately — representing 19% of all households. Many of them are living in homes that feel temporary, beige, and distinctly not theirs.
+According to the [English Housing Survey 2023–24](https://www.gov.uk/government/collections/english-housing-survey) by the Office for National Statistics (ONS), 4.6 million households in England currently rent privately — representing 19% of all households. Many of them are living in homes that feel temporary, beige, and distinctly not theirs.
 
 The British rented sector has a particular set of problems: magnolia walls, bare light bulb sockets, carpets that are technically clean but distinctly uninspiring, and the constant anxiety that doing anything to make the space feel like home might cost you your deposit.
 

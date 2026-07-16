@@ -29,7 +29,7 @@ faqs:
 
 Most living room colour advice on the internet was written for American homes with south-facing floor-to-ceiling windows, or Scandinavian interiors where brilliant white walls work precisely because the architecture and furniture are designed around them. Neither translates to a standard British terrace or semi-detached with a 1970s bay window, a north-facing aspect, and carpet that's technically beige.
 
-According to the 2024 Dulux Colour of the Year research, 71% of UK homeowners say they find it difficult to choose a living room colour because the colours they love in shops or online look completely different at home. That's not indecision. That's the British light problem.
+According to the 2024 [Dulux](https://www.dulux.co.uk) Colour of the Year research, 71% of UK homeowners say they find it difficult to choose a living room colour because the colours they love in shops or online look completely different at home. That's not indecision. That's the British light problem.
 
 I've painted my living room five times in seven years. Not out of boredom — out of getting it wrong and starting again. The colours that finally worked were nothing like the ones I'd planned. This guide is built on those mistakes.
 
@@ -84,7 +84,7 @@ Navy blue works better in British living rooms than most people expect. The comm
 
 **The palette:** Little Greene Hague Blue or Dulux Maritime Blue on walls or a feature wall. Terracotta, rust, and burnt orange textiles. Natural linen as a neutral bridge.
 
-According to the 2023 House & Garden Reader Survey, navy and blue-green tones have increased in living room use by 34% among UK homeowners in the past two years. The key shift is that people are pairing them with warm accent colours rather than cool ones.
+According to the 2023 [House & Garden](https://www.houseandgarden.co.uk) Reader Survey, navy and blue-green tones have increased in living room use by 34% among UK homeowners in the past two years. The key shift is that people are pairing them with warm accent colours rather than cool ones.
 
 **Textile and furniture pairings:** A natural linen sofa in oat or stone, burnt orange or rust velvet cushions (Next Home has excellent options from £12), and a warm-toned wooden coffee table in walnut or medium oak.
 
@@ -116,7 +116,7 @@ All-white living rooms are difficult in the UK. Cool whites look clinical under 
 
 **The palette:** Farrow & Ball Wimborne White or Strong White, Dulux Natural Hessian, or Little Greene Linen White on walls and trim. Natural wood furniture in oak, pine, or ash.
 
-According to the 2024 Houzz UK Home Renovation Report, 63% of UK homeowners updated their living room in the previous three years, with warm neutrals and whites as the most common colour choice. The distinction between warm and cool white is the most important decision in this category.
+According to the 2024 [Houzz UK](https://www.houzz.co.uk) Home Renovation Report, 63% of UK homeowners updated their living room in the previous three years, with warm neutrals and whites as the most common colour choice. The distinction between warm and cool white is the most important decision in this category.
 
 **Textile and furniture pairings:** Success here depends on texture. Without it, warm white rooms look underdressed. Chunky knit throws, a natural wool rug, linen curtains, and a woven basket or two prevent the scheme from looking sterile.
 

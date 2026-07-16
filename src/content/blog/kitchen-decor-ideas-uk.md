@@ -31,7 +31,7 @@ Kitchen styling advice online has a problem. Every mood board, every Pinterest g
 
 Real British kitchens are working rooms. And styling them has to start from that reality.
 
-According to a 2024 survey by Houzz UK, 67% of British homeowners describe their kitchen as the room they're least satisfied with aesthetically — not because it doesn't function, but because they've never quite figured out how to make it feel styled rather than just furnished. That gap between "it works" and "I love it" is exactly what this list addresses.
+According to a 2024 survey by [Houzz UK](https://www.houzz.co.uk), 67% of British homeowners describe their kitchen as the room they're least satisfied with aesthetically — not because it doesn't function, but because they've never quite figured out how to make it feel styled rather than just furnished. That gap between "it works" and "I love it" is exactly what this list addresses.
 
 I've styled three different kitchens in British homes — one rented Victorian terrace, one first-buyer new build, and the one I'm in now. Here's what actually moves the needle.
 
@@ -43,7 +43,7 @@ Read more: [home interior ideas overview](/blog/home-interior-ideas-uk/)
 
 ## 1. Add Under-Cabinet LED Strip Lighting
 
-Under-cabinet lighting is the single highest-impact kitchen upgrade that doesn't require a builder. According to Which? UK's 2023 Home Improvement Report, kitchen lighting is cited by 43% of homeowners as the change that made the biggest difference to their kitchen's atmosphere — more than any new appliance or cabinet colour. A strip of warm-white LEDs underneath your wall cabinets floods the worktop with functional task light and adds the layered, considered feel that overhead lighting alone can't achieve.
+Under-cabinet lighting is the single highest-impact kitchen upgrade that doesn't require a builder. According to [Which? UK](https://www.which.co.uk)'s 2023 Home Improvement Report, kitchen lighting is cited by 43% of homeowners as the change that made the biggest difference to their kitchen's atmosphere — more than any new appliance or cabinet colour. A strip of warm-white LEDs underneath your wall cabinets floods the worktop with functional task light and adds the layered, considered feel that overhead lighting alone can't achieve.
 
 The key is colour temperature. Choose 2700K warm white, not 4000K or "daylight." Daylight LEDs make a kitchen look like a supermarket; warm white makes it look like a home. B&Q's Diall LED strip light starts at ~£18 for a 1-metre self-adhesive strip with a plug-in connector — no electrician required.
 
@@ -132,7 +132,7 @@ Ceramic cup handles — from ~£2.50 each at Dunelm.
 
 ## 7. Style Open Shelves With the Rule of Thirds
 
-Open shelving is one of the most debated elements in British kitchen design. Done well, it's warm and personal. Done badly, it looks cluttered and dusty. The difference is almost entirely in the editing. According to the 2024 Houzz UK Kitchen Trends Report, open shelving features in 41% of kitchen renovations, but is removed within two years in 28% of those cases — usually because owners can't maintain the styled look.
+Open shelving is one of the most debated elements in British kitchen design. Done well, it's warm and personal. Done badly, it looks cluttered and dusty. The difference is almost entirely in the editing. According to the 2024 [Houzz UK Kitchen Trends Report](https://www.houzz.co.uk), open shelving features in 41% of kitchen renovations, but is removed within two years in 28% of those cases — usually because owners can't maintain the styled look.
 
 The rule of thirds makes this manageable: divide each shelf into three visual zones. One zone for purely functional items (stacked white plates, folded tea towels). One for something with height (a ceramic jug, a tall bottle). One left partially empty. This structure gives the eye somewhere to rest and makes the shelf look curated rather than crammed. Use a consistent colour palette — usually white or cream ceramics with one accent colour — and resist the urge to fill every centimetre.
 

@@ -29,7 +29,7 @@ faqs:
 
 Most British living rooms start from the same place: a sofa the previous tenants left behind, a carpet that's fine but not exciting, and a single central light that makes everything look slightly clinical at 7pm.
 
-According to Houzz UK's 2024 Home Renovation Report, the living room is the most renovated space in British homes, with 63% of UK homeowners updating it in the past three years. And yet the most common complaint remains the same: it doesn't feel quite right.
+According to [Houzz UK](https://www.houzz.co.uk)'s 2024 Home Renovation Report, the living room is the most renovated space in British homes, with 63% of UK homeowners updating it in the past three years. And yet the most common complaint remains the same: it doesn't feel quite right.
 
 I've been there. My own living room went through four different versions before I stopped fiddling with it — and what actually worked was never what I expected.
 
@@ -67,7 +67,7 @@ Right-size rug — ~£45–£120 from Dunelm.
 
 This sounds too simple, but switching off the main ceiling light in the evening is the single fastest cosiness upgrade. I did it three years ago and haven't gone back. The room went from feeling like a waiting area to feeling like a place I actually wanted to be.
 
-Replace your single overhead light with three or four lamp sources at different heights. A floor lamp in the corner, a table lamp by the sofa, a small lamp on a shelf. All bulbs at 2700K warm white — not 4000K, not "cool white." According to the Lighting Industry Association, 78% of UK homes still use predominantly overhead lighting in the evening, which is why so many British living rooms feel harsh rather than welcoming.
+Replace your single overhead light with three or four lamp sources at different heights. A floor lamp in the corner, a table lamp by the sofa, a small lamp on a shelf. All bulbs at 2700K warm white — not 4000K, not "cool white." According to the [Lighting Industry Association](https://www.thelia.org.uk), 78% of UK homes still use predominantly overhead lighting in the evening, which is why so many British living rooms feel harsh rather than welcoming.
 
 Three-lamp setup — ~£35 floor lamp + ~£25 table lamp, both from Next Home.
 

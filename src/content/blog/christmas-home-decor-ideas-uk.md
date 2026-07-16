@@ -31,7 +31,7 @@ British Christmas decorating has a specific quality when it's done well. It's ge
 
 And then there's the other kind — the kind that involves inflatable garden reindeer, mixed metallic finishes, and 47 different colour tones fighting each other across a single living room. We've all seen it. Some of us have done it.
 
-According to a Mintel Christmas trends report, British consumers spend an average of £340 on Christmas home decorations annually — but spending more is no guarantee of a better result. The homes that feel most genuinely Christmassy are usually the most edited ones.
+According to a [Mintel](https://www.mintel.com) Christmas trends report, British consumers spend an average of £340 on Christmas home decorations annually — but spending more is no guarantee of a better result. The homes that feel most genuinely Christmassy are usually the most edited ones.
 
 I've put together a guide to doing Christmas properly in a British home — with real product picks at every budget and the principles that separate a genuinely beautiful Christmas room from one that just looks busy.
 

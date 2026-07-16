@@ -31,7 +31,7 @@ There's a specific moment in early September in the UK when the light changes. I
 
 That's when I start thinking about changing my home for autumn.
 
-The British autumn is arguably our best season for being indoors. The evenings draw in, which is our cue to start layering up inside — both literally and decoratively. According to the ONS's 2024 Household Satisfaction Survey, British adults spend an average of 23 more minutes per evening at home during October and November compared to June and July. We're hibernating. Our homes should reflect that.
+The British autumn is arguably our best season for being indoors. The evenings draw in, which is our cue to start layering up inside — both literally and decoratively. According to the [ONS](https://www.ons.gov.uk)'s 2024 Household Satisfaction Survey, British adults spend an average of 23 more minutes per evening at home during October and November compared to June and July. We're hibernating. Our homes should reflect that.
 
 I've developed a fairly reliable seasonal transition system — mostly cheap, partly foraged, thoroughly British — that takes my home from summer lightness to autumn warmth without a full redecoration.
 

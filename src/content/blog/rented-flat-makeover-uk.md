@@ -27,7 +27,7 @@ faqs:
 ---
 
 
-The UK private rented sector has grown sharply over the past two decades. According to the English Housing Survey 2023-24 published by the Department for Levelling Up, Housing and Communities, 4.6 million households in England now rent privately — around 19% of all households. That's a lot of people living in someone else's magnolia box.
+The UK private rented sector has grown sharply over the past two decades. According to the [English Housing Survey 2023-24](https://www.gov.uk/government/collections/english-housing-survey) published by the Department for Levelling Up, Housing and Communities, 4.6 million households in England now rent privately — around 19% of all households. That's a lot of people living in someone else's magnolia box.
 
 Here's the uncomfortable truth about British renting: the higher rents go, the more it matters to make a flat feel like home. Spending £1,400 a month on a place that feels temporary and impersonal isn't just aesthetically depressing. It actively affects mood, motivation, and wellbeing. When you can't afford to buy, making a rented space genuinely feel like yours becomes more important, not less.
 

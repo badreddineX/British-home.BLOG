@@ -27,7 +27,7 @@ faqs:
 ---
 
 
-"My house doesn't look the way I want it to — but I can't afford to do anything about it." This is the most common home decorating complaint in Britain. According to Money Saving Expert's 2024 consumer survey, 64% of UK adults would like to improve their home but consistently defer spending due to financial uncertainty.
+"My house doesn't look the way I want it to — but I can't afford to do anything about it." This is the most common home decorating complaint in Britain. According to [Money Saving Expert](https://www.moneysavingexpert.com)'s 2024 consumer survey, 64% of UK adults would like to improve their home but consistently defer spending due to financial uncertainty.
 
 The honest answer to this is that most people's homes don't look wrong because of insufficient spending. They look wrong because of insufficient understanding of which changes deliver the highest visual impact for the least cost — and which expensive changes deliver surprisingly little.
 

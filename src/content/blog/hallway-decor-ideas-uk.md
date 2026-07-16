@@ -29,7 +29,7 @@ faqs:
 
 The British hallway is a specific problem. It's usually a narrow corridor barely wide enough for two people to pass, no natural light, one bare bulb overhead, and years of accumulated coats, shoes, and unopened post stacked against the wall.
 
-According to a 2023 survey by the Royal Institute of British Architects, nearly 60% of UK homes built before 1919 have entrance hallways under 1.2 metres wide. That's a very particular design challenge — and most American or Scandinavian hallway inspiration on Pinterest simply doesn't translate.
+According to a 2023 survey by the [Royal Institute of British Architects](https://www.architecture.com), nearly 60% of UK homes built before 1919 have entrance hallways under 1.2 metres wide. That's a very particular design challenge — and most American or Scandinavian hallway inspiration on Pinterest simply doesn't translate.
 
 I've styled three different British hallways across rented flats and a terraced house. The same principles worked every time: commit to the constraints rather than fight them, use vertical space deliberately, and sort the light first.
 
@@ -49,7 +49,7 @@ Read more: [how to style your living room UK](/blog/living-room-ideas-uk/)
 
 ## What Colour Should You Paint a Dark Hallway?
 
-Paint is the most impactful change you can make in a dark corridor. According to Dulux's 2024 Colour of the Year research, hallways rank as the room UK homeowners most frequently repaint — and the most common mistake is choosing a colour that reads cold and flat under artificial light. Warm undertones outperform cool ones every time.
+Paint is the most impactful change you can make in a dark corridor. According to [Dulux](https://www.dulux.co.uk)'s 2024 Colour of the Year research, hallways rank as the room UK homeowners most frequently repaint — and the most common mistake is choosing a colour that reads cold and flat under artificial light. Warm undertones outperform cool ones every time.
 
 Two strategies work well in British hallways, and they sit at opposite ends of the spectrum.
 
@@ -88,7 +88,7 @@ Console table: ~£65–£89 from Argos or Wayfair UK. Floating shelf alternative
 
 ## How Do You Actually Solve the Coat and Shoe Problem?
 
-Coat storage is the practical heart of a British hallway, and it's where most hallways fail. The average UK household has 4.2 coats per person in active rotation, according to a 2022 Mintel survey — and they all end up on the same two hooks, or piled on the banister. The solution is having enough hooks in the right place.
+Coat storage is the practical heart of a British hallway, and it's where most hallways fail. The average UK household has 4.2 coats per person in active rotation, according to a 2022 [Mintel](https://www.mintel.com) survey — and they all end up on the same two hooks, or piled on the banister. The solution is having enough hooks in the right place.
 
 A **peg rail at a consistent height** looks more deliberate than scattered individual hooks. The classic Shaker-style peg rail — a long strip of wood with evenly spaced pegs — suits both Victorian and contemporary British interiors. IKEA's Hemnes version costs around £25. Dunelm stocks a similar painted wood version for ~£18. Fix it at 160–170cm from the floor so coats clear the skirting cleanly.
 
@@ -163,7 +163,7 @@ Encaustic-style tiles: from ~£20 per m2 at B&Q. Coir runner: from ~£22 at Dune
 
 ## How Do You Fix a Dark Hallway With Lighting?
 
-The single overhead bulb is the hallway's biggest enemy. It creates one pool of harsh downlight that casts unflattering shadows and does nothing for the rest of the corridor. According to the Lighting Industry Association's 2023 UK report, 71% of British hallways rely entirely on a single ceiling fixture — and it shows.
+The single overhead bulb is the hallway's biggest enemy. It creates one pool of harsh downlight that casts unflattering shadows and does nothing for the rest of the corridor. According to the [Lighting Industry Association](https://www.thelia.org.uk)'s 2023 UK report, 71% of British hallways rely entirely on a single ceiling fixture — and it shows.
 
 **Replace or supplement the overhead with a statement pendant.** A pendant hung at roughly 200cm from floor to bottom of shade immediately elevates the space. John Lewis stocks hallway-appropriate pendants from ~£35. A rattan or ceramic shade suits both Victorian and contemporary British interiors. Renters who can't replace the ceiling rose can use a plug-in pendant (from ~£28 at IKEA UK) hung from a Command ceiling hook.
 

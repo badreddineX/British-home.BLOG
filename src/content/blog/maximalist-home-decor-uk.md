@@ -119,7 +119,7 @@ In a maximalist room: there is no too many. Plants are the element that brings a
 
 The key is varying the type. A tall fiddle-leaf fig in the corner, a trailing pothos on a high shelf, a cluster of smaller succulents on a windowsill, and a fern on a plant stand by the fireplace — this creates a layered botanical landscape rather than a collection of pots.
 
-According to a 2023 survey by the RHS, 74% of UK adults agree that plants make a home feel more welcoming. I'd go further: in a maximalist interior, they're load-bearing.
+According to a 2023 survey by the [RHS](https://www.rhs.org.uk), 74% of UK adults agree that plants make a home feel more welcoming. I'd go further: in a maximalist interior, they're load-bearing.
 
 Local garden centres and IKEA (where most common houseplants start at around £3–£5) are the best sources. Resist buying huge plants at garden centre prices when small ones grow quickly with basic care.
 

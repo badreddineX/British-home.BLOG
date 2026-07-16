@@ -29,7 +29,7 @@ faqs:
 
 The pendulum has swung. After a decade of grey walls, white kitchens, and the tyranny of "less is more," the UK interior landscape is moving toward confidence, colour, and the deliberate embrace of abundance.
 
-According to Houzz UK's 2024 Home Design Report, searches for "maximalist interior" increased by 218% year-on-year among UK homeowners, with living rooms the most popular space for the shift. And yet maximalism remains one of the most frequently misexecuted styles in British homes — because there's a specific, learnable difference between curated abundance and well-intentioned chaos.
+According to [Houzz UK](https://www.houzz.co.uk)'s 2024 Home Design Report, searches for "maximalist interior" increased by 218% year-on-year among UK homeowners, with living rooms the most popular space for the shift. And yet maximalism remains one of the most frequently misexecuted styles in British homes — because there's a specific, learnable difference between curated abundance and well-intentioned chaos.
 
 I've been a committed maximalist for three years. I've made many of the mistakes so you don't have to.
 

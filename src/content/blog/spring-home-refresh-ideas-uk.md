@@ -31,7 +31,7 @@ There's a particular gloom that settles into a British home by late February. It
 
 The spring refresh exists to address this. It's not a renovation — it's a resetting.
 
-According to the Royal Horticultural Society, British gardening activity increases by 340% from February to March as the days lengthen, reflecting a deep seasonal instinct to engage with the world differently. The same instinct applies indoors. We want to open windows, move things around, let light in, and make space.
+According to the [Royal Horticultural Society](https://www.rhs.org.uk), British gardening activity increases by 340% from February to March as the days lengthen, reflecting a deep seasonal instinct to engage with the world differently. The same instinct applies indoors. We want to open windows, move things around, let light in, and make space.
 
 I do a proper spring refresh every March. Here's the system I've developed — cheap, achievable in stages, and genuinely effective.
 

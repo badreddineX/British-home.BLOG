@@ -126,7 +126,7 @@ When you do find inspiration from non-British sources, the adaptation is almost 
 
 **Architecture:** British homes have features that American interiors rarely deal with — fireplaces, coving, picture rails, sash windows, bay windows, radiators. Good British interior inspiration works with these features. International inspiration often ignores or removes them.
 
-Which? Magazine's 2024 home improvement survey found that 68% of UK homeowners feel their home's period features are its most important asset — a figure that underlines how deeply the existing architecture matters to people living in British homes.
+[Which? Magazine](https://www.which.co.uk)'s 2024 home improvement survey found that 68% of UK homeowners feel their home's period features are its most important asset — a figure that underlines how deeply the existing architecture matters to people living in British homes.
 
 ---
 

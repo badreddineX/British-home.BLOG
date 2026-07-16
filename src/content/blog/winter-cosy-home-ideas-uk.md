@@ -33,7 +33,7 @@ This is the context your home needs to work within for approximately five months
 
 The homes that feel best to be in during a British winter are the ones that have accepted this reality and made positive choices in response. Heavy curtains. Warm, layered lighting. Textiles that actually provide warmth. One designed cosy spot. The smell of something warm in the background.
 
-According to the Energy Saving Trust, UK households spend an average of £1,400 per year on heating — yet a significant proportion of that heat escapes through draughts and inadequate window treatments. The physical and decorative choices you make about your home in autumn have real consequences through winter, both for comfort and for cost.
+According to the [Energy Saving Trust](https://energysavingtrust.org.uk), UK households spend an average of £1,400 per year on heating — yet a significant proportion of that heat escapes through draughts and inadequate window treatments. The physical and decorative choices you make about your home in autumn have real consequences through winter, both for comfort and for cost.
 
 **TL;DR:** Winter cosiness in the UK has two dimensions: physical warmth (draught-proofing, curtains, textiles that insulate) and psychological warmth (lighting, scent, one designed hibernation corner). Both matter. This guide covers both.
 
