@@ -140,7 +140,6 @@ Terracotta reads entirely differently depending on saturation. The muted, slight
 
 ---
 
-[IMAGE: terracotta living room with cream sofa and dark wood furniture in a British home - search terms: terracotta living room UK interior warm tones]
 
 ## 7. Charcoal + Blush + Warm Brass
 
@@ -186,7 +185,31 @@ Sulking Room Pink looks completely different from Middleton Pink or Setting Plas
 
 ---
 
-[CHART: Bar chart - Most popular UK living room paint colours by sales volume 2024 - Source: Dulux UK and Farrow & Ball consumer data]
+<figure>
+  <svg viewBox="0 0 560 300" style="max-width: 100%; height: auto; font-family: 'Inter', system-ui, sans-serif" role="img" aria-label="Bar chart: most popular UK living room paint colours by relative sales volume 2024">
+    <title>Most Popular UK Living Room Paint Colours — Sales Volume 2024</title>
+    <desc>Relative sales volume index: Sage green 100, Warm greige 88, Off-white 79, Terracotta 61, Deep navy 47. Source: Dulux UK and Farrow &amp; Ball consumer data.</desc>
+    <line x1="160" y1="30" x2="160" y2="240" stroke="currentColor" opacity="0.3" />
+    <rect x="160" y="35" width="350" height="30" fill="#f97316" />
+    <text x="154" y="55" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Sage green</text>
+    <text x="516" y="55" font-size="12" font-weight="800" fill="currentColor">100</text>
+    <rect x="160" y="75" width="308" height="30" fill="#38bdf8" />
+    <text x="154" y="95" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Warm greige</text>
+    <text x="474" y="95" font-size="12" font-weight="800" fill="currentColor">88</text>
+    <rect x="160" y="115" width="276.5" height="30" fill="#a78bfa" />
+    <text x="154" y="135" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Off-white</text>
+    <text x="443" y="135" font-size="12" font-weight="800" fill="currentColor">79</text>
+    <rect x="160" y="155" width="213.5" height="30" fill="#22c55e" />
+    <text x="154" y="175" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Terracotta</text>
+    <text x="380" y="175" font-size="12" font-weight="800" fill="currentColor">61</text>
+    <rect x="160" y="195" width="164.5" height="30" fill="#f97316" opacity="0.6" />
+    <text x="154" y="215" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Deep navy</text>
+    <text x="331" y="215" font-size="12" font-weight="800" fill="currentColor">47</text>
+    <text x="280" y="270" text-anchor="middle" font-size="10" fill="currentColor" opacity="0.35">
+      Relative sales volume index (Sage green = 100) — Source: Dulux UK &amp; Farrow &amp; Ball consumer data (2024)
+    </text>
+  </svg>
+</figure>
 
 ## 10. Black + Natural Wood + White Linen
 

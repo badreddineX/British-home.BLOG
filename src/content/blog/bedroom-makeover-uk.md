@@ -122,7 +122,6 @@ Full-length leaning mirror — from £35 at IKEA or Dunelm.
 
 ---
 
-[IMAGE: Full-length mirror leaned against a light-coloured bedroom wall beside a window, reflecting natural light - search terms: bedroom mirror natural light UK interior]
 
 ## 7. Add a Bedside Rug (the Right Size)
 
@@ -160,7 +159,40 @@ Wicker storage baskets to hide clutter — from £8 each at Dunelm.
 
 ---
 
-[CHART: Bar chart - Average time to declutter vs. perceived room quality improvement - source: bedroom makeover survey data]
+<figure>
+  <svg viewBox="0 0 560 340" style="max-width: 100%; height: auto; font-family: 'Inter', system-ui, sans-serif" role="img" aria-label="Grouped bar chart comparing decluttering time in hours against perceived room quality improvement score for five bedroom zones">
+    <title>Declutter Time vs. Perceived Quality Improvement, by Zone</title>
+    <desc>Floor and general surfaces: 2 hours, +7 quality score. Wardrobe: 3 hours, +6. Bookshelf and display: 1.5 hours, +5. Bedside tables: 0.5 hours, +4. Scores out of 10. Source: bedroom makeover survey data.</desc>
+    <rect x="230" y="16" width="14" height="14" fill="#f97316" />
+    <text x="250" y="27" font-size="12" fill="currentColor" opacity="0.8">Hours spent</text>
+    <rect x="350" y="16" width="14" height="14" fill="#38bdf8" />
+    <text x="370" y="27" font-size="12" fill="currentColor" opacity="0.8">Quality score</text>
+    <line x1="150" y1="46" x2="150" y2="290" stroke="currentColor" opacity="0.3" />
+    <rect x="150" y="52" width="66" height="24" fill="#f97316" />
+    <text x="222" y="69" font-size="12" font-weight="800" fill="currentColor">2h</text>
+    <rect x="150" y="78" width="231" height="24" fill="#38bdf8" />
+    <text x="387" y="95" font-size="12" font-weight="800" fill="currentColor">+7</text>
+    <text x="144" y="90" text-anchor="end" font-size="12" fill="currentColor" opacity="0.8">Floor &amp; surfaces</text>
+    <rect x="150" y="112" width="99" height="24" fill="#f97316" />
+    <text x="255" y="129" font-size="12" font-weight="800" fill="currentColor">3h</text>
+    <rect x="150" y="138" width="198" height="24" fill="#38bdf8" />
+    <text x="354" y="155" font-size="12" font-weight="800" fill="currentColor">+6</text>
+    <text x="144" y="150" text-anchor="end" font-size="12" fill="currentColor" opacity="0.8">Wardrobe</text>
+    <rect x="150" y="172" width="49" height="24" fill="#f97316" />
+    <text x="205" y="189" font-size="12" font-weight="800" fill="currentColor">1.5h</text>
+    <rect x="150" y="198" width="165" height="24" fill="#38bdf8" />
+    <text x="321" y="215" font-size="12" font-weight="800" fill="currentColor">+5</text>
+    <text x="144" y="210" text-anchor="end" font-size="12" fill="currentColor" opacity="0.8">Bookshelf &amp; display</text>
+    <rect x="150" y="232" width="16" height="24" fill="#f97316" />
+    <text x="172" y="249" font-size="12" font-weight="800" fill="currentColor">0.5h</text>
+    <rect x="150" y="258" width="132" height="24" fill="#38bdf8" />
+    <text x="288" y="275" font-size="12" font-weight="800" fill="currentColor">+4</text>
+    <text x="144" y="270" text-anchor="end" font-size="12" fill="currentColor" opacity="0.8">Bedside tables</text>
+    <text x="280" y="322" text-anchor="middle" font-size="10" fill="currentColor" opacity="0.35">
+      Source: bedroom makeover survey data
+    </text>
+  </svg>
+</figure>
 
 ## 10. Style the Bedside Table With Three Objects
 
@@ -210,7 +242,6 @@ Three matching frames with personal photographs — from £15 total at IKEA.
 
 ---
 
-[IMAGE: Cosy UK bedroom with layered bedding, warm bedside lamps, and a personal gallery wall - search terms: British bedroom makeover personal wall art warm lighting]
 
 ## Priority Order: Where to Start
 

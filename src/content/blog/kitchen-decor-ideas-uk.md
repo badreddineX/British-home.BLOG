@@ -85,8 +85,6 @@ Set of 4 glass storage jars — from ~£8 at Dunelm.
 
 ---
 
-[IMAGE: Close-up of glass storage jars with dry goods on a wooden kitchen shelf — search terms: "kitchen storage jars glass shelf UK"]
-
 ## 5. Use a Wooden Chopping Board as a Worktop Display
 
 A large wooden chopping board leaned against the splashback or laid flat on the worktop as a "station" anchors the kitchen's cooking area and makes it look immediately more styled. The board grounds any objects placed alongside it — a bottle of olive oil, a small jar of salt, a lemon — into a deliberate composition rather than scattered items.
@@ -109,7 +107,28 @@ Ceramic cup handles — from ~£2.50 each at Dunelm.
 
 ---
 
-[CHART: Bar chart — "Most popular UK kitchen hardware finishes 2024" — Brushed brass 34%, Matte black 28%, Chrome 22%, Ceramic white 16% — Source: Houzz UK Kitchen Trends Report 2024]
+<figure>
+  <svg viewBox="0 0 560 300" style="max-width: 100%; height: auto; font-family: 'Inter', system-ui, sans-serif" role="img" aria-label="Bar chart: most popular UK kitchen hardware finishes 2024 — brushed brass 34%, matte black 28%, chrome 22%, ceramic white 16%">
+    <title>Most Popular UK Kitchen Hardware Finishes 2024</title>
+    <desc>Brushed brass 34%, matte black 28%, chrome 22%, ceramic white 16%. Source: Houzz UK Kitchen Trends Report 2024.</desc>
+    <line x1="170" y1="40" x2="170" y2="230" stroke="currentColor" opacity="0.3" />
+    <rect x="170" y="45" width="149.6" height="38" fill="#f97316" />
+    <text x="164" y="69" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Brushed brass</text>
+    <text x="326" y="69" font-size="13" font-weight="800" fill="currentColor">34%</text>
+    <rect x="170" y="93" width="123.2" height="38" fill="#38bdf8" />
+    <text x="164" y="117" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Matte black</text>
+    <text x="299" y="117" font-size="13" font-weight="800" fill="currentColor">28%</text>
+    <rect x="170" y="141" width="96.8" height="38" fill="#a78bfa" />
+    <text x="164" y="165" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Chrome</text>
+    <text x="273" y="165" font-size="13" font-weight="800" fill="currentColor">22%</text>
+    <rect x="170" y="189" width="70.4" height="38" fill="#22c55e" />
+    <text x="164" y="213" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Ceramic white</text>
+    <text x="247" y="213" font-size="13" font-weight="800" fill="currentColor">16%</text>
+    <text x="280" y="264" text-anchor="middle" font-size="10" fill="currentColor" opacity="0.35">
+      Source: Houzz UK Kitchen Trends Report (2024)
+    </text>
+  </svg>
+</figure>
 
 ## 7. Style Open Shelves With the Rule of Thirds
 
@@ -140,8 +159,6 @@ IKEA's Kungsfors magnetic knife rack costs £6 and comes in stainless steel that
 IKEA Kungsfors magnetic knife rack — £6 from IKEA.
 
 ---
-
-[IMAGE: Wall-mounted magnetic knife strip in a British kitchen — search terms: "magnetic knife strip kitchen wall white tiles UK"]
 
 ## 10. Use a Ceramic Utensil Crock on the Worktop
 
@@ -174,8 +191,6 @@ Replacing even two of the three main appliances in a matching colourway makes a 
 Matching kettle and toaster set — from ~£45 combined at Dunelm or Russell Hobbs.
 
 ---
-
-[IMAGE: Matching cream kettle and toaster on a styled British kitchen worktop — search terms: "cream kettle toaster set British kitchen worktop styling"]
 
 ## Priority Order — Where to Start
 

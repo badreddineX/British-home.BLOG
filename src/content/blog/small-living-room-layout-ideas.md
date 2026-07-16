@@ -46,8 +46,6 @@ Read more: [small living room decorating ideas](/blog/small-living-room-ideas-uk
 > - A 160x230cm rug is the minimum size to unify a seating area in a small British lounge
 > - Fewer, larger pieces of furniture read better than many small ones in a tight space
 
-[IMAGE: A small British living room with a two-seater sofa floated slightly from the wall, a fireplace as focal point, and a large rug anchoring the seating area - search terms: "small living room layout sofa fireplace UK"]
-
 ---
 
 ## 1. Why Is Arranging Furniture in a British Living Room So Difficult?
@@ -146,7 +144,38 @@ Avoid these sofa choices in small UK living rooms:
 
 Compact two-seater sofa, 180-200cm long, under 90cm deep — from ~£299 at Next Home.
 
-[CHART: Bar chart comparing sofa dimensions vs. average UK living room widths — showing clearance available for 2-seater vs 3-seater in rooms of 3m, 3.5m, and 4m width - source: English Housing Survey 2023]
+<figure>
+  <svg viewBox="0 0 560 340" style="max-width: 100%; height: auto; font-family: 'Inter', system-ui, sans-serif" role="img" aria-label="Grouped bar chart: floor clearance remaining after fitting a 2-seater or 3-seater sofa in UK living rooms of 3m, 3.5m, and 4m width">
+    <title>Sofa Clearance by Room Width</title>
+    <desc>3m room: 1.2m clearance with a 2-seater, 0.9m with a 3-seater. 3.5m room: 1.7m with a 2-seater, 1.4m with a 3-seater. 4m room: 2.2m with a 2-seater, 1.9m with a 3-seater. Based on average sofa lengths (2-seater 180cm, 3-seater 210cm). Source: English Housing Survey 2023 (average UK room widths).</desc>
+    <rect x="230" y="16" width="14" height="14" fill="#f97316" />
+    <text x="250" y="27" font-size="12" fill="currentColor" opacity="0.8">2-seater</text>
+    <rect x="330" y="16" width="14" height="14" fill="#38bdf8" />
+    <text x="350" y="27" font-size="12" fill="currentColor" opacity="0.8">3-seater</text>
+    <line x1="70" y1="50" x2="70" y2="270" stroke="currentColor" opacity="0.3" />
+    <line x1="70" y1="270" x2="530" y2="270" stroke="currentColor" opacity="0.3" />
+    <line x1="70" y1="190" x2="530" y2="190" stroke="currentColor" opacity="0.08" />
+    <line x1="70" y1="110" x2="530" y2="110" stroke="currentColor" opacity="0.08" />
+    <rect x="130" y="174" width="34" height="96" fill="#f97316" />
+    <text x="147" y="166" text-anchor="middle" font-size="12" font-weight="800" fill="currentColor">1.2m</text>
+    <rect x="168" y="198" width="34" height="72" fill="#38bdf8" />
+    <text x="185" y="190" text-anchor="middle" font-size="12" font-weight="800" fill="currentColor">0.9m</text>
+    <text x="166" y="292" text-anchor="middle" font-size="13" fill="currentColor" opacity="0.8">3m room</text>
+    <rect x="266" y="134" width="34" height="136" fill="#f97316" />
+    <text x="283" y="126" text-anchor="middle" font-size="12" font-weight="800" fill="currentColor">1.7m</text>
+    <rect x="304" y="158" width="34" height="112" fill="#38bdf8" />
+    <text x="321" y="150" text-anchor="middle" font-size="12" font-weight="800" fill="currentColor">1.4m</text>
+    <text x="302" y="292" text-anchor="middle" font-size="13" fill="currentColor" opacity="0.8">3.5m room</text>
+    <rect x="402" y="94" width="34" height="176" fill="#f97316" />
+    <text x="419" y="86" text-anchor="middle" font-size="12" font-weight="800" fill="currentColor">2.2m</text>
+    <rect x="440" y="118" width="34" height="152" fill="#38bdf8" />
+    <text x="457" y="110" text-anchor="middle" font-size="12" font-weight="800" fill="currentColor">1.9m</text>
+    <text x="438" y="292" text-anchor="middle" font-size="13" fill="currentColor" opacity="0.8">4m room</text>
+    <text x="300" y="322" text-anchor="middle" font-size="10" fill="currentColor" opacity="0.35">
+      Floor clearance after sofa (2-seater 180cm / 3-seater 210cm) — Source: English Housing Survey 2023
+    </text>
+  </svg>
+</figure>
 
 ---
 

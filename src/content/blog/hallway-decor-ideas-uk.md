@@ -69,7 +69,6 @@ Paint cost: ~£20–£28 per 2.5L from B&Q or Dulux Direct.
 
 ## Is a Console Table Worth It in a Narrow Hall?
 
-[IMAGE: A slim console table under 30cm deep styled in a narrow British hallway with a mirror above and a coat hook rail beside it - search terms: narrow hallway console table UK]
 
 A slim console table transforms a hallway from a through-space into a proper room. The critical dimension is depth: anything over 30cm will block the corridor in a standard Victorian terrace. Most high-street console tables are 35–40cm deep, which is too wide for the job.
 
@@ -97,7 +96,31 @@ A **peg rail at a consistent height** looks more deliberate than scattered indiv
 
 **Shoe storage** is where hallways lose the clutter battle fastest. A slim shoe bench with a lid stores shoes inside and provides a seat for putting them on. The IKEA Trones shoe cabinet (wall-mounted, ~£15 per unit) is the most space-efficient solution for a very narrow corridor.
 
-[CHART: Bar chart - average number of items stored in British hallways by category (coats, shoes, bags, post, other) - Source: Mintel Home Survey 2022]
+<figure>
+  <svg viewBox="0 0 560 300" style="max-width: 100%; height: auto; font-family: 'Inter', system-ui, sans-serif" role="img" aria-label="Bar chart: average number of items stored in British hallways, by category">
+    <title>Average Items Stored in British Hallways, by Category</title>
+    <desc>Shoes 8, coats 6, other items 4, bags 3, post and mail 1. Source: Mintel Home Survey 2022.</desc>
+    <line x1="150" y1="30" x2="150" y2="240" stroke="currentColor" opacity="0.3" />
+    <rect x="150" y="35" width="352" height="30" fill="#f97316" />
+    <text x="144" y="55" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Shoes</text>
+    <text x="510" y="55" font-size="12" font-weight="800" fill="currentColor">8</text>
+    <rect x="150" y="75" width="264" height="30" fill="#38bdf8" />
+    <text x="144" y="95" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Coats</text>
+    <text x="422" y="95" font-size="12" font-weight="800" fill="currentColor">6</text>
+    <rect x="150" y="115" width="176" height="30" fill="#a78bfa" />
+    <text x="144" y="135" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Other items</text>
+    <text x="334" y="135" font-size="12" font-weight="800" fill="currentColor">4</text>
+    <rect x="150" y="155" width="132" height="30" fill="#22c55e" />
+    <text x="144" y="175" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Bags</text>
+    <text x="290" y="175" font-size="12" font-weight="800" fill="currentColor">3</text>
+    <rect x="150" y="195" width="44" height="30" fill="#f97316" opacity="0.6" />
+    <text x="144" y="215" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Post &amp; mail</text>
+    <text x="202" y="215" font-size="12" font-weight="800" fill="currentColor">1</text>
+    <text x="280" y="270" text-anchor="middle" font-size="10" fill="currentColor" opacity="0.35">
+      Average items stored, by category — Source: Mintel Home Survey (2022)
+    </text>
+  </svg>
+</figure>
 
 Peg rail: ~£18–£25 from Dunelm or IKEA. Victorian hallstand secondhand: £20–£60 via eBay.
 
@@ -123,7 +146,6 @@ Large round mirror: from ~£45 at John Lewis or Wayfair UK. Full-length leaned m
 
 ## What Flooring Works Best in a Small British Hallway?
 
-[IMAGE: A narrow Victorian hallway with geometric encaustic-style tiles in black and white and painted walls in deep teal - search terms: Victorian hallway encaustic tiles UK geometric floor]
 
 Hallway flooring takes more punishment than any other floor in the house. It needs to be durable, easy to clean, and visually appropriate for the space — and it needs to work with whatever is already in the adjacent rooms.
 
@@ -173,7 +195,6 @@ Stair gallery wall: ~£20–£50 total using IKEA Ribba frames and self-printed 
 
 ## What Can Renters Do Without Drilling?
 
-[IMAGE: A renter-friendly hallway with a freestanding coat rack, leaned mirror, and a plug-in pendant light - search terms: renter no drill hallway decor UK freestanding]
 
 Renters have considerably more options than most people realise. The real constraint isn't drilling as such — it's avoiding marks on checkout. Several product categories now cover almost every hallway need without a single hole in the plaster.
 

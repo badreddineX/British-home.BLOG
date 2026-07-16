@@ -48,7 +48,6 @@ Read more: [budget home transformation framework](/blog/budget-home-makeover-uk)
 
 ---
 
-[IMAGE: A bright, refreshed UK kitchen with painted white cabinets, brushed brass handles, and open shelving — search Pexels for "white kitchen budget UK renovation"]
 
 ## Paint Your Cabinet Doors
 
@@ -86,7 +85,6 @@ One IKEA Boaxel shelf unit costs around £25–£50 depending on size and adds v
 
 ---
 
-[IMAGE: Close-up of open kitchen shelving with stacked white plates, mugs, and a small plant — search Pexels for "kitchen open shelving minimal UK"]
 
 ## Replace the Taps
 
@@ -124,7 +122,34 @@ Peel-and-stick splashback tile sheets cost £25–£45 for a standard area and r
 
 ---
 
-[CHART: Bar chart comparing cost of 6 most popular budget kitchen upgrades - handles £30, grout £15, stick-on splashback £35, new taps £55, open shelving £40, cabinet paint £36 - source: retailer pricing B&Q/Wickes/IKEA June 2026]
+<figure>
+  <svg viewBox="0 0 560 340" style="max-width: 100%; height: auto; font-family: 'Inter', system-ui, sans-serif" role="img" aria-label="Bar chart comparing the cost of 6 popular budget kitchen upgrades">
+    <title>Cost of 6 Popular Budget Kitchen Upgrades</title>
+    <desc>Grout refresh £15, handles £30, cabinet paint £36, open shelving £40, stick-on splashback £35, new taps £55. Source: retailer pricing, B&amp;Q/Wickes/IKEA (June 2026).</desc>
+    <line x1="170" y1="30" x2="170" y2="290" stroke="currentColor" opacity="0.3" />
+    <rect x="170" y="35" width="98" height="30" fill="#22c55e" />
+    <text x="164" y="55" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Grout refresh</text>
+    <text x="276" y="55" font-size="12" font-weight="800" fill="currentColor">£15</text>
+    <rect x="170" y="75" width="196" height="30" fill="#a78bfa" />
+    <text x="164" y="95" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Handles</text>
+    <text x="374" y="95" font-size="12" font-weight="800" fill="currentColor">£30</text>
+    <rect x="170" y="115" width="228.6" height="30" fill="#a78bfa" />
+    <text x="164" y="135" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Cabinet paint</text>
+    <text x="407" y="135" font-size="12" font-weight="800" fill="currentColor">£36</text>
+    <rect x="170" y="155" width="222.9" height="30" fill="#38bdf8" />
+    <text x="164" y="175" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Stick-on splashback</text>
+    <text x="401" y="175" font-size="12" font-weight="800" fill="currentColor">£35</text>
+    <rect x="170" y="195" width="254.4" height="30" fill="#38bdf8" />
+    <text x="164" y="215" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Open shelving</text>
+    <text x="432" y="215" font-size="12" font-weight="800" fill="currentColor">£40</text>
+    <rect x="170" y="235" width="349.8" height="30" fill="#f97316" />
+    <text x="164" y="255" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">New taps</text>
+    <text x="528" y="255" font-size="12" font-weight="800" fill="currentColor">£55</text>
+    <text x="280" y="322" text-anchor="middle" font-size="10" fill="currentColor" opacity="0.35">
+      Source: retailer pricing, B&amp;Q / Wickes / IKEA (June 2026)
+    </text>
+  </svg>
+</figure>
 
 ## Upgrade the Lighting
 
@@ -162,7 +187,6 @@ Laminate worktop remnants start at £20–£50 at Wickes and B&Q — a full DIY 
 
 ---
 
-[IMAGE: A close-up of a refreshed kitchen worktop with a wood-effect finish, modern tap, and ceramic bowl — search Pexels for "kitchen worktop wood UK budget"]
 
 ## Add a Kitchen Runner Rug
 
@@ -212,7 +236,6 @@ Peel-and-stick vinyl floor tiles from Amazon UK cost £50–£90 for a standard 
 
 ---
 
-[IMAGE: A kitchen with peel-and-stick herringbone vinyl floor tiles laid over old flooring — search Pexels for "kitchen vinyl floor tiles DIY"]
 
 ## Add Plants and Proper Accessories
 

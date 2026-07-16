@@ -50,7 +50,6 @@ Read more: [bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk/)
 
 ---
 
-[IMAGE: A warm, softly lit British bedroom with layered bedding in neutral tones, two bedside lamps casting warm light, and a chunky knit throw at the foot of the bed — search Pexels: "cosy bedroom warm lighting"]
 
 ## Switch the Overhead Light Off After 7pm
 
@@ -84,7 +83,6 @@ The throw at the foot of the bed is the most photographable element of a cosy be
 
 ---
 
-[IMAGE: A bed styled with layered bedding — fitted sheet, duvet in a warm neutral cover, a waffle throw folded at the foot, and cushions in various textures — search Pexels: "layered bed styling neutral bedroom"]
 
 ## Add Blackout Curtains in a Warm Colour
 
@@ -120,7 +118,31 @@ Don't paint one wall a different colour and leave the rest white. That's an acce
 
 ---
 
-[CHART: Bar chart — "Most popular cosy bedroom paint colours in UK searches 2025" — Elephant's Breath, Autumn Cashmere, Mizzle, Hague Blue, Dark Lead — Source: Google Trends UK 2025]
+<figure>
+  <svg viewBox="0 0 560 300" style="max-width: 100%; height: auto; font-family: 'Inter', system-ui, sans-serif" role="img" aria-label="Bar chart: most popular cosy bedroom paint colours in UK searches 2025, relative search interest index">
+    <title>Most Popular Cosy Bedroom Paint Colours — UK Searches 2025</title>
+    <desc>Relative search interest index: Elephant's Breath 100, Autumn Cashmere 82, Mizzle 71, Hague Blue 64, Dark Lead 53. Source: Google Trends UK 2025.</desc>
+    <line x1="180" y1="30" x2="180" y2="240" stroke="currentColor" opacity="0.3" />
+    <rect x="180" y="35" width="330" height="30" fill="#f97316" />
+    <text x="174" y="55" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Elephant's Breath</text>
+    <text x="516" y="55" font-size="12" font-weight="800" fill="currentColor">100</text>
+    <rect x="180" y="75" width="270.6" height="30" fill="#38bdf8" />
+    <text x="174" y="95" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Autumn Cashmere</text>
+    <text x="457" y="95" font-size="12" font-weight="800" fill="currentColor">82</text>
+    <rect x="180" y="115" width="234.3" height="30" fill="#a78bfa" />
+    <text x="174" y="135" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Mizzle</text>
+    <text x="420" y="135" font-size="12" font-weight="800" fill="currentColor">71</text>
+    <rect x="180" y="155" width="211.2" height="30" fill="#22c55e" />
+    <text x="174" y="175" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Hague Blue</text>
+    <text x="397" y="175" font-size="12" font-weight="800" fill="currentColor">64</text>
+    <rect x="180" y="195" width="174.9" height="30" fill="#f97316" opacity="0.6" />
+    <text x="174" y="215" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Dark Lead</text>
+    <text x="361" y="215" font-size="12" font-weight="800" fill="currentColor">53</text>
+    <text x="280" y="270" text-anchor="middle" font-size="10" fill="currentColor" opacity="0.35">
+      Relative search interest index (Elephant's Breath = 100) — Source: Google Trends UK (2025)
+    </text>
+  </svg>
+</figure>
 
 ## Introduce a Weighted Blanket
 
@@ -144,7 +166,6 @@ Scent works best when it's consistent. Use the same scent every night and the br
 
 ---
 
-[IMAGE: A ceramic oil diffuser or reed diffuser on a wooden bedside table next to a lamp and a small plant in a terracotta pot — search Pexels: "bedside table diffuser lamp cosy"]
 
 ## Invest in a Proper Headboard
 
@@ -180,7 +201,6 @@ If you currently have blinds inside the window recess, adding floor-length curta
 
 ---
 
-[IMAGE: A bedroom with floor-to-ceiling curtains in a deep forest green or warm terracotta, hung close to the ceiling, framing a window with natural light — search Pexels: "bedroom curtains ceiling height cosy"]
 
 ## Add Texture at Multiple Levels
 
@@ -218,7 +238,6 @@ Light quality in the morning affects mood for the rest of the day. A well-lit mo
 
 ---
 
-[IMAGE: A styled bedside table with a ceramic lamp, small plant in a terracotta pot, a candle, and a book — warm morning light — search Pexels: "bedside table morning light cosy bedroom"]
 
 ## Priority Table: Where to Start First
 

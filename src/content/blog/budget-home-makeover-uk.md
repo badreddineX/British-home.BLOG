@@ -73,7 +73,48 @@ A dried botanical bundle or a small plant on a shelf or coffee table. Adds life,
 
 Total: ~£91. Most people can't tell this room from a £500 refresh.
 
-[CHART: Bar chart — visual impact score vs. cost for 8 common living room upgrades — source: author survey of 20 homeowners]
+<figure>
+  <svg viewBox="0 0 560 420" style="max-width: 100%; height: auto; font-family: 'Inter', system-ui, sans-serif" role="img" aria-label="Lollipop chart ranking 8 budget living-room upgrades by visual impact score out of 10, with approximate cost for each">
+    <title>Visual Impact vs. Cost — 8 Budget Living Room Upgrades</title>
+    <desc>Feature-wall paint 9/10 (£45), statement mirror 8/10 (£35), layered rug 8/10 (£40), cushions and throws 7/10 (£25), new lampshades 6/10 (£18), framed prints 6/10 (£20), hardware swap 5/10 (£15), plant styling 5/10 (£10). Source: author survey of 20 homeowners.</desc>
+    <line x1="190" y1="30" x2="190" y2="380" stroke="currentColor" opacity="0.3" />
+    <line x1="190" y1="52" x2="530" y2="52" stroke="currentColor" opacity="0.15" stroke-width="1" />
+    <circle cx="530" cy="52" r="6" fill="#f97316" />
+    <text x="184" y="56" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Feature-wall paint</text>
+    <text x="542" y="56" font-size="12" font-weight="800" fill="currentColor">9 · £45</text>
+    <line x1="190" y1="94" x2="490" y2="94" stroke="currentColor" opacity="0.15" stroke-width="1" />
+    <circle cx="490" cy="94" r="6" fill="#f97316" />
+    <text x="184" y="98" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Statement mirror</text>
+    <text x="502" y="98" font-size="12" font-weight="800" fill="currentColor">8 · £35</text>
+    <line x1="190" y1="136" x2="490" y2="136" stroke="currentColor" opacity="0.15" stroke-width="1" />
+    <circle cx="490" cy="136" r="6" fill="#f97316" />
+    <text x="184" y="140" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Layered rug</text>
+    <text x="502" y="140" font-size="12" font-weight="800" fill="currentColor">8 · £40</text>
+    <line x1="190" y1="178" x2="450" y2="178" stroke="currentColor" opacity="0.15" stroke-width="1" />
+    <circle cx="450" cy="178" r="6" fill="#38bdf8" />
+    <text x="184" y="182" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Cushions &amp; throws</text>
+    <text x="462" y="182" font-size="12" font-weight="800" fill="currentColor">7 · £25</text>
+    <line x1="190" y1="220" x2="410" y2="220" stroke="currentColor" opacity="0.15" stroke-width="1" />
+    <circle cx="410" cy="220" r="6" fill="#a78bfa" />
+    <text x="184" y="224" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">New lampshades</text>
+    <text x="422" y="224" font-size="12" font-weight="800" fill="currentColor">6 · £18</text>
+    <line x1="190" y1="262" x2="410" y2="262" stroke="currentColor" opacity="0.15" stroke-width="1" />
+    <circle cx="410" cy="262" r="6" fill="#a78bfa" />
+    <text x="184" y="266" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Framed prints</text>
+    <text x="422" y="266" font-size="12" font-weight="800" fill="currentColor">6 · £20</text>
+    <line x1="190" y1="304" x2="370" y2="304" stroke="currentColor" opacity="0.15" stroke-width="1" />
+    <circle cx="370" cy="304" r="6" fill="#22c55e" />
+    <text x="184" y="308" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Hardware swap</text>
+    <text x="382" y="308" font-size="12" font-weight="800" fill="currentColor">5 · £15</text>
+    <line x1="190" y1="346" x2="370" y2="346" stroke="currentColor" opacity="0.15" stroke-width="1" />
+    <circle cx="370" cy="346" r="6" fill="#22c55e" />
+    <text x="184" y="350" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Plant styling</text>
+    <text x="382" y="350" font-size="12" font-weight="800" fill="currentColor">5 · £10</text>
+    <text x="280" y="405" text-anchor="middle" font-size="10" fill="currentColor" opacity="0.35">
+      Visual impact score (1–10) · approximate cost — Source: author survey of 20 homeowners
+    </text>
+  </svg>
+</figure>
 
 ---
 
