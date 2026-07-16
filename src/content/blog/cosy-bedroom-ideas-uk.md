@@ -164,6 +164,8 @@ Avoid plug-in air fresheners. They tend to smell synthetic and cycle in a way th
 
 Scent works best when it's consistent. Use the same scent every night and the brain starts to associate it with sleep. It becomes a cue, not just a smell.
 
+![A reed diffuser and a small potted plant on a bedside table beside a lamp](/images/cosy-bedroom-diffuser-lamp.jpg)
+
 ---
 
 

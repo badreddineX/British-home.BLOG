@@ -155,9 +155,11 @@ Hallway flooring takes more punishment than any other floor in the house. It nee
 
 **Stair runners** deserve inclusion here because the staircase is part of the hallway's visual field in most British terraced houses. A geometric or striped runner fitted over existing carpet makes the staircase look intentional rather than merely functional. Next Home and Wayfair UK both have options from ~£35. Fitting with stair rods (from ~£15 at B&Q) avoids the cost of a carpet fitter entirely.
 
-[UNIQUE INSIGHT] The combination of a tiled hallway floor with a stair runner creates a visual transition that makes the whole entrance feel more considered. The hard floor grounds the space; the runner draws the eye upward. It's a pairing estate agents use consistently in listing photography for period properties.
+The combination of a tiled hallway floor with a stair runner creates a visual transition that makes the whole entrance feel more considered. The hard floor grounds the space; the runner draws the eye upward. It's a pairing estate agents use consistently in listing photography for period properties.
 
 Encaustic-style tiles: from ~£20 per m2 at B&Q. Coir runner: from ~£22 at Dunelm. Stair runner: from ~£35 at Wayfair UK.
+
+![Close-up of black-and-white geometric encaustic-style tiles, the period-appropriate flooring choice for Victorian and Edwardian British hallways](/images/hallway-geometric-tiles.jpg)
 
 ---
 
@@ -201,6 +203,8 @@ Renters have considerably more options than most people realise. The real constr
 **Freestanding coat rack.** A metal or wooden coat tree holds five to eight coats, takes no wall space, and moves with you when you leave. Argos and Dunelm both stock them from ~£25.
 
 **Leaned mirror.** As above — no fixing required, full visual impact. From ~£45 at Next Home or John Lewis.
+
+![A renter-friendly hallway with coats and a bag hung on a wall-mounted peg rail beside a leaned arched mirror](/images/hallway-coat-rack-mirror.jpg)
 
 **Command strips and hooks.** Command hooks rated to 3.6kg (from ~£6 for four at Wilko or Amazon) handle individual coats reliably. Command Picture Hanging Strips allow a gallery wall without nails. They leave minimal residue on standard emulsion paint when removed correctly.
 

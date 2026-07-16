@@ -240,8 +240,9 @@ For renters: Command strips hold frames up to 5kg without wall damage. A set of 
 
 Three matching frames with personal photographs — from £15 total at IKEA.
 
----
+![Cosy bedroom with layered neutral bedding, a bedside lamp, and a personal gallery wall of framed prints above the headboard](/images/bedroom-makeover-gallery-wall.jpg)
 
+---
 
 ## Priority Order: Where to Start
 
