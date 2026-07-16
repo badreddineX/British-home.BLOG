@@ -49,7 +49,7 @@ function fmtDate(d: string) {
       <section
         class="hero"
         aria-label="Welcome"
-        style={featured ? `--hero-bg: url('${featured.data.image}')` : ''}
+        style="--hero-bg: url('/images/hero-poster.jpg')"
       >
         <div class="hero-media">
           <video
@@ -60,7 +60,7 @@ function fmtDate(d: string) {
             loop
             playsinline
             preload="auto"
-            poster={featured?.data.image ?? ''}
+            poster="/images/hero-poster.jpg"
           >
             <source src="/videos/hero-sd.mp4" type="video/mp4" media="(max-width: 768px)" />
             <source src="/videos/hero-hd.mp4" type="video/mp4" />
