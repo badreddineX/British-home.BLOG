@@ -3,7 +3,8 @@
    Inspired by: Content. (Colorlib)
    ============================================ */
 
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Lato:wght@300;400;700&display=swap');
+/* Fonts are loaded via <link> in SEO.astro's <head> — a CSS @import here
+   would be a second, render-blocking request for the same font family. */
 
 /* --- CSS Custom Properties --- */
 :root {

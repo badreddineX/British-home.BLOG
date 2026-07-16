@@ -182,28 +182,27 @@ import '../styles/global.css';
         <div class="contact-right">
           <form class="contact-form" action="https://formsubmit.co/hello@britishhomeinterior.co.uk" method="POST">
             <input type="hidden" name="_subject" value="New Contact Message — British Home Interior" />
-            <input type="hidden" name="_captcha" value="false" />
-            <input type="hidden" name="_next" value="https://british-home-blog.vercel.app/about/?sent=1" />
+            <input type="hidden" name="_next" value="https://britishhomeinterior.co.uk/about/?sent=1" />
             <input type="hidden" name="_template" value="table" />
             <div class="contact-form-row">
               <div class="contact-field">
-                <label class="contact-label">Full Name</label>
-                <input name="name" type="text" class="contact-input" placeholder="Your name" required />
+                <label class="contact-label" for="contact-name">Full Name</label>
+                <input id="contact-name" name="name" type="text" class="contact-input" placeholder="Your name" required />
               </div>
               <div class="contact-field">
-                <label class="contact-label">Email Address</label>
-                <input name="email" type="email" class="contact-input" placeholder="your@email.com" required />
+                <label class="contact-label" for="contact-email">Email Address</label>
+                <input id="contact-email" name="email" type="email" class="contact-input" placeholder="your@email.com" required />
               </div>
             </div>
             <div class="contact-field">
-              <label class="contact-label">
+              <label class="contact-label" for="contact-city">
                 City / County <span class="contact-optional">(optional)</span>
               </label>
-              <input name="city" type="text" class="contact-input" placeholder="e.g. London, Manchester" />
+              <input id="contact-city" name="city" type="text" class="contact-input" placeholder="e.g. London, Manchester" />
             </div>
             <div class="contact-field">
-              <label class="contact-label">Message</label>
-              <textarea name="message" class="contact-input contact-textarea" placeholder="What's on your mind?" required></textarea>
+              <label class="contact-label" for="contact-message">Message</label>
+              <textarea id="contact-message" name="message" class="contact-input contact-textarea" placeholder="What's on your mind?" required></textarea>
             </div>
             <button type="submit" class="contact-submit">Send Message</button>
           </form>
