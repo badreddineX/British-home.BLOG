@@ -57,9 +57,10 @@ function fmtDate(d: string) {
             muted
             loop
             playsinline
-            preload="auto"
+            preload="metadata"
             poster={featured?.data.image ?? ''}
           >
+            <source src="/videos/hero-sd.mp4" type="video/mp4" media="(max-width: 768px)" />
             <source src="/videos/hero-hd.mp4" type="video/mp4" />
           </video>
           <div class="hero-overlay"></div>
