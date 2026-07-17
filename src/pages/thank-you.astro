@@ -1,0 +1,115 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SEO from '../components/SEO.astro';
+import '../styles/global.css';
+---
+
+<html lang="en-GB">
+  <head>
+    <SEO
+      title="Message Sent — British Home Interior"
+      description="Thanks for getting in touch — we'll be back to you within 2–3 business days."
+      canonicalPath="/thank-you/"
+      noindex
+    />
+  </head>
+  <body>
+    <Header />
+
+    <main class="thanks">
+      <div class="thanks-inner">
+        <span class="thanks-icon">✓</span>
+        <h1 class="thanks-heading">Message sent!</h1>
+        <p class="thanks-desc">
+          Thank you for reaching out — your message has landed safely in our inbox.
+          We'll get back to you within 2–3 business days.
+        </p>
+        <div class="thanks-actions">
+          <a href="/" class="thanks-btn thanks-btn--primary">Back to Home</a>
+          <a href="/blog/" class="thanks-btn thanks-btn--outline">Browse All Articles</a>
+        </div>
+      </div>
+    </main>
+
+    <Footer />
+  </body>
+</html>
+
+<style>
+  .thanks {
+    background: var(--color-bg);
+    min-height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 4rem 2rem;
+  }
+
+  .thanks-inner {
+    text-align: center;
+    max-width: 520px;
+  }
+
+  .thanks-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 72px;
+    height: 72px;
+    margin: 0 auto 1.5rem;
+    border-radius: 50%;
+    border: 1px solid var(--color-gold);
+    color: var(--color-gold);
+    font-size: 2rem;
+    line-height: 1;
+  }
+
+  .thanks-heading {
+    font-family: var(--font-display);
+    font-size: clamp(1.75rem, 4vw, 2.5rem);
+    font-weight: 700;
+    color: var(--color-heading);
+    margin: 0 0 1rem;
+  }
+
+  .thanks-desc {
+    font-size: 1rem;
+    line-height: 1.75;
+    color: var(--color-text-muted);
+    margin: 0 0 2.5rem;
+  }
+
+  .thanks-actions {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .thanks-btn {
+    display: inline-block;
+    font-family: var(--font-body);
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.09em;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 0.85rem 1.75rem;
+    transition: background 200ms, color 200ms, border-color 200ms;
+  }
+
+  .thanks-btn--primary {
+    background: var(--color-gold);
+    color: #fff;
+    border: 1px solid var(--color-gold);
+  }
+  .thanks-btn--primary:hover { background: #9a7f52; border-color: #9a7f52; }
+
+  .thanks-btn--outline {
+    background: transparent;
+    color: var(--color-heading);
+    border: 1px solid var(--color-border);
+  }
+  .thanks-btn--outline:hover { border-color: var(--color-heading); }
+</style>

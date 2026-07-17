@@ -38,21 +38,10 @@ const year = new Date().getFullYear();
         <a href="/terms-of-use/" class="footer-nav-link footer-nav-link--policy">Terms of Use</a>
       </nav>
 
-      <!-- Newsletter -->
+      <!-- About -->
       <div class="footer-newsletter">
-        <p class="footer-newsletter-heading">Get the latest styling tips and cosy home inspiration straight to your inbox!</p>
-        <form class="footer-form" id="footer-newsletter-form" novalidate>
-          <label for="footer-email" class="footer-form-label">Email *</label>
-          <input id="footer-email" type="email" placeholder="Your email address" class="footer-input" required />
-          <div class="footer-checkbox-row">
-            <input type="checkbox" id="footer-consent" required />
-            <label for="footer-consent">Yes, subscribe me to your newsletter</label>
-          </div>
-          <button type="submit" class="footer-submit">Subscribe</button>
-        </form>
-        <p class="footer-newsletter-thanks" id="footer-newsletter-thanks" hidden>
-          Thanks for subscribing! 🏡 You'll hear from us soon.
-        </p>
+        <p class="footer-newsletter-heading">Cosy styling, room makeovers, and interior ideas for UK homes.</p>
+        <a href="/about/" class="footer-submit footer-contact-link">Get in Touch</a>
       </div>
 
     </div>
@@ -160,6 +149,7 @@ const year = new Date().getFullYear();
     transition: background 200ms;
   }
   .footer-submit:hover { background: #9a7f52; }
+  .footer-contact-link { text-decoration: none; text-align: center; }
 
   .footer-social-row {
     display: flex;
@@ -200,46 +190,4 @@ const year = new Date().getFullYear();
 
   .footer-policy-link { color: rgba(255,255,255,0.35); text-decoration: underline; text-underline-offset: 2px; }
   .footer-policy-link:hover { color: rgba(255,255,255,0.7); text-decoration: underline; }
-
-  .footer-newsletter-thanks {
-    font-size: 0.85rem;
-    color: var(--color-gold);
-    margin: 0.75rem 0 0;
-    line-height: 1.5;
-  }
 </style>
-
-<script>
-  const form   = document.getElementById('footer-newsletter-form') as HTMLFormElement | null;
-  const thanks = document.getElementById('footer-newsletter-thanks') as HTMLElement | null;
-  const submitBtn = form?.querySelector('.footer-submit') as HTMLButtonElement | null;
-
-  form?.addEventListener('submit', async (e) => {
-    e.preventDefault();
-    const email   = (form.querySelector('#footer-email') as HTMLInputElement).value.trim();
-    const consent = (form.querySelector('#footer-consent') as HTMLInputElement).checked;
-    if (!email || !consent) return;
-
-    if (submitBtn) { submitBtn.textContent = 'Subscribing…'; submitBtn.disabled = true; }
-
-    try {
-      const res  = await fetch('/api/subscribe', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email }),
-      });
-      const data = await res.json();
-
-      if (data.success) {
-        form.hidden = true;
-        if (thanks) thanks.hidden = false;
-      } else {
-        if (submitBtn) { submitBtn.textContent = 'Try again'; submitBtn.disabled = false; }
-        alert(data.error ?? 'Something went wrong. Please try again.');
-      }
-    } catch {
-      if (submitBtn) { submitBtn.textContent = 'Try again'; submitBtn.disabled = false; }
-      alert('Connection error. Please try again.');
-    }
-  });
-</script>
