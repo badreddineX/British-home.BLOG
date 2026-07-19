@@ -31,14 +31,11 @@ Every blog post maps to exactly one pillar. Do not cross-post the same post into
 
 **Geo targeting:** confirm Pinterest account Country/Region is set to **United Kingdom** and profile language is **English (UK)** before publishing — this is a stronger relevance signal than any amount of pin volume, and costs nothing to fix once.
 
-**Pin volume — two phases:**
-- **While boards are Secret (now):** ~25 pins/week. No audience exists yet, so there's no spam-signal risk — use this window to build board depth fast (see §7).
-- **After boards go Public:** taper to **~18 pins/week** (roughly 2–3/day) as the sustainable long-term pace. This is enough to keep boards active in Pinterest's eyes without bursty, spam-like patterns — well above a bare-minimum "4/week" pace, which at your current 87-pin catalog would take 5+ months to cycle through once, but also short of over-posting into fatigue.
+**Pin volume: 7 pins/week, one per day.** Pinterest content is evergreen — a pin can get found and clicked months after posting, so a slow steady drip beats a burst. One pin/day, rotating across the 4 category boards, is sustainable indefinitely and never reads as spam, whether the boards are secret or public. This also matches the same cadence already proven out on the SmallSpace Home blog (`blogs/canada-subn-1/pinterest content/POSTING-CALENDAR.md`).
 
 | Platform | Frequency | Best Times (Europe/London) | Best Days |
 |---|---|---|---|
-| Pinterest (secret boards) | ~25 pins/week (~3–5/day) | 8:00–9:00, 13:00–14:00, 20:00–21:00 | Every day |
-| Pinterest (public boards) | ~18 pins/week (~2–3/day) | 8:00–9:00, 13:00–14:00, 20:00–21:00 | Every day (Pinterest rewards consistency over burstiness) |
+| Pinterest | 7 pins/week (1/day) | 8:00–9:00 or 20:00–21:00 | Every day |
 | Instagram Feed | 3–4 posts/week | 12:00–13:00 or 18:00–19:30 | Tue, Thu, Sat, Sun |
 | Instagram Stories | Daily, 2–4 per day | 8:00, 13:00, 20:00 | Every day |
 | Instagram Reels | 1–2/week | 18:00–20:00 | Wed, Sun |
@@ -63,19 +60,24 @@ All 4 boards start **Secret**. Switch each board to **Public** only once it has 
    `https://britishhomeinterior.co.uk/blog/{slug}/`
 6. **Alt text** — describe the image literally (accessibility + Pinterest Lens indexing), not the marketing headline.
 
-### 4.3 Pin → post → link reference (current batch)
+### 4.3 Week 1 schedule (1 pin/day, rotating boards)
 
-| Pin File | Board | Title | Link |
-|---|---|---|---|
-| `style-a-living-room-B.png` | Living Room Ideas UK | Style Your Living Room Like a Pro | `/blog/how-to-style-a-living-room-uk/` |
-| `bedroom-makeover-A.png` | Bedroom Ideas UK | Bedroom Makeover UK | `/blog/bedroom-makeover-uk/` |
-| `kitchen-decor-ideas-C.png` | Kitchen Ideas UK | A Prettier Kitchen, No Builders | `/blog/kitchen-decor-ideas-uk/` |
-| `rented-flat-makeover-B.png` | Room Makeovers UK | Transform a Rental, Keep the Deposit | `/blog/rented-flat-makeover-uk/` |
+| Day | Board | Pin File | Title | Link |
+|---|---|---|---|---|
+| Mon | Living Room | `living-room-ideas-A.png` | Living Room Ideas for UK Homes | `/blog/living-room-ideas-uk/` |
+| Tue | Bedroom | `bedroom-decor-ideas-A.png` | Bedroom Decor Ideas for UK Homes | `/blog/bedroom-decor-ideas-uk/` |
+| Wed | Kitchen | `kitchen-decor-ideas-A.png` | Kitchen Decor Ideas UK | `/blog/kitchen-decor-ideas-uk/` |
+| Thu | Room Makeovers | `budget-home-makeover-A.png` | Budget Home Makeover UK | `/blog/budget-home-makeover-uk/` |
+| Fri | Living Room | `living-room-colour-schemes-A.png` | Living Room Colour Schemes UK | `/blog/living-room-colour-schemes-uk/` |
+| Sat | Bedroom | `cosy-bedroom-ideas-A.png` | Cosy Bedroom Ideas UK | `/blog/cosy-bedroom-ideas-uk/` |
+| Sun | Kitchen | `kitchen-on-a-budget-A.png` | Kitchen on a Budget UK | `/blog/kitchen-on-a-budget-uk/` |
 
-> ⚠️ Known issue: the Living Room pin's source photo is mismatched (shows a bedroom). Replace before publishing publicly.
+All 7 pins are already rendered in `pin-generator/out-uk/`, sourced from `pin-generator/pins-week1.json`. The previously flagged Living Room photo mismatch (was showing a bedroom) has been fixed at source — `style-a-living-room` now uses a genuine living room photo.
+
+An additional 18 pins beyond this week's 7 are already rendered in the same folder (`pins-week1.json` covers 25 total) — held in reserve for weeks 2–4 rather than wasted, so no further rendering is needed for most of the first month.
 
 ### 4.4 Scaling
-`pin-generator/pins.json` already contains 3 headline variants (A/B/C) for all 29 published posts (87 potential pins). Generate 3–5 new pins per day from this file to sustain the daily cadence without new design work — rotate variant templates so boards don't look repetitive.
+`pin-generator/pins.json` contains 3 headline variants (A/B/C) for all 29 published posts (87 potential pins total) — enough inventory for roughly 12 weeks at the 7/week pace before any repeats are needed.
 
 ---
 
@@ -116,21 +118,23 @@ Keep exactly these 4 — do not add "Home" or "About" highlights (removed intent
 
 | Day | Pinterest | Instagram Feed | Instagram Stories | Reels |
 |---|---|---|---|---|
-| Mon | 3 pins | — | 2× | — |
-| Tue | 3 pins | 1 post | 2× | — |
-| Wed | 4 pins | — | 3× | 1 |
-| Thu | 3 pins | 1 post | 2× | — |
-| Fri | 4 pins | — | 2× | — |
-| Sat | 5 pins | 1 post | 3× | — |
-| Sun | 3 pins | 1 post | 2× | 1 |
+| Mon | 1 pin | — | 2× | — |
+| Tue | 1 pin | 1 post | 2× | — |
+| Wed | 1 pin | — | 3× | 1 |
+| Thu | 1 pin | 1 post | 2× | — |
+| Fri | 1 pin | — | 2× | — |
+| Sat | 1 pin | 1 post | 3× | — |
+| Sun | 1 pin | 1 post | 2× | 1 |
+
+Rotate the daily pin across the 4 boards in sequence (Living Room → Bedroom → Kitchen → Room Makeovers → repeat) so each board gets attention roughly every 4 days.
 
 ---
 
 ## 7. Publishing Order (first 30 days)
 
-1. **Days 1–10:** Fill each Pinterest board to 10+ pins while still Secret. No IG posting required yet — this builds board depth first.
-2. **Day 11:** Flip all 4 boards to Public.
-3. **Days 11–30:** Begin IG feed cadence (section 6) in parallel with continued daily Pinterest pinning. Start building Story→Highlight habit from day 11 onward, not before — no point highlighting content before the boards/profile look established.
+1. **Days 1–28:** 1 pin/day, rotating boards in sequence — by day 28 each board has ~7 pins. Boards stay Secret through this whole window.
+2. **Day 29 (once each board has 7+ pins):** Flip all 4 boards to Public.
+3. **From Day 29:** Begin IG feed cadence (section 6) in parallel with continued daily Pinterest pinning. Start building Story→Highlight habit from this point onward, not before — no point highlighting content before the boards/profile look established.
 
 ---
 
