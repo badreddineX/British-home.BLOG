@@ -29,9 +29,16 @@ Every blog post maps to exactly one pillar. Do not cross-post the same post into
 
 ## 3. Publishing Cadence
 
+**Geo targeting:** confirm Pinterest account Country/Region is set to **United Kingdom** and profile language is **English (UK)** before publishing — this is a stronger relevance signal than any amount of pin volume, and costs nothing to fix once.
+
+**Pin volume — two phases:**
+- **While boards are Secret (now):** ~25 pins/week. No audience exists yet, so there's no spam-signal risk — use this window to build board depth fast (see §7).
+- **After boards go Public:** taper to **~18 pins/week** (roughly 2–3/day) as the sustainable long-term pace. This is enough to keep boards active in Pinterest's eyes without bursty, spam-like patterns — well above a bare-minimum "4/week" pace, which at your current 87-pin catalog would take 5+ months to cycle through once, but also short of over-posting into fatigue.
+
 | Platform | Frequency | Best Times (Europe/London) | Best Days |
 |---|---|---|---|
-| Pinterest | 3–5 pins/day | 8:00–9:00, 13:00–14:00, 20:00–21:00 | Every day (Pinterest rewards consistency over burstiness) |
+| Pinterest (secret boards) | ~25 pins/week (~3–5/day) | 8:00–9:00, 13:00–14:00, 20:00–21:00 | Every day |
+| Pinterest (public boards) | ~18 pins/week (~2–3/day) | 8:00–9:00, 13:00–14:00, 20:00–21:00 | Every day (Pinterest rewards consistency over burstiness) |
 | Instagram Feed | 3–4 posts/week | 12:00–13:00 or 18:00–19:30 | Tue, Thu, Sat, Sun |
 | Instagram Stories | Daily, 2–4 per day | 8:00, 13:00, 20:00 | Every day |
 | Instagram Reels | 1–2/week | 18:00–20:00 | Wed, Sun |
