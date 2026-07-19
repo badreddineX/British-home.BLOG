@@ -103,12 +103,12 @@ const browser = await chromium.launch(process.env.CHROMIUM_PATH ? { executablePa
 const page = await browser.newPage({ viewport: { width: 1000, height: 1500 } });
 
 for (const pin of pins) {
-  const photo = pin.photo.startsWith('http') ? pin.photo : 'file://' + resolve(pin.photo);
+  const photo = pin.photo.startsWith('http') ? pin.photo : 'file://' + resolve(pin.photo).replace(/\\/g, '/');
   const html = `<!doctype html><html><head><meta charset="utf-8">${FONTS}</head><body>` +
     templates[pin.template]({ ...pin, photo }) + '</body></html>';
   const file = resolve(`out-uk/${pin.slug}-${pin.template}.html`);
   writeFileSync(file, html);
-  await page.goto('file://' + file, { waitUntil: 'networkidle' });
+  await page.goto('file://' + file.replace(/\\/g, '/'), { waitUntil: 'networkidle' });
   await page.evaluate(() => document.fonts.ready);
   await page.screenshot({ path: `out-uk/${pin.slug}-${pin.template}.png` });
   console.log(`✓ out-uk/${pin.slug}-${pin.template}.png`);
