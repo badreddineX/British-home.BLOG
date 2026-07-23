@@ -161,3 +161,5 @@ I added velvet curtains to my living room in October three years ago. The room f
 
 → For the full living room picture, see [Living Room Ideas UK](/blog/living-room-ideas-uk/).
 → For bedroom cosiness, see [Cosy Bedroom Ideas UK](/blog/cosy-bedroom-ideas-uk/).
+→ Cosy at Christmas has its own extra layer of decorating — see [Christmas Home Decor Ideas UK](/blog/christmas-home-decor-ideas-uk/).
+→ For more ideas across every room in the house, see [Home Decor Inspiration UK](/blog/home-decor-inspiration-uk/).

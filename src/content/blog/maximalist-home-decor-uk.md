@@ -165,3 +165,5 @@ The maximalist room I'm most proud of cost me less than £300 to build — and a
 
 → For colour palette guidance see [Living Room Colour Schemes That Work in British Light](/blog/living-room-colour-schemes-uk/).
 → For renter-friendly maximalism without permanent changes see [Rented Flat Makeover](/blog/rented-flat-makeover-uk/).
+→ If dark, moody tones are more your direction than pattern-heavy maximalism, see [Dark Moody Home Decor UK](/blog/dark-moody-home-decor-uk/).
+→ For maximalism focused specifically on the living room, see [Maximalist Living Room Decor UK](/blog/maximalist-living-room-decor-uk/).

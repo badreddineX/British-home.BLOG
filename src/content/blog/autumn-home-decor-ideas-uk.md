@@ -165,3 +165,4 @@ A cast-iron casserole pot left on the hob when not in use is one of the most bea
 
 → For winter cosiness, see [Winter Cosy Home Ideas UK](/blog/winter-cosy-home-ideas-uk/).
 → For year-round cosy principles, see [Cosy Home Decor Ideas UK](/blog/cosy-home-decor-ideas-uk/).
+→ And when the season turns again, see [Spring Home Refresh Ideas UK](/blog/spring-home-refresh-ideas-uk/) for shaking off the winter heaviness.

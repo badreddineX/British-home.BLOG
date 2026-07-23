@@ -287,3 +287,4 @@ The full list, priced at mid-range, comes to roughly £410–£830. That sounds 
 
 - [Budget Home Makeover UK: Transform Any Room for Under £150](/blog/budget-home-makeover-uk)
 - [Living Room on a Budget UK: 10 Ideas Under £100 That Actually Work](/blog/living-room-budget-ideas-uk)
+- [Kitchen Decor Ideas UK](/blog/kitchen-decor-ideas-uk) for the styling layer once the budget renovation is done

@@ -169,3 +169,6 @@ Not everyone is starting from the same place. Here's a realistic framework:
 
 → For living room specifics, see [Living Room Ideas UK](/blog/living-room-ideas-uk/).
 → For colour guidance, see [Living Room Colour Schemes UK](/blog/living-room-colour-schemes-uk/).
+→ Don't forget the hallway — it's the first room guests see. See [Hallway Decor Ideas UK](/blog/hallway-decor-ideas-uk/).
+→ For a cleaner, pared-back take on these same rooms, see [Modern Home Interior UK](/blog/modern-home-interior-uk/).
+→ If your home is a period property, see [Victorian Terrace Interior Ideas UK](/blog/victorian-terrace-interior-ideas-uk/) for working with original features rather than against them.

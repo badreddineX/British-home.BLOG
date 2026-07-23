@@ -174,3 +174,5 @@ Local garden centres and IKEA both offer good value on common houseplants. The R
 
 → For colour palette decisions see [Living Room Colour Schemes That Work in British Light](/blog/living-room-colour-schemes-uk/).
 → For small living room layout challenges see [Small Living Room Layout Ideas](/blog/small-living-room-layout-ideas/).
+→ For a cleaner, pared-back take on the same principles, see [Modern Home Interior UK](/blog/modern-home-interior-uk/).
+→ Need ideas across the whole house, not just the living room? See [Home Decor Inspiration UK](/blog/home-decor-inspiration-uk/).

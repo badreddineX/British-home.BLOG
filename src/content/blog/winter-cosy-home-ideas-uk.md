@@ -185,3 +185,4 @@ These practical tasks, done in October or November, make the winter months signi
 
 → For cosy home principles year-round, see [Cosy Home Decor Ideas UK](/blog/cosy-home-decor-ideas-uk/).
 → For bedroom warmth specifically, see [Cosy Bedroom Ideas UK](/blog/cosy-bedroom-ideas-uk/).
+→ Decorating for the season ahead, see [Christmas Home Decor Ideas UK](/blog/christmas-home-decor-ideas-uk/) and [Spring Home Refresh Ideas UK](/blog/spring-home-refresh-ideas-uk/) for what comes after winter.

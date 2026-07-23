@@ -222,3 +222,4 @@ Reed diffuser in amber or fig — from ~£8 at Dunelm.
 
 → For step-by-step living room styling see [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/).
 → For renter-specific ideas see [Rented Home Decor Ideas UK](/blog/rented-home-decor-ideas-uk/).
+→ If bold pattern and colour is more your style than a curated few pieces, see [Maximalist Living Room Decor UK](/blog/maximalist-living-room-decor-uk/).

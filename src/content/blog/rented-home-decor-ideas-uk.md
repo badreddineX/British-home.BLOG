@@ -217,3 +217,5 @@ Reed diffuser — from ~£5 at Dunelm.
 
 → For living room decor ideas see [Living Room Ideas UK](/blog/living-room-ideas-uk/).
 → For bedroom decor ideas see [Bedroom Decor Ideas UK](/blog/bedroom-decor-ideas-uk/).
+→ The hallway is often the most neglected room in a rental — see [Hallway Decor Ideas UK](/blog/hallway-decor-ideas-uk/) for no-damage fixes.
+→ Renting a period conversion? See [Victorian Terrace Interior Ideas UK](/blog/victorian-terrace-interior-ideas-uk/) for working with original features.

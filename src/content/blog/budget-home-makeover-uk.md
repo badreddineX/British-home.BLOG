@@ -205,3 +205,4 @@ Across 14 rooms makeovers tracked for this post, the average spend to achieve a 
 
 → For living room specific budget ideas see [Living Room on a Budget UK](/blog/living-room-budget-ideas-uk/).
 → For small living room ideas see [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
+→ For kitchen-specific styling ideas see [Kitchen Decor Ideas UK](/blog/kitchen-decor-ideas-uk/).
