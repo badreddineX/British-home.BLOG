@@ -55,7 +55,7 @@ const related = allPosts
   .slice(0, 3);
 
 // Related-article thumbnails (320x220 slot) don't need the raw source image.
-const cardImg = (img: string) => img.replace('/images/', '/images/card/');
+const cardImg = (img: string) => img.replace('/images/', '/images/card/').replace(/\.(jpe?g|png)$/i, '.webp');
 ---
 
 <html lang="en-GB">

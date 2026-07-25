@@ -44,7 +44,7 @@ const posts = allPosts
   .sort((a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime());
 
 // Grid cards don't need the raw source image (many are 1400x2100+).
-const cardImg = (img: string) => img.replace('/images/', '/images/card/');
+const cardImg = (img: string) => img.replace('/images/', '/images/card/').replace(/\.(jpe?g|png)$/i, '.webp');
 ---
 
 <html lang="en-GB">

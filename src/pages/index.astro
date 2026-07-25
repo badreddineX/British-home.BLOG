@@ -32,9 +32,9 @@ function fmtDate(d: string) {
 // the raw source image (many are 1400x2100+). Pre-generated variants sized
 // per slot cut this page's image weight dramatically (confirmed via PSI:
 // 461KB/1.4MB wasted before this fix).
-const smallImg    = (img: string) => img.replace('/images/', '/images/small/');
-const cardImg      = (img: string) => img.replace('/images/', '/images/card/');
-const featuredImg  = (img: string) => img.replace('/images/', '/images/featured/');
+const smallImg    = (img: string) => img.replace('/images/', '/images/small/').replace(/\.(jpe?g|png)$/i, '.webp');
+const cardImg      = (img: string) => img.replace('/images/', '/images/card/').replace(/\.(jpe?g|png)$/i, '.webp');
+const featuredImg  = (img: string) => img.replace('/images/', '/images/featured/').replace(/\.(jpe?g|png)$/i, '.webp');
 ---
 
 <html lang="en-GB">

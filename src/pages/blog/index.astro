@@ -11,7 +11,7 @@ const sortedPosts = allPosts.sort(
 );
 
 // Grid cards don't need the raw source image (many are 1400x2100+).
-const cardImg = (img: string) => img.replace('/images/', '/images/card/');
+const cardImg = (img: string) => img.replace('/images/', '/images/card/').replace(/\.(jpe?g|png)$/i, '.webp');
 
 const categories = [
   { label: 'All Posts',      slug: '' },
