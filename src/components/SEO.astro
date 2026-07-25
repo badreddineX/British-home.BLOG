@@ -1,4 +1,7 @@
 ---
+import sharp from 'sharp';
+import { join } from 'node:path';
+
 interface Props {
   title: string;
   description: string;
@@ -33,6 +36,23 @@ const fullUrl = canonicalPath
   : siteUrl;
 const fullImage = image.startsWith('http') ? image : `${siteUrl}${image}`;
 const pageTitle = title.includes('British Home Interior') ? title : `${title} | British Home Interior`;
+
+// Pinterest Rich Pins and Facebook/LinkedIn crop og:image to the declared
+// width/height, not the file's real dimensions -- a hardcoded 1200x630 lied
+// for images that are actually ~1400x933 or portrait-oriented. Read the
+// real file so the declaration always matches reality.
+let ogImageWidth: number | null = null;
+let ogImageHeight: number | null = null;
+if (!image.startsWith('http')) {
+  try {
+    const imgPath = join(process.cwd(), 'public', image);
+    const meta = await sharp(imgPath).metadata();
+    ogImageWidth = meta.width ?? null;
+    ogImageHeight = meta.height ?? null;
+  } catch {
+    // Leave null -- platforms fall back to reading the image's own header.
+  }
+}
 ---
 
 <!-- Primary Meta Tags -->
@@ -51,8 +71,8 @@ const pageTitle = title.includes('British Home Interior') ? title : `${title} | 
 <meta property="og:description" content={description} />
 <meta property="og:url" content={fullUrl} />
 <meta property="og:image" content={fullImage} />
-<meta property="og:image:width" content="1200" />
-<meta property="og:image:height" content="630" />
+{ogImageWidth  && <meta property="og:image:width"  content={String(ogImageWidth)} />}
+{ogImageHeight && <meta property="og:image:height" content={String(ogImageHeight)} />}
 <meta property="og:locale" content="en_GB" />
 <meta property="og:site_name" content="British Home Interior" />
 
