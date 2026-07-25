@@ -174,7 +174,7 @@ Total: ~£20–£35.
 
 ## Bathroom Budget Makeover — Under £40
 
-Like kitchens, bathrooms give the lowest renovation return per pound. But a few targeted changes make a real difference.
+Like kitchens, bathrooms give the lowest renovation return per pound. But a few targeted changes make a real difference — see [small bathroom storage ideas UK](/blog/bathroom-storage-ideas-uk) for the no-drill storage side of this same room.
 
 **Step 1: Replace towels and bath mat — ~£20–£30**
 Matching towels in a consistent colour (white is always right, or a strong single colour like deep navy or sage green) plus a new bath mat immediately improve the look of any bathroom. Dunelm stocks towel sets from ~£12 for two.

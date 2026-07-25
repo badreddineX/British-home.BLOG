@@ -176,7 +176,7 @@ The goal isn't minimalism — it's managed visibility. Everything you need daily
 
 This costs nothing and takes an afternoon. It's one of the highest-impact changes on this list.
 
-Storage baskets to hide clutter — from ~£8 each at Dunelm.
+Storage baskets to hide clutter — from ~£8 each at Dunelm. For the full wardrobe and under-bed system, see [small bedroom storage ideas UK](/blog/small-bedroom-storage-uk).
 
 ---
 

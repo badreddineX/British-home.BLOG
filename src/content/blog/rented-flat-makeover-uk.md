@@ -81,11 +81,11 @@ Large jute rug 200x290cm — from ~£85 at Dunelm. This is the makeover purchase
 
 ## 4. Bring In Freestanding Furniture to Create Structure
 
-Most rented flats in the UK have two defining characteristics: not enough storage and not enough structure. Both are solved by freestanding furniture that belongs to you, goes with you, and requires nothing fixed to any wall.
+Most rented flats in the UK have two defining characteristics: not enough storage and not enough structure. Both are solved by freestanding furniture that belongs to you, goes with you, and requires nothing fixed to any wall. See [21 small flat storage ideas UK](/blog/small-flat-storage-ideas-uk) for the full room-by-room breakdown.
 
 IKEA's KALLAX shelving unit (from ~£45 for the 2x2 configuration) is the single most versatile piece of freestanding furniture available to UK renters. It works as a room divider, a bookshelf, a TV unit, and a storage system simultaneously. The 4x4 configuration (~£115) covers an entire wall without touching it.
 
-IKEA's BILLY bookcase (from ~£55) gives height and vertical structure to any room. A pair of identical units flanking a sofa or bed creates a built-in look without any building work. For bedroom storage, a freestanding wardrobe (IKEA PAX from ~£115 without doors) frequently provides better storage than the built-in alternatives in older rented flats — and it moves with you when you leave.
+IKEA's BILLY bookcase (from ~£55) gives height and vertical structure to any room. A pair of identical units flanking a sofa or bed creates a built-in look without any building work. For [bedroom storage](/blog/small-bedroom-storage-uk), a freestanding wardrobe (IKEA PAX from ~£115 without doors) frequently provides better storage than the built-in alternatives in older rented flats — and it moves with you when you leave.
 
 A console table (from ~£45 at Wayfair) in the hallway defines the entrance and provides both surface and storage. It's the hallway version of what a rug does for the living room: it makes the space feel deliberate rather than transitional.
 
