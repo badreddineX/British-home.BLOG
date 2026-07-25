@@ -45,7 +45,6 @@ const featuredImg  = (img: string) => img.replace('/images/', '/images/featured/
       type="website"
       canonicalPath="/"
     />
-    <link rel="preload" as="video" href="/videos/hero-sd.mp4" media="(max-width: 768px)" fetchpriority="high" />
     <link rel="preload" as="video" href="/videos/hero-hd.mp4" media="(min-width: 769px)" fetchpriority="high" />
   </head>
   <body>
@@ -63,14 +62,12 @@ const featuredImg  = (img: string) => img.replace('/images/', '/images/featured/
           <video
             id="hero-video"
             class="hero-video"
-            autoplay
             muted
             loop
             playsinline
-            preload="auto"
+            preload="none"
             poster="/images/hero-poster.jpg"
           >
-            <source src="/videos/hero-sd.mp4" type="video/mp4" media="(max-width: 768px)" />
             <source src="/videos/hero-hd.mp4" type="video/mp4" />
           </video>
           <div class="hero-overlay"></div>
@@ -353,16 +350,23 @@ const featuredImg  = (img: string) => img.replace('/images/', '/images/featured/
     var video = document.getElementById('hero-video');
     if (!video) return;
 
-    // Responsive source is handled declaratively via <source media> in the
-    // markup — do not touch video.src/load() here. Setting .src directly on
-    // the <video> element overrides all child <source> tags and forces a
-    // second load, which can race with the browser's own source selection.
+    // Video hero is desktop-only. Chrome's native <source media> selection
+    // was found (via PageSpeed Insights mobile audit) to still fetch the
+    // non-matching source in addition to the matching one, doubling video
+    // bytes on mobile. Gating with matchMedia + preload="none" guarantees
+    // zero video bytes on mobile — the CSS background-image poster
+    // (.hero { background-image: var(--hero-bg) }) covers the visual.
+    if (!window.matchMedia('(min-width: 769px)').matches) {
+      video.remove();
+      return;
+    }
 
     // No manual error->hide handler: the <video poster> attribute already
     // falls back to the poster image natively on any load/decode failure,
     // so a JS handler that force-hides on 'error' only adds a way to turn
     // a transient network hiccup into a permanently blank hero on refresh.
 
+    video.preload = 'auto';
     var playing = video.play();
     if (playing && playing.catch) {
       playing.catch(function () {
