@@ -42,6 +42,9 @@ const allPosts = await getCollection('blog');
 const posts = allPosts
   .filter(p => p.data.category === categoryName)
   .sort((a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime());
+
+// Grid cards don't need the raw source image (many are 1400x2100+).
+const cardImg = (img: string) => img.replace('/images/', '/images/card/');
 ---
 
 <html lang="en-GB">
@@ -75,7 +78,7 @@ const posts = allPosts
             <div class="bl-card">
               <a href={`/blog/${post.id}/`} class="bl-card-img-wrap" tabindex="-1" aria-hidden="true">
                 <img
-                  src={post.data.image}
+                  src={cardImg(post.data.image)}
                   alt={post.data.title}
                   width="720"
                   height="480"

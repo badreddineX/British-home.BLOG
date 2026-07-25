@@ -10,6 +10,9 @@ const sortedPosts = allPosts.sort(
   (a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime()
 );
 
+// Grid cards don't need the raw source image (many are 1400x2100+).
+const cardImg = (img: string) => img.replace('/images/', '/images/card/');
+
 const categories = [
   { label: 'All Posts',      slug: '' },
   { label: 'Living Room',    slug: 'living-room' },
@@ -96,7 +99,7 @@ function fmtDate(d: string) {
               <article class="bl-card">
                 <a href={`/blog/${post.id}/`} class="bl-card-img-wrap" tabindex="-1" aria-hidden="true">
                   <img
-                    src={post.data.image}
+                    src={cardImg(post.data.image)}
                     alt={post.data.title}
                     width="720"
                     height="480"

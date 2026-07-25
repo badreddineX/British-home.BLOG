@@ -53,6 +53,9 @@ const related = allPosts
   .filter(p => p.id !== slug && p.data.category?.toLowerCase() === category.toLowerCase())
   .sort((a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime())
   .slice(0, 3);
+
+// Related-article thumbnails (320x220 slot) don't need the raw source image.
+const cardImg = (img: string) => img.replace('/images/', '/images/card/');
 ---
 
 <html lang="en-GB">
@@ -82,6 +85,7 @@ const related = allPosts
             width="1400"
             height="560"
             loading="eager"
+            fetchpriority="high"
             decoding="async"
             class="post-hero-img"
           />
@@ -191,7 +195,7 @@ const related = allPosts
                 <a href={`/blog/${post.id}/`} class="related-card">
                   <div class="related-card-img img-wrap">
                     <img
-                      src={post.data.image}
+                      src={cardImg(post.data.image)}
                       alt={post.data.title}
                       width="320"
                       height="220"

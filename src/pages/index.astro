@@ -27,6 +27,14 @@ const col4 = makeovers.length  ? makeovers  : fallback;
 function fmtDate(d: string) {
   return new Date(d).toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
 }
+
+// Card slots on this page range from 200x160 up to 620x420 -- none need
+// the raw source image (many are 1400x2100+). Pre-generated variants sized
+// per slot cut this page's image weight dramatically (confirmed via PSI:
+// 461KB/1.4MB wasted before this fix).
+const smallImg    = (img: string) => img.replace('/images/', '/images/small/');
+const cardImg      = (img: string) => img.replace('/images/', '/images/card/');
+const featuredImg  = (img: string) => img.replace('/images/', '/images/featured/');
 ---
 
 <html lang="en-GB">
@@ -93,7 +101,7 @@ function fmtDate(d: string) {
             <div class="featured-card">
               <a href={`/blog/${featured.id}/`} class="featured-img-wrap img-wrap">
                 <img
-                  src={featured.data.image}
+                  src={featuredImg(featured.data.image)}
                   alt={featured.data.title}
                   width="620"
                   height="420"
@@ -127,7 +135,7 @@ function fmtDate(d: string) {
                 {post.data.image && (
                   <div class="recent-card-img img-wrap">
                     <img
-                      src={post.data.image}
+                      src={cardImg(post.data.image)}
                       alt={post.data.title}
                       width="400"
                       height="260"
@@ -183,7 +191,7 @@ function fmtDate(d: string) {
             {col1.map(post => (
               <a href={`/blog/${post.id}/`} class="h-card">
                 <div class="h-card-thumb">
-                  <img src={post.data.image} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
+                  <img src={smallImg(post.data.image)} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
                 </div>
                 <div class="h-card-body">
                   <span class="h-card-cat">{post.data.category ?? 'Interiors'}</span>
@@ -200,7 +208,7 @@ function fmtDate(d: string) {
             {col2.map(post => (
               <a href={`/blog/${post.id}/`} class="h-card">
                 <div class="h-card-thumb img-wrap">
-                  <img src={post.data.image} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
+                  <img src={smallImg(post.data.image)} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
                 </div>
                 <div class="h-card-body">
                   <span class="h-card-cat">{post.data.category ?? 'Interiors'}</span>
@@ -221,7 +229,7 @@ function fmtDate(d: string) {
             {col3.map(post => (
               <a href={`/blog/${post.id}/`} class="h-card">
                 <div class="h-card-thumb img-wrap">
-                  <img src={post.data.image} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
+                  <img src={smallImg(post.data.image)} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
                 </div>
                 <div class="h-card-body">
                   <span class="h-card-cat">{post.data.category ?? 'Interiors'}</span>
@@ -238,7 +246,7 @@ function fmtDate(d: string) {
             {col4.map(post => (
               <a href={`/blog/${post.id}/`} class="h-card">
                 <div class="h-card-thumb img-wrap">
-                  <img src={post.data.image} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
+                  <img src={smallImg(post.data.image)} alt={post.data.title} width="200" height="160" loading="lazy" decoding="async" />
                 </div>
                 <div class="h-card-body">
                   <span class="h-card-cat">{post.data.category ?? 'Interiors'}</span>
