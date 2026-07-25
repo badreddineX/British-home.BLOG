@@ -157,7 +157,7 @@ Total: ~£57–£90.
 
 ## Kitchen Budget Makeover — Under £50
 
-Kitchens are expensive to properly renovate and offer the lowest visual return per pound of any room at budget level. Full refits cost £5,000–£30,000+. But surface-level changes can make a dated kitchen feel considerably fresher for under £50.
+Kitchens are expensive to properly renovate and offer the lowest visual return per pound of any room at budget level. Full refits cost £5,000–£30,000+. But surface-level changes can make a dated kitchen feel considerably fresher for under £50 — see [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk) for 14 more ideas in the same range.
 
 **Step 1: Replace handles — ~£15–£25**
 Swapping out cabinet door handles is the kitchen equivalent of changing cushion covers. New handles in a contemporary finish (brushed brass, matte black, antique brass) completely change the character of existing cabinets. Available from B&Q from ~£2 each, or Amazon UK for sets of 10 from ~£15.

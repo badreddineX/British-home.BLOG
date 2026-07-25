@@ -1,6 +1,6 @@
 ---
 title: "Cottagecore Home Decor Ideas UK"
-description: "Full cottagecore guide for UK homes — living room, kitchen, hallway, British plants, vintage sourcing, and retailer picks. Authentic British cottagecore styling."
+description: "Full cottagecore guide for UK homes — living room, kitchen, hallway, British plants, vintage sourcing, and retailer picks. Authentic British styling."
 image: "/images/pexels-4273433.jpg"
 datePublished: "2026-04-03"
 dateModified: "2026-07-25"

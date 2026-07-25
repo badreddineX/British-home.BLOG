@@ -195,3 +195,4 @@ Storage baskets to hide clutter — from ~£8 each at Dunelm. For the full wardr
 
 → For a deeper guide to bedroom cosiness see [Cosy Bedroom Decor Ideas UK](/blog/cosy-bedroom-ideas-uk/).
 → For renter-safe bedroom changes see [Rented Home Decor Ideas UK](/blog/rented-home-decor-ideas-uk/).
+→ Doing the whole room at once? [Bedroom makeover UK](/blog/bedroom-makeover-uk/) walks through the full transformation start to finish.

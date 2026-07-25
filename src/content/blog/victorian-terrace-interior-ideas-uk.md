@@ -1,6 +1,6 @@
 ---
 title: "Victorian Terrace Interior Ideas"
-description: "Specific interior guide for Victorian terraced houses — restoring cornicing, fireplaces and encaustic tiles, period-appropriate colour palettes, mixing old and new."
+description: "Interior guide for Victorian terraced houses — restoring cornicing, fireplaces and encaustic tiles, period-appropriate colour palettes, mixing old and new."
 image: "/images/pexels-3757055.jpg"
 datePublished: "2026-04-17"
 dateModified: "2026-07-25"

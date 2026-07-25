@@ -167,7 +167,7 @@ Keep the original handles in a bag and reinstall them when you leave. The whole 
 
 This also works on interior doors if your rented flat has builder-standard white lever handles. A set of matte black door handles from B&Q (~£6-£8 each) changes the entire feel of the hallway and every room it leads to. Store the originals carefully. Reinstall on exit. No deposit impact.
 
-Brushed brass cabinet handles — from ~£2 each at B&Q. Full kitchen swap typically costs under £25.
+Brushed brass cabinet handles — from ~£2 each at B&Q. Full kitchen swap typically costs under £25. For more kitchen-specific upgrades in the same range, see [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk).
 
 ---
 
