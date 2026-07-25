@@ -1,9 +1,9 @@
 ---
-title: "Small Living Room Ideas UK: 11 Ways to Feel Bigger"
+title: "11 Small Living Room Ideas UK"
 description: "11 practical small living room ideas for UK flats — layout tricks, mirror placement, rug sizing, lighting and furniture tips. Real fixes for small British spaces."
 image: "/images/pexels-276583.jpg"
 datePublished: "2026-03-13"
-dateModified: "2026-03-13"
+dateModified: "2026-07-25"
 author: "Badreddine"
 tags: ["small living room ideas UK", "small living room UK", "small flat living room", "living room ideas small space", "compact living room UK"]
 featured: false

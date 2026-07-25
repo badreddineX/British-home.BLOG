@@ -1,9 +1,9 @@
 ---
-title: "How to Style a Living Room UK: Step-by-Step Guide"
+title: "How to Style a Living Room UK"
 description: "How to style a living room in the UK from scratch — focal points, furniture layout, lighting layers, and textiles. Practical steps with UK retailer prices."
 image: "/images/pexels-2082087.jpg"
 datePublished: "2026-01-16"
-dateModified: "2026-01-16"
+dateModified: "2026-07-25"
 author: "Badreddine"
 tags: ["how to style a living room UK", "living room styling tips UK", "living room layout UK", "living room decor UK", "British interior styling"]
 featured: false

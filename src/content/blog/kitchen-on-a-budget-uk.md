@@ -1,9 +1,9 @@
 ---
-title: "Kitchen on a Budget UK: 14 Upgrades Without Renovation"
+title: "Kitchen on a Budget UK: 14 Ideas"
 description: "14 budget kitchen upgrades for UK homes — paint cabinets, swap handles, add open shelving, and refresh worktops without spending thousands."
 image: "/images/pexels-1080721.jpg"
 datePublished: "2026-02-10"
-dateModified: "2026-02-10"
+dateModified: "2026-07-25"
 author: "Badreddine"
 tags: ["kitchen on a budget UK", "budget kitchen ideas UK", "kitchen upgrade UK", "cheap kitchen makeover UK"]
 featured: false

@@ -1,9 +1,9 @@
 ---
-title: "Rented Home Decor Ideas UK: 13 Deposit-Safe Ways"
+title: "13 Rented Home Decor Ideas UK"
 description: "13 fully reversible decorating ideas for UK renters — peel-and-stick wallpaper, Command hooks, plug-in lighting and freestanding furniture. Keep your deposit."
 image: "/images/pexels-1918291.jpg"
 datePublished: "2026-02-20"
-dateModified: "2026-02-20"
+dateModified: "2026-07-25"
 author: "Badreddine"
 tags: ["rented home decor ideas UK", "renter decorating UK", "deposit-safe decor UK", "rented flat decor", "renters home ideas UK"]
 featured: false
