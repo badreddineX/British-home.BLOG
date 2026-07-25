@@ -5,7 +5,7 @@ export default defineConfig({
   site: 'https://britishhomeinterior.co.uk',
   integrations: [
     sitemap({
-      filter: (page) => !page.endsWith('/404/'),
+      filter: (page) => !page.endsWith('/404/') && !page.endsWith('/thank-you/'),
     }),
   ],
   redirects: {
