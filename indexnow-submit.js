@@ -7,6 +7,7 @@ const urlList = [
   "https://britishhomeinterior.co.uk/about/",
   "https://britishhomeinterior.co.uk/blog/",
   "https://britishhomeinterior.co.uk/blog/autumn-home-decor-ideas-uk/",
+  "https://britishhomeinterior.co.uk/blog/bathroom-storage-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/bedroom-colour-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/bedroom-decor-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/bedroom-makeover-uk/",
@@ -31,6 +32,8 @@ const urlList = [
   "https://britishhomeinterior.co.uk/blog/modern-home-interior-uk/",
   "https://britishhomeinterior.co.uk/blog/rented-flat-makeover-uk/",
   "https://britishhomeinterior.co.uk/blog/rented-home-decor-ideas-uk/",
+  "https://britishhomeinterior.co.uk/blog/small-bedroom-storage-uk/",
+  "https://britishhomeinterior.co.uk/blog/small-flat-storage-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/small-living-room-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/small-living-room-layout-ideas/",
   "https://britishhomeinterior.co.uk/blog/spring-home-refresh-ideas-uk/",
@@ -38,7 +41,6 @@ const urlList = [
   "https://britishhomeinterior.co.uk/blog/winter-cosy-home-ideas-uk/",
   "https://britishhomeinterior.co.uk/privacy-policy/",
   "https://britishhomeinterior.co.uk/terms-of-use/",
-  "https://britishhomeinterior.co.uk/thank-you/",
 ];
 
 async function main() {
