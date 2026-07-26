@@ -1,4 +1,6 @@
 ---
+import sharp from 'sharp';
+import { join } from 'node:path';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import SEO from '../components/SEO.astro';
@@ -47,6 +49,22 @@ const fmtDate = (d: string) =>
 
 const h2s = headings.filter(h => h.depth === 2);
 
+// The hero banner is a very wide 21:8 crop on desktop (4:3 on mobile).
+// object-fit: cover looks fine on wide source photos but crops portrait/
+// square photos brutally. Below this ratio, letterbox instead of cropping.
+let isPortraitHero = false;
+if (!image.startsWith('http')) {
+  try {
+    const imgPath = join(process.cwd(), 'public', image);
+    const meta = await sharp(imgPath).metadata();
+    if (meta.width && meta.height) {
+      isPortraitHero = (meta.width / meta.height) < 1.3;
+    }
+  } catch {
+    // Leave false -- worst case is the existing crop behavior, not a build failure.
+  }
+}
+
 // Related posts: same category, excluding current
 const allPosts = await getCollection('blog');
 const related = allPosts
@@ -78,7 +96,7 @@ const cardImg = (img: string) => img.replace('/images/', '/images/card/').replac
 
       <!-- ====== POST HERO ====== -->
       <div class="post-hero">
-        <div class="img-wrap post-hero-img-wrap">
+        <div class:list={["img-wrap", "post-hero-img-wrap", isPortraitHero && "portrait-hero"]}>
           <img
             src={image}
             alt={title}
@@ -292,6 +310,11 @@ const cardImg = (img: string) => img.replace('/images/', '/images/card/').replac
   }
 
   .post-hero-img { width: 100%; height: 100%; object-fit: cover; }
+  /* Portrait/square source photos crop badly under object-fit: cover in this
+     very wide (21:8) banner -- show the full photo instead, letterboxed on a
+     dark backdrop rather than cutting off the top/bottom of the composition. */
+  .portrait-hero { background: var(--color-dark); }
+  .portrait-hero .post-hero-img { object-fit: contain; object-position: center center; }
 
   /* White card centred over image */
   .post-hero-card {
