@@ -8,7 +8,7 @@ Full pass: all 30 pin sets checked (the "A" variant of each), same method as the
 
 ### 1. `bedroom-colour-ideas-A` — framed photo shows the Brooklyn Bridge / Manhattan skyline
 The bed's headboard wall has a large framed print unmistakably showing the Brooklyn Bridge and Manhattan skyline (New York). This pin is titled "Bedroom Colour Ideas UK" — a direct, visible contradiction. Same category of issue as Canada's Denver Broncos stadium pin.
-**Fix:** swap the photo for a UK-appropriate bedroom, or at minimum one with no identifiable non-UK landmark art.
+**Status (2026-07-26): FIXED.** All three variants (A/B/C) shared this same NYC photo -- confirmed and replaced across all three, rebuilt to match each layout's exact text/positioning (full-bleed scrim, top-photo cream-panel, and dark-green bordered-frame layouts). New source photo: neutral bedroom, blank picture frame, no identifiable landmarks, CC0-licensed.
 
 ### 2. `cosy-bedroom-ideas-A` — this is a hotel room, not a home
 Visible tells: a coffee/tea amenities tray on a stand, a wall-mounted air conditioning unit, a laptop open on a small round table — classic hotel room staging, not someone's actual bedroom. The blog's whole positioning is "real homes, real budgets" — a hotel room directly undercuts that.
