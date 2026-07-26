@@ -97,6 +97,7 @@ const featuredImg  = (img: string) => img.replace('/images/', '/images/featured/
       <!-- ====== INTRO — real unique copy, not navigation ====== -->
       <section class="intro-section" aria-labelledby="intro-heading">
         <div class="container intro-inner">
+          <span class="intro-eyebrow">Welcome to British Home Interior</span>
           <h2 id="intro-heading" class="intro-h">Real homes, real budgets, no dollars-to-pounds guesswork</h2>
           <p class="intro-p">
             Most home styling content online is American — different stores, different budgets, and
@@ -523,6 +524,16 @@ const featuredImg  = (img: string) => img.replace('/images/', '/images/featured/
     background: var(--color-bg);
   }
   .intro-inner { max-width: 720px; }
+  .intro-eyebrow {
+    display: block;
+    font-family: var(--font-body);
+    font-size: 0.68rem;
+    font-weight: 600;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--color-primary);
+    margin-bottom: 10px;
+  }
   .intro-h {
     font-family: var(--font-display);
     font-size: clamp(1.3rem, 5vw, 1.8rem);
