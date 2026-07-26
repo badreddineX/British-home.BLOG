@@ -1,6 +1,6 @@
 # Pinterest Pins — QA & Fix Sheet (UK)
 
-Full pass: 21 of 30 total sets checked (the "A" variant of each), same method as the Canada blog's `PIN-QA-FIXES.md`. Started with the 9 currently-live pins, then continued through the rest of the unposted inventory.
+Full pass: all 30 pin sets checked (the "A" variant of each), same method as the Canada blog's `PIN-QA-FIXES.md`. Started with the 9 currently-live pins, then continued through the rest of the unposted inventory.
 
 ---
 
@@ -38,17 +38,25 @@ Exposed brick with visible high-rise buildings through the window is a converted
 Unusual for a "British Homes" pin — UK homes overwhelmingly use radiators, not wall-mounted AC/heat-pump units, which are far more common in mainland Europe/Asia. Minor detail, easy to miss, but a real authenticity tell.
 **Fix:** optional, low priority. Could crop the unit out or swap the photo.
 
+### 8. `style-a-living-room-A` — photo shows a bedroom, not a living room
+The image is a bed with nightstands, not a living room. Wrong room type entirely — not a styling nitpick, the room in the photo doesn't match the room in the title.
+**Fix:** swap for an actual living room photo.
+
+### 9. `maximalist-home-decor-A` — sparse/minimal photo used for a "Maximalist" pin, same source image as #8
+Uses the identical bedroom photo as `style-a-living-room-A`. The styling is minimal and sparse — the direct opposite of "Maximalist" and the pin's own "Bold, Not Cluttered" kicker. Two problems: wrong aesthetic, and it's a duplicate source image shared with another pin.
+**Fix:** needs a genuinely maximalist/bold-decor photo, and ideally not the same source image as another live pin.
+
 ---
 
 ## 🟢 Checked clean, no issue found
 
-- `cottagecore-bedroom-A`, `budget-home-makeover-A`, `bedroom-makeover-A`, `bedroom-decor-ideas-A`, `autumn-home-decor-A`, `cosy-home-decor-A`, `victorian-terrace-A` (generic but not wrong), `dark-moody-home-decor-A`, `hallway-decor-ideas-A`, `living-room-colour-schemes-A`, `winter-cosy-home-A`, `small-living-room-A`, `modern-home-interior-A`, `spring-home-refresh-A`
+- `cottagecore-bedroom-A`, `budget-home-makeover-A`, `bedroom-makeover-A`, `bedroom-decor-ideas-A`, `autumn-home-decor-A`, `cosy-home-decor-A`, `victorian-terrace-A` (generic but not wrong), `dark-moody-home-decor-A`, `hallway-decor-ideas-A`, `living-room-colour-schemes-A`, `winter-cosy-home-A`, `small-living-room-A`, `modern-home-interior-A`, `spring-home-refresh-A`, `cottagecore-home-decor-A`, `home-decor-inspiration-A`, `home-interior-ideas-A`, `kitchen-decor-ideas-A`, `living-room-budget-A`, `living-room-ideas-A`, `small-living-room-layout-A`
 
 ---
 
-## Not yet checked
+## Coverage
 
-9 of 30 pin sets remain: `cottagecore-home-decor`, `home-decor-inspiration`, `home-interior-ideas`, `kitchen-decor-ideas`, `living-room-budget`, `living-room-ideas`, `small-living-room-layout`, `style-a-living-room`, `maximalist-home-decor`. Plus the 12 scheduled (not-yet-published) pins haven't been checked at all.
+All 30 pin sets' "A" variant checked. The B/C variants within each set and the 12 currently-scheduled (not-yet-published) pins have not been individually reviewed -- worth a pass if any of the 9 flagged sets above get their A image swapped, to check whether the B/C variants share the same defect (likely, since they're usually the same source photo in a different layout).
 
 ## Pattern worth noting
 
