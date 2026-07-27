@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url';
 
 const SRC_DIR = join(dirname(fileURLToPath(import.meta.url)), '..', 'public', 'images');
 const CARD_DIR = join(SRC_DIR, 'card');
-const WIDTH = 480, HEIGHT = 300, QUALITY = 82;
+const WIDTH = 960, HEIGHT = 600, QUALITY = 88; // 2x retina-safe for the card display width
 
 const files = process.argv.slice(2);
 
@@ -23,7 +23,7 @@ for (const name of files) {
 
   const webpBuf = await sharp(src)
     .resize({ width: WIDTH, height: HEIGHT, fit: 'cover' })
-    .webp({ quality: 80 })
+    .webp({ quality: 85 })
     .toBuffer();
   await writeFile(webpOut, webpBuf);
 
