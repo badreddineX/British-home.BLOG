@@ -1,7 +1,7 @@
 ---
 title: "Budget Kitchen Flooring Ideas UK: Cheap Options That Actually Last"
 description: "Cheap kitchen flooring ideas UK homeowners can fit in a weekend, including click vinyl over lino, peel-and-stick tiles, and when to avoid laying over old floors."
-image: "/images/pexels-2082087.jpg"
+image: "/images/placeholder.svg"
 datePublished: "2026-07-27"
 dateModified: "2026-07-27"
 author: "Badreddine"
