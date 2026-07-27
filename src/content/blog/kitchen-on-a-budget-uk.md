@@ -287,4 +287,13 @@ The full list, priced at mid-range, comes to roughly £410–£830. That sounds 
 
 - [Budget Home Makeover UK: Transform Any Room for Under £150](/blog/budget-home-makeover-uk)
 - [Living Room on a Budget UK: 10 Ideas Under £100 That Actually Work](/blog/living-room-budget-ideas-uk)
+
+**Going deeper on kitchens specifically:**
+
+- [Budget Kitchen Cabinet Makeover Ideas UK](/blog/budget-kitchen-cabinet-makeover-uk)
+- [Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk)
+- [Small Kitchen Storage Ideas on a Budget UK](/blog/small-kitchen-storage-ideas-budget-uk)
+- [Budget Kitchen Worktop Makeover Ideas UK](/blog/budget-kitchen-worktop-makeover-uk)
+- [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk)
+- [Budget Kitchen Flooring Ideas UK](/blog/budget-kitchen-flooring-ideas-uk)
 - [Kitchen Decor Ideas UK](/blog/kitchen-decor-ideas-uk) for the styling layer once the budget renovation is done

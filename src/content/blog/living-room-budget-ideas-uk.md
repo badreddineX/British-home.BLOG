@@ -166,4 +166,5 @@ Reed diffuser in amber or sandalwood — from ~£5 at Dunelm.
 Note: Do steps 1, 4, and 6 first (total cost: ~£8) and assess. Many living rooms only need those three.
 
 → For a full living room ideas guide see [Living Room Ideas UK](/blog/living-room-ideas-uk/).
+→ For budget kitchen upgrades (similar impact-per-pound approach) see [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/).
 → For renter-specific ideas see [Rented Home Decor Ideas UK](/blog/rented-home-decor-ideas-uk/).
