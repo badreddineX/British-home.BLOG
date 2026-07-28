@@ -146,7 +146,7 @@ See our [rented flat makeover guide](/blog/rented-flat-makeover-uk/) for more de
 
 ## 8. Dark Kitchens and Bathrooms
 
-The moody trend extends beyond living rooms. Dark kitchens — navy or forest green lower cabinets, dark worktops — are one of the biggest kitchen design trends in the UK right now, according to Houzz UK's 2025 home trends report.
+The moody trend extends beyond living rooms. Dark kitchens — navy, forest green, or a genuinely moody blue on the lower cabinets, paired with dark worktops — are one of the biggest kitchen design trends in the UK right now, according to Houzz UK's 2025 home trends report.
 
 For bathrooms, dark walls (a deep teal or charcoal) with brushed brass fittings and warm lighting creates a genuinely spa-like atmosphere. Because bathrooms are typically small and used briefly, dark colours don't create the same living-in-darkness feeling they might in a bedroom or living room.
 

@@ -54,7 +54,7 @@ For the wider kitchen refresh picture beyond worktops alone, [I've covered the f
 
 Worktop wrap film is a self-adhesive vinyl sheet, usually £20–£35 for a roll around 1.5m x 0.9m from Dunelm, Amazon UK, or d-c-fix, that sticks directly onto an existing flat worktop surface. It's the cheapest full-surface option on this list and needs no tools beyond a craft knife.
 
-The finish convinces from a normal viewing distance. Marble-effect, concrete-effect, and wood-effect patterns are the most popular UK options, and I've genuinely fooled visitors with a marble-effect roll on a small section behind a kettle. Up close, under bright light, you can tell it's vinyl. Most people don't get that close.
+The finish convinces from a normal viewing distance. Marble-effect, concrete-effect, and wood-effect patterns are the most popular UK options — white oak in particular is having a moment paired with black cabinetry or fittings — and I've genuinely fooled visitors with a marble-effect roll on a small section behind a kettle. Up close, under bright light, you can tell it's vinyl. Most people don't get that close.
 
 I wrapped a 1.2-metre section of my old worktop as a test before doing the whole thing. It took about ninety minutes, most of which was spent smoothing out air bubbles with an old loyalty card. Two years on, the wrapped section still looks fine, though the edge nearest the hob has started lifting slightly from heat exposure.
 

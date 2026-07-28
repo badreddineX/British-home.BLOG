@@ -186,7 +186,7 @@ A3 art print in an IKEA Ribba frame — total ~£6.50.
 
 This is the least often mentioned kitchen styling idea and one of the most effective. The typical British kitchen worktop hosts a kettle, a toaster, and often a coffee machine or air fryer — all frequently in different colours, finishes, and eras. Mismatched appliances create a restless, unresolved look that no amount of decor can overcome.
 
-Replacing even two of the three main appliances in a matching colourway makes a substantial difference. Cream or off-white appliances suit classic and country kitchens. Black suits contemporary spaces. Sage green, cobalt blue, and red have all had strong moments in British kitchen trends. Dunelm's own-brand appliance range and Russell Hobbs both offer matching kettle-and-toaster sets from ~£45 combined. That's a single purchase that changes the entire visual register of the worktop.
+Replacing even two of the three main appliances in a matching colourway makes a substantial difference. Cream or off-white appliances suit classic and country kitchens. Black suits contemporary spaces. Sage green, cobalt blue, red, and a softer vintage pink have all had strong moments in British kitchen trends. Dunelm's own-brand appliance range and Russell Hobbs both offer matching kettle-and-toaster sets from ~£45 combined. That's a single purchase that changes the entire visual register of the worktop.
 
 Matching kettle and toaster set — from ~£45 combined at Dunelm or Russell Hobbs.
 

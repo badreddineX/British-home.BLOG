@@ -82,7 +82,7 @@ Dried botanical bundle for vases — from ~£8 at Dunelm.
 
 ## 4. The Kitchen: Earthenware, Open Shelving, and Herbs
 
-The cottagecore kitchen is the heart of the aesthetic — it's where the British farmhouse tradition lives most naturally. Open shelving displaying mismatched earthenware, a collection of ceramic mugs, glass jars of dried herbs and grains, and a jug of foraged or garden flowers on the windowsill.
+The cottagecore kitchen is the heart of the aesthetic — it's where the British farmhouse tradition lives most naturally. A darker take on this, sometimes called "dark cottagecore," swaps the pale, airy palette for deeper greens and browns while keeping the same earthenware-and-herbs styling underneath. Open shelving displaying mismatched earthenware, a collection of ceramic mugs, glass jars of dried herbs and grains, and a jug of foraged or garden flowers on the windowsill.
 
 If you have open shelving already (common in older UK kitchens), the display itself does the work. If you don't, a freestanding plate rack or open shelf unit (~£25 from IKEA) achieves the same effect without permanent installation.
 

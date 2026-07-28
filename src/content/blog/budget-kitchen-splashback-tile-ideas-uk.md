@@ -43,7 +43,7 @@ Peel-and-stick tile sheets are the cheapest genuine splashback option available,
 
 I first used peel-and-stick sheets behind a gas hob in a rented flat where retiling wasn't allowed. Two years on, they're still fully stuck down, and I've had three separate visitors ask if they're real tile. The brands I'd actually trust after using them are Crearreda and Vinyltiles, both widely stocked on Amazon UK, plus Wilko's own-brand mosaic-effect sheets from around £6 per A4 panel.
 
-Coverage varies by brand. A3-sized sheets (roughly 42cm x 30cm) need six to eight sheets for a standard splashback behind a single hob run, so budget on the higher end if your kitchen has a wide gap between worktop and wall units. Metro, hexagon, and Moroccan-tile patterns are the most convincing from a normal viewing distance.
+Coverage varies by brand. A3-sized sheets (roughly 42cm x 30cm) need six to eight sheets for a standard splashback behind a single hob run, so budget on the higher end if your kitchen has a wide gap between worktop and wall units. Metro, hexagon, and Moroccan-tile patterns are the most convincing from a normal viewing distance — a blue zellige-effect sheet is a newer option worth checking stock for if you want something with more visual texture than a flat metro tile.
 
 > Peel-and-stick tile sheets cost £25–£45 for a standard UK kitchen splashback and require no grout or permanent adhesive, making them the most renter-friendly budget splashback option currently available ([Dunelm, 2026](https://www.dunelm.com)).
 

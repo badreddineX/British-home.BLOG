@@ -166,5 +166,7 @@ Swap out the amber and clove of winter for these lighter alternatives in late Fe
 | Buy a bunch of daffodils or a hyacinth | Put in the main room and the kitchen | ~£1.50–£5 |
 | Change your scent | Reed diffuser or candle in spring tone | ~£8–£15 |
 
+This same sequence — declutter, clean, swap textiles, refresh — is what's now often called the "reset aesthetic," and it doesn't have to wait for spring. If a room's drifted at any point in the year, the same priority order above works as a mid-year reset too.
+
 → For colour inspiration, see [Living Room Colour Schemes UK](/blog/living-room-colour-schemes-uk/).
 → For the full room styling picture, see [Living Room Ideas UK](/blog/living-room-ideas-uk/).

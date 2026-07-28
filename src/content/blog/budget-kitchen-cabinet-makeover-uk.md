@@ -144,6 +144,8 @@ Handles work well as a standalone update on doors that are otherwise in decent s
 
 Most UK homeowners land somewhere between the first three rows. If your doors are structurally sound and you're comfortable with a weekend of prep work, DIY paint gives the biggest transformation for the smallest spend. If you want a longer-lasting, smoother finish and have some budget to spare, a respray or replacement doors make more sense.
 
+**Once you've picked a method, colour is the next decision.** Deep aubergine and other jewel tones are having a real moment on cabinets right now, alongside a softer "grandma core" look — sage green and warm cream paired together — for anyone who wants something gentler than stark white or all-grey.
+
 ---
 
 ## FAQ: Budget Kitchen Cabinet Makeovers

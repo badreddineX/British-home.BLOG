@@ -31,7 +31,7 @@ Most living rooms in the UK share the same problem: they were furnished in stage
 
 The result is a room that has everything it needs but doesn't quite feel like a room. It feels like a collection of objects waiting to become one.
 
-Styling a living room properly isn't about buying more things. It's about understanding the order of layers — what goes first, what responds to what, and where the eye should travel. Once you understand the sequence, it becomes logical rather than overwhelming.
+Styling a living room properly isn't about buying more things — the "vibey" living room look everyone's chasing right now comes from layering, not shopping. It's about understanding the order of layers — what goes first, what responds to what, and where the eye should travel. Once you understand the sequence, it becomes logical rather than overwhelming.
 
 I've styled and restyled my own living room several times, and I've helped friends do the same. Here's the process that works.
 
