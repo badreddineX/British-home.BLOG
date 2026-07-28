@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url';
 
 const SRC_DIR = join(dirname(fileURLToPath(import.meta.url)), '..', 'public', 'images');
 const CARD_DIR = join(SRC_DIR, 'card');
-const WIDTH = 960, HEIGHT = 600, QUALITY = 88; // 2x retina-safe for the card display width
+const WIDTH = 800, HEIGHT = 520, QUALITY = 88; // 2x retina-safe for the 400x260 card display size (see recent-card-img in index.astro)
 
 const files = process.argv.slice(2);
 
