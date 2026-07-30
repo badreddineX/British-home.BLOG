@@ -103,6 +103,8 @@ const cardImg = (img: string) => img.replace('/images/', '/images/card/').replac
         <div class:list={["img-wrap", "post-hero-img-wrap", isPortraitHero && "portrait-hero"]}>
           <img
             src={image}
+            srcset={image.startsWith('http') ? undefined : `${cardImg(image)} 800w, ${image} 1400w`}
+            sizes="(max-width: 640px) 100vw, 1400px"
             alt={title}
             width="1400"
             height="560"

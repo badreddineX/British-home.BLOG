@@ -127,6 +127,8 @@ const featuredImg  = (img: string) => img.replace('/images/', '/images/featured/
               <a href={`/blog/${featured.id}/`} class="featured-img-wrap img-wrap">
                 <img
                   src={featuredImg(featured.data.image)}
+                  srcset={`${cardImg(featured.data.image)} 800w, ${featuredImg(featured.data.image)} 1520w`}
+                  sizes="(min-width: 700px) 502px, calc(100vw - 4rem)"
                   alt={featured.data.title}
                   width="620"
                   height="420"
