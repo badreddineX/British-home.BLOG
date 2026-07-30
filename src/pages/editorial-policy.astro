@@ -1,0 +1,176 @@
+---
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import SEO from '../components/SEO.astro';
+import '../styles/global.css';
+---
+
+<html lang="en-GB">
+  <head>
+    <SEO
+      title="Editorial Policy — British Home Interior"
+      description="How British Home Interior researches, writes, and updates content — our sourcing standards, correction policy, and independence from brands."
+      type="website"
+      canonicalPath="/editorial-policy/"
+    />
+  </head>
+  <body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KZHMLD9Q"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <Header />
+
+    <main class="policy-page">
+      <section class="policy-hero">
+        <div class="policy-hero-inner">
+          <span class="policy-eyebrow">How We Work</span>
+          <h1 class="policy-heading">Editorial Policy</h1>
+          <p class="policy-sub">How we research, write, and correct what we publish.</p>
+        </div>
+      </section>
+
+      <section class="policy-body">
+        <div class="policy-inner">
+
+          <div class="policy-block">
+            <h2>Who writes this</h2>
+            <p>
+              British Home Interior is written and maintained by Badreddine, based in the UK. This
+              isn't a large editorial team — it's one person researching and testing real ideas for
+              British homes, then writing up what actually works and what doesn't. See the
+              <a href="/about/">About page</a> for the full story.
+            </p>
+          </div>
+
+          <div class="policy-block">
+            <h2>How we research and write</h2>
+            <p>
+              Every guide is built around the reality of British housing: period terraces, rented
+              flats, and tenancy restrictions that most home styling content (much of it American)
+              simply doesn't account for. Prices and retailers are checked against UK sources —
+              Dunelm, IKEA UK, Next Home, John Lewis, Wayfair UK, B&Q, Homebase, Amazon UK — rather
+              than converted from US content.
+            </p>
+            <p>
+              We use AI-assisted tools to help with research, drafting, and editing efficiency. Every
+              piece of advice, every price, and every product recommendation is reviewed by a human
+              before publishing — nothing goes live unchecked.
+            </p>
+          </div>
+
+          <div class="policy-block">
+            <h2>Product recommendations</h2>
+            <p>
+              We recommend specific products because they're genuinely useful for British homes and
+              rented flats, not because of a paid placement. If a post ever contains a sponsored
+              product or affiliate link, it will be clearly disclosed at the top of that article. As of
+              now, this site does not run affiliate links or sponsored content.
+            </p>
+          </div>
+
+          <div class="policy-block">
+            <h2>Corrections and updates</h2>
+            <p>
+              Prices, retailer stock, and product availability change. If you spot something outdated
+              or incorrect, <a href="/contact/">let us know</a> — we update posts when we confirm an
+              error, and note significant changes in the post's "last updated" date rather than
+              silently editing published claims.
+            </p>
+          </div>
+
+          <div class="policy-block">
+            <h2>What we don't do</h2>
+            <ul>
+              <li>We don't publish staged, unrealistic "after" photos we haven't actually recreated in a real UK home.</li>
+              <li>We don't inflate prices or omit cheaper alternatives to make a paid product look better.</li>
+              <li>We don't accept payment in exchange for a positive review.</li>
+            </ul>
+          </div>
+
+          <div class="policy-block">
+            <p class="policy-contact-line">
+              Questions about how a specific post was researched or written? <a href="/contact/">Contact us</a> — we're happy to explain.
+            </p>
+          </div>
+
+        </div>
+      </section>
+    </main>
+
+    <Footer />
+  </body>
+</html>
+
+<style>
+.policy-page { background: var(--color-bg); }
+
+.policy-hero {
+  background: var(--color-heading);
+  padding: 6rem 2rem 4rem;
+}
+.policy-hero-inner { max-width: 780px; margin: 0 auto; }
+.policy-eyebrow {
+  font-family: var(--font-body);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--color-gold);
+  display: block;
+  margin-bottom: 1rem;
+}
+.policy-heading {
+  font-family: var(--font-display);
+  font-size: clamp(2.2rem, 5vw, 3.4rem);
+  font-weight: 700;
+  color: #fff;
+  margin: 0 0 1rem;
+  line-height: 1.1;
+}
+.policy-sub {
+  font-family: var(--font-body);
+  font-size: 1rem;
+  color: rgba(255,255,255,0.72);
+  margin: 0;
+}
+
+.policy-body { background: #fff; padding: 4.5rem 2rem 6rem; }
+.policy-inner { max-width: 780px; margin: 0 auto; }
+.policy-block { margin-bottom: 2.75rem; }
+.policy-block:last-child { margin-bottom: 0; }
+.policy-block h2 {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--color-heading);
+  margin: 0 0 1rem;
+}
+.policy-block p {
+  font-size: 0.95rem;
+  line-height: 1.85;
+  color: var(--color-text-muted);
+  margin: 0 0 1.1rem;
+}
+.policy-block p:last-child { margin-bottom: 0; }
+.policy-block a { color: var(--color-gold); }
+.policy-block ul {
+  margin: 0;
+  padding-left: 1.3rem;
+  color: var(--color-text-muted);
+}
+.policy-block ul li {
+  font-size: 0.95rem;
+  line-height: 1.85;
+  margin-bottom: 0.5rem;
+}
+.policy-contact-line {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 1.05rem !important;
+  color: var(--color-gold) !important;
+}
+
+@media (max-width: 640px) {
+  .policy-hero { padding: 4rem 1.25rem 3rem; }
+  .policy-body { padding: 3rem 1.25rem 4rem; }
+}
+</style>
