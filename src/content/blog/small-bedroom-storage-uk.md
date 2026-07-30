@@ -164,7 +164,7 @@ Complete the first five steps of the priority order before considering larger pu
 
 **Related reading you might find useful:**
 
-- [21 small flat storage ideas UK](/blog/small-flat-storage-ideas-uk) for storage solutions in every other room
+- [21 small flat storage ideas UK](/blog/small-bedroom-storage-uk) for storage solutions in every other room
 - [Bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk) for the visual side once storage is sorted — colour, lighting, and layout for a bedroom that feels calm, not just organised
 - [Bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk) once the storage basics are in place
 - [Bedroom makeover UK](/blog/bedroom-makeover-uk) if you're tackling the whole room at once, storage included

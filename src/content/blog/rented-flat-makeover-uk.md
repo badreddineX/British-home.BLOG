@@ -37,8 +37,6 @@ I've rented for nine years across six different properties in the UK. Three of t
 
 ---
 
-Read more: [rented home decor ideas UK](/blog/rented-home-decor-ideas-uk/)
-
 ## 1. Start With the Light Bulbs — Every Single One
 
 This is the highest-impact change in any rented flat and it costs under £20. Most British rentals come fitted with either bare bulbs or 4000K-6500K "cool white" or "daylight" bulbs. These make every room feel like a waiting room.
@@ -81,7 +79,7 @@ Large jute rug 200x290cm — from ~£85 at Dunelm. This is the makeover purchase
 
 ## 4. Bring In Freestanding Furniture to Create Structure
 
-Most rented flats in the UK have two defining characteristics: not enough storage and not enough structure. Both are solved by freestanding furniture that belongs to you, goes with you, and requires nothing fixed to any wall. See [21 small flat storage ideas UK](/blog/small-flat-storage-ideas-uk) for the full room-by-room breakdown.
+Most rented flats in the UK have two defining characteristics: not enough storage and not enough structure. Both are solved by freestanding furniture that belongs to you, goes with you, and requires nothing fixed to any wall. See [21 small flat storage ideas UK](/blog/small-bedroom-storage-uk) for the full room-by-room breakdown.
 
 IKEA's KALLAX shelving unit (from ~£45 for the 2x2 configuration) is the single most versatile piece of freestanding furniture available to UK renters. It works as a room divider, a bookshelf, a TV unit, and a storage system simultaneously. The 4x4 configuration (~£115) covers an entire wall without touching it.
 
@@ -240,5 +238,4 @@ Surface styling is entirely free. It typically produces a larger visible improve
 | 11 | Add 3-5 plants (real or faux) | ~£20-£50 | None |
 | 12 | Surface styling and scent | ~£10-£25 | None |
 
-→ For deposit-safe decorating ideas see [Rented Home Decor Ideas UK](/blog/rented-home-decor-ideas-uk/).
 → For ideas on making a small rented living room work harder see [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/).

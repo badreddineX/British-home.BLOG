@@ -17,7 +17,7 @@ tldr:
   - "Style in this order: furniture placement, rug, curtains, lighting, textiles, shelves and surfaces, plants. Each layer responds to the one before."
 faqs:
   - q: "How do I style my living room from scratch UK?"
-    a: "Start with your focal point and arrange furniture around it. Add a large rug, then window treatments, then lighting, then soft furnishings. Complete with shelf displays and plants. See our [living room ideas guide](/blog/living-room-ideas-uk/) for specific inspiration."
+    a: "Start with your focal point and arrange furniture around it. Add a large rug, then window treatments, then lighting, then soft furnishings. Complete with shelf displays and plants. See our [living room ideas guide](/blog/small-living-room-ideas-uk/) for specific inspiration."
   - q: "What is the best furniture layout for a British living room?"
     a: "For most UK living rooms: sofa facing the focal point (fireplace or TV), two chairs at angles to create conversation, a coffee table in reach of seating, and a rug underneath all front legs. Avoid pushing all furniture against the walls — the room reads as a waiting room rather than a living space."
   - q: "How do I make my living room look professional UK?"

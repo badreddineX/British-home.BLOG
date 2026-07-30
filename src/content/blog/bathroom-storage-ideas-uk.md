@@ -191,6 +191,6 @@ Complete steps 1 through 3 of the priority order before purchasing anything else
 
 **Related reading you might find useful:**
 
-- [21 small flat storage ideas UK](/blog/small-flat-storage-ideas-uk) for the full-flat approach, room by room
+- [21 small flat storage ideas UK](/blog/small-bedroom-storage-uk) for the full-flat approach, room by room
 - [Small bedroom storage UK](/blog/small-bedroom-storage-uk) for bedroom-specific storage using the same no-drill principles
 - [Rented flat makeover UK](/blog/rented-flat-makeover-uk) for the full deposit-safe room-by-room playbook

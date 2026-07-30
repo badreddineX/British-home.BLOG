@@ -17,7 +17,7 @@ tldr:
   - "Your own neighbourhood is an underused source — look at how people have styled bay windows, Victorian features, and period details in homes similar to yours."
 faqs:
   - q: "Where can I find UK home decor inspiration?"
-    a: "House & Garden, Livingetc, and Homes & Gardens are the three best UK interior magazines with strong Instagram presences. For real homes rather than styled shoots, look at @realhomesmag on Instagram and search #ukhome or #britishhome on Pinterest. For budget ideas, see our [living room ideas guide](/blog/living-room-ideas-uk/)."
+    a: "House & Garden, Livingetc, and Homes & Gardens are the three best UK interior magazines with strong Instagram presences. For real homes rather than styled shoots, look at @realhomesmag on Instagram and search #ukhome or #britishhome on Pinterest. For budget ideas, see our [living room ideas guide](/blog/small-living-room-ideas-uk/)."
   - q: "How do I adapt American interior design trends for UK homes?"
     a: "Three adjustments: make colours warmer (our grey light needs warmer undertones than American rooms shot in direct sun), scale down (US homes average much larger than UK ones), and account for period features (coving, fireplaces, sash windows) that don't exist in typical American interiors."
   - q: "What are the interior design trends in the UK for 2026?"
@@ -166,5 +166,5 @@ Your taste is consistent in ways you might not consciously recognise. A physical
 | 6 | Start a physical inspiration file from magazine cuts | £0 |
 | 7 | Identify your 3 most-pinned elements — what's the pattern? | £0 |
 
-→ For British living room ideas at every budget see [21 Living Room Ideas UK](/blog/living-room-ideas-uk/).
+→ For British living room ideas at every budget see [21 Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
 → For colour palette decisions specific to British light see [Living Room Colour Schemes That Work in British Light](/blog/living-room-colour-schemes-uk/).

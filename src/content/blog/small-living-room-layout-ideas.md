@@ -132,7 +132,7 @@ Sofa sizing is where most small living room layouts fail before they start. A st
 
 For rooms under 12ft (approximately 3.65m) wide, a two-seater sofa in the 180-200cm range is usually the more practical choice. It leaves room for a single armchair, allows the sofa to float away from the wall, and doesn't consume all the visual weight of the room before you've added anything else.
 
-Read more: [more living room layout and styling advice](/blog/living-room-ideas-uk/)
+Read more: [more living room layout and styling advice](/blog/small-living-room-ideas-uk/)
 
 Sofa depth is as important as sofa length. A sofa that is 95cm deep eats almost a metre of your room's width before you've added circulation space. Look for "compact" or "apartment" sofas — Dunelm and Next Home label these clearly, and some run as shallow as 80cm from front to back.
 
@@ -310,4 +310,4 @@ Aim for at least 30% visible floor in any small living room arrangement. If you 
 | 8 | Mount the TV on the wall and remove the TV unit | ~£25-£50 for bracket |
 
 → For small living room decorating ideas beyond layout see [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
-→ For broader living room styling advice see [Living Room Ideas UK](/blog/living-room-ideas-uk/).
+→ For broader living room styling advice see [Living Room Ideas UK](/blog/small-living-room-ideas-uk/).

@@ -23,7 +23,7 @@ faqs:
   - q: "What bedding is best for UK bedrooms?"
     a: "For most British bedrooms: a 10.5–13.5 tog duvet for winter (with a lighter summer option), 200+ thread count cotton or percale sheets, and a chunky knit or waffle throw for layering. The White Company, Dunelm's Dorma range, and John Lewis all offer excellent mid-range options."
   - q: "How can I decorate my rented bedroom in the UK without losing my deposit?"
-    a: "Use freestanding furniture, plug-in lighting, removable rugs, and peel-and-stick wallpaper on one wall. A fabric headboard panel using Command strips is legal in most tenancies. See our [rented home decor ideas guide](/blog/rented-home-decor-ideas-uk/) for a full checklist."
+    a: "Use freestanding furniture, plug-in lighting, removable rugs, and peel-and-stick wallpaper on one wall. A fabric headboard panel using Command strips is legal in most tenancies. See our [rented home decor ideas guide](/blog/rented-flat-makeover-uk/) for a full checklist."
 ---
 
 
@@ -194,5 +194,5 @@ Storage baskets to hide clutter — from ~£8 each at Dunelm. For the full wardr
 | 8 | Declutter to minimum visible surfaces | Free |
 
 → For a deeper guide to bedroom cosiness see [Cosy Bedroom Decor Ideas UK](/blog/cosy-bedroom-ideas-uk/).
-→ For renter-safe bedroom changes see [Rented Home Decor Ideas UK](/blog/rented-home-decor-ideas-uk/).
+→ For renter-safe bedroom changes see [Rented Home Decor Ideas UK](/blog/rented-flat-makeover-uk/).
 → Doing the whole room at once? [Bedroom makeover UK](/blog/bedroom-makeover-uk/) walks through the full transformation start to finish.

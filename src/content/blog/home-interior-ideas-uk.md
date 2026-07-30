@@ -17,7 +17,7 @@ tldr:
   - "Personal touches — vintage finds, family photos, books you've actually read — make British homes feel lived-in rather than staged."
 faqs:
   - q: "What makes a great British home interior in 2026?"
-    a: "The best British home interiors combine warmth, texture, and personal character. That means layered lighting, colours suited to our grey light, textiles in natural fibres, and rooms that feel genuinely lived in. See our [living room ideas guide](/blog/living-room-ideas-uk/) for specific starting points."
+    a: "The best British home interiors combine warmth, texture, and personal character. That means layered lighting, colours suited to our grey light, textiles in natural fibres, and rooms that feel genuinely lived in. See our [living room ideas guide](/blog/small-living-room-ideas-uk/) for specific starting points."
   - q: "What are the most popular home interior styles in the UK right now?"
     a: "Warm contemporary, cottagecore, and maximalism are all strong in 2026. The common thread across all three is warmth — amber tones, natural materials, and layered textiles rather than the cool minimalism that dominated the 2010s."
   - q: "How do I start decorating my home on a budget in the UK?"
@@ -99,7 +99,7 @@ Every room has a primary purpose and a secondary purpose. Great interiors serve 
 
 **Primary:** Relaxation and sociability. **Secondary:** A place that reflects your taste and feels genuinely welcoming.
 
-Start here: [living room ideas UK](/blog/living-room-ideas-uk/). The priorities are seating you actually want to sit in, lighting that layers from multiple sources, and soft furnishings that introduce warmth and texture.
+Start here: [living room ideas UK](/blog/small-living-room-ideas-uk/). The priorities are seating you actually want to sit in, lighting that layers from multiple sources, and soft furnishings that introduce warmth and texture.
 
 **Renter note:** You can transform a living room without touching the walls. Rugs, lighting, cushions, and curtains are all fully reversible. Check your tenancy agreement before doing anything permanent.
 
@@ -167,7 +167,7 @@ Not everyone is starting from the same place. Here's a realistic framework:
 | Test a warm neutral paint colour | Tester pots before committing | ~£5–£15 |
 | Add one meaningful personal object | Charity shop, market, or from elsewhere in the house | £0–£20 |
 
-→ For living room specifics, see [Living Room Ideas UK](/blog/living-room-ideas-uk/).
+→ For living room specifics, see [Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
 → For colour guidance, see [Living Room Colour Schemes UK](/blog/living-room-colour-schemes-uk/).
 → Don't forget the hallway — it's the first room guests see. See [Hallway Decor Ideas UK](/blog/hallway-decor-ideas-uk/).
 → For a cleaner, pared-back take on these same rooms, see [Modern Home Interior UK](/blog/modern-home-interior-uk/).

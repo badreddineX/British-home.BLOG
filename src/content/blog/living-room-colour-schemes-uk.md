@@ -245,7 +245,7 @@ Pavilion Gray is the most asked-about Farrow & Ball colour in UK living rooms. I
 
 The right living room colour scheme depends on three things: your room's natural light, your existing fixed elements (sofa, flooring, fireplace), and how you actually use the space.
 
-Read more: [choosing the right living room layout and style](/blog/living-room-ideas-uk/)
+Read more: [choosing the right living room layout and style](/blog/small-living-room-ideas-uk/)
 
 | Scheme | Best For | Budget Entry Point | Risk Level |
 |---|---|---|---|
@@ -289,6 +289,6 @@ Choosing a living room colour scheme is one of the decorating decisions that fee
 
 The one thing I'd change about how I approached colour earlier: I treated it as a standalone decision, picking a wall colour and hoping everything else would work around it. The schemes that actually worked were built from the sofa outward — what's the largest fixed element, and what does it need to feel complete?
 
-For next steps, see our [full guide to styling a living room from scratch](/blog/how-to-style-a-living-room-uk/) and our [living room ideas roundup](/blog/living-room-ideas-uk/) for inspiration across all budgets and styles. If you're drawn to the darker end of the palette, [Dark Moody Home Decor UK](/blog/dark-moody-home-decor-uk/) covers how to do it without making a small room feel like a cave.
+For next steps, see our [full guide to styling a living room from scratch](/blog/how-to-style-a-living-room-uk/) and our [living room ideas roundup](/blog/small-living-room-ideas-uk/) for inspiration across all budgets and styles. If you're drawn to the darker end of the palette, [Dark Moody Home Decor UK](/blog/dark-moody-home-decor-uk/) covers how to do it without making a small room feel like a cave.
 
 Pick the scheme that scares you slightly less than the others. Sample it. Live with the samples for a week. Then buy the paint.

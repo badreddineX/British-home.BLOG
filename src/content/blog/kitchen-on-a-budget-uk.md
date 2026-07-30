@@ -254,7 +254,7 @@ Plants (£3–£5 each), a wooden board (£15–£25), and matching small access
 
 ---
 
-Read more: [living room budget ideas UK](/blog/living-room-budget-ideas-uk)
+Read more: [living room budget ideas UK](/blog/budget-home-makeover-uk)
 
 ## Where to Start: A Priority Table
 
@@ -286,7 +286,7 @@ The full list, priced at mid-range, comes to roughly £410–£830. That sounds 
 **Related reading you might find useful:**
 
 - [Budget Home Makeover UK: Transform Any Room for Under £150](/blog/budget-home-makeover-uk)
-- [Living Room on a Budget UK: 10 Ideas Under £100 That Actually Work](/blog/living-room-budget-ideas-uk)
+- [Living Room on a Budget UK: 10 Ideas Under £100 That Actually Work](/blog/budget-home-makeover-uk)
 
 **Going deeper on kitchens specifically:**
 

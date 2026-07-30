@@ -17,7 +17,7 @@ tldr:
   - "British spring plants for inside: hyacinth bulbs in pots (~£3 for a forced bulb kit), daffodils from the market (~£1.50 a bunch), and trailing pothos for a fresh green element."
 faqs:
   - q: "How do I refresh my home for spring without spending a lot of money?"
-    a: "Three free-or-cheap actions make the biggest difference: swap winter cushion covers for lighter ones you already own, do a proper declutter (things leaving the room counts as a refresh), and wash and rehang your curtains — clean curtains in spring light look completely different. See our [living room ideas guide](/blog/living-room-ideas-uk/)."
+    a: "Three free-or-cheap actions make the biggest difference: swap winter cushion covers for lighter ones you already own, do a proper declutter (things leaving the room counts as a refresh), and wash and rehang your curtains — clean curtains in spring light look completely different. See our [living room ideas guide](/blog/small-living-room-ideas-uk/)."
   - q: "What spring colour trends work in British homes in 2026?"
     a: "Soft sage green, dusty blush, warm primrose yellow, and sky blue all work well in UK rooms in spring — they suit the improving but still-diffuse British light. Avoid sharp neon or tropical tones that look beautiful in Mediterranean light but feel jarring in a British setting."
   - q: "When should I do a spring home refresh in the UK?"
@@ -169,4 +169,4 @@ Swap out the amber and clove of winter for these lighter alternatives in late Fe
 This same sequence — declutter, clean, swap textiles, refresh — is what's now often called the "reset aesthetic," and it doesn't have to wait for spring. If a room's drifted at any point in the year, the same priority order above works as a mid-year reset too.
 
 → For colour inspiration, see [Living Room Colour Schemes UK](/blog/living-room-colour-schemes-uk/).
-→ For the full room styling picture, see [Living Room Ideas UK](/blog/living-room-ideas-uk/).
+→ For the full room styling picture, see [Living Room Ideas UK](/blog/small-living-room-ideas-uk/).

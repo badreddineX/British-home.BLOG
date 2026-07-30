@@ -23,7 +23,7 @@ faqs:
   - q: "Where can I buy cottagecore home decor in the UK?"
     a: "Charity shops and car boot sales for authentic vintage pieces; Dunelm and Next Home for new cottagecore-adjacent textiles; Not On The High Street and Etsy UK for independent makers; and IKEA's Lantliv collection occasionally for budget botanical prints. Avoid fast-fashion versions — they undercut the whole aesthetic."
   - q: "Can cottagecore work in a rented flat in the UK?"
-    a: "Absolutely. Cottagecore relies on freestanding objects, textiles, and accessories rather than structural changes. A rented flat can adopt the full aesthetic through rugs, throws, ceramics, dried flowers, books, and plants — none of which require landlord permission. See our [rented home decor ideas guide](/blog/rented-home-decor-ideas-uk/)."
+    a: "Absolutely. Cottagecore relies on freestanding objects, textiles, and accessories rather than structural changes. A rented flat can adopt the full aesthetic through rugs, throws, ceramics, dried flowers, books, and plants — none of which require landlord permission. See our [rented home decor ideas guide](/blog/rented-flat-makeover-uk/)."
 ---
 
 

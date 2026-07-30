@@ -17,7 +17,7 @@ tldr:
   - "A 'hibernation corner' — one specific cosy chair with a lamp and a side table — works better than a whole cosy room because it's specific and intentional."
 faqs:
   - q: "How do I make my home feel cosy in the UK?"
-    a: "Start with lighting — replace overhead lights with lamp layers on warm 2700K bulbs. Then add one large rug, layer textiles on your sofa, and introduce a warm scent. These four changes cost under £100 and create a noticeably cosier atmosphere. See our [living room ideas guide](/blog/living-room-ideas-uk/) for specific product picks."
+    a: "Start with lighting — replace overhead lights with lamp layers on warm 2700K bulbs. Then add one large rug, layer textiles on your sofa, and introduce a warm scent. These four changes cost under £100 and create a noticeably cosier atmosphere. See our [living room ideas guide](/blog/small-living-room-ideas-uk/) for specific product picks."
   - q: "What is the British version of hygge?"
     a: "The Danish concept of hygge — cosiness as a deliberate lifestyle practice — translates naturally into British culture, though we tend not to name it. British cosiness centres on warm drinks, soft lighting, heavy curtains, a properly made fire or candle, and the specific comfort of being inside during bad weather. We've been doing hygge for centuries — we just called it 'staying in'."
   - q: "What makes a living room feel cosy rather than just decorated?"
@@ -39,7 +39,7 @@ I've been obsessing over this question — what actually creates cosiness rather
 
 ---
 
-Read more: [living room decor ideas](/blog/living-room-ideas-uk/)
+Read more: [living room decor ideas](/blog/small-living-room-ideas-uk/)
 
 ## 1. Lighting: The Single Biggest Factor in Cosiness
 
@@ -159,7 +159,7 @@ I added velvet curtains to my living room in October three years ago. The room f
 | Add scent — reed diffuser or candle | Amber, sandalwood, or fig | ~£8–£25 |
 | Hang heavy lined curtains | Full length from ceiling level | ~£35–£80 |
 
-→ For the full living room picture, see [Living Room Ideas UK](/blog/living-room-ideas-uk/).
+→ For the full living room picture, see [Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
 → For bedroom cosiness, see [Cosy Bedroom Ideas UK](/blog/cosy-bedroom-ideas-uk/).
 → Cosy at Christmas has its own extra layer of decorating — see [Christmas Home Decor Ideas UK](/blog/christmas-home-decor-ideas-uk/).
 → For more ideas across every room in the house, see [Home Decor Inspiration UK](/blog/home-decor-inspiration-uk/).

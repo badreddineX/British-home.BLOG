@@ -167,4 +167,4 @@ The key for dark kitchens and bathrooms: ventilation and moisture-resistant pain
 | 7 | Find a large ornate mirror from a charity shop | ~£10–£30 |
 
 → For specific paint palette ideas see [Living Room Colour Schemes That Work in British Light](/blog/living-room-colour-schemes-uk/).
-→ For living room styling tips to complete the moody look see [21 Living Room Ideas UK](/blog/living-room-ideas-uk/).
+→ For living room styling tips to complete the moody look see [21 Living Room Ideas UK](/blog/small-living-room-ideas-uk/).

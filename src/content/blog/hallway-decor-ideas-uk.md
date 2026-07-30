@@ -19,9 +19,9 @@ faqs:
   - q: "What colour should I paint a dark hallway in a UK home?"
     a: "Either go light with a warm white (Farrow & Ball Pointing, Dulux Timeless) or commit to the darkness with a deep tone like Hague Blue or Railings. Avoid cold greys and stark whites — they look washed-out and clinical under artificial light. Warm undertones always outperform cool ones in low-light corridors."
   - q: "How do I decorate a narrow hallway in a Victorian terraced house?"
-    a: "Keep furniture under 30cm deep — slim console tables, wall-mounted coat hooks rather than freestanding hallstands. Use vertical space aggressively: hooks high on the wall, tall mirrors, a stair gallery wall. A runner rug adds warmth without reducing floor width. See our [living room ideas UK](/blog/living-room-ideas-uk/) for how the same principles apply across the home."
+    a: "Keep furniture under 30cm deep — slim console tables, wall-mounted coat hooks rather than freestanding hallstands. Use vertical space aggressively: hooks high on the wall, tall mirrors, a stair gallery wall. A runner rug adds warmth without reducing floor width. See our [living room ideas UK](/blog/small-living-room-ideas-uk/) for how the same principles apply across the home."
   - q: "What hallway ideas work for renters who can't drill?"
-    a: "Freestanding coat racks, leaned mirrors, plug-in pendant lights, and Command strip picture rails cover nearly every hallway need without damaging walls. Command hooks rated to 3.6kg handle coats reliably. See our full [rented home decor ideas UK](/blog/rented-home-decor-ideas-uk/) guide for deposit-safe tactics across every room."
+    a: "Freestanding coat racks, leaned mirrors, plug-in pendant lights, and Command strip picture rails cover nearly every hallway need without damaging walls. Command hooks rated to 3.6kg handle coats reliably. See our full [rented home decor ideas UK](/blog/rented-flat-makeover-uk/) guide for deposit-safe tactics across every room."
   - q: "What's the best flooring for a small UK hallway?"
     a: "Geometric encaustic-style tiles give a period-appropriate look and are practical underfoot — B&Q and Topps Tiles both stock them from around £20 per square metre. If you can't retile, a coir or geometric runner rug achieves a similar effect on top of existing flooring and costs from £25 at Dunelm."
 ---
@@ -45,7 +45,7 @@ Here's what actually makes a difference, in the order it matters.
 
 ---
 
-Read more: [how to style your living room UK](/blog/living-room-ideas-uk/)
+Read more: [how to style your living room UK](/blog/small-living-room-ideas-uk/)
 
 ## What Colour Should You Paint a Dark Hallway?
 
@@ -214,7 +214,7 @@ Renters have considerably more options than most people realise. The real constr
 
 **Freestanding shelving.** An IKEA Hyllis or Kallax unit provides surface space and storage without any wall fixing. From ~£15.
 
-See our full [rented home decor ideas UK](/blog/rented-home-decor-ideas-uk/) guide for deposit-safe ideas across every room.
+See our full [rented home decor ideas UK](/blog/rented-flat-makeover-uk/) guide for deposit-safe ideas across every room.
 
 ---
 
@@ -235,4 +235,4 @@ See our full [rented home decor ideas UK](/blog/rented-home-decor-ideas-uk/) gui
 
 The hallway doesn't need a renovation to feel like a proper part of your home. Paint and lighting cost under £70 combined and do more than any piece of furniture ever will. Get those right first, then add the mirror, the hooks, and the slim console. What was a dumping corridor becomes the room that sets the tone for everything behind it.
 
-For the rooms beyond the hallway, see our [living room ideas UK](/blog/living-room-ideas-uk/) and [bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/) guides. Renters should read [rented home decor ideas UK](/blog/rented-home-decor-ideas-uk/) before spending anything.
+For the rooms beyond the hallway, see our [living room ideas UK](/blog/small-living-room-ideas-uk/) and [bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/) guides. Renters should read [rented home decor ideas UK](/blog/rented-flat-makeover-uk/) before spending anything.

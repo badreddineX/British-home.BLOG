@@ -17,7 +17,7 @@ tldr:
   - "Always paint and rearrange before buying anything new. Free interventions often eliminate the need for purchases entirely."
 faqs:
   - q: "How can I makeover my home on a tight budget UK?"
-    a: "Start with the free interventions: rearranging furniture, decluttering surfaces, and maximising natural light. Then apply the high-impact low-cost purchases: 2700K bulbs (~£8), cushion covers (~£30), and paint (~£25). These cost under £65 and transform most rooms. See our [living room budget ideas guide](/blog/living-room-budget-ideas-uk/) for a ranked breakdown."
+    a: "Start with the free interventions: rearranging furniture, decluttering surfaces, and maximising natural light. Then apply the high-impact low-cost purchases: 2700K bulbs (~£8), cushion covers (~£30), and paint (~£25). These cost under £65 and transform most rooms. See our [living room budget ideas guide](/blog/budget-home-makeover-uk/) for a ranked breakdown."
   - q: "What gives the best value in a home makeover UK?"
     a: "In order of impact per pound: warm white light bulbs (2700K), paint, new cushion covers, a correctly sized rug, and ceiling-height curtains. Paint and lighting changes consistently outperform furniture upgrades in visual impact and are dramatically cheaper."
   - q: "How can I make my house look more expensive on a budget UK?"
@@ -37,7 +37,7 @@ I've made over a dozen rooms on budgets of £50–£200. Here's the framework th
 
 ---
 
-Read more: [living room budget ideas](/blog/living-room-budget-ideas-uk/)
+Read more: [living room budget ideas](/blog/budget-home-makeover-uk/)
 
 ## The Golden Rule: Free Interventions First
 
@@ -203,6 +203,6 @@ Total: ~£25–£40.
 
 Across 14 rooms makeovers tracked for this post, the average spend to achieve a visible, photographable transformation was £87. The three free interventions (rearrange, declutter, clean windows) accounted for the largest share of the perceived improvement in eight of the fourteen rooms.
 
-→ For living room specific budget ideas see [Living Room on a Budget UK](/blog/living-room-budget-ideas-uk/).
+→ For living room specific budget ideas see [Living Room on a Budget UK](/blog/budget-home-makeover-uk/).
 → For small living room ideas see [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
 → For kitchen-specific styling ideas see [Kitchen Decor Ideas UK](/blog/kitchen-decor-ideas-uk/).

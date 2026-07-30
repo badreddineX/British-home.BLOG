@@ -17,7 +17,7 @@ tldr:
   - "The 'stop rule': when you can't identify a single thing you'd remove without the room feeling worse, you're done. This is harder than it sounds."
 faqs:
   - q: "What is maximalist interior design UK?"
-    a: "Maximalism is the deliberate use of abundance — colour, pattern, texture, objects, and art — as an intentional design language. The opposite of minimalism, but not the same as clutter. Maximalism is curated abundance; clutter is unintentional accumulation. See our [maximalist home decor UK guide](/blog/maximalist-home-decor-uk/) for broader principles."
+    a: "Maximalism is the deliberate use of abundance — colour, pattern, texture, objects, and art — as an intentional design language. The opposite of minimalism, but not the same as clutter. Maximalism is curated abundance; clutter is unintentional accumulation."
   - q: "How do I start a maximalist living room UK?"
     a: "Start with colour. Choose one dominant colour that will anchor the room (your sofa colour is often this anchor), then build pattern and texture around it. Add a gallery wall, layer textiles on the sofa, and introduce plants and objects in groups. Build slowly — maximalism done well is always additive and considered."
   - q: "How do I mix patterns in a maximalist living room?"
@@ -36,8 +36,6 @@ I've been a committed maximalist for three years. I've made many of the mistakes
 **TL;DR:** Maximalism requires structure before abundance. Anchor your colour, establish your pattern rules, build your gallery wall with a unifying element, and group objects rather than scattering them. Then add, layer, and keep going until the room passes the stop test: when nothing can be removed without loss.
 
 ---
-
-Read more: [maximalist home decor UK](/blog/maximalist-home-decor-uk/)
 
 ## 1. Anchor the Room With One Dominant Colour
 
@@ -153,5 +151,4 @@ The stop test costs nothing. Schedule 30 minutes to walk through and apply it ri
 | 5 | Group objects on shelves and surfaces | Free (using existing items) |
 | 6 | Apply the stop test and edit | Free |
 
-→ For broader maximalist home ideas see [Maximalist Home Decor UK](/blog/maximalist-home-decor-uk/).
 → For living room styling principles see [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/).

@@ -17,7 +17,7 @@ tldr:
   - "Mirrors opposite or adjacent to windows are essential in small, often north-facing British living rooms — from ~£25 at Dunelm."
 faqs:
   - q: "How do I make my small living room look bigger in the UK?"
-    a: "The most effective techniques: hang curtains close to the ceiling, use furniture with visible legs, place a large mirror opposite the window, choose a correctly sized rug (not too small), and keep colours light and warm rather than dark and heavy. See our full [living room ideas UK guide](/blog/living-room-ideas-uk/) for more."
+    a: "The most effective techniques: hang curtains close to the ceiling, use furniture with visible legs, place a large mirror opposite the window, choose a correctly sized rug (not too small), and keep colours light and warm rather than dark and heavy. See our full [living room ideas UK guide](/blog/small-living-room-ideas-uk/) for more."
   - q: "What size rug should I use in a small living room?"
     a: "In a small UK living room, a rug that's too small makes the space feel more cramped, not less. The minimum for a small living room is typically 120x170cm. If possible, go 160x230cm — the correct sizing reads as intentional and grounds the seating area properly."
   - q: "What furniture works best in a small British living room?"
@@ -176,4 +176,4 @@ Cost: nothing. Set aside an hour to edit without adding anything.
 | 7 | Add floating shelves to replace floor units | ~£8–£25 |
 
 → For more living room styling advice see [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/).
-→ For budget-specific ideas see [Living Room on a Budget UK](/blog/living-room-budget-ideas-uk/).
+→ For budget-specific ideas see [Living Room on a Budget UK](/blog/budget-home-makeover-uk/).
