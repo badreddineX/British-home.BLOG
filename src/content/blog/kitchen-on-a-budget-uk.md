@@ -46,8 +46,6 @@ The 14 changes below can be done individually or stacked for a full refresh — 
 
 Read more: [budget home transformation framework](/blog/budget-home-makeover-uk)
 
-![A bright, refreshed white kitchen with a stainless range and patterned tile splashback](/images/kitchen-white-cabinets.jpg)
-
 ---
 
 ## Paint Your Cabinet Doors
@@ -83,8 +81,6 @@ Open shelving works particularly well in alcoves, beside windows, or in any corn
 The criticism of open shelving — that it gets dusty — is valid, but easily managed if you use items daily. Reserve it for your everyday crockery and glasses rather than the china you bring out twice a year.
 
 One IKEA Boaxel shelf unit costs around £25–£50 depending on size and adds visible storage without touching your existing cabinet layout.
-
-![Open wooden kitchen shelving styled with ceramics and pottery above a worktop with a modern tap](/images/kitchen-worktop-wood.jpg)
 
 ---
 
@@ -175,8 +171,6 @@ A 2.5L tin of Dulux Kitchen Matt covers around 30 square metres and costs £19�
 The wall colour between upper and lower units is often the most visible expanse of colour in a kitchen, yet most guides focus exclusively on units. Painting just the walls — without touching a single cabinet — often makes more visual difference than new handles alone, and costs less.
 
 Two tins of Dulux Kitchen Matt at around £40 total changes the entire atmosphere of a kitchen without touching the units.
-
-![Styled white kitchen worktop with ceramic bowls, a wooden board, and everyday crockery](/images/kitchen-open-shelving.jpg)
 
 ---
 

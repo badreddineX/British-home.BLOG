@@ -1,7 +1,7 @@
 ---
 title: "Earthy Neutral Kitchen Colours That Work in 2026 – Two-Tone Ideas Under £500"
 description: "Explore earthy neutral kitchen colour trends for 2026 with budget-friendly two-tone ideas, UK retailers and renter-friendly tips."
-image: "/images/kitchen-white-cabinets.jpg"
+image: "/images/earthy-neutral-kitchen-cover.jpg"
 datePublished: "2026-07-30"
 dateModified: "2026-07-30"
 author: "Badreddine"
@@ -33,8 +33,6 @@ I've renovated three rented flats across the UK — each with dated kitchens and
 ## 1. Why Earthy Neutrals Fit UK Kitchens So Well
 
 Earthy neutrals have deep roots in British interiors — think Cotswolds stone, traditional clay roof tiles, and the soft greys of coastal cliffs. They balance warmth with restraint, perfect for UK homes where lighting can be tricky and kitchens often double as living zones. Better still, they’re forgiving: fingerprints, splatters, and worn edges blend in far better than stark white. Search interest in earthy kitchen tiles has been climbing steadily, with a noticeable seasonal peak every spring as people refresh after winter. I’ve found these tones make even small, north-facing kitchens feel cozier — and you don’t need perfect lighting to pull them off.
-
-![Warm oatmeal cabinets paired with a charcoal island in a London flat kitchen](/images/kitchen-wood-floor-open-plan.jpg)
 
 ## 2. The 2026 Earthy Neutral Palette: What to Choose
 
@@ -75,8 +73,6 @@ Most UK kitchens are still tiled — but the trend is shifting to warm-effect LV
 ## 11. Accessories: Plants, Rugs, and Textiles That Pull It Together
 
 Bring in texture with jute rugs (Dunelm, £24 for 140x200cm), woven placemats (John Lewis, £8.50), and ceramic planters. A single olive tree in a matte clay pot (The Range, £18.99) adds life and height without blocking light. Avoid synthetic-looking plastics — they clash with the organic feel. Keep your textiles neutral: oatmeal tea towels, charcoal oven gloves. Even small touches like a brass timer or wooden spoon holder add warmth without shouting.
-
-![Cozy kitchen with warm-toned cabinets, open shelving, and copper pots hanging](/images/kitchen-worktop-wood.jpg)
 
 ## 12. Avoiding Common Budget Mistakes
 

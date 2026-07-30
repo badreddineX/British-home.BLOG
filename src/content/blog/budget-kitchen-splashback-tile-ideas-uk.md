@@ -33,8 +33,6 @@ I've fitted peel-and-stick tiles in two different rented kitchens now, and I've 
 
 Read more: [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk) for the wider room refresh this fits into.
 
-![A bright kitchen with a patterned tile-effect splashback behind the hob](/images/kitchen-white-cabinets.jpg)
-
 ---
 
 ## What's the Cheapest Kitchen Splashback Option in the UK?
@@ -76,8 +74,6 @@ The advantage over tiles, stick-on or real, is the total absence of grout lines.
 If budget allows the step up, acrylic behind a hob genuinely looks like a fitted kitchen upgrade rather than a DIY fix, particularly in a bold colour or a marble-effect print.
 
 > Cut-to-size acrylic splashback sheets cost £60–£150 in the UK, sitting between peel-and-stick tile and toughened glass (from £300) as a seamless, grout-free mid-budget option ([Checkatrade cost guides, 2024](https://www.checkatrade.com)).
-
-![Close-up of a modern splashback sheet fitted behind a hob with a clean, seamless finish](/images/kitchen-worktop-wood.jpg)
 
 ---
 
