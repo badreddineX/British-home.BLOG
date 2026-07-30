@@ -239,3 +239,4 @@ Surface styling is entirely free. It typically produces a larger visible improve
 | 12 | Surface styling and scent | ~£10-£25 | None |
 
 → For ideas on making a small rented living room work harder see [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
+→ For the bathroom specifically, [bathroom storage ideas UK](/blog/bathroom-storage-ideas-uk/) covers no-drill solutions sized for tiny rental bathrooms. And for the kitchen, [small kitchen storage ideas on a budget](/blog/small-kitchen-storage-ideas-budget-uk/) does the same for cramped rental kitchens.

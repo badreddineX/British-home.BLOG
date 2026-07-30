@@ -214,3 +214,4 @@ Note: Steps 1–4 together cost under £75 and deliver the majority of the visib
 
 → For budget-specific kitchen ideas see [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/).
 → For a full home interior guide see [Home Interior Ideas UK](/blog/home-interior-ideas-uk/).
+→ Tackling one surface at a time? [Budget kitchen cabinet makeover ideas](/blog/budget-kitchen-cabinet-makeover-uk/), [budget kitchen worktop makeover ideas](/blog/budget-kitchen-worktop-makeover-uk/), [budget kitchen splashback & tile ideas](/blog/budget-kitchen-splashback-tile-ideas-uk/), and [budget kitchen flooring ideas](/blog/budget-kitchen-flooring-ideas-uk/) each go deep on a single element.
