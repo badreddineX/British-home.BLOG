@@ -101,6 +101,16 @@ const cardImg = (img: string) => img.replace('/images/', '/images/card/').replac
       <!-- ====== POST HERO ====== -->
       <div class="post-hero">
         <div class:list={["img-wrap", "post-hero-img-wrap", isPortraitHero && "portrait-hero"]}>
+          {isPortraitHero && (
+            <img
+              src={image}
+              alt=""
+              aria-hidden="true"
+              class="post-hero-img-backdrop"
+              loading="eager"
+              decoding="async"
+            />
+          )}
           <img
             src={image}
             srcset={image.startsWith('http') ? undefined : `${cardImg(image)} 800w, ${image} 1400w`}
@@ -315,12 +325,24 @@ const cardImg = (img: string) => img.replace('/images/', '/images/card/').replac
     .post-hero-img-wrap { aspect-ratio: 4/3; }
   }
 
-  .post-hero-img { width: 100%; height: 100%; object-fit: cover; }
+  .post-hero-img { width: 100%; height: 100%; object-fit: cover; position: relative; z-index: 1; }
   /* Portrait/square source photos crop badly under object-fit: cover in this
-     very wide (21:8) banner -- show the full photo instead, letterboxed on a
-     dark backdrop rather than cutting off the top/bottom of the composition. */
+     very wide (21:8) banner -- show the full photo via object-fit: contain,
+     with a blurred/scaled copy of the same photo filling the banner behind it
+     so the hero still reads as a full-width image instead of a small photo
+     floating in a flat dark bar. */
   .portrait-hero { background: var(--color-dark); }
   .portrait-hero .post-hero-img { object-fit: contain; object-position: center center; }
+  .post-hero-img-backdrop {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    filter: blur(32px) brightness(0.55) saturate(1.15);
+    transform: scale(1.15);
+    z-index: 0;
+  }
 
   /* White card centred over image */
   .post-hero-card {
