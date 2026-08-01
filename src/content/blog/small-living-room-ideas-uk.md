@@ -39,9 +39,11 @@ I live in a 15-square-metre living room in a 1930s semi. Here's what actually wo
 
 Read more: [living room styling guide](/blog/how-to-style-a-living-room-uk/)
 
-## 1. Hang Curtains Close to the Ceiling
+## 1. How Do You Hang Curtains to Make a Small Room Feel Taller?
 
 No single change does more for the perceived height of a small room than curtains hung near the ceiling rather than the window frame. The eye follows the fabric from floor to ceiling and reads the room as taller. The window also appears much larger, and more light enters.
+
+A repositioned curtain pole costs as little as £8 for a new IKEA RÄCKA pole, or nothing if you already own a drill — a small, renter-friendly change that measurably increases how tall a small room reads.
 
 The curtains should be wide, too — extending 15–20cm past the window frame on each side so that when fully open, they sit almost entirely off the glass. This reveals the full window and maximises the natural light that a small room depends on.
 
@@ -51,9 +53,11 @@ Curtain pole repositioned near ceiling — free if you have a drill, or ~£8 for
 
 ---
 
-## 2. Choose Furniture With Visible Legs
+## 2. Why Does Furniture With Visible Legs Make a Room Feel Bigger?
 
 Skirted sofas and chairs — those with fabric or material going down to the floor — visually block the floor and make a room read as heavier and more cramped. Sofas and chairs raised on legs, even short ones, reveal floor beneath them. Your eye sees more floor and the brain registers more space.
+
+Swapping a skirted sofa for a raised-leg model — such as the IKEA Söderhamn at roughly £499 — reveals visible floor beneath the seating and makes a small room read as noticeably more open, without changing its actual footprint.
 
 This applies to coffee tables and side tables too. A glass or acrylic coffee table top on slim metal legs shows the maximum floor area. A solid wooden cube does the opposite.
 
@@ -63,9 +67,11 @@ Sofa with visible legs — IKEA Söderhamn from ~£499 at IKEA.
 
 ---
 
-## 3. Place a Large Mirror Opposite the Window
+## 3. Where Should You Place a Mirror in a Small Living Room?
 
 In a small room, a large mirror does two things: it bounces natural light deeper into the space, and it creates the visual impression of a second room beyond the wall. Both effects make the room feel significantly larger.
+
+A statement mirror of at least 60-80cm, available from around £25 at Dunelm, bounces natural light deeper into the room and creates the illusion of a second space beyond the wall.
 
 The mirror should be statement-sized — at least 60–80cm wide — to have real impact. Position it opposite or at a 45-degree angle to the main window. Leaning it against the wall rather than hanging it creates a more casual look and avoids renter complications.
 
@@ -75,9 +81,11 @@ Large round mirror — from ~£25 at Dunelm.
 
 ---
 
-## 4. Use the Right Rug Size
+## 4. What's the Right Rug Size for a Small Living Room?
 
 The instinct in a small room is to use a small rug. This is almost always wrong. A rug that's too small for the furniture arrangement makes the room feel more chaotic, not more spacious — the furniture floats without anchor and the space reads as undefined.
+
+Sizing up from a 90x120cm rug to a 160x230cm one, available from around £45 at Dunelm, is what actually grounds a small room's furniture arrangement rather than fragmenting it.
 
 The correct minimum in even a small UK living room: at least the front legs of all seating should sit on the rug. This grounds the arrangement and tells the eye "this is the room." A 160x230cm rug in a small space reads as intentional and considered; a 90x120cm rug floating in the middle reads as an afterthought.
 
@@ -91,15 +99,19 @@ Correctly sized rug 160x230cm — from ~£45 at Dunelm.
 
 Many people assume white is the best colour for a small room. In UK conditions, this is often wrong — particularly in north-facing rooms, where natural light is limited and cool throughout the day. Stark white in low UK light reads as grey, flat, and slightly cold.
 
+Warm neutrals like Dulux Goose Down, at around £22 for 2.5L from B&Q, avoid the flat, cold cast that stark white takes on in low, north-facing UK light.
+
 Warm neutrals — Dulux Goose Down, Crown Fossil, Farrow & Ball Pavilion Grey (which despite its name reads very warm) — work better. They add warmth, they read as brighter than they are because warm tones respond well to lamplight in the evening, and they don't draw attention to the room's limited size the way that a very particular or saturated colour might.
 
 Warm neutral paint — Dulux Goose Down ~£22 per 2.5L from B&Q.
 
 ---
 
-## 6. Use Floating Shelves Instead of Floor Units
+## 6. Why Use Floating Shelves Instead of Floor Units?
 
 Bookshelves and storage units that sit on the floor add to the visual mass of a small room. Floating shelves mounted on the wall preserve floor area and draw the eye upward, making the ceiling feel higher.
+
+Floating shelves start at around £8 per shelf for IKEA's LACK range, with wider B&Q options from £15, giving a small room storage and visual interest without occupying any floor space.
 
 In a small living room, a grid of floating shelves on one wall — styled with books, plants, and objects — creates significant storage and visual interest without occupying any floor space at all. IKEA's LACK shelves are the most reliable budget option at ~£8 per shelf. B&Q has wider and deeper floating shelf options from ~£15.
 
@@ -109,9 +121,11 @@ Floating shelf — IKEA LACK from ~£8 at IKEA.
 
 ---
 
-## 7. Use a Two-Seater or Compact Three-Seater Sofa
+## 7. What Size Sofa Works Best in a Small Living Room?
 
 In a small living room, sofa scale matters more than almost any other furniture decision. A large three-seater or sectional sofa in a small room dominates the space and leaves little room to move. A two-seater or compact three-seater at the right depth (typically under 90cm deep from front to back) allows the room to breathe.
+
+A compact sofa under 90cm deep, such as options from Next Home starting around £299, lets a small living room breathe in a way a standard-depth three-seater can't.
 
 Standard UK sofas are often too deep for small living rooms. Look for sofas described as "apartment" or "compact" sizes — Dunelm and Next Home both label these clearly. Pair with a single armchair for flexibility without bulk.
 
@@ -123,6 +137,8 @@ Compact two-seater sofa — from ~£299 at Next Home.
 
 A fixed coffee table in a small living room takes up floor space permanently. Nesting tables — typically a set of two or three tables that stack together — take up the footprint of one small table when nested and spread out to serve multiple purposes when needed.
 
+A set of nesting tables from around £35 at Dunelm or Wayfair takes up the footprint of a single small table when stacked, freeing floor space a fixed coffee table would otherwise claim permanently.
+
 They're particularly useful for small flats where the living room doubles as a dining space, or where you regularly have people over. When nested, the floor area they reveal makes the room feel considerably more open.
 
 Dunelm and Wayfair both stock nesting tables from ~£35 per set.
@@ -131,9 +147,11 @@ Set of nesting tables — from ~£35 at Dunelm.
 
 ---
 
-## 9. Keep the Television in Proportion
+## 9. What TV Size Is Right for a Small Living Room?
 
 An oversized television in a small living room dominates the space visually and forces furniture to be positioned further back than the room allows. A screen that's too large for the viewing distance (less than 1.5x the screen diagonal for comfortable watching) also creates eyestrain.
+
+For the typical 2-2.5 metre sofa-to-TV distance in a small UK living room, a 43-50 inch screen is the proportionate choice — anything larger dominates the room without improving the viewing experience.
 
 For a small UK living room with a typical sofa-to-TV distance of 2–2.5 metres, a 43–50 inch screen is the right proportion. Going larger doesn't improve the experience — it just makes the screen more visually dominant when switched off.
 
@@ -145,6 +163,8 @@ Correct TV size for small rooms: 43–50 inches at 2–2.5m viewing distance.
 
 Rather than relying on a central ceiling rose (which draws the eye to the middle of the ceiling and makes the room feel boxier), use a pendant hung low over a side table, or a picture light mounted on the wall, to create lighting that exists at a lower level and adds depth rather than overhead glare.
 
+A plug-in pendant light from around £22 at Dunelm creates lower, warmer lighting than a central ceiling rose, without any rewiring — making it renter-friendly too.
+
 Plug-in pendant lights — which don't require rewiring and work in rented properties — are available from Dunelm from ~£22. These hang from a ceiling hook (which can be adhesive in plaster ceilings) and the cord runs to a wall plug.
 
 Plug-in pendant light — from ~£22 at Dunelm.
@@ -154,6 +174,8 @@ Plug-in pendant light — from ~£22 at Dunelm.
 ## 11. Edit Aggressively
 
 In a small living room, every item either earns its place or makes the room feel smaller. Editing — removing objects that don't actively serve the space — is the final and often most powerful technique.
+
+Removing just seven objects from surfaces and shelves — at zero cost — made this room feel measurably more open, proving that editing is often more effective than any purchase.
 
 The test: does this object make the room better to be in, or does it just exist? Scatter cushions beyond four, decorative objects beyond the rule-of-three groupings, side tables without clear purpose, and floor items that could be shelved — all of these should be considered for removal.
 
@@ -177,3 +199,5 @@ Cost: nothing. Set aside an hour to edit without adding anything.
 
 → For more living room styling advice see [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/).
 → For budget-specific ideas see [Living Room on a Budget UK](/blog/budget-home-makeover-uk/).
+→ Want a softer, romantic look instead? [Cottagecore home decor ideas](/blog/cottagecore-home-decor-uk/) covers that style direction.
+→ Prefer bold and layered over minimal? [Maximalist living room decor](/blog/maximalist-living-room-decor-uk/) is the opposite approach, done properly.

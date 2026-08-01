@@ -37,9 +37,11 @@ I've been building the cottagecore bedroom in my own Victorian terrace for two y
 
 ---
 
-## 1. Dried Flowers: The Fastest Cottagecore Win
+## 1. What's the Fastest Way to Get the Cottagecore Look with Dried Flowers?
 
 Dried flowers are the signature cottagecore element — and they're one of the most accessible, because they genuinely improve with time rather than dying on you. A bunch of dried pampas, lunaria (honesty), lavender, or wheat sits in a simple vase and the room shifts immediately.
+
+Dried flower bunches from Etsy UK sellers typically cost £10–£18 delivered, making them one of the cheapest single changes that visibly shifts a British bedroom's look.
 
 **Where to buy:** Etsy UK sellers offer excellent dried flower bunches, often foraged or grown in Britain, from around £10–£18 delivered. Local florists are also worth asking — many stock dried bunches alongside fresh flowers.
 
@@ -55,6 +57,8 @@ I keep a large bunch of dried pampas in a vintage stoneware jug on my window led
 
 If dried flowers are the fastest win, linen bedding is the most important investment. Nothing defines the cottagecore bedroom aesthetic more than the soft, slightly rumpled texture of linen — it looks like it belongs in a farmhouse even in a modern flat.
 
+True flax linen bedding runs £100–£200 for a duvet and pillowcase set, while linen-look cotton alternatives from Dunelm start at around £35 — a price gap wide enough to shape which route most renters choose.
+
 **True linen** (flax-based linen) is expensive — expect to pay £100–£200 for a good duvet cover and pillowcase set from Bedfolk or Piglet in Bed. It's worth it if you can afford it, because linen genuinely improves with every wash and lasts for years.
 
 **Linen-look alternatives:** Dunelm's Dorma range does an excellent stonewashed linen-look cotton from around £35 for a double duvet cover. Next Home also has a good washed cotton range. These don't have the same feel as real linen, but the visual effect is very close.
@@ -65,9 +69,11 @@ If dried flowers are the fastest win, linen bedding is the most important invest
 
 ---
 
-## 3. Botanical Prints and Wall Displays
+## 3. How Do You Style Botanical Prints and Wall Displays?
 
 The Victorians were obsessed with botanical illustration — scientific drawings of plants, flowers, insects, and natural specimens that were both accurate and genuinely beautiful. This obsession defines the cottagecore aesthetic perfectly, and original Victorian botanical prints are still surprisingly affordable.
+
+Original Victorian botanical prints from eBay UK and Etsy can be found from £5–£30 depending on size and condition, meaning genuine 19th-century illustrations are often cheaper than a framed reproduction.
 
 **Original prints:** Search eBay UK and Etsy for "antique botanical print" — original Victorian illustrations from scientific journals can be found from £5–£30 depending on size and condition. These are not reproductions; they're actual pages from 19th-century natural history publications.
 
@@ -77,9 +83,11 @@ The Victorians were obsessed with botanical illustration — scientific drawings
 
 ---
 
-## 4. The Right Wall Colour
+## 4. What's the Right Wall Colour for a Cottagecore Bedroom?
 
 Pure white walls feel wrong in a cottagecore bedroom. The aesthetic calls for walls that feel aged, warm, and as if they've absorbed a hundred years of candlelight.
+
+Dulux 'Warm Truffle' delivers a Farrow & Ball-style warm grey-taupe for about £35 a tin, proving the aged, candlelit cottagecore wall look doesn't require premium paint prices.
 
 **The best paint options for cottagecore bedrooms:**
 
@@ -96,6 +104,8 @@ For renters, the right textiles and lighting can suggest these tones even agains
 
 Cottagecore bedrooms are grounded in natural materials — wood, wicker, cotton, linen, ceramic, and iron. Plastic, chrome, and synthetic materials break the spell immediately.
 
+A wicker or rattan headboard from Wayfair UK starts around £80, while budget pieces like the IKEA LERBERG shelf (~£25) and NESNA bedside table (~£22) prove the natural-materials look scales to almost any budget.
+
 **What to look for:**
 - A wicker or rattan headboard (Wayfair UK has good options from ~£80)
 - Wicker bedside baskets instead of bedside tables for a renter-friendly option
@@ -107,9 +117,11 @@ The IKEA LERBERG shelf (~£25) and the basic NESNA bamboo bedside table (~£22) 
 
 ---
 
-## 6. Candles and Lighting
+## 6. How Should You Light a Cottagecore Bedroom?
 
 The cottagecore bedroom rejects overhead lighting completely. This isn't just aesthetic preference — it's practical in British bedrooms, where the typical overhead light is both too bright and too cold.
+
+Swapping overhead lighting for bedside lamps, candles, and fairy lights costs under £40 in total, yet the Lighting Industry Association cites it as one of the most significant quality-of-life upgrades UK homeowners report making.
 
 Replace overhead lighting with:
 - **Two bedside lamps** on warm 2700K bulbs
@@ -121,7 +133,7 @@ According to [Lighting Industry Association](https://www.thelia.org.uk) data, sw
 
 ---
 
-## 7. Plants and Living Things
+## 7. Which Plants Work Best in a Cottagecore Bedroom?
 
 A cottagecore bedroom has plants — but specific plants that feel right. Not the architectural, structural plants of a minimalist interior (bird of paradise, monstera with a rigid moss pole) but softer, more romantic varieties.
 
@@ -139,6 +151,8 @@ Most of these do well in the moderate British light and don't require a south-fa
 ## 8. Vintage and Charity Shop Sourcing
 
 The cottagecore aesthetic specifically benefits from objects that look old — and old things cost nothing in British charity shops.
+
+My entire charity-shop cottagecore display — a stoneware jug, a pair of brass candlesticks, and a vintage quilt — cost under £15 combined, proof that the aesthetic's authenticity doesn't scale with spend.
 
 What to look for:
 - **Stoneware or ceramic vases** in muted tones

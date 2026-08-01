@@ -65,6 +65,8 @@ Limewash is the defining paint trend of modern British interiors right now. You'
 
 Traditional limewash is a chalk-and-water paint that's been used on British buildings for centuries. Modern versions replicate the visual effect with regular paint technology. The result is a wall that looks like it has depth and history — even in a new build.
 
+A limewash-effect hallway using Rust-Oleum's £14 Chalky Finish paint cost around £30 total for materials, versus £65 per 2.5L for genuine limewash from Bauwerk Colour — proof the look scales to almost any budget.
+
 I tried the limewash technique in my hallway using Rust-Oleum's Chalky Finish paint (~£14 per 750ml from B&Q) applied with a dry brush in circular strokes over a base coat. The result wasn't identical to true limewash, but it was significantly more interesting than flat emulsion and cost about £30 total for a small hallway.
 
 Bauwerk Colour (~£65 per 2.5L) and Little Greene both do genuine limewash paint at a higher price point if you want the real thing.
@@ -73,13 +75,15 @@ Limewash and limewash-effect paints work particularly well in warm tones — ter
 
 ---
 
-## 3. Curved Furniture: The Shape of Modern British Living
+## 3. What's the Shape of Modern British Living?
 
 The sofa with a sharp, rectangular profile has become the tell of an interior that hasn't moved on. Modern British living rooms are full of curves now — rounded sofas, oval coffee tables, arched shelving, curved-back dining chairs.
 
 This isn't a passing trend. Curved forms have a long history in British furniture design, and their return makes sense at a time when cosiness and comfort have become central decorating values. A curved sofa feels embracing in a way a sharp rectangular one simply doesn't.
 
 The key to making curved furniture feel modern rather than retro is material choice. A curved sofa in bouclé or textured fabric reads as contemporary. The same silhouette in velvet reads as 1970s revival. Both are valid, but they create very different rooms.
+
+Curved sofas span from £299 at Wayfair UK to £549 for IKEA's Äpplaryd range, while genuine vintage 1970s curved sofas on Facebook Marketplace can be found for as little as £50–£200.
 
 Good UK sources for curved furniture:
 - **Dunelm** — increasingly good contemporary shapes from ~£399 for sofas
@@ -89,11 +93,13 @@ Good UK sources for curved furniture:
 
 ---
 
-## 4. Natural Materials: The Texture of Modern British Homes
+## 4. What Gives Modern British Homes Their Texture?
 
 If the 2010s were the decade of smooth, glossy surfaces — gloss kitchen cabinets, lacquered furniture, polished concrete — the 2020s are the decade of raw, natural, tactile ones.
 
 Linen, jute, rattan, unglazed ceramic, natural wood with the grain visible — these are the materials of modern British interiors. They share a quality: imperfection. They don't look mass-produced, even when they are.
+
+Linen curtains start at £45 a pair from IKEA, and pairing them with a £35 jute rug and £12 rattan baskets from Dunelm covers a full natural-materials refresh for under £100.
 
 **How to use natural materials in practice:**
 
@@ -113,17 +119,21 @@ A decade ago, chrome was the default finish for taps, door handles, towel rails,
 
 Aged brass is the dominant finish — but not the shiny, bright brass of the 1980s. The modern version is darker, slightly worn-looking, with a warmth that reads as sophisticated rather than dated. Burnished copper and warm bronze are close alternatives.
 
+Swapping door handles costs from just £4 each at B&Q, while a full hardware refresh — including an £80 kitchen tap and £35–£65 brass light fittings — can modernise a room's finishes for well under £200.
+
 Switching hardware is one of the most effective ways to modernise a home without a full renovation. New door handles (from ~£4 each at B&Q), a new kitchen tap (from ~£80), new light fittings — these feel minor individually but collectively shift the tone of a room significantly.
 
 Aged brass light fittings from ~£35 at Dunelm. For something more considered, John Lewis carries better quality options from ~£65.
 
 ---
 
-## 6. The Modern British Bookshelf
+## 6. What Makes the Modern British Bookshelf Different?
 
 Here is one of the most distinctive things about modern British interiors compared to Scandinavian or American contemporary: the bookshelf as a primary decorating element.
 
 British people read. Or at least, we like books to be visible. The full bookshelf — not a display shelf with a few carefully chosen objects and three books arranged spine-out — has become a genuine interior statement in British homes.
+
+An IKEA Billy bookshelf costs around £60, and filling it with genuinely mismatched, well-used books — rather than colour-coordinated or curated shelves — is what makes it read as modern British rather than styled.
 
 The styling principle: **books as texture.** Not arranged by colour (too contrived) and not in a single line of identical size (too clinical). Mixed heights, some horizontally stacked, some face-out, interspersed with objects — a small plant, a candle, a ceramic.
 
@@ -131,9 +141,11 @@ My floor-to-ceiling bookshelf, filled with actual books in no particular order, 
 
 ---
 
-## 7. Indoor Plants as Architecture
+## 7. How Do Indoor Plants Work as Architecture?
 
 The modern British home uses plants not just as decoration but as structural elements — things that fill corners, add height, create privacy between zones in open-plan spaces.
+
+An architectural olive tree in a terracotta pot costs £40–£80 from most UK garden centres, delivering the room-filling structural presence of a much larger design investment.
 
 The plant choices that suit this approach:
 

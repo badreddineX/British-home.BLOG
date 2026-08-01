@@ -39,9 +39,11 @@ I've painted my bedroom twice in the past four years. The first time, following 
 
 Read more: [bedroom decor full guide](/blog/bedroom-decor-ideas-uk/)
 
-## 1. Warm Neutrals: The Safest Bet for Any British Bedroom
+## 1. Are Warm Neutrals the Safest Bet for Any British Bedroom?
 
 Warm neutrals are the most universally flattering bedroom colour choice in the UK, and the bestselling bedroom paint category across Dulux, Crown, and Farrow & Ball combined. They work in north-facing rooms, south-facing rooms, small bedrooms, and large ones — because they're warm enough to counteract grey light without being so saturated that they demand a specific decorating style.
+
+Warm neutral paints span from Crown Country Cream at roughly £18 a tin to Farrow & Ball Elephant's Breath at around £59, giving UK homeowners a bracket of options that all counteract the grey-light problem regardless of budget.
 
 The specific shades that work:
 
@@ -62,6 +64,8 @@ Stark white almost never works in a British bedroom, and it's the most common co
 
 If you want a light, airy bedroom, reach for an off-white with warm undertones rather than a true white. The difference in real life is dramatic.
 
+Warm off-whites for UK bedrooms range from around £22 for Dulux Timeless to £59 for Farrow & Ball Wimborne White, spanning a near three-fold price difference for the same warm-undertone effect.
+
 The off-whites that actually work:
 
 - **Dulux Timeless** (~£22 per 2.5L) — a warm, slightly chalky off-white. One of the most reliably flattering light colours in British rooms.
@@ -74,11 +78,13 @@ Dulux Timeless 2.5L — ~£22 from B&Q. The safest light-bedroom choice in the D
 
 ---
 
-## 3. Sage Green: The Most-Searched Bedroom Colour in the UK Right Now
+## 3. Why Is Sage Green the Most-Searched Bedroom Colour in the UK Right Now?
 
 Sage green became the dominant bedroom colour trend in the UK around 2022, and it hasn't faded. [Google Trends](https://trends.google.com) UK data shows "sage green bedroom" searches remain consistently high in 2026 — above navy, blush, and even neutral search volumes in the bedroom category.
 
 The reason it works so well in British bedrooms is botanical. Sage and muted greens reference the British countryside, hedge-rows, and garden walls in a way that feels rooted rather than fashionable. They also sit naturally alongside the warm lamplight that most UK bedrooms run on in evenings.
+
+Sage green paint options span roughly £18 for Crown Moody Moss up to £59 for Farrow & Ball Mizzle, yet Google Trends data shows the search demand for the look outpaces every other bedroom colour category in 2026.
 
 The shades to consider:
 
@@ -99,6 +105,8 @@ Blue is a perennially popular bedroom colour, and with good reason — it's cons
 
 But not all blues travel equally. Bright, saturated blues feel cold and stark in UK light. The blues that succeed are the ones that have been muted, deepened, or warmed.
 
+UK blue paints range from about £22 for Dulux Sapphire Salute to £59 for Farrow & Ball Hague Blue, and the 2018 Travelodge UK study found people sleeping in blue rooms averaged 7 hours 52 minutes of sleep — more than any other colour group.
+
 Blues that work well:
 
 - **Farrow & Ball Hague Blue** (~£59 per 2.5L) — a very dark, inky navy. Bold choice, but genuinely beautiful in lamplight. Best used as a feature wall or in a bedroom with strong lighting.
@@ -111,11 +119,13 @@ Farrow & Ball Hague Blue 2.5L — ~£59 from Farrow & Ball. Most impactful as a 
 
 ---
 
-## 5. Blush and Dusty Pinks: Better Than You Think
+## 5. Are Blush and Dusty Pinks Better Than You Think?
 
 Pink has a reputation as a bedroom colour choice that requires commitment — and perhaps a certain kind of personality. That reputation belongs to hot pinks and candy pinks, which are genuinely polarising. Dusty, muted blush pinks are an entirely different proposition: they're sophisticated, warm, and flattering in the kind of lamplight most British bedrooms use.
 
 The distinction is undertone. Warm, grey-based pinks read as earthy and considered. Bright, blue-based pinks read as sugary and demanding.
+
+Dusty pink paints span from Crown Antique Rose at around £18 to Farrow & Ball Dead Salmon at roughly £59, and the difference between a sophisticated blush and a sugary pink comes down to undertone rather than price.
 
 The dusty pinks that work:
 
@@ -136,6 +146,8 @@ Deep, saturated colours — navy, forest green, charcoal, terracotta — are oft
 
 The cocooning effect of a deep-toned bedroom — all four walls in a forest green or charcoal — is one of the most successfully restful interiors I've experienced. The room wraps around you in a way pale walls don't. For a bedroom specifically, this is a feature rather than a flaw.
 
+Deep bedroom colours range from about £18 for Crown Forest Bathed in Light to £59 for Farrow & Ball Studio Green, and a friend's 9-square-metre spare room proved a small footprint is no barrier to using them on all four walls.
+
 The deep tones that translate best:
 
 - **Farrow & Ball Studio Green** (~£59 per 2.5L) — a deep, cool forest green. One of the most popular Farrow & Ball colours for bedrooms in the past five years.
@@ -155,6 +167,8 @@ Terracotta had a moment around 2021–2022 and, unlike many trends, it hasn't fa
 
 These earth tones translate particularly well to British bedrooms because they're warm by nature — they add the temperature that UK light takes away. They also work intuitively with natural-fibre bedding, jute rugs, wooden furniture, and the kind of layered, textural British interior that's becoming increasingly dominant.
 
+Terracotta and earthy paint tones range from about £18 for Crown Warm Clay to £59 for Farrow & Ball Red Earth, covering everything from a subtle bridge colour to a fully committed feature-wall statement.
+
 Earthy tones worth considering:
 
 - **Farrow & Ball Red Earth** (~£59 per 2.5L) — a deep, muted terracotta. Rich and warm without tipping into orange. Best used on all four walls in a room with good lamplight.
@@ -169,6 +183,8 @@ Farrow & Ball Red Earth 2.5L — ~£59 from Farrow & Ball. The most sophisticate
 ## 8. How to Use Feature Walls in a Bedroom
 
 A feature wall — one wall in a deeper or more saturated colour than the other three — is the most common way to introduce a bold bedroom colour without fully committing to it. Done well, it creates depth and visual focus. Done poorly, it looks unplanned and detracts from the room.
+
+A feature wall should sit two to three shades deeper than the surrounding walls, and testing it first with £3–£5 sample pots is far cheaper than repainting an entire bedroom after committing to the wrong intensity.
 
 The rules for a successful bedroom feature wall:
 
@@ -186,6 +202,8 @@ Feature wall paint sample — test with A4 patches in at least three positions b
 
 Paint samples look dramatically different on the small card at the paint counter versus a real wall in real light. This is particularly true in British bedrooms, where the quality of light changes significantly between morning, afternoon, and evening — and between overcast and clear days.
 
+Testing seven paint samples over two weeks — at roughly £3–£7 per pot — saved one repaint from becoming a costly £40 mistake, proof that a fortnight of patience pays for itself many times over.
+
 The correct method for testing bedroom paint:
 
 Paint A4-sized sample patches on at least three walls — ideally the wall that gets the most morning light, the darkest wall, and the wall behind the bed. Leave them for 48 hours, observing at different times of day and specifically in the evening under your actual bedroom lighting.
@@ -201,6 +219,8 @@ Farrow & Ball sample pots — ~£5–£7 each from Farrow & Ball. Always test in
 ## 10. UK Paint Brand Comparison: What Are You Actually Paying For?
 
 The price difference between a £18 Crown tin and a £59 Farrow & Ball tin is real — and so is the quality difference. But the premium isn't just pigment.
+
+UK paint brands span roughly £15–£22 a tin at the budget tier up to £45–£65 at the premium tier, with the biggest visible difference concentrated in how deep, saturated colours render rather than in basic coverage.
 
 Here's the practical difference between UK paint brands at different price points:
 

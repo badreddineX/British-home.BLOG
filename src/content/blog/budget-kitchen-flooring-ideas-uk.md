@@ -38,6 +38,15 @@ I did exactly this in a rented flat with a tired grey lino floor that had been d
 
 For the styling layer once your floor's sorted, see [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk) for cabinet paint, handles, and lighting ideas that finish the room off.
 
+## Quick Comparison: Which Budget Flooring Option?
+
+| Option | Cost (3m x 3m kitchen) | Goes Over Old Lino? | Best For |
+|---|---|---|---|
+| Peel-and-stick vinyl tiles | £50–£90 | Yes, if flat and sound | Cheapest option, renters wanting reversible flooring |
+| Click-lock vinyl plank | £150–£250 | Yes, if flat and sound | More durable, better for heavy foot traffic |
+| Self-levelling compound (if needed first) | +£12–£20 per 3–5m² | N/A — prep step | Uneven floors with dips/humps over 3mm |
+| Professional fit (new floor + removal) | £400–£800 | N/A | Damaged, damp, or badly uneven subfloors |
+
 ---
 
 ## What Is the Cheapest Kitchen Flooring in the UK?

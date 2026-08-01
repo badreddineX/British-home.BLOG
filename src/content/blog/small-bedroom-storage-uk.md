@@ -32,9 +32,11 @@ The bedroom in a small UK flat has to do double duty: sleep and storage. Most sm
 
 ---
 
-## 1. Under-Bed Storage First
+## 1. What's the Best Way to Use Under-Bed Storage First?
 
 The area under the bed is the largest storage zone in most bedrooms, and it is almost always underused.
+
+IKEA SKUBB under-bed bags cost just £6 for two and, alongside £18 bed risers to add clearance, turn the largest underused storage zone in most bedrooms into functional space in minutes.
 
 **Options:**
 - **IKEA SKUBB under-bed bags** (~£6 for 2) — flat, zippable, dust-resistant. Ideal for off-season clothes and extra bedding. Available at IKEA UK
@@ -43,7 +45,7 @@ The area under the bed is the largest storage zone in most bedrooms, and it is a
 
 **What to store under the bed:** off-season clothing, extra bed linens, bulky items used rarely (winter duvet in summer, summer bedding in winter), shoes.
 
-## 2. Slim Velvet Hangers in the Wardrobe
+## 2. Why Do Slim Velvet Hangers Make Such a Big Difference in the Wardrobe?
 
 Switching from plastic to slim velvet hangers is the highest-value wardrobe upgrade available. Plastic hangers are 2-2.5cm thick. Velvet hangers are 0.5cm thick. Replacing 30 hangers frees 45-60cm of rail space — room for 15-20 additional garments.
 
@@ -55,19 +57,21 @@ A second tension rod installed below the main wardrobe rail creates a full secon
 
 **Cost:** Amazon UK, tension rod ~£12.
 
-## 4. Over-Door Wardrobe Organiser
+## 4. How Does an Over-Door Wardrobe Organiser Help?
 
 The back of the bedroom wardrobe door is typically empty. A 24-pocket over-door organiser holds shoes, accessories, belts, scarves, and socks cleanly.
 
+A 24-pocket over-door organiser costs around £18-£25 and converts an entirely empty door into storage for shoes, belts, scarves, and socks.
+
 **Cost:** Amazon UK, ~£18-£25.
 
-## 5. A Storage Bed Frame
+## 5. Is a Storage Bed Frame Worth Buying?
 
 IKEA NORDLI bed frame with built-in drawers (~£350-£600, single to double) has large drawers on each side — enough to replace a full chest of drawers in most small bedrooms. Removing the chest of drawers frees significant floor space and makes the room feel larger.
 
 This is the most impactful single furniture purchase for a small bedroom.
 
-## 6. Floating Shelves as a Nightstand
+## 6. Can Floating Shelves Work as a Nightstand?
 
 A bedside table takes 40-50cm x 40cm of floor space. A floating shelf (IKEA LACK, ~£9) mounted at nightstand height with Command strips provides the same function with zero floor footprint.
 
@@ -85,7 +89,7 @@ A mirror that doubles as a storage cabinet is a classic small-flat solution. Wal
 
 **Cost:** Amazon UK or Wayfair UK, ~£65-£120.
 
-## 9. Over-the-Door Hooks on the Bedroom Door
+## 9. What Can You Store With Over-the-Door Hooks on the Bedroom Door?
 
 The bedroom door itself is storage space. An over-door hook rack or row of Command hooks holds a dressing gown, tomorrow's outfit, and handbags.
 
@@ -97,7 +101,7 @@ Off-season clothes are the primary driver of wardrobe overflow in a UK flat. Hea
 
 **Cost:** Amazon UK, 6-bag set ~£16-£20.
 
-## 11. A PAX Wardrobe for Flats Without Built-In Storage
+## 11. What's the Best Wardrobe Option for Flats Without Built-In Storage?
 
 Some older conversions and studio flats have inadequate or no bedroom wardrobe space. An IKEA PAX wardrobe system solves this completely: it's freestanding, customisable, and provides more organised storage than most built-in wardrobes.
 
@@ -109,7 +113,7 @@ A 100cm wide x 201cm tall PAX with interior organisers stores a full wardrobe fo
 
 If you keep a chest of drawers, choose a tall one (5-6 drawers high) rather than a wide one (3-4 drawers across). Tall chests use vertical space, leaving more floor footprint for movement. Wide, low chests consume floor space without adding much capacity.
 
-## 13. Wicker Baskets on Open Shelves for Accessible Storage
+## 13. How Do Wicker Baskets Keep Open Shelves Accessible and Tidy?
 
 If you have open shelves in the bedroom (BILLY bookcase, floating shelves, wardrobe shelves without doors), wicker baskets hide contents while keeping them accessible. One basket per category: scarves, gym kit, bags, and so on.
 
@@ -164,7 +168,6 @@ Complete the first five steps of the priority order before considering larger pu
 
 **Related reading you might find useful:**
 
-- [21 small flat storage ideas UK](/blog/small-bedroom-storage-uk) for storage solutions in every other room
 - [Bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk) for the visual side once storage is sorted — colour, lighting, and layout for a bedroom that feels calm, not just organised
 - [Bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk) once the storage basics are in place
 - [Bedroom makeover UK](/blog/bedroom-makeover-uk) if you're tackling the whole room at once, storage included

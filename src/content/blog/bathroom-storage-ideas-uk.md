@@ -36,7 +36,7 @@ My bathroom in a rented flat in London was 38 sq ft. That is not a typo. There w
 
 ---
 
-## 1. Over-Toilet Shelving — The Highest-Value Move
+## 1. Why Is Over-Toilet Shelving the Highest-Value Move?
 
 In a small bathroom, the wall above the toilet is the only large open vertical zone. Most small rental bathrooms waste it entirely.
 
@@ -51,7 +51,7 @@ A freestanding over-toilet shelf unit sits around the cistern and adds three ful
 
 **What to put on the shelves:** Decorative baskets on the top shelf (they hide clutter and look intentional), rolled towels on the middle shelf, daily toiletries on the bottom shelf within easy reach.
 
-## 2. Over-Door Organisers — The Most Underused Space
+## 2. Why Are Over-Door Organisers the Most Underused Space?
 
 The back of the bathroom door is typically empty in UK rental bathrooms. An over-door organiser converts that vertical surface into usable storage with zero wall damage.
 
@@ -85,9 +85,11 @@ The medicine cabinet is the most efficient storage unit in the bathroom per squa
 
 The mirror exterior also eliminates the need for a separate bathroom mirror, freeing wall space for other uses.
 
-## 4. Under-Basin Organisation
+## 4. How Do You Organise the Space Under Your Basin?
 
 A pedestal basin has no under-basin storage at all. A vanity unit has under-basin space, but it is usually a single open cavity with pipework running through the middle — disorganised by design.
+
+A single IKEA RÅSKOG rolling cart costs around £35 and, parked beside a pedestal basin, replaces most of the storage a built-in vanity would otherwise provide.
 
 Two approaches, depending on your basin type:
 
@@ -115,11 +117,13 @@ Shower storage in a small UK rental bathroom almost always means a tension showe
 
 **For bath renters:** A bath caddy that rests across the tub edges (~£20-£45, Amazon UK) holds soap, shampoo, a razor, and a small candle without any installation. Expandable versions fit baths from 66cm to 90cm wide.
 
-## 6. Counter Declutter — Keep Only Daily Items
+## 6. How Do You Declutter a Bathroom Counter to Keep Only Daily Items?
 
 Counter space in a small bathroom is the most valuable surface area you have. Every item left on the counter permanently reduces your functional workspace and makes the bathroom feel smaller.
 
 The rule: only items used every single day live on the counter. Everything else gets a home off the counter.
+
+A slim two-tier countertop organiser costs about £15-£22 and can double the usable counter space in a small bathroom without any installation.
 
 **Counter organisation tools:**
 - A small tray or catchall dish keeps daily items (soap, toothbrush holder, face wash) organised in one zone rather than scattered (~£8-£15, HomeSense)
@@ -128,9 +132,11 @@ The rule: only items used every single day live on the counter. Everything else 
 
 **What moves off the counter permanently:** extra make-up, cotton wool, hair accessories, backup products. These belong in the over-door organiser, medicine cabinet, or a drawer organiser.
 
-## 7. Towel Storage Without a Towel Rail
+## 7. How Do You Store Towels Without a Towel Rail?
 
 Most small UK rental bathrooms have one towel rail. That is rarely enough for more than one person, and towel rails require drilling if you want to add more. Three renter-friendly alternatives:
+
+A 4-hook over-door towel rack costs around £22-£30 and holds four to six towels without a single wall fixing — the most practical fix for UK rentals with only one built-in towel rail.
 
 **Option 1: Over-door towel hooks**
 An over-door hook rack on the bathroom door holds four to six towels without any wall contact. A 4-hook over-door rack (~£22-£30, Amazon UK) fits doors up to 3.8cm thick.
@@ -191,6 +197,5 @@ Complete steps 1 through 3 of the priority order before purchasing anything else
 
 **Related reading you might find useful:**
 
-- [21 small flat storage ideas UK](/blog/small-bedroom-storage-uk) for the full-flat approach, room by room
 - [Small bedroom storage UK](/blog/small-bedroom-storage-uk) for bedroom-specific storage using the same no-drill principles
 - [Rented flat makeover UK](/blog/rented-flat-makeover-uk) for the full deposit-safe room-by-room playbook

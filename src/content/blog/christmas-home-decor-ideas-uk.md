@@ -41,7 +41,7 @@ I've put together a guide to doing Christmas properly in a British home — with
 
 Read more: [autumn-to-winter seasonal decorating](/blog/autumn-home-decor-ideas-uk/)
 
-## 1. Get Your Colour Palette Right First
+## 1. What's the Right Colour Palette to Choose First?
 
 This is the step most people skip — and it's the reason so many Christmas rooms end up looking busy rather than beautiful.
 
@@ -59,13 +59,15 @@ Decide your palette before buying anything. Take a photo of your living room and
 
 ---
 
-## 2. Lighting: The Foundation of a Genuinely Cosy Christmas
+## 2. How Does Lighting Create a Genuinely Cosy Christmas?
 
 Christmas lighting in the UK has a quality problem. The default is often cool white LED fairy lights — bright, clean, technically impressive — and completely devoid of warmth.
 
 Warm white fairy lights (2700K) look like stars. Cool white fairy lights look like LEDs. The difference to the atmosphere of a room is significant.
 
 I switched from cool white to warm white copper-wire fairy lights three Christmases ago. The room looked warmer, more old-fashioned, and — honestly — more magical. The lights hadn't changed position. Just the colour temperature.
+
+Warm white fairy lights start at £8 for Dunelm's copper-wire sets, and layering in £8 beeswax candles from John Lewis and a £25 candelabra from Next Home covers a full warm-lighting refresh for around £40.
 
 **What to buy:**
 - **Copper-wire warm white fairy lights** — Dunelm from ~£8/set. Flexible and shape-holding.
@@ -77,11 +79,13 @@ The rule: never use cool white lights in a Christmas-decorated room. Not on the 
 
 ---
 
-## 3. The Tree: The Non-Negotiable Focal Point
+## 3. What Makes the Tree the Non-Negotiable Focal Point?
 
 There is no substitute for a real Christmas tree in a British home. The smell — that clean, resinous, pine-and-earth scent — is irreplaceable, and it's half of what makes a room smell like Christmas.
 
 The Nordmann fir is the standard British Christmas tree choice: it holds its needles longer than Norway spruce, grows symmetrically, and looks beautiful. B&Q, Dobbies Garden Centres, and local Christmas tree farms all stock them from late November.
+
+A 5ft Nordmann fir starts at around £30 from B&Q or local garden centres, and its needle retention is the specific reason it's become the standard British Christmas tree choice over Norway spruce.
 
 **Size guidance:**
 - A 5ft tree suits most UK flats and smaller rooms
@@ -94,9 +98,11 @@ Real trees from ~£30 for a 5ft Nordmann fir at B&Q or local garden centres. Pot
 
 ---
 
-## 4. The British Mantelpiece: The Christmas Centrepiece
+## 4. How Do You Style the British Mantelpiece?
 
 If your home has a fireplace — even a decorative one — the mantelpiece is your Christmas focal point. This is where British Christmas decorating gets specific and genuinely beautiful.
+
+Command hooks rated to hold at least 3kg are strong enough to hang lightweight stockings from a mantelpiece or shelf without a single nail or wall mark.
 
 The traditional British mantelpiece approach:
 
@@ -116,6 +122,8 @@ In homes without fireplaces, the same principle works beautifully applied to a s
 
 A beautiful Christmas tree is about layering, just like everything else in interior design. Most trees look underdressed — a few baubles scattered on the outer branches — rather than the deep, luxuriant decoration that looks genuinely special.
 
+Ornament sets range from £12 for a 20-pack at Dunelm to individual £6 baubles at John Lewis, meaning a fully layered tree of large, medium, and small ornaments doesn't require a big single purchase.
+
 **The order of decoration:**
 1. **Lights first** — wound into the tree, not just draped on the surface. Push the wire into the inner branches.
 2. **Large ornaments** — hung deep inside the branches so they reflect light from within
@@ -132,9 +140,11 @@ A beautiful Christmas tree is about layering, just like everything else in inter
 
 ---
 
-## 6. Natural Elements: The British Christmas Difference
+## 6. Why Do Natural Elements Make the British Christmas Difference?
 
 The homes that feel most genuinely Christmassy in the UK use natural elements. This is what separates British Christmas styling from the more plastic, manufactured look.
+
+A bunch of holly costs just £3–£5 and lasts two weeks, while a bag of ready-made dried orange slices from Amazon UK runs about £8 — natural touches that cost less than a single string of fairy lights.
 
 **Natural elements to include:**
 - **Holly** — from a garden or a florist, a bunch costs ~£3–£5 and lasts two weeks
@@ -149,6 +159,8 @@ A bowl of clementines, a pile of walnuts, and a tealight on the coffee table cos
 ---
 
 ## 7. Budget Breakdown: Christmas Styling at Three Price Points
+
+The jump from a budget Christmas at £30–£50 to a mid-range setup at £80–£150 mostly buys a real 5ft tree and florist-quality garland, not more ornaments.
 
 ### Budget Christmas (~£30–£50)
 

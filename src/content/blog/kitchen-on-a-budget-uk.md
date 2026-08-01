@@ -48,9 +48,11 @@ Read more: [budget home transformation framework](/blog/budget-home-makeover-uk)
 
 ---
 
-## Paint Your Cabinet Doors
+## What's the Best Way to Paint Your Cabinet Doors?
 
 Painting cabinet doors is the single highest-impact change you can make to a tired kitchen. Rust-Oleum Kitchen Cupboard Paint (around £18 per 750ml tin at B&Q and Screwfix) covers roughly 12–15 cabinet doors per tin and dries to a hard, wipeable finish. Most average kitchens need two tins.
+
+Two tins of Rust-Oleum Kitchen Cupboard Paint cost around £36 in total and cover a full standard UK kitchen, making cabinet painting the best spend-per-impact ratio of any change on this list.
 
 The prep is more important than the paint. Remove every door, clean with sugar soap, sand lightly with 120-grit, and prime any glossy or laminate surfaces before applying two thin coats. Skipping prep is why most DIY paint jobs look bad six months later. Budget about a full day for prep and two evenings for painting.
 
@@ -60,9 +62,11 @@ Two tins of Rust-Oleum Kitchen Cupboard Paint at around £36 total will transfor
 
 ---
 
-## Swap Every Handle and Knob
+## How Do You Swap Every Handle and Knob?
 
 Cabinet handles are one of those things you stop noticing — until you see a kitchen where they've been changed. Replacing brass bar pulls from 2002 with something modern takes thirty minutes and a screwdriver. The visual difference is disproportionate to the effort.
+
+A full kitchen of twenty handles costs between £30 and £80, whether you choose IKEA's BLANKETT range from ~£2–£3 each or Etsy cup pulls from £1.50–£4 each, and the whole swap takes about thirty minutes with a screwdriver.
 
 IKEA sells simple brushed nickel bar pulls (the BLANKETT range) for around £2–£3 per handle. For a more premium feel, check Dunelm's hardware section or Etsy UK sellers — cup pulls in antique brass or matte black run from £1.50 to £4 each. A full kitchen of twenty handles costs between £30 and £80 depending on your source.
 
@@ -72,9 +76,11 @@ New handles cost £15–£40 for a full kitchen and make flatpack units look con
 
 ---
 
-## Add Open Shelving
+## Is Open Shelving Worth Adding?
 
 Removing a couple of upper cabinet doors and using the space as open shelving costs almost nothing and makes even a small kitchen feel more intentional. If you want proper dedicated shelving, IKEA's Boaxel wall-mounted system starts at around £25 for a single shelf with brackets and holds up to 50kg per shelf.
+
+One IKEA Boaxel shelf and bracket set starts at around £25 and holds up to 50kg, giving a small kitchen visible extra storage without touching the existing cabinet layout.
 
 Open shelving works particularly well in alcoves, beside windows, or in any corner where a full upper cabinet would feel oppressive. Style with a mix of functional items (stacked plates, mugs, a wooden board) and one or two decorative touches. A small plant helps enormously.
 
@@ -85,9 +91,11 @@ One IKEA Boaxel shelf unit costs around £25–£50 depending on size and adds v
 ---
 
 
-## Replace the Taps
+## How Much Does It Cost to Replace the Taps?
 
 Old taps are one of the most ageing elements in any kitchen. A single-lever monobloc tap costs from £45 at B&Q (the Cooke & Lewis Palma range) and from £55 at Screwfix. Replacing a tap is a job most confident DIYers can do in under two hours with an adjustable spanner and a YouTube tutorial.
+
+Even with professional fitting, a £60 tap plus £60 labour comes to £120 total, still a fraction of the cost of any other kitchen fixture upgrade.
 
 The visual upgrade from a stained chrome pillar tap to a clean matte black or brushed brass monobloc is immediately noticeable. It also brings a functional benefit: single-lever taps are genuinely more pleasant to use than the old two-tap arrangement.
 
@@ -101,6 +109,8 @@ A new monobloc tap from B&Q or Screwfix starts at £45 and is one of the most no
 
 If you have an existing tile splashback, there's a reasonable chance the grout has gone grey or brown. Regrout it. A tube of Mapei Ultracolor Plus grout (around £7–£9 at Wickes or Screwfix) is enough for a standard splashback area. Pair it with a £3 tube of grout rake from Amazon.
 
+A tube of Mapei Ultracolor Plus grout costs £7–£9, and combined with a £3 grout rake, the total materials cost for a full splashback regrout comes to under £15.
+
 The process is straightforward: rake out 3–5mm of the old grout with the tool, vacuum the dust, mix and apply fresh grout with a float, wipe clean after 20 minutes. The total job takes about three hours. The result looks like a brand new tiled surface at a cost of under £15.
 
 White grout on white tiles looks cleaner. Anthracite grout on metro tiles has become a classic UK kitchen look. Both are easy to find at Wickes or B&Q.
@@ -109,9 +119,11 @@ Regrout costs under £15 in materials and gives a tiled splashback a completely 
 
 ---
 
-## Add Peel-and-Stick Splashback Tiles
+## Do Peel-and-Stick Splashback Tiles Actually Work?
 
 If you don't have a splashback at all, or you have bare wall behind the hob, peel-and-stick tile sheets are the budget solution that actually works. Brands like Crearreda and Vinyltiles sell A4 and A3 peel-and-stick panels that mimic metro tile, geometric patterns, and even marble. A full splashback area costs £25–£45 from Amazon UK or Dunelm.
+
+A full peel-and-stick splashback from Crearreda or Vinyltiles costs £25–£45 from Amazon UK or Dunelm and needs no tools, adhesive, or grout to install.
 
 I was sceptical about peel-and-stick tiles until I used them on a small section behind a gas hob. Two years later, they're still firmly in place, and visitors consistently ask which tile shop I used. The key is to start on a perfectly flat, grease-free surface and use a credit card to press out every air bubble.
 
@@ -150,9 +162,11 @@ Peel-and-stick splashback tile sheets cost £25–£45 for a standard area and r
   </svg>
 </figure>
 
-## Upgrade the Lighting
+## How Do You Upgrade the Lighting?
 
 Most UK kitchens suffer from one central ceiling light and permanent shadows on the worktop. Under-cabinet LED strip lights fix this immediately. Luminoodle and LE make USB-powered or plug-in strips available on Amazon for £12–£25 for a 2–3 metre run. B&Q's own-brand LED strip kits are around £18 and come with a simple adhesive backing.
+
+Under-cabinet LED strips cost £12–£25 for a 2–3 metre run at Amazon or around £18 for B&Q's own-brand kit, making it one of the cheapest fixes for a kitchen's most common lighting problem.
 
 Under-cabinet lighting eliminates the shadow that a ceiling pendant casts over worktop areas, making food prep easier and the kitchen look significantly better in photos. It's also one of the easiest upgrades on this list — peel, stick, and plug in.
 
@@ -166,6 +180,8 @@ Under-cabinet LED strips from £12 at Amazon or B&Q eliminate worktop shadows an
 
 It sounds obvious, but most people focus entirely on the units and forget that the wall colour between and above the cabinets is a significant visual element. A flat kitchen with cream walls looks completely different painted in a deep sage, a warm terracotta, or a proper off-white like Dulux Malt Chocolate or Farrow & Ball Elephant's Breath.
 
+Two tins of Dulux Kitchen Matt cost around £40 in total and repaint an average kitchen's walls without touching a single cabinet, often producing more visible difference than new handles alone.
+
 A 2.5L tin of Dulux Kitchen Matt covers around 30 square metres and costs £19–£23 at B&Q. It's specifically formulated for the moisture and steam environment of a kitchen, so it resists mould and wipes clean more readily than standard emulsion. Two coats on average kitchen walls costs around £40 in paint.
 
 The wall colour between upper and lower units is often the most visible expanse of colour in a kitchen, yet most guides focus exclusively on units. Painting just the walls — without touching a single cabinet — often makes more visual difference than new handles alone, and costs less.
@@ -174,9 +190,11 @@ Two tins of Dulux Kitchen Matt at around £40 total changes the entire atmospher
 
 ---
 
-## Replace or Wrap the Worktop
+## Should You Replace or Wrap the Worktop?
 
 Replacing a laminate worktop is more involved than most of the upgrades on this list, but laminate offcuts are sold at Wickes and B&Q for as little as £20–£50 per section if you buy remnants. A standard run of worktop (3 metres) costs around £45–£90 in laminate, plus around £30 for fitting kit and jigsaw blades if you're doing it yourself.
+
+A full 3-metre laminate worktop replacement costs £45–£90 in materials plus around £30 for fitting kit, putting a full DIY worktop swap under £120 in most cases.
 
 If full replacement feels too ambitious, worktop wrap film (self-adhesive vinyl designed for flat worktop surfaces) is available from Dunelm and Amazon. A 1.5m x 0.9m roll costs around £20–£30 and can convincingly mimic marble or concrete. It won't fool anyone on close inspection, but from a metre away in normal lighting, the effect is solid.
 
@@ -189,7 +207,7 @@ Laminate worktop remnants start at £20–£50 at Wickes and B&Q — a full DIY 
 
 ## Add a Kitchen Runner Rug
 
-This one gets overlooked constantly. A long kitchen runner in front of the sink or along a galley layout softens the floor, adds warmth underfoot, and pulls colour into a space that is often dominated by hard surfaces. Dunelm's Thornbury and Taunton ranges include washable runners from around £18–£35.
+This one gets overlooked constantly. A washable kitchen runner from Dunelm's Thornbury or Taunton ranges costs £18–£35 and adds warmth underfoot without touching a single hard surface in the room. A long kitchen runner in front of the sink or along a galley layout softens the floor, adds warmth underfoot, and pulls colour into a space that is often dominated by hard surfaces. Dunelm's Thornbury and Taunton ranges include washable runners from around £18–£35.
 
 Choose a washable rug rather than a standard flatweave, particularly if you cook frequently. Machine-washable runners from Dunelm or IKEA's Traaby range handle the daily mess of a working kitchen. Avoid anything with a thick pile — kitchen floors need something flat enough that it doesn't catch on chair legs or trip people.
 
@@ -211,9 +229,11 @@ Worktop organisation costs nothing, takes two hours, and creates the impression 
 
 ---
 
-## Install a New Sink
+## Is It Worth Installing a New Sink?
 
 Sink replacement sounds expensive. It doesn't have to be. A single bowl stainless steel undermount sink from Screwfix starts at around £55. A 1.5 bowl inset sink at B&Q starts at £65. Swapping a sink is more involved than replacing a tap, but a plumber charges roughly £80–£120 for a straightforward swap — and a new sink transforms a kitchen more than almost any other single fixture.
+
+A stainless steel sink starts at £55 from Screwfix, and even with professional fitting at £80–£120, replacing the sink and tap together stays under £200 including labour.
 
 Stainless steel has come back strongly in UK kitchen design after years of ceramic and composite dominance. A brushed steel sink looks contemporary, is harder to chip than ceramic, and is easier to find in budget ranges. If you prefer the farmhouse look, Wickes sells Belfast sinks in ceramic from around £99.
 
@@ -225,7 +245,7 @@ A replacement stainless steel sink starts at £55 at Screwfix and B&Q, with prof
 
 ## Paint or Tile the Floor
 
-Kitchen floors in UK homes are frequently sheet vinyl or ceramic tile from a decade or more ago. Sheet vinyl can be painted with specialist floor paint — Rust-Oleum Chalked Floor Paint costs around £22 for 887ml at Amazon — though this is a short-term fix that works best in low-traffic areas.
+Peel-and-stick vinyl floor tiles from ClickFix and Plank and Mill cost £1.50–£2.50 per tile, bringing a standard 3m x 3m kitchen floor to £50–£90 in materials with no adhesive or grout required. Kitchen floors in UK homes are frequently sheet vinyl or ceramic tile from a decade or more ago. Sheet vinyl can be painted with specialist floor paint — Rust-Oleum Chalked Floor Paint costs around £22 for 887ml at Amazon — though this is a short-term fix that works best in low-traffic areas.
 
 Peel-and-stick vinyl floor tiles are a better option for larger areas. ClickFix and Plank and Mill both sell self-adhesive luxury vinyl tiles on Amazon UK from around £1.50–£2.50 per tile. A standard kitchen floor (3m x 3m) costs £50–£90 in materials. They don't require adhesive, go directly over an existing smooth floor, and are renter-removable if you lift them carefully.
 
@@ -238,7 +258,7 @@ Peel-and-stick vinyl floor tiles from Amazon UK cost £50–£90 for a standard 
 
 ## Add Plants and Proper Accessories
 
-The final category is the one that makes everything else cohere. A kitchen with freshly painted units and new handles still looks like a home project without the finishing layer: plants, a decent chopping board on display, some matching accessories, and one or two objects that look chosen rather than default.
+A small herb plant costs £3–£5, a wooden chopping board £15–£25, and matching accessories £10–£20, putting the entire finishing layer of a kitchen refresh at around £30–£50 total. The final category is the one that makes everything else cohere. A kitchen with freshly painted units and new handles still looks like a home project without the finishing layer: plants, a decent chopping board on display, some matching accessories, and one or two objects that look chosen rather than default.
 
 A small potted herb garden in the window costs £3–£5 per plant at most supermarkets and garden centres. Basil, rosemary, and mint are the obvious choices — useful and attractive. A proper wooden chopping board propped against the splashback costs £15–£25 at Dunelm. A ceramic pot or two from TK Maxx at £4–£8 each adds warmth.
 

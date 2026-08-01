@@ -39,15 +39,17 @@ I own a mid-Victorian terrace in the north of England. I've spent four years ret
 
 Read more: [home interior ideas](/blog/home-interior-ideas-uk/)
 
-## Restore What the Builders Left You
+## What Should You Restore Instead of Remove?
 
 Before any decorating decision, deal with the original fabric of the house. Everything in this section is either irreplaceable or far cheaper to restore than its value suggests.
 
-### Original Features — Never Remove Them
+### Why Should You Never Remove Original Features?
 
 The most common mistake made in Victorian terraces is removing original features in a misguided attempt at modernisation. Cornicing, ceiling roses, dado rails, picture rails, and original fireplaces are the architectural vocabulary the room was designed around. Without them, you have a box. With them, you have a Victorian room.
 
 The NHBC Foundation 2023 report estimates that original period features add an average of 6–8% to the market value of a terraced house. But the real case for restoration isn't financial — it's aesthetic. These details create the proportions, shadows, and visual rhythm that give Victorian rooms their distinctive character.
+
+The NHBC Foundation found original period features add 6–8% to a Victorian terrace's market value, and even full cornicing restoration typically costs just £150–£300 per room — a fraction of that uplift.
 
 What to restore rather than remove:
 - **Cornicing:** If cracked or missing sections, original-style plaster coving can be matched by a specialist plasterer. Replacement sections typically cost ~£150–£300 per room including labour
@@ -59,11 +61,13 @@ I removed a dado rail in my dining room during a previous renovation, thinking i
 
 Fibrous plaster replacement coving — from ~£8 per metre from specialist suppliers.
 
-### Encaustic Hallway Tiles
+### How Do You Restore Encaustic Hallway Tiles?
 
 Encaustic and geometric Victorian hallway tiles are among the most valuable and irreplaceable features a terraced house can have. Laid in geometric patterns — typically black and white, or terracotta and cream — they're the first thing you see when you open the front door and they set the tone for the whole house.
 
 If yours have been covered with laminate, carpet, or vinyl (extremely common in houses renovated in the 1970s–1990s), uncovering them is almost always worth the effort. A professional tile restoration service — cleaning, re-grouting, and sealing — typically costs ~£80–£150 and reveals tiles that no reproduction can match.
+
+A professional encaustic tile clean and seal typically costs £80–£150, and one estate agent valued the resulting hallway's buyer appeal at around £3,000 — a return that dwarfs the restoration cost.
 
 If they're in reasonable condition, a regular maintenance clean using a pH-neutral cleaner (avoid acidic or alkaline products that damage the clay body) and an annual application of a suitable sealer is all they need.
 
@@ -75,15 +79,19 @@ Professional encaustic tile clean and seal — ~£80–£150.
 
 In a Victorian terrace, the fireplace is not a feature — it's the room's structural and visual centre. Every Victorian room was designed around its hearth. The mantlepiece, the chimney breast, the asymmetry they create — all of these are load-bearing elements of the room's composition.
 
+Reproduction cast iron Victorian fireplaces start at around £150, while original restored pieces from salvage yards run £100–£400 depending on condition — both far cheaper than most people assume before pricing it out.
+
 A blocked or boarded-up Victorian fireplace is always worth opening. Even if the chimney is no longer functional, a restored cast iron fireplace with a decorative element (a stack of logs, a plant, candles) gives the room the focal point it was designed to have. Cast iron Victorian reproduction fireplaces start at ~£150 from specialist suppliers; original restored pieces are available from salvage yards for ~£100–£400 depending on condition and style.
 
 Never replace an original Victorian fireplace surround with a modern gas or electric insert unless the original surround is genuinely beyond restoration. Modern inserts can be fitted within original surrounds while preserving the period character.
 
 Original Victorian cast iron fireplace from salvage yard — from ~£100.
 
-### Original Floorboards
+### What Do You Do With Original Floorboards?
 
 Under carpets installed in the 1970s–1990s, most Victorian terraces have original pine or Douglas fir floorboards. Restoring them — sanding, filling gaps with flexible filler, applying hardwax oil or a period-appropriate varnish — gives you flooring that no modern product can replicate.
+
+Professional floor sanding and finishing runs £300–£600 per room, while a competent DIYer can do the same restoration for £80–£150 in materials alone.
 
 The process typically costs ~£300–£600 per room for professional sanding and finishing, or ~£80–£150 in materials for a competent DIYer. The result is flooring with character, history, and durability that genuine Victorian pine — now over 100 years old and fully dried — provides better than new timber.
 
@@ -95,9 +103,11 @@ Professional floor sanding and finishing — from ~£300 per room.
 
 With the original fabric restored, the decorating decisions — colour, furniture, light — should answer to the building rather than fight it.
 
-### Period-Appropriate Paint Colours
+### Which Paint Colours Are Period-Appropriate?
 
 The Victorians did not use off-white walls. The era was characterised by rich, deep colours — a direct response to both the dark quality of gaslit rooms and the Victorian preference for abundance over restraint. Forest green, deep burgundy, Prussian blue, warm ochre, and chocolate brown are all documented period colours.
+
+Period-appropriate paint spans from around £25 per 2.5L for B&Q's Valspar and Dulux Heritage ranges up to £60 for Farrow & Ball's historical collection, so the Victorian palette is achievable at nearly any budget.
 
 Farrow & Ball's historical collection — particularly Hague Blue, Brinjal, Deep Roo, and Lamp Room Grey — captures the Victorian palette with the colour depth these rooms require. Their paints cost ~£60 per 2.5L, which is genuinely expensive. Little Greene's Victorian palette (from ~£48 per 2.5L) offers a slightly more affordable alternative with equally accurate historical research behind it.
 
@@ -117,9 +127,11 @@ What doesn't mix well in a Victorian room: the mass-market Scandi aesthetic that
 
 Mix periods confidently — the architecture is strong enough to lead the conversation.
 
-### Lighting for Victorian Proportions
+### How Should You Light a Room With Victorian Proportions?
 
 Victorian rooms were designed for gas lighting — warm, low, and intimate. They were not designed for the even, shadowless overhead lighting that modern recessed spotlights provide. In a Victorian terrace, recessed spotlights are almost always a mistake: they look incongruous, they flatten the cornicing and architectural detail that depends on shadows, and they produce the wrong quality of light for the room.
+
+A period-style pendant light starts at around £35 at Dunelm, making it one of the cheapest ways to correct the wrong-for-the-room quality of modern recessed spotlights.
 
 Use pendant lights on long cords from the ceiling rose — this is the original Victorian fitting point. A single generous pendant in the centre of the room, with table lamps and floor lamps for supplementary lighting, suits Victorian proportions far better than a grid of spots.
 

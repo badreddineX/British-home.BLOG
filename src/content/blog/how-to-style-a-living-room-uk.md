@@ -39,7 +39,7 @@ I've styled and restyled my own living room several times, and I've helped frien
 
 ---
 
-## 1. Identify (or Create) Your Focal Point
+## 1. How Do You Identify or Create Your Focal Point?
 
 Every successful living room has a focal point — the visual anchor the eye finds first when you walk in. Styling flows from it.
 
@@ -55,11 +55,13 @@ Trying to have two focal points (fireplace on one wall, large TV on another) cre
 
 ---
 
-## 2. Furniture Layout: The Rules That Actually Work
+## 2. What Furniture Layout Rules Actually Work?
 
 The biggest layout mistake in British living rooms is pushing all the furniture against the walls. It feels like the logical thing to do in a small room — surely it creates more floor space? — but it actually makes the room feel like a waiting area.
 
 Furniture that floats slightly away from walls creates a sense of intimacy and conversation. Even pulling the sofa 30–40cm from the wall makes a significant difference.
+
+Pulling the sofa just 30–40cm away from the wall is a small change that turns a room reading as a waiting area into one that feels intimate and conversational.
 
 **The basic layout for most UK living rooms:**
 
@@ -85,17 +87,21 @@ After the sofa, the rug is the most impactful piece in a living room. And it's t
 - Medium living room: 200 x 290cm or larger
 - Large living room: 240 x 340cm
 
+A rug sized at least 200 x 290cm for a medium living room — from around £65 at Wayfair UK up to £195 for IKEA's STOCKHOLM range — is enough to ground the whole seating area rather than leaving chairs floating on bare floor.
+
 A large rug from Wayfair UK (from around £65 for a decent-sized option) or IKEA (the STOCKHOLM range at 170 x 240cm, £195) grounds the entire seating area and makes the room feel more expansive rather than smaller.
 
 **Colour:** The rug doesn't need to match your sofa — it needs to share at least one or two tones with the room's overall palette. A patterned rug can do a lot of the colour work in a room where walls and furniture are kept neutral.
 
 ---
 
-## 4. Curtains: Hung High and Wide
+## 4. How High and Wide Should Curtains Be Hung?
 
 Curtains do two things in a living room: they control light and privacy, and they make the ceiling feel higher.
 
 The mistake most people make is hanging curtains just above the window frame. Always hang curtains as close to the ceiling as possible — or at least 15–20cm above the top of the window frame — and extend the pole 20–30cm beyond the window on each side. This makes the window look larger and the ceiling feel higher.
+
+Hanging curtains 15–20cm above the window frame and extending the pole 20–30cm beyond each side is a near-free change that makes both the window and the ceiling read as larger.
 
 **What to buy:** Ready-made lined curtains from IKEA, Dunelm, or Next Home are all good. IKEA's METIS or MAJGULL ranges are very affordable; Dunelm's made-to-measure curtains offer better value for unusual window sizes. Linen or linen-look fabric reads best in most British living rooms.
 
@@ -117,13 +123,17 @@ Layer your lighting in three types:
 
 All bulbs should be 2700K warm white — this is non-negotiable. Cool white bulbs (4000K or above) make even warm paint colours look grey and cold.
 
+A Dunelm floor lamp from £35–£45 plus a pair of table lamps under £30 each is enough to replace a single overhead light with the layered warm sources that most transform a living room.
+
 A good floor lamp from Dunelm starts at around £35–£45. A pair of matching table lamps can be found for under £30 each. The switch from a single overhead light to layered warm sources is the single highest-impact change you can make to a living room.
 
 ---
 
-## 6. Textiles: Cushions, Throws, and the Art of Layering
+## 6. How Do You Layer Cushions and Throws?
 
 Textiles are where a room gets its character. A sofa with nothing on it looks like it's waiting to be returned to the shop. The same sofa with four or five cushions and a throw draped over one arm looks like a room where someone lives happily.
+
+Five cushions on a three-seat sofa, plus a draped throw, forms a complete textile layer that costs under £60 using Dunelm's cushion and throw range.
 
 **Cushion formula:** For a three-seat sofa, use five cushions: two matching large ones at either end, two smaller contrasting ones slightly inset, and one different accent cushion in the centre. Five works better than four (odd numbers read better) and better than six (too arranged).
 
@@ -139,6 +149,8 @@ Dunelm's cushion and throw range is the best value in the UK for this. You can b
 
 Every shelf and surface in your living room is an opportunity to add character or create clutter. The difference is in how you group things.
 
+Grouping objects in odd-numbered sets of three, at varying heights, is what separates a styled surface that reads as intentional from one that reads as clutter.
+
 **The rule of three:** Group objects in threes, at varying heights. A tall vase, a medium candle, a small ceramic figure. A stack of three books, a plant on top of the stack, a small object beside it. Odd numbers read as more natural than even ones; varying heights create visual movement.
 
 **Every surface needs a breathing space:** Even if you love a maximalist aesthetic, each surface should have at least one clear area. This is what separates a styled surface from a dumping ground.
@@ -147,9 +159,11 @@ Every shelf and surface in your living room is an opportunity to add character o
 
 ---
 
-## 8. Plants: The Living Layer
+## 8. Why Are Plants the Living Layer?
 
 Plants are the final layer and the one that makes a styled room feel alive rather than arranged. A living room without any plants or greenery has a slightly static quality — everything is permanent and fixed.
+
+Starting with one large plant and two or three smaller ones is enough to move a room from static and fixed-feeling to genuinely alive.
 
 Start with one large plant (a snake plant or bird of paradise for lower-light rooms, a fiddle-leaf fig for brighter rooms) and two or three smaller ones. Place the large plant in a corner to fill vertical space; smaller ones on shelves and windowsills.
 

@@ -41,11 +41,13 @@ I've developed a fairly reliable seasonal transition system — mostly cheap, pa
 
 Read more: [cosy home decor year-round](/blog/cosy-home-decor-ideas-uk/)
 
-## 1. The September Cushion Swap
+## 1. What's the Fastest Way to Shift a Room into Autumn?
 
 The fastest way to shift a room into autumn is to change the cushions. This sounds trivial until you try it and notice how immediately and completely a sofa's feeling changes.
 
 Summer cushions tend to be lighter — cotton, in soft pastels, terracotta, or pale linen. Autumn cushions need weight: velvet, bouclé, or a thick cotton in deeper, richer colours.
+
+Dunelm's autumn textiles range launches with velvet cushions from £8 and faux-fur throws from £18, meaning a full seasonal cushion swap costs well under £40.
 
 **The autumn colour palette for cushions:**
 - **Burnt orange and terracotta** — classic, warm, very British autumn
@@ -60,11 +62,13 @@ Dunelm typically launches its autumn textiles range in late August — velvet cu
 
 ---
 
-## 2. Amber Lighting: Your Autumn Evening Upgrade
+## 2. How Do You Create Amber Lighting for Autumn Evenings?
 
 The amber quality of autumn light is one of the great pleasures of the season. You can replicate and extend it inside with the right bulbs.
 
 Standard 2700K warm white bulbs are good year-round. For autumn and winter evenings, 2200K "extra warm white" bulbs go further — they're closer to the colour of candlelight and create a genuinely amber, deeply warm atmosphere.
+
+2200K "extra warm white" bulbs cost around £6 for a four-pack from Amazon UK, making the shift from standard 2700K warm white to true candlelight-level amber one of the cheapest seasonal upgrades available.
 
 Swap the bulbs in your most-used lamps when September arrives. The difference from 2700K to 2200K is subtle but cumulative across an evening — by 9pm, a room lit entirely in 2200K feels noticeably more autumnal than one still on 2700K.
 
@@ -74,9 +78,11 @@ Swap the bulbs in your most-used lamps when September arrives. The difference fr
 
 ---
 
-## 3. Scent: The Quickest Seasonal Shift
+## 3. Why Is Scent the Quickest Seasonal Shift?
 
 Scent is the fastest way to make a home feel seasonal. Our sense of smell connects directly to memory and emotion — it's the reason a whiff of bonfire smoke or damp leaves can transport you to a specific autumn from childhood.
+
+Autumn scent options start at just £4 for Primark Home or Aldi candles, rising to £8 for a Dunelm reed diffuser — proof that the strongest seasonal sensory shift is also the cheapest on this list.
 
 The autumn scent palette for a British home:
 - **Clove and cinnamon** — warming, spiced, traditional
@@ -91,7 +97,7 @@ Budget options: Primark Home autumn candles (~£4), Dunelm reed diffusers (~£8)
 
 ---
 
-## 4. Foraging: The Free Autumn Decoration
+## 4. What Can You Forage for Free Autumn Decoration?
 
 This is the part of autumn decorating I love most, and it costs nothing.
 
@@ -114,6 +120,8 @@ There's a psychological benefit to using foraged elements that bought decoration
 
 Autumn is when the lightweight linen throw gets retired and the heavy alternatives come out. This is as much practical as aesthetic — the evenings are cooling and you actually want the weight.
 
+A chunky knit throw from Next Home costs around £30, while Dunelm's velvet cushion covers run from £8 and thermal curtain lining adds about £15 per metre — a full textile upgrade for under £60.
+
 **The autumn textile upgrade list:**
 
 - **Replace lightweight cotton throw with chunky knit** — Next Home chunky throws from ~£30
@@ -126,9 +134,11 @@ Autumn is when the lightweight linen throw gets retired and the heavy alternativ
 
 ---
 
-## 6. Nature-Inspired Accents: Bringing the Outside In
+## 6. How Do You Bring Nature-Inspired Accents Into a British Home?
 
 Beyond foraging, you can introduce autumn's palette and materials through bought items — but the key is choosing things that feel genuinely natural rather than plastic-autumn-prop.
+
+Dried pampas grass in a tall vase costs around £12 from florists or Amazon UK, and pairing it with a bowl of British apples and beeswax candles keeps the nature-inspired look grounded rather than costume-y.
 
 **What works:**
 - **Dried pampas grass** in a tall vase (available from florists and Amazon UK from ~£12)
@@ -146,6 +156,8 @@ Beyond foraging, you can introduce autumn's palette and materials through bought
 Autumn is the best season in the British kitchen. Harvest produce is at its peak, the urge to bake and simmer and slow-cook is strong, and the kitchen becomes the warmest, most fragrant room in the house.
 
 Lean into this: display seasonal produce — gourds, apples, pears — on the kitchen counter. Hang a bunch of dried herbs from a hook. Keep the kettle in a position of honour. Let the kitchen smell of whatever you're cooking.
+
+A cast-iron casserole pot in the Le Creuset style costs from around £45 via Amazon UK equivalents like Lodge or Staub, and simply leaving it on the hob does more decorating work than any bought autumn prop.
 
 An autumn kitchen doesn't need decorating so much as it needs to be allowed to be itself.
 

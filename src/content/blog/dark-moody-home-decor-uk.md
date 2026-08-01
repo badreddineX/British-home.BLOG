@@ -39,9 +39,11 @@ I tested this in my own living room eighteen months ago — painting three walls
 
 ---
 
-## 1. Commit Fully or Not at All
+## 1. Should You Commit Fully or Not at All?
 
 The biggest mistake people make with dark interiors is going halfway. One dark feature wall surrounded by three pale walls often looks like an accident rather than a choice.
+
+Committing to at least three of four walls in a single dark tone is what separates an intentional, cocooning room from one that looks like an unfinished decorating job.
 
 Dark interiors work because they create an enveloping, cocooning atmosphere. That atmosphere only works when you've committed: all four walls, or at least three. The ceiling in a matching or slightly lighter tone. Even the woodwork, optionally.
 
@@ -51,9 +53,11 @@ This isn't as scary as it sounds. A room painted entirely in deep forest green d
 
 ---
 
-## 2. Lighting Makes or Breaks a Dark Room
+## 2. Why Does Lighting Make or Break a Dark Room?
 
 This is the non-negotiable rule of dark interior design: you need warm, layered lighting, and you need enough sources. Without it, a dark room feels like a cave. With it, it feels like the cosiest room in Britain.
+
+A Dunelm floor lamp from around £45 combined with a £8 three-pack of 2700K warm LED bulbs is often all it takes to turn a dark room from cave-like to genuinely cosy.
 
 **What to do:**
 
@@ -71,9 +75,11 @@ A Dunelm floor lamp in warm brass starts at around £45. A three-pack of warm wh
 
 ---
 
-## 3. The Best Dark Paint Colours for UK Homes
+## 3. What Are the Best Dark Paint Colours for UK Homes?
 
 Not all dark colours behave the same way in British light. Green-based darks (forest green, teal, dark sage) tend to work better in our cool grey light than pure blue-based darks, which can read as cold. Warm darks — those with red or brown undertones — work well in any orientation.
+
+Prices for a convincing dark paint range from £15 per 2.5L for Wilko's budget 'Deep Forest' up to £65 per 2.5L for Farrow & Ball's 'Hague Blue' — a more than fourfold difference for a broadly similar deep, warm effect.
 
 **The top performers:**
 
@@ -88,9 +94,11 @@ Not all dark colours behave the same way in British light. Green-based darks (fo
 
 ---
 
-## 4. Choosing the Right Textiles
+## 4. How Do You Choose the Right Textiles for a Dark Room?
 
 Dark walls need textiles that work with them, not against them. The mistake most people make is adding pale, cool textiles — cream linen cushions, grey throws — against dark walls. This creates contrast without warmth, and the room feels cold and sharp.
+
+Dunelm's velvet cushion range, running from around £8 to £14 each, is enough to add the warm, light-absorbing texture that dark walls need to avoid feeling cold and sharp.
 
 Instead, choose:
 - **Warm ambers and burnt oranges** — these glow against dark walls and add richness
@@ -105,9 +113,11 @@ Velvet cushions are the obvious choice — they absorb light beautifully and cre
 
 ---
 
-## 5. Mirrors in Dark Rooms
+## 5. What's the Right Way to Use Mirrors in Dark Rooms?
 
 The conventional wisdom says dark rooms need mirrors to bounce light. This is true, but the type and placement of mirrors matters.
+
+A large statement mirror from Wayfair UK, priced from around £45 to £120, does more to bounce light around a dark room than several small mirrors ever could.
 
 **What works:** Large, ornate-framed mirrors placed opposite a window or a lamp source. The frame should be warm — antique gold, dark wood, or tarnished brass — rather than chrome or silver. A Baroque-style gilt mirror against a dark green wall is one of the most dramatic things you can do in a British living room.
 
@@ -130,6 +140,8 @@ The result is a room that looks like it belongs in a House & Garden editorial, a
 ## 7. The Renter's Dark Room
 
 If you're renting and can't paint, you can still create a genuinely moody, atmospheric room through textiles, lighting, and furniture.
+
+Dark velvet curtains from Next Home or Dunelm, at around £40–£80 a pair, are the single most impactful and fully reversible thing a renter can buy to change the character of a room.
 
 **The renter's toolkit:**
 - **Dark velvet curtains** from Next Home or Dunelm (~£40–£80 a pair): the single most impactful thing a renter can do. Dark curtains change the character of a room completely.

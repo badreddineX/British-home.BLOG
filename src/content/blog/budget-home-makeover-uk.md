@@ -55,9 +55,11 @@ After these three steps, assess. Many rooms need nothing else.
 
 ---
 
-## Living Room Budget Makeover — Under £120
+## What's the Best Living Room Budget Makeover Under £120?
 
 The living room priority order, ranked by visual return per pound:
+
+This four-step sequence — bulbs, cushions, rug, and one plant — totals around £91, yet most visitors can't tell the results apart from a professionally styled £500 refresh.
 
 **Step 1: Replace bulbs — ~£8**
 All lamps to 2700K warm white. The room looks warm in the evening instead of clinical. This is the cheapest dramatic improvement available. (Amazon UK, 4-pack Philips 2700K LEDs.)
@@ -118,9 +120,11 @@ Total: ~£91. Most people can't tell this room from a £500 refresh.
 
 ---
 
-## Bedroom Budget Makeover — Under £85
+## How Do You Makeover a Bedroom on a Budget Under £85?
 
 The bedroom has fewer high-impact-per-pound options than the living room, but the ones it does have are extremely effective.
+
+The four-step bedroom sequence below costs roughly £73 in total and turns an ordinary bedroom into something that feels like a proper retreat.
 
 **Step 1: Replace bulbs — ~£8**
 Bedside lamps to 2700K. Ceiling light off after 8pm. Same principle as the living room but more important here — wrong bulb temperature in a bedroom disrupts sleep and makes the room feel cold.
@@ -142,6 +146,8 @@ Total: ~£73. A bedroom that feels like a retreat rather than a place to sleep.
 
 The hallway is the most-seen space in your home and the one most people spend the least time decorating. It takes 30 seconds to form a first impression. Making it count costs less than almost any other room.
 
+Three changes — paint, a coat rack, and a mirror — cost between £57 and £90 total, yet the hallway is the single fastest-formed impression in any UK home.
+
 **Step 1: Paint the hallway — ~£22–£35**
 Hallways handle more traffic than any other room and show wear fastest. A fresh coat of paint in a warm neutral (Dulux Goose Down, Crown Fossil) makes an immediate difference. One tin typically covers a standard UK hallway. B&Q from ~£22.
 
@@ -155,9 +161,11 @@ Total: ~£57–£90.
 
 ---
 
-## Kitchen Budget Makeover — Under £50
+## How Can You Makeover a Kitchen for Under £50?
 
 Kitchens are expensive to properly renovate and offer the lowest visual return per pound of any room at budget level. Full refits cost £5,000–£30,000+. But surface-level changes can make a dated kitchen feel considerably fresher for under £50 — see [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk) for 14 more ideas in the same range.
+
+These three kitchen changes cost as little as £20 to £35 combined, despite kitchens typically offering the lowest visual return per pound of any room.
 
 **Step 1: Replace handles — ~£15–£25**
 Swapping out cabinet door handles is the kitchen equivalent of changing cushion covers. New handles in a contemporary finish (brushed brass, matte black, antique brass) completely change the character of existing cabinets. Available from B&Q from ~£2 each, or Amazon UK for sets of 10 from ~£15.
@@ -172,9 +180,11 @@ Total: ~£20–£35.
 
 ---
 
-## Bathroom Budget Makeover — Under £40
+## What's the Best Bathroom Makeover You Can Do for Under £40?
 
 Like kitchens, bathrooms give the lowest renovation return per pound. But a few targeted changes make a real difference — see [small bathroom storage ideas UK](/blog/bathroom-storage-ideas-uk) for the no-drill storage side of this same room.
+
+A full bathroom refresh here costs just £25 to £40, even though bathrooms — like kitchens — usually give the weakest return per pound spent.
 
 **Step 1: Replace towels and bath mat — ~£20–£30**
 Matching towels in a consistent colour (white is always right, or a strong single colour like deep navy or sage green) plus a new bath mat immediately improve the look of any bathroom. Dunelm stocks towel sets from ~£12 for two.

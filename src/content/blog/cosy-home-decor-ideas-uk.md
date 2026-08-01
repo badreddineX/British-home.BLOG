@@ -41,13 +41,15 @@ I've been obsessing over this question — what actually creates cosiness rather
 
 Read more: [living room decor ideas](/blog/small-living-room-ideas-uk/)
 
-## 1. Lighting: The Single Biggest Factor in Cosiness
+## 1. What's the Single Biggest Factor in Cosiness?
 
 No element has more impact on how cosy a room feels than its lighting. A room with beautiful furniture and overhead fluorescent light will feel institutional. A room with basic furniture and three warm lamps will feel like a refuge.
 
 The rule is simple: **layer your lighting, use warm bulbs, and stop relying on a single overhead light in the evening.**
 
 According to the [Lighting Industry Association](https://www.thelia.org.uk), 82% of UK homes still use a single central ceiling light as their primary living room source. This is the single most common cause of rooms that feel bright but not cosy.
+
+With 82% of UK homes still relying on a single central ceiling light, swapping in a £35–£65 floor lamp and a £25–£45 table lamp on warm 2700K bulbs is often the fastest fix for a room that feels bright but not cosy.
 
 What to do instead:
 - **One floor lamp** positioned in a corner (~£35–£65, Dunelm)
@@ -69,6 +71,8 @@ The cosy home has textiles everywhere: on sofas, over chairs, under feet, at win
 
 The most useful thing I've done to make my flat feel genuinely cosy is to keep a large, heavy throw on the sofa at all times — not folded neatly, but draped in a way that makes it clearly available. It's an invitation. People reach for it almost immediately when they sit down.
 
+A £25 chunky knit throw draped across the sofa, paired with a £45 wool rug underfoot, adds the tactile warmth that cheaper synthetic textiles simply don't replicate.
+
 **What to buy and where:**
 
 - **Chunky knit throw** — Next Home from ~£25. Drape, don't fold.
@@ -80,11 +84,13 @@ The most useful thing I've done to make my flat feel genuinely cosy is to keep a
 
 ---
 
-## 3. Scent: The Most Underrated Cosy Element
+## 3. Why Is Scent the Most Underrated Cosy Element?
 
 We talk about lighting and textiles, but scent is the fastest way to change the emotional atmosphere of a room. It bypasses analysis and goes directly to feeling — which is exactly what cosiness requires.
 
 In my own experience of visiting many homes over the years, the ones that feel most immediately welcoming almost always have a distinct, pleasant scent. The ones that feel flat or unwelcoming often smell of nothing — or of the faint chemical smell of cleaning products.
+
+Cosy scent doesn't require a big budget — a Primark Home candle from around £4 or a Dunelm reed diffuser from £8 is enough to change the emotional atmosphere of a room almost instantly.
 
 The scents that signal warmth and cosiness in a British domestic context tend to be:
 - **Amber and sandalwood** — deep, resinous, warm
@@ -98,13 +104,15 @@ If you want to invest: Neom Organics and Diptyque are the premium UK recommendat
 
 ---
 
-## 4. The Hibernation Corner: Cosiness Through Specificity
+## 4. What Is a Hibernation Corner, and Why Does Specificity Matter?
 
 A common mistake is trying to make an entire room cosy all at once. This is harder than it sounds because different zones of a room are used differently — and cosy is a specific feeling associated with specific activities (reading, napping, drinking tea) rather than a room-wide state.
 
 The more effective approach is the hibernation corner: one spot in the room that is specifically, deliberately designed for comfort.
 
 What makes a hibernation corner work is that everything needed is within reach without getting up. Chair you love, lamp positioned for reading, small table for a cup of tea, throw within reach. The completeness of the setup is what creates the feeling of cosy rather than just the individual elements.
+
+A complete hibernation corner — a chair like IKEA's £115 Poäng, a reading lamp, and a side table — costs well under £150 total, yet creates more genuine cosiness than trying to redecorate an entire room.
 
 The elements:
 - **A chair you genuinely want to sit in** — not your sofa, a specific chair. IKEA's Poäng at ~£115, a charity shop armchair, or Facebook Marketplace find
@@ -137,13 +145,15 @@ Layering works because it creates depth, which creates interest, which creates t
 
 ---
 
-## 6. Heavy Curtains: The British Cosiness Non-Negotiable
+## 6. Why Are Heavy Curtains the British Cosiness Non-Negotiable?
 
 This is the element of cosy British interiors that is most specific to our climate and housing. We have cold winters, draughty windows, and the specific pleasure of being inside when it's dark and wet outside.
 
 Heavy, properly lined curtains do three things at once: they reduce heat loss from windows, they block out street light and noise, and they create a visual barrier between you and the outside world that makes the inside feel more enclosed, more private, more sheltering.
 
 I added velvet curtains to my living room in October three years ago. The room felt immediately warmer — and it was warmer, because single-glazed Victorian windows lose significant heat through unlined curtains. But the psychological warmth was just as real. The room felt like a room with an inside and an outside.
+
+Single-glazed Victorian windows lose significant heat through unlined curtains, so heavy lined options from ~£35/pair at Dunelm or ~£45/pair at Next Home pay for themselves in both warmth and atmosphere.
 
 **Where to buy:** Dunelm has excellent thermal and velvet curtains from ~£35/pair. Next Home from ~£45/pair. Always hang from ceiling level, not just above the window frame.
 

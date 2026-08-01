@@ -39,7 +39,7 @@ I've pulled together the four core principles I come back to again and again, pl
 
 Read more: [living room styling fundamentals](/blog/how-to-style-a-living-room-uk/)
 
-## 1. Light: The Foundation of Every British Interior
+## 1. Why Is Light the Foundation of Every British Interior?
 
 British homes sit in a northern European light that is, for most of the year, diffuse, cool, and relatively low. This is not a problem to solve — it's a context to design within. The homes that feel best in the UK are the ones that accept this reality and work with it rather than against it.
 
@@ -47,11 +47,13 @@ That means layering warm artificial light rather than relying on daylight to do 
 
 I spent three years in a flat with a single overhead pendant in the living room. When I finally bought two floor lamps and a table lamp, the room stopped feeling like a waiting room and started feeling like somewhere I actually wanted to sit. The furniture hadn't changed. The lighting had.
 
+Two floor lamps and a table lamp, from around £35 each at Dunelm, were enough to turn that overhead-lit living room into somewhere genuinely wanted to sit, without changing a single piece of furniture.
+
 Good floor lamps from ~£35 at Dunelm. For something more considered, John Lewis carries excellent options from ~£65.
 
 ---
 
-## 2. Colour: What Actually Works in British Light
+## 2. What Colour Actually Works in British Light?
 
 The persistent myth in UK home decoration is that pale, cool colours maximise light in grey conditions. This is partially true — pale colours do reflect more light. But cool pale colours (think pure white, cool grey, icy blue) often look flat or even slightly dingy in the diffused northern light of a typical British afternoon.
 
@@ -59,13 +61,15 @@ Warm pale colours work much better. Off-whites with a yellow or pink undertone. 
 
 When I've tested this by painting opposite walls in the same room — one warm neutral, one cool neutral — the warm wall consistently reads as more inviting in photographs taken in afternoon British light, even when the actual light level is identical.
 
+Testing a warm neutral against a cool one costs as little as £3–£5 for a Dulux or Farrow & Ball tester pot, yet the warm wall consistently reads as more inviting in identical British afternoon light.
+
 **The principle:** Always choose the warmer version of whatever colour you're drawn to. If you like grey, go for a warm grey with brown or taupe undertones (like Farrow & Ball's *Elephant's Breath*) rather than a cool blue-grey.
 
 Tester pots cost ~£3–£5 from Dulux at B&Q or Farrow & Ball. Paint two large patches on different walls and live with them for 48 hours before committing.
 
 ---
 
-## 3. Texture: The Element Most British Homes Are Missing
+## 3. What Texture Element Are Most British Homes Missing?
 
 Walk into any home that feels genuinely cosy and you'll notice it has texture. Not pattern necessarily, not colour, but physical variety in the materials you can see and touch — soft and rough, matte and sheen, light and heavy.
 
@@ -73,19 +77,23 @@ Texture does several things at once. It absorbs sound, making rooms feel quieter
 
 The most accessible way to add texture is through soft furnishings: cushions in different materials (velvet, linen, wool), throws in chunky knit or bouclé, rugs in jute or wool, and curtains in heavier fabrics like velvet or cotton.
 
+One large rug, from around £45 at Wayfair UK, does more to add physical texture and anchor a room than any other single soft-furnishing purchase.
+
 Start with one large rug — it anchors the room and adds more texture than any other single item. Wayfair UK has a wide range from ~£45.
 
 ---
 
 Read more: [colour schemes for living rooms](/blog/living-room-colour-schemes-uk/)
 
-## 4. Personal Touches: The Thing Stylists Can't Do For You
+## 4. What Can Personal Touches Do That Stylists Can't?
 
 A room styled entirely by a professional with no input from the person living in it often looks beautiful in photographs and feels strangely empty in person. That's because it lacks the accumulated evidence of a life actually being lived.
 
 Personal touches are not the same as clutter. A gallery wall of photographs you care about, a shelf of books you've actually read, a vase you picked up from a market in a city you love — these are different from piles of unopened post and a collection of items that have no meaning but haven't been thrown away.
 
 The distinction is intentionality. British homes that feel best to be in tend to have been edited — things removed as well as added — so that what remains has either a purpose or a genuine meaning. This is different from minimalism, which removes personality along with clutter.
+
+Budgeting £10–£20 for an afternoon browsing Oxfam, British Heart Foundation, or Sue Ryder is usually enough to find objects with the kind of character a professional stylist's shopping list can't replicate.
 
 Charity shops — Oxfam, British Heart Foundation, Sue Ryder — are the best source of objects with character. Budget £10–£20 for an afternoon's browsing before buying anything new.
 
@@ -121,9 +129,11 @@ Often neglected, but it's the first impression every room in your home makes. A 
 
 ---
 
-## 6. The British Interior Mistake List
+## 6. What Are the Most Common British Interior Mistakes?
 
 These are the patterns I see again and again in UK homes that prevent a room from reaching its potential.
+
+A reed diffuser or scented candle costing under £10 does as much to make a room feel welcoming as fixing any of the other mistakes on this list.
 
 - **Relying on a single overhead light.** Replace with layered lamp sources first.
 - **Cool grey everything.** Grey works beautifully in UK interiors, but it needs to be warm grey — with brown or yellow undertones, not blue.
@@ -136,6 +146,8 @@ These are the patterns I see again and again in UK homes that prevent a room fro
 ## 7. Starting Points by Budget
 
 Not everyone is starting from the same place. Here's a realistic framework:
+
+A realistic starting budget ranges from under £50 for bulbs and a candle to £150–£300 for curtains and a quality throw — proof that a British interior can improve meaningfully at almost any budget tier.
 
 ### Under £50
 

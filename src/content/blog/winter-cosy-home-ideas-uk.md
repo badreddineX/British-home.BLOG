@@ -41,11 +41,11 @@ According to the [Energy Saving Trust](https://energysavingtrust.org.uk), UK hou
 
 Read more: [autumn transition to winter](/blog/autumn-home-decor-ideas-uk/)
 
-## 1. Draught-Proofing: The Unglamorous Foundation of a Warm Home
+## 1. What Is the Most Impactful First Step for a Warm Winter Home?
 
 This is not the most exciting section of a home decor post. But it's the most impactful thing you can do for winter cosiness, because a home that loses heat faster than it's generated will never feel warm, regardless of how beautifully it's decorated.
 
-The Energy Saving Trust estimates that draught-proofing a typical semi-detached UK home reduces heating costs by around £50 per year. The outlay is typically £30–£60. The payback is under a year.
+The Energy Saving Trust estimates that draught-proofing a typical semi-detached UK home reduces heating costs by around £50 a year, for a typical outlay of just £30–£60 — meaning the improvement pays for itself in under a single winter.
 
 **The main draught sources in a typical British home:**
 
@@ -68,11 +68,11 @@ I put a chimney balloon in my Victorian terrace's living room fireplace three wi
 
 ---
 
-## 2. Curtains: Your Most Important Winter Decorating Decision
+## 2. Why Are Curtains Your Most Important Winter Decorating Decision?
 
 A single-glazed sash window can lose as much heat as an open door — and many British homes still have these, particularly Victorian and Edwardian terraces. Curtains are your first line of defence.
 
-The difference between a thin unlined curtain and a properly interlined one is significant: well-lined curtains can reduce window heat loss by up to 40%, according to the National Energy Foundation.
+The difference between a thin unlined curtain and a properly interlined one is significant: according to the National Energy Foundation, well-lined curtains can reduce window heat loss by up to 40%, making them one of the single highest-impact winter changes a British home can make.
 
 **What to look for in winter curtains:**
 
@@ -90,9 +90,11 @@ Velvet curtains are both the most thermal and the most beautiful option for a Br
 
 ---
 
-## 3. Extra Warm Lighting: The 2200K Upgrade
+## 3. What Is the 2200K Lighting Upgrade for Winter?
 
 We've talked about 2700K warm white bulbs as the year-round standard for British interiors. For winter specifically, go warmer.
+
+2200K "extra warm white" bulbs cost around £6 for a four-pack from Amazon UK, with Philips Warm Glow the most reliable brand, and swapping them in before the clocks go back is worth doing for a candle-close warmth that standard 2700K bulbs don't quite achieve.
 
 2200K bulbs — sometimes labelled "extra warm white" or "candle-warm" — produce light that is measurably closer to the colour of a candle flame. In a winter evening room, surrounded by heavy curtains and warm textiles, 2200K lighting transforms the atmosphere from "comfortable living room" to "the room you never want to leave."
 
@@ -109,7 +111,7 @@ Add to this:
 
 ## 4. The Winter Textile Layer
 
-Winter textiles are heavier, denser, and warmer than their spring or summer equivalents. This is the season when you pull out everything:
+Winter textiles are heavier, denser, and warmer than their spring or summer equivalents. Next Home's chunky throws start from around £25 in their seasonal range, with Dunelm's comparable options from £18, making the heaviest, warmest textile layer one of the cheaper winter upgrades on this list. This is the season when you pull out everything:
 
 - **The heavyweight throw** — wool, thick cotton, or faux fur. Draped on the sofa, available at all times.
 - **The heavy rug** — a wool or viscose rug is warmer underfoot than jute or sisal, which suit warmer months better
@@ -123,9 +125,11 @@ Next Home consistently does the best chunky throws for the price — from ~£25 
 
 ---
 
-## 5. The Hibernation Corner: Your Winter Base
+## 5. What Is a Hibernation Corner and Why Do You Need One?
 
 The concept of a hibernation corner is simple: one specific spot in the house that is completely optimised for winter sitting. Not the whole sofa, not the general room — one chair, one lamp, one small table, one throw.
+
+An IKEA Poäng armchair costs around £115 and, paired with a lamp, side table, and throw, forms the complete four-element hibernation corner — proof that this winter base doesn't need to be expensive to work.
 
 My hibernation corner is an armchair angled toward the window (though the curtains are closed by 4pm in December). It has a lamp positioned over my shoulder, a side table for tea, and a heavy throw on the arm. I've spent entire winter Saturdays in that chair and it's one of the genuine pleasures of the British winter.
 
@@ -144,7 +148,7 @@ The hibernation corner doesn't need to be expensive or large. Four elements in t
 
 ## 6. Warm Scents for Winter
 
-Winter has the most obvious and powerful scent associations of any season. Our brains connect specific scents to warmth, safety, and shelter in a way that's particularly strong in the darker months.
+Winter has the most obvious and powerful scent associations of any season. Our brains connect specific scents to warmth, safety, and shelter in a way that's particularly strong in the darker months. A Diptyque *Feu de Bois* candle costs around £45 and recreates a genuine woodsmoke scent for anyone without a working fireplace or log burner to produce the real thing.
 
 **The British winter scent palette:**
 - **Beeswax** — the most honest "warm home" scent. A beeswax candle burning while the curtains are closed is about as cosy as a domestic smell gets.
@@ -157,9 +161,9 @@ Baking bread, simmering a slow casserole, or even just boiling mulled wine on th
 
 ---
 
-## 7. The Winter Maintenance Checklist
+## 7. What Should Be on Your Winter Maintenance Checklist?
 
-These practical tasks, done in October or November, make the winter months significantly more comfortable and less expensive.
+These practical tasks, done in October or November, make the winter months significantly more comfortable and less expensive. Together, the full checklist below — from draught excluders at £8–£15 to a boiler service at £80–£120 — totals well under £250 and covers every major heat-loss point in a typical British home.
 
 | Task | When | Approx cost |
 |---|---|---|

@@ -41,7 +41,7 @@ I do a proper spring refresh every March. Here's the system I've developed — c
 
 Read more: [living room styling year-round](/blog/how-to-style-a-living-room-uk/)
 
-## 1. Declutter First — Before Adding Anything
+## 1. Why Should You Declutter Before Adding Anything to Your Spring Refresh?
 
 Every effective spring refresh starts with removing things, not adding them. This is the step most people resist because buying is more satisfying than editing — but it's the step that makes the most visible difference.
 
@@ -55,7 +55,7 @@ I spend the first weekend of my spring refresh doing nothing but removing. Every
 
 ---
 
-## 2. The Great Spring Clean: What Actually Needs Doing
+## 2. What Does a Proper Spring Clean Actually Involve?
 
 A proper spring clean addresses the things that accumulate over winter and aren't covered by regular cleaning. The British home in late February has specific grime: condensation residue on windows, dust on curtains, the inside of cupboards that haven't been opened since autumn.
 
@@ -74,9 +74,11 @@ Washing and rehanging curtains is the single spring clean task with the most dra
 
 ---
 
-## 3. Swapping Winter Textiles for Spring Alternatives
+## 3. How Do You Swap Winter Textiles for Spring Alternatives?
 
 This is the parallel to the autumn cushion swap — but in reverse. Out go the heavy, dark, heat-retaining textiles and in come lighter, fresher alternatives.
+
+Swapping a chunky knit throw for a lightweight linen one costs around £25 at Dunelm, and refreshing four cushion covers adds roughly £48 — together enough to change a room's whole seasonal feel in under an hour.
 
 **The spring textile swap:**
 
@@ -95,6 +97,8 @@ Vacuum storage bags from Amazon UK (~£12 for a set of four) compress winter tex
 
 Spring colour in British home interiors is not the bright, saturated palette of a Provencal market. British spring light — still diffuse, often cloudy, with that particular quality of watery sunshine we get from February to April — suits softer, more muted versions of spring tones.
 
+New cushion covers and a bunch of spring flowers together cost under £20 and change a room's feel more than most people expect.
+
 **Colours that work well in UK spring interiors:**
 
 - **Soft sage green** — the colour of new leaves before they deepen. Calming and fresh.
@@ -107,9 +111,11 @@ The easiest way to introduce spring colour is through a few new cushion covers a
 
 ---
 
-## 5. Bringing Spring Inside with British Plants
+## 5. How Do You Bring Spring Inside With British Plants?
 
 The best spring decoration in a British home is plant-based — and specifically, it's the plants that are flowering in British gardens right now.
+
+Forced hyacinth bulbs cost just £3-£5 and daffodil bunches around £1.50 — a single flowering hyacinth on a windowsill often does more for a spring refresh than an entire new cushion set.
 
 **The spring indoor plant list:**
 
@@ -127,6 +133,8 @@ Fresh British-grown spring flowers from market stalls and supermarkets are genui
 
 Spring is when British homes want to breathe again after months of closed-curtain, artificial-light living.
 
+A large mirror positioned opposite the main window costs around £45 at IKEA and can effectively double the sense of light in a small British room.
+
 **Practical ways to maximise spring light:**
 
 - **Open curtains fully and early** — push them right back to the edges of the window, not half-drawn
@@ -139,9 +147,11 @@ A large mirror opposite a window can effectively double the sense of light in a 
 
 ---
 
-## 7. Spring Scent: The Seasonal Transition
+## 7. What Is the Best Spring Scent for a British Home?
 
 Just as autumn calls for spiced, resinous scents, spring has its own olfactory signature — and getting it right is the quickest sensory signal that the season has changed.
+
+A spring-appropriate reed diffuser costs around £8 at Dunelm — one of the cheapest sensory signals that the season has changed.
 
 **Spring scents for a British home:**
 - **Hyacinth** — the real plant is best, but Neom and Jo Malone do excellent versions
