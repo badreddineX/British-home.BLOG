@@ -241,7 +241,7 @@ Read more: [small living room ideas UK](/blog/small-living-room-ideas-uk/)
 
 Surface styling works the same way whether the flat costs £600 a month in the Midlands or £2,500 a month in London, and it costs nothing itself since it only requires editing what's already there.
 
-This is how interior designers work, and it applies equally in a £600-a-month Midlands flat and a £2,500-a-month London apartment. The principle doesn't know about the rent.
+This is how interior designers work, and it applies equally in a £600-a-month Midlands flat and a £2,500-a-month London flat. The principle doesn't know about the rent.
 
 Surface styling is entirely free. It typically produces a larger visible improvement than the last £50 spent on new objects.
 
