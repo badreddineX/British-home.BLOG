@@ -35,7 +35,7 @@ Good inspiration should start from the same conditions you're working in.
 
 I've spent years filtering out the irrelevant and finding the sources that actually help. Here's what I've found.
 
-**TL;DR:** Prioritise UK-specific sources — British interior magazines, UK Instagram accounts, and real homes rather than styled shoots. When using international sources like Pinterest, always filter your searches to surface UK content. And start with your own street: houses similar to yours, already solved, are your most useful reference.
+**TL;DR:** Prioritise UK-specific sources — British interior magazines, UK Instagram accounts, and real homes rather than styled shoots. When using international sources like Pinterest, always filter your searches to surface UK content. And start with your own street: houses similar to yours, already solved, are your most useful reference. For a complete walkthrough of British interior style principles, see our [home interior ideas guide](/blog/home-interior-ideas-uk/).
 
 ---
 

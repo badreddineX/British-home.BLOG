@@ -1,6 +1,6 @@
 ---
 title: "Kitchen on a Budget UK: 14 Ideas"
-description: "14 budget kitchen upgrades for UK homes — paint cabinets, swap handles, add open shelving, and refresh worktops without spending thousands."
+description: "14 budget kitchen upgrades for UK homes under £500 — paint cabinets, swap handles, add shelving, and refresh worktops. Real costs from B&Q, IKEA, and Wickes."
 image: "/images/pexels-1080721.jpg"
 datePublished: "2026-02-10"
 dateModified: "2026-07-25"
