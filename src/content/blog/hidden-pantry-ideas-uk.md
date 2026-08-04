@@ -2,7 +2,7 @@
 title: "Hidden Pantry Ideas for Small UK Kitchens That Save Space & Stress"
 description: "Smart hidden pantry solutions for small UK kitchens under £100 — renter-friendly, deposit-safe, and clutter-free."
 image: "/images/kitchen-open-shelving.jpg"
-datePublished: "2026-07-30"
+datePublished: "2026-07-28"
 dateModified: "2026-07-30"
 author: "Badreddine"
 tags: ["hidden pantry UK", "small kitchen storage", "budget", "renter-friendly"]
@@ -56,7 +56,7 @@ Tall cupboards in UK kitchens often have wasted floor space at the bottom — de
 
 ## 6. Can Re-purposed Shoe Boxes Work as Pantry Storage in Narrow Cupboards?
 
-Yes — shoe boxes. Don’t laugh. A narrow cupboard (20–25cm wide) next to the oven or in a larder often holds nothing but forgotten tins. Folded cardboard shoe boxes cost nothing beyond a £2 roll of wrapping paper to line them, turning an awkward 20-25cm-wide cupboard into three dedicated pantry compartments. Fold down standard cardboard shoe boxes (free — ask your local charity shop or Instagram marketplace), line them with printed wrapping paper (£2 at Primark), and slot them in vertically. I used three in a UK rental kitchen — one for baking spices (labelled with chalk), one for tea bags, one for instant coffee. Remove the lid of each box so they slide in side-by-side. They’re not glamorous, but they’re cheap, temporary, and removeable. Plus, you can take the boxes with you if you’re cautious about landlord fears.
+Yes — shoe boxes. Don’t laugh. A narrow cupboard (20–25cm wide) next to the oven or in a larder often holds nothing but forgotten tins. Fold down standard cardboard shoe boxes (free — ask your local charity shop or Instagram marketplace), line them with printed wrapping paper (£2 at Primark), and slot them in vertically — turning an awkward cupboard into three dedicated pantry compartments. I used three in a UK rental kitchen — one for baking spices (labelled with chalk), one for tea bags, one for instant coffee. Remove the lid of each box so they slide in side-by-side. They’re not glamorous, but they’re cheap, temporary, and removeable. Plus, you can take the boxes with you if you’re cautious about landlord fears.
 
 ## 7. What's the Best Over-Sink Caddy for Cleaning Supplies?
 
@@ -82,7 +82,7 @@ Counter clutter often pushes pantry items into darkness — bring them up, but k
 
 ## 12. Can You Add a Drawer to the Back of a Pantry Door?
 
-Most UK pantry doors are solid — but the back is blank real estate. Install a removable drawer using magnetic strips. A small IKEA VARIERA drawer (~£6) fixed to the door back with magnets holds up to 300g of lightweight items like cutlery or tea bags — a genuinely renter-safe way to add a hidden drawer with zero drilling. Buy a small plastic drawer (IKEA’s VARIERA, ~£6), glue two strong magnets to its base (5mm x 5mm, £3 for 10), and stick them to the door’s back. Slide the drawer in place — it’ll hold spoons, measuring spoons, or tea bags. I used this in my Oxford flat to store my grandmother’s silver teaspoon set — no damage, and the magnets held even when opened quickly. Just avoid heavy items; max 300g per drawer. Clean the door with alcohol wipes first for better grip.
+Most UK pantry doors are solid — but the back is blank real estate. Buy a small plastic drawer (IKEA’s VARIERA, ~£6), glue two strong magnets to its base (5mm x 5mm, £3 for 10), and stick them to the door’s back — a genuinely renter-safe way to add a hidden drawer with zero drilling, holding up to 300g of lightweight items like cutlery or tea bags. I used this in my Oxford flat to store my grandmother’s silver teaspoon set — no damage, and the magnets held even when opened quickly. Just avoid heavy items; max 300g per drawer. Clean the door with alcohol wipes first for better grip.
 
 ## 13. Tiered Tray for Pantry Entry Shelves
 

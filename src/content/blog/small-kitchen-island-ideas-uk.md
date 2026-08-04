@@ -2,8 +2,8 @@
 title: "Small Kitchen Island Ideas for UK Flats: Budget-Friendly & Renter-Ready"
 description: "Small kitchen island ideas for UK flats that fit tight budgets and rented spaces — no permanent changes needed. UK spelling."
 image: "/images/kitchen-marble-island-worktop.jpg"
-datePublished: "2026-07-30"
-dateModified: "2026-07-30"
+datePublished: "2026-07-31"
+dateModified: "2026-07-31"
 author: "Badreddine"
 tags: ["kitchen island UK", "small kitchen ideas", "budget", "renter-friendly"]
 featured: false
@@ -32,7 +32,7 @@ A huge number of UK renters live in kitchens under 6m², often sharing space wit
 
 ## 1. Start with a Freestanding Base — No Drilling Needed
 
-Forget built-in units. Instead, scope secondhand furniture first — a slim console table, vintage trolley, or even a ladder desk can be repurposed. I scored a 1970s metal trolley from a local charity shop for £12 that already had wheels. Clean it, paint the frame in蛋shell white (Dunelm’s eggshell paint, ~£18 for 2.5L), and line the shelf with peel-and-stick bamboo veneer (~£12 for 1m² at Etsy UK sellers). It fits perfectly in a 45cm gap between my fridge and the cooker, and its castors mean I can tuck it away after Sunday roast. Bonus: the open shelves hold sauce bottles and cooking oil within arm’s reach — no bending into tight cupboards.
+Forget built-in units. Instead, scope secondhand furniture first — a slim console table, vintage trolley, or even a ladder desk can be repurposed. I scored a 1970s metal trolley from a local charity shop for £12 that already had wheels. Clean it, paint the frame in eggshell white (Dunelm’s eggshell paint, ~£18 for 2.5L), and line the shelf with peel-and-stick bamboo veneer (~£12 for 1m² at Etsy UK sellers). It fits perfectly in a 45cm gap between my fridge and the cooker, and its castors mean I can tuck it away after Sunday roast. Bonus: the open shelves hold sauce bottles and cooking oil within arm’s reach — no bending into tight cupboards.
 
 ![A slim rolling metal trolley repurposed as a kitchen island with hanging utensils and stacked jars](/images/kitchen-white-cabinets.jpg)
 
@@ -42,7 +42,7 @@ A fixed island is a non-starter in most rentals. Make yours mobile instead: buy 
 
 ## 3. Peel-and-Stick Countertops — Reversible & Decor-Save
 
-If your base isn’t quite island-worthy, give it a veneer. Contact paper isn’t just for cupboards — it’s perfect for covering MDF, laminate, or even cheap pallet wood. Go for stone-effect (John Lewis’ self-adhesive石granite, ~£15 for 90x60cm) or warm oak (Dunelm’s oak contact paper, ~£12). Apply it slowly with a squeegee (or a ruler wrapped in cloth) to avoid bubbles. One reader in Bristol used this method on a £9 IKEA MICKE table — with a fold-down leaf (sold separately, ~£10) — to create a 2-person breakfast bar. Zero damage, and her landlord complimented the finish on exit.
+If your base isn’t quite island-worthy, give it a veneer. Contact paper isn’t just for cupboards — it’s perfect for covering MDF, laminate, or even cheap pallet wood. Go for stone-effect (John Lewis’ self-adhesive granite-effect vinyl, ~£15 for 90x60cm) or warm oak (Dunelm’s oak contact paper, ~£12). Apply it slowly with a squeegee (or a ruler wrapped in cloth) to avoid bubbles. One reader in Bristol used this method on a £9 IKEA MICKE table — with a fold-down leaf (sold separately, ~£10) — to create a 2-person breakfast bar. Zero damage, and her landlord complimented the finish on exit.
 
 ![Close-up of peel-and-stick stone-effect countertop applied to a metal trolley](/images/kitchen-wood-floor-open-plan.jpg)
 
