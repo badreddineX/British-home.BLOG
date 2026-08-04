@@ -2,7 +2,7 @@
 title: "Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)"
 description: "Rental kitchen upgrade ideas UK that need no landlord permission — reversible splashback tiles, peel-and-stick flooring, swappable handles, all deposit-safe."
 image: "/images/kitchen-worktop-wood.jpg"
-datePublished: "2026-07-27"
+datePublished: "2026-07-10"
 dateModified: "2026-07-27"
 author: "Badreddine"
 tags: ["rental kitchen upgrade ideas uk", "landlord friendly kitchen updates uk", "temporary kitchen makeover renter uk", "renter kitchen uk"]

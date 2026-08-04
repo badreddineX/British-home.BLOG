@@ -4,8 +4,8 @@ title: "12 Clever Vertical Storage Ideas for Small UK Flats (No Wall Damage!)"
 description: "Small flat storage solutions that maximise height — renter-friendly, budget-conscious ideas for UK homes using IKEA, Dunelm & more."
 
 image: "/images/bathroom-storage-baskets-shelf.jpg"
-datePublished: "2026-08-01"
-dateModified: "2026-08-01"
+datePublished: "2026-08-03"
+dateModified: "2026-08-03"
 author: "Badreddine"
 tags: ["vertical storage UK", "small flat storage", "budget", "renter-friendly decor"]
 featured: false

@@ -2,7 +2,7 @@
 title: "Small Kitchen Storage Ideas on a Budget UK"
 description: "Small kitchen storage ideas for UK homes on a budget — over-door racks, magnetic strips, corner solutions, and freestanding shelving, all under £40."
 image: "/images/kitchen-open-shelving.jpg"
-datePublished: "2026-07-27"
+datePublished: "2026-07-13"
 dateModified: "2026-07-27"
 author: "Badreddine"
 tags: ["small kitchen storage ideas uk", "budget kitchen organisation uk", "cheap kitchen storage solutions uk", "kitchen storage UK"]

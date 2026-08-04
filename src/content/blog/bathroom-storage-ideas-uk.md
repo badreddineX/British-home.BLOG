@@ -2,7 +2,7 @@
 title: "Small Bathroom Storage Ideas UK"
 description: "Where to buy bathroom storage that works in a small UK rental: 12 no-drill ideas with real £ prices from Amazon UK, IKEA, and Dunelm."
 image: "/images/bathroom-storage-baskets-shelf.jpg"
-datePublished: "2026-07-25"
+datePublished: "2026-04-23"
 dateModified: "2026-07-25"
 author: "Badreddine"
 tags: ["small bathroom storage UK", "bathroom storage ideas UK", "renter-friendly bathroom UK", "no drill storage UK"]

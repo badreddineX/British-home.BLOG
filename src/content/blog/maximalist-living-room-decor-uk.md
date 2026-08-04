@@ -2,7 +2,7 @@
 title: "Maximalist Living Room Decor UK"
 description: "Practical maximalist living room guide for British homes — colour anchoring, pattern mixing, gallery wall method, object grouping and knowing when to stop."
 image: "/images/pexels-1648776.jpg"
-datePublished: "2026-05-08"
+datePublished: "2026-03-25"
 dateModified: "2026-07-25"
 author: "Badreddine"
 tags: ["maximalist living room decor", "maximalist interior UK", "maximalist home decor UK", "bold living room UK", "eclectic living room UK"]

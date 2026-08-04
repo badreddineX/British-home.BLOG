@@ -2,7 +2,7 @@
 title: "Small Living Room Layout Ideas UK"
 description: "How to arrange furniture in a tiny British lounge — layout principles, scale rules, and specific configurations for rooms under 15 square metres."
 image: "/images/pexels-6538933.jpg"
-datePublished: "2026-06-17"
+datePublished: "2026-04-18"
 dateModified: "2026-07-25"
 author: "Badreddine"
 tags: ["small living room layout ideas UK", "small lounge layout UK", "tiny living room UK", "furniture arrangement UK"]

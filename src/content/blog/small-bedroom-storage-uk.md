@@ -2,7 +2,7 @@
 title: "Small Bedroom Storage Ideas UK"
 description: "13 bedroom storage ideas for small UK flats — wardrobe, under-bed, wall, and furniture storage solutions. All renter-friendly with real £ prices."
 image: "/images/bedroom-makeover-gallery-wall.jpg"
-datePublished: "2026-07-25"
+datePublished: "2026-05-22"
 dateModified: "2026-07-25"
 author: "Badreddine"
 tags: ["small bedroom storage UK", "bedroom storage ideas UK", "wardrobe organisation UK", "renter storage UK"]
