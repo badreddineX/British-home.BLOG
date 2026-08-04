@@ -1,0 +1,240 @@
+[
+  {
+    "slug": "cosy-home-decor",
+    "template": "E",
+    "kicker": "COSY HOME SECRETS",
+    "headline": "7 Ways to Make Any Room Feel <em>Genuinely</em> Cosy",
+    "domain": "britishhomeinterior.co.uk",
+    "list": [
+      "Layer lighting — never rely on the overhead light alone",
+      "Chunky knit throw, oversized cushions, thick rug — all at once",
+      "Warm-tone bulbs (2700K) change the feeling of every room",
+      "One shelf of real books beats any gallery wall",
+      "Candles in corners and alcoves, not on centrepieces",
+      "A rug that's too large is always the right choice",
+      "Curtains that pool slightly signal 'this is a real home'"
+    ]
+  },
+  {
+    "slug": "rented-home-decor",
+    "template": "E",
+    "kicker": "RENTER-SAFE TRICKS",
+    "headline": "Decorate Your Rental Without <em>Risking</em> a Penny",
+    "domain": "britishhomeinterior.co.uk",
+    "list": [
+      "Command strips hold 3.6 kg — more than most frames weigh",
+      "Peel-off wallpaper costs £20 and leaves zero residue",
+      "Freestanding shelving beats fixed shelves for renters",
+      "Furniture zoning creates rooms within rooms — no drilling",
+      "Tension-rod curtain rail fits any window, zero holes made"
+    ]
+  },
+  {
+    "slug": "living-room-colour-schemes",
+    "template": "E",
+    "kicker": "THE COLOUR RULES",
+    "headline": "Colour Rules Every British Home <em>Needs</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "list": [
+      "60-30-10: dominant, secondary, accent — always",
+      "British light is grey — warm undertones win every time",
+      "Test tester pots in morning AND evening light",
+      "Dark walls make small rooms feel expensive, not smaller",
+      "The colour that looks wrong in the tin reads best on walls"
+    ]
+  },
+  {
+    "slug": "small-living-room",
+    "template": "E",
+    "kicker": "SMALL LOUNGE WINS",
+    "headline": "11 Tricks That Make a Tiny Lounge Feel <em>Huge</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "list": [
+      "One large rug always beats three smaller ones",
+      "Mirror above the fireplace — minimum 90cm wide",
+      "Push the sofa to the wall and float the coffee table",
+      "Vertical stripes on one wall add instant ceiling height",
+      "Glass coffee table: the most effective space-maker in the room"
+    ]
+  },
+  {
+    "slug": "budget-home-makeover",
+    "template": "E",
+    "kicker": "UNDER £150",
+    "headline": "A Whole-Room Refresh for <em>Under £150</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "list": [
+      "New cushion covers (not new cushions) — £12 from IKEA",
+      "One statement plant outlasts any bunch of flowers",
+      "Paint one wall — your £7 tester pot is enough for a feature",
+      "New lampshade: the fastest single-piece room change there is",
+      "Edit ruthlessly first — the £0 makeover nobody tries"
+    ]
+  },
+  {
+    "slug": "bedroom-makeover",
+    "template": "E",
+    "kicker": "BEDROOM DECODED",
+    "headline": "13 Changes That Actually <em>Transform</em> a Bedroom",
+    "domain": "britishhomeinterior.co.uk",
+    "list": [
+      "New bed linen is worth 10× any cushion spend",
+      "Lamps either side of the bed — never just the overhead light",
+      "One piece of art above the headboard anchors the whole room",
+      "Clear the bedside table to just 3 things — it reads cleaner",
+      "A rug under the bed (half showing) makes the room feel finished"
+    ]
+  },
+  {
+    "slug": "cosy-home-decor",
+    "template": "A",
+    "kicker": "7 Layers &nbsp;·&nbsp; Genuine Warmth",
+    "headline": "The Home That Feels Like a <em>Hug</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1866149.jpg"
+  },
+  {
+    "slug": "rented-flat-makeover",
+    "template": "A",
+    "kicker": "Deposit-Safe &nbsp;·&nbsp; No Drills",
+    "headline": "Your Rental Can Look <em>This</em> Good",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1643383.jpg"
+  },
+  {
+    "slug": "bedroom-makeover",
+    "template": "A",
+    "kicker": "13 Changes &nbsp;·&nbsp; One Weekend",
+    "headline": "A Bedroom Worth <em>Waking Up</em> In",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-90317.jpg"
+  },
+  {
+    "slug": "living-room-ideas",
+    "template": "A",
+    "kicker": "15 Ideas &nbsp;·&nbsp; British Homes",
+    "headline": "The Lounge You'll Never Want to <em>Leave</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1571453.jpg"
+  },
+  {
+    "slug": "dark-moody-home-decor",
+    "template": "A",
+    "kicker": "Paint Dark &nbsp;·&nbsp; Live Warm",
+    "headline": "Dark Rooms Don't Feel Smaller — <em>Here's Proof</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-3356416.jpg"
+  },
+  {
+    "slug": "budget-home-makeover",
+    "template": "B",
+    "kicker": "Under £150 &nbsp;·&nbsp; Any Room",
+    "headline": "Transform a Room for Less Than a <em>Grocery Run</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1571459.jpg"
+  },
+  {
+    "slug": "small-living-room",
+    "template": "B",
+    "kicker": "11 Tricks &nbsp;·&nbsp; No Furniture Spend",
+    "headline": "Make Your Lounge Feel <em>Twice</em> as Big",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-276583.jpg"
+  },
+  {
+    "slug": "kitchen-on-a-budget",
+    "template": "B",
+    "kicker": "14 Upgrades &nbsp;·&nbsp; No Builders",
+    "headline": "The Kitchen Makeover With <em>Zero</em> Renovation",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1080721.jpg"
+  },
+  {
+    "slug": "cosy-bedroom-ideas",
+    "template": "B",
+    "kicker": "14 Ways &nbsp;·&nbsp; Any Budget",
+    "headline": "A Bedroom So Cosy You'll <em>Never</em> Leave",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-271624.jpg"
+  },
+  {
+    "slug": "victorian-terrace",
+    "template": "B",
+    "kicker": "Period Features &nbsp;·&nbsp; Modern Life",
+    "headline": "Your Victorian Home's <em>Hidden</em> Potential",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-3757055.jpg"
+  },
+  {
+    "slug": "cottagecore-home-decor",
+    "template": "C",
+    "kicker": "The Cottage Aesthetic",
+    "headline": "Cottagecore That Feels <em>Earned</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-4273433.jpg"
+  },
+  {
+    "slug": "winter-cosy-home",
+    "template": "C",
+    "kicker": "The Winter Edit",
+    "headline": "A Home That's Warm Before <em>December</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-2082090.jpg"
+  },
+  {
+    "slug": "home-interior-ideas",
+    "template": "C",
+    "kicker": "The One Principle",
+    "headline": "The Interior Rule That <em>Never</em> Fails",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1571460.jpg"
+  },
+  {
+    "slug": "cosy-home-decor",
+    "template": "D",
+    "kicker": "THE COSY FORMULA",
+    "headline": "Why Your Home Doesn't Feel Cosy <em>Yet</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1866149.jpg"
+  },
+  {
+    "slug": "rented-home-decor",
+    "template": "D",
+    "kicker": "DEPOSIT-SAFE",
+    "headline": "13 Rental Upgrades Your Landlord Won't <em>Notice</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1918291.jpg"
+  },
+  {
+    "slug": "living-room-colour-schemes",
+    "template": "D",
+    "kicker": "COLOUR TRUTH",
+    "headline": "The Colour Mistake <em>Every</em> British Home Makes",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1457842.jpg"
+  },
+  {
+    "slug": "bedroom-makeover",
+    "template": "D",
+    "kicker": "ONE WEEKEND",
+    "headline": "13 Changes. One Weekend. A Different <em>Bedroom</em>.",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-90317.jpg"
+  },
+  {
+    "slug": "small-living-room-layout",
+    "template": "D",
+    "kicker": "LAYOUT FIX",
+    "headline": "The One Furniture Move That <em>Opens</em> Any Small Room",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-6538933.jpg"
+  },
+  {
+    "slug": "budget-home-makeover",
+    "template": "D",
+    "kicker": "UNDER £150",
+    "headline": "Spend £150. Feel Like You Spent <em>£1,500</em>.",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1571459.jpg"
+  }
+]

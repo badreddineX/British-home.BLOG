@@ -1,11 +1,13 @@
-// Pinterest pin generator for britishhomeinterior.co.uk — "National Trust heritage" kit
-// A = Full-bleed moody (signature), B = Split w/ price-hook kicker, C = Heritage plate
+// Pinterest pin generator for britishhomeinterior.co.uk — v3 "Hormozi" edition
+// A = Full-Bleed Moody · B = Split · C = Heritage Plate · D = Floating Card · E = Bold List
+// Template E is text-dominant (no photo required) — Hormozi scroll-stopper format.
 // Headlines support <em>word</em> → italic gold accent (Playfair italic).
-// Usage: node generate-pins-uk.mjs [pins-uk.json]
+// Usage: node generate-pins.mjs [pins.json]
 
 import { chromium } from 'playwright';
 import { readFileSync, writeFileSync, mkdirSync } from 'fs';
 import { resolve } from 'path';
+import { pathToFileURL } from 'url';
 
 const FONTS = `<link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;1,500;1,600&family=Lato:wght@400;700;900&display=swap" rel="stylesheet">`;
@@ -94,21 +96,99 @@ const templates = {
       <div class="photo"></div>
       <div class="domain">${p.domain}</div>
     </div>`,
+
+  // ===== D · FLOATING CARD — bright photo, gold-bordered ecru card over bottom third =====
+  D: (p) => `
+    <style>${BASE_CSS}
+      body{background:var(--ecru)}
+      .photo{position:absolute;inset:0;background:url('${p.photo}') center/cover no-repeat}
+      .scrim-top{position:absolute;top:0;left:0;right:0;height:42%;
+                 background:linear-gradient(180deg, rgba(26,35,24,.22) 0%, rgba(26,35,24,0) 100%)}
+      .card{position:absolute;left:52px;right:52px;bottom:52px;background:var(--ecru);
+            border-radius:20px;padding:60px 58px 52px;border:2px solid var(--gold);
+            box-shadow:0 32px 64px -24px rgba(26,35,24,.40)}
+      .pill{display:inline-flex;align-items:center;background:var(--green);color:var(--ecru);
+            font-family:'Lato',sans-serif;font-weight:700;font-size:22px;
+            letter-spacing:.16em;text-transform:uppercase;padding:11px 26px;
+            border-radius:999px;margin-bottom:30px}
+      h2{font-size:72px;line-height:1.16;color:var(--ink);margin-bottom:34px}
+      h2 em{color:var(--gold)}
+      .rule{width:52px;height:2px;background:var(--gold);margin-bottom:20px}
+      .domain{color:var(--green)}
+    </style>
+    <div class="photo"></div>
+    <div class="scrim-top"></div>
+    <div class="card">
+      <div class="pill">${p.kicker}</div>
+      <h2>${p.headline}</h2>
+      <div class="rule"></div>
+      <div class="domain">${p.domain}</div>
+    </div>`,
+
+  // ===== E · BOLD LIST — deep forest canvas, gold italic numerals, Hormozi teaser list =====
+  // Text-dominant — no photo required. Supply p.list[] with 3–7 short teaser strings.
+  // Curiosity gap: viewers see enough to want more, but must click to get the full list.
+  E: (p) => `
+    <style>${BASE_CSS}
+      body{background:var(--ink);display:flex;flex-direction:column;
+           padding:96px 88px 88px;position:relative;overflow:hidden}
+      .bg-arc{position:absolute;width:760px;height:760px;border-radius:50%;
+              border:1px solid rgba(184,154,106,.10);top:-240px;right:-200px;pointer-events:none}
+      .bg-arc2{position:absolute;width:560px;height:560px;border-radius:50%;
+               border:1px solid rgba(184,154,106,.07);top:-140px;right:-100px;pointer-events:none}
+      .top-bar{display:flex;align-items:center;gap:22px;margin-bottom:58px;flex-shrink:0}
+      .top-bar::after{content:'';flex:1;height:1px;background:rgba(184,154,106,.30)}
+      .kicker{font-family:'Lato',sans-serif;font-weight:700;font-size:23px;
+              letter-spacing:.28em;text-transform:uppercase;color:var(--gold);white-space:nowrap}
+      h2{font-family:'Playfair Display',serif;font-weight:500;font-size:94px;
+         line-height:1.12;color:var(--ecru);margin-bottom:56px;flex-shrink:0}
+      h2 em{color:var(--gold);font-style:italic}
+      .list{flex:1;list-style:none;display:flex;flex-direction:column;
+            justify-content:space-evenly;padding-bottom:8px}
+      .list li{display:flex;align-items:flex-start;gap:24px}
+      .num{font-family:'Playfair Display',serif;font-size:44px;font-weight:500;
+           font-style:italic;color:var(--gold);min-width:54px;line-height:1;flex-shrink:0}
+      .item-txt{font-family:'Lato',sans-serif;font-weight:400;font-size:29px;
+                line-height:1.38;color:rgba(243,244,239,.84);padding-top:6px}
+      .footer{display:flex;align-items:center;justify-content:space-between;
+              padding-top:44px;border-top:1px solid rgba(184,154,106,.24);flex-shrink:0}
+      .domain{font-family:'Lato',sans-serif;font-weight:700;font-size:21px;
+              letter-spacing:.22em;text-transform:uppercase;color:rgba(243,244,239,.50)}
+      .cta-badge{background:var(--gold);color:var(--ink);font-family:'Lato',sans-serif;
+                 font-weight:900;font-size:20px;letter-spacing:.14em;text-transform:uppercase;
+                 padding:13px 28px;border-radius:999px}
+    </style>
+    <div class="bg-arc"></div>
+    <div class="bg-arc2"></div>
+    <div class="top-bar"><div class="kicker">${p.kicker}</div></div>
+    <h2>${p.headline}</h2>
+    <ul class="list">
+      ${(p.list || []).map((item, i) =>
+        `<li><span class="num">${String(i + 1).padStart(2, '0')}</span><span class="item-txt">${item}</span></li>`
+      ).join('\n      ')}
+    </ul>
+    <div class="footer">
+      <div class="domain">${p.domain}</div>
+      <div class="cta-badge">Read&nbsp;→</div>
+    </div>`,
 };
 
-const pins = JSON.parse(readFileSync(process.argv[2] ?? 'pins-uk.json', 'utf8'));
+const pins = JSON.parse(readFileSync(process.argv[2] ?? 'pins.json', 'utf8'));
 mkdirSync('out-uk', { recursive: true });
 
 const browser = await chromium.launch(process.env.CHROMIUM_PATH ? { executablePath: process.env.CHROMIUM_PATH } : {});
-const page = await browser.newPage({ viewport: { width: 1000, height: 1500 } });
+// deviceScaleFactor: 2 renders at retina density — 2000×3000 output, sharp on hi-DPI screens.
+const page = await browser.newPage({ viewport: { width: 1000, height: 1500 }, deviceScaleFactor: 2 });
 
 for (const pin of pins) {
-  const photo = pin.photo.startsWith('http') ? pin.photo : 'file://' + resolve(pin.photo).replace(/\\/g, '/');
+  const photo = pin.photo
+    ? (pin.photo.startsWith('http') ? pin.photo : pathToFileURL(resolve(pin.photo)).href)
+    : '';
   const html = `<!doctype html><html><head><meta charset="utf-8">${FONTS}</head><body>` +
     templates[pin.template]({ ...pin, photo }) + '</body></html>';
   const file = resolve(`out-uk/${pin.slug}-${pin.template}.html`);
   writeFileSync(file, html);
-  await page.goto('file://' + file.replace(/\\/g, '/'), { waitUntil: 'networkidle' });
+  await page.goto('file://' + file, { waitUntil: 'networkidle' });
   await page.evaluate(() => document.fonts.ready);
   await page.screenshot({ path: `out-uk/${pin.slug}-${pin.template}.png` });
   console.log(`✓ out-uk/${pin.slug}-${pin.template}.png`);
