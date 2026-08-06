@@ -1,6 +1,5 @@
 ---
 title: "12 Clever Vertical Storage Ideas for Small UK Flats (No Wall Damage!)"
-
 description: "Small flat storage solutions that maximise height — renter-friendly, budget-conscious ideas for UK homes using IKEA, Dunelm & more."
 
 image: "/images/bathroom-storage-baskets-shelf.jpg"
@@ -27,7 +26,6 @@ faqs:
     a: "Freestanding tall shelves (e.g., IKEA Billy, ~£30) are great — just place them away from sockets and check floor load limits. For extra stability, use anti-tip brackets (£3 on Amazon UK) that attach to the back of the unit, not the wall. Never glue or screw to the wall unless agreed."
   - q: "Do vertical solutions work in low-ceilinged Victorian flats?"
     a: "Yes — focus on mid-height (waist to shoulder) and overhead zones. Use ladder shelves (John Lewis, ~£25) or hanging storage like the IKEA Vittsjo I (~£8), which fixes to a wall bracket, not the ceiling. Even 10cm above a door can hold folded baskets if mounted on a sturdy bracket."
-
 ---
 
 You're not alone if your small UK flat feels like a giant game of Tetris every time you tidy up. A huge share of London renters live in flats under 50m² — and storage space is consistently their top pain point. I've renovated three rented flats across the UK (Leeds, Bristol and Manchester), and in every one, vertical storage was the only way to keep floor space clear while actually storing *everything* — from winter coats to holiday decorations.
@@ -75,7 +73,7 @@ Tall flat? Use a vertical shoe rack instead of a wide one. IKEA's FRAKTA bag (~�
 
 ## 9. Door-Mounted Ironing Board — Dual-Purpose Vertical Space
 
-A fold-down ironing board (B&Q, ~£25) mounted on the inside of a closet or utility door saves a huge chunk of floor space. Bonus: it hides the iron when not in use. Most models clamp or screw in — for rentals, look for clamp-fit versions like the Hobart ironing board (on Amazon UK, ~£28), which uses a tension rod system. It sits flat against the door and has a protective backing so it won't scratch paint. I used one in my Bristol flat and it doubled my storage by freeing up a drawer I'd used for laundry.
+A fold-down ironing board (B&Q, ~£25) mounted on the inside of a closet or utility door saves a huge chunk of floor space. Bonus: it hides the iron when not in use. Most models clamp or screw in — for rentals, look for clamp-fit versions like the Hobart ironing board (on Amazon UK, ~£28), which uses a tension rod system. It sits flat against the door and has a protective backing so it won't scratch paint. It's an easy way to free up a whole drawer that would otherwise be given over to laundry gear.
 
 ## 10. Tall Cupboard Shelf Dividers — Max Out Your Existing Cupboards
 

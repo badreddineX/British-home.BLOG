@@ -42,7 +42,7 @@ Your walls don’t need paint or wallpaper—especially if you’re renting. In 
 
 ## 2. Textiles Are Your Instant Storytellers
 
-The most powerful, budget-conscious tools in your toolbox are textiles. A £12 kilim from Etsy (many UK-based makers, shipped locally) draped over a sofa instantly adds depth. Try stacking cushions of different textures—mud cloth, hand-dyed indigo, geometric kente—weaving in a pop of colour (like burnt orange or cobalt). Dunelm’s ‘Boho’ cushion range starts from ~£8, and Next Home often has jute-look poufs from ~£16. For renter-proof hanging, use Command hooks (£4.50 for 6 at Dunelm) to hang scarves, small tapestries, or macramé panels without nails. Bonus: most of these fabrics can be folded and packed if you move.
+The most powerful, budget-conscious tools in your toolbox are textiles. A £12 kilim from Etsy (many UK-based makers, shipped locally) draped over a sofa instantly adds depth. Try stacking cushions of different textures and named patterns: bogolan (Malian mud cloth, geometric earth-toned motifs), hand-dyed adire indigo from Nigeria, or woven kente strips from Ghana, weaving in a pop of colour like burnt orange or cobalt. African Fabric House (online, UK-based) stocks genuine wax-print ankara yardage from ~£7.50/metre if you want to make your own cushion covers, while Dunelm’s ‘Boho’ cushion range starts from ~£8 for a ready-made option. For renter-proof hanging, use Command hooks (£4.50 for 6 at Dunelm) to hang scarves, small tapestries, or macramé panels without nails. Bonus: most of these fabrics can be folded and packed if you move.
 
 ## 3. Freestanding Furniture Wins Again
 
@@ -50,7 +50,7 @@ Avoid the “decorator’s dilemma”: you love rattan or carved wooden storage,
 
 ## 4. Vintage Brass and Ceramics Add Heirloom Warmth
 
-There’s magic in finding a piece with history. UK charity shops (especially Oxfam, British Red Cross, and independent local ones) often have vintage brass candle holders, ceramic bowls, and beaded ceremonial items for £3–£10. In Bristol, The Arcade Thrift Store often has Ghanaian kente-weave belts (use as table runners), and Manchester’s ‘The Refinery’ sells ethically sourced African prints. Try mixing brass with handmade clay: a simple copper tray on a reclaimed wood stand (B&Q sells unfinished pine planks from ~£7) feels rich and layered. Always polish brass with a little lemon oil (Dunelm’s natural option is ~£3) to bring out its glow.
+There’s magic in finding a piece with history. UK charity shops (especially Oxfam, British Red Cross, and independent local ones) often have vintage brass candle holders, ceramic bowls, and beaded ceremonial items for £3–£10. Look out for specific pieces like Moroccan-style brass tea trays, hand-carved wooden Ashanti stools (a genuine Ghanaian design element, not just "African furniture"), and Ethiopian coffee pots (jebena), which turn up regularly in UK secondhand shops and on Vinted. Try mixing brass with handmade clay: a simple copper tray on a reclaimed wood stand (B&Q sells unfinished pine planks from ~£7) feels rich and layered. Always polish brass with a little lemon oil (Dunelm’s natural option is ~£3) to bring out its glow.
 
 ![Brass candle holders and a clay bowl displayed on a woven rug](/images/pexels-2079249.jpg)
 
@@ -82,7 +82,7 @@ Clutter kills the vibe—even a beautiful one. Use woven storage boxes (IKEA’s
 
 ## 11. Color That Speaks, Not Shouts
 
-A good Afrobohemian scheme uses colour like poetry—not slogans. Start with a neutral palette (warm whites, ochre, sandy beige), then introduce colour in small doses: a cobalt cushion, a rust scarf, an indigo-dyed throw. Dunelm’s “Haven” paint in ‘Terracotta Clay’ is £35 (2.5L), and John Lewis sells ‘Indigo’ fabric from £12 per half-metre. Avoid loud colour clashes; instead, layer analogous tones—ochre + terracotta + burnt sienna. One of my tenants did this in a studio flat using just three cushions, a rug, and a woven wall hanging—and it felt so rich, you’d think she’d lived there for years.
+A good Afrobohemian scheme uses colour like poetry—not slogans. Start with a neutral palette (warm whites, ochre, sandy beige), then introduce colour in small doses: a cobalt cushion, a rust scarf, an indigo-dyed throw. Dunelm’s “Haven” paint in ‘Terracotta Clay’ is £35 (2.5L), and John Lewis sells ‘Indigo’ fabric from £12 per half-metre. Avoid loud colour clashes; instead, layer analogous tones—ochre + terracotta + burnt sienna. Adire (Nigerian resist-dyed indigo cloth) and Ghanaian kente strips both work well as small accents, such as a single cushion or table runner, rather than covering a whole sofa—the pattern reads as intentional, not costume-like, when it's given room to breathe against a plain backdrop.
 
 ## 12. Build Your Scheme Slowly
 

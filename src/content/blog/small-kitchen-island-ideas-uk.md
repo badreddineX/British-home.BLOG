@@ -14,16 +14,16 @@ tldr:
   - "Use freestanding furniture (like a console table or bookcase) as a kitchen island — no drilling required."
   - "Peel-and-stick wallpaper or contact paper can instantly refresh existing surfaces — great for tenants."
   - "Tension rods + hooks under the island create hidden storage for utensils or aprons."
-  - "IKEA’s MICKE table (~/£25) or Dunelm’s rolling kitchen trolley (~/£45) are solid, deposit-safe bases."
+  - "IKEA’s MICKE table (~£25) or Dunelm’s rolling kitchen trolley (~£45) are solid, deposit-safe bases."
 faqs:
   - q: "Can I put a kitchen island in a rented flat without damaging the floor or walls?"
-    a: "Absolutely — opt for freestanding units like rolling trolleys, stackable crates, or custom-built carts on castors. Avoid anything bolted down or glued. IKEA’s LACK side table with castors (~/£10) works well when dressed up, and won’t void your deposit."
+    a: "Absolutely — opt for freestanding units like rolling trolleys, stackable crates, or custom-built carts on castors. Avoid anything bolted down or glued. IKEA’s LACK side table with castors (~£10) works well when dressed up, and won’t void your deposit."
   - q: "How do I stop a wooden island from scratching my floorboards?"
     a: "Stick felt pads or felt strips (available at B&Q for ~£3 for 20) to the bottom of legs. For extra protection on laminate or tile, use self-adhesive rubber feet (~£2 for 10 at Amazon UK). They’re cheap, removable, and won’t leave residue."
   - q: "Is a kitchen island worth it in a tiny flat under 500 sq ft?"
-    a: "Yes — but only if it’s multi-functional. A slim cart (40–50cm deep) can double as prep space, extra storage, and a breakfast bar. Next Home’s folding counter cart (~/£39) collapses against the wall when not in use — ideal for cramped kitchens."
+    a: "Yes — but only if it’s multi-functional. A slim cart (40–50cm deep) can double as prep space, extra storage, and a breakfast bar. Next Home’s folding counter cart (~£39) collapses against the wall when not in use — ideal for cramped kitchens."
   - q: "What’s the cheapest way to add a countertop to a second-hand trolley?"
-    a: "Apply contact paper (~£8 for 10m at Dunelm) over MDF board (~/£10 for 60x90cm at B&Q) cut to size. Glue it down with spray adhesive (~£4), then seal edges with clear nail polish. It’s permanent enough for use but fully reversible."
+    a: "Apply contact paper (~£8 for 10m at Dunelm) over MDF board (~£10 for 60x90cm at B&Q) cut to size. Glue it down with spray adhesive (~£4), then seal edges with clear nail polish. It’s permanent enough for use but fully reversible."
 ---
 
 A huge number of UK renters live in kitchens under 6m², often sharing space with a dining area or living zone. That’s tighter than a Mancunian pub queue — and plenty of flats have no dedicated pantry either, so every inch counts. I’ve renovated three rented flats across the UK — from a Glasgow studio with a galley kitchen no bigger than a washing machine to a Birmingham terraced house where the fridge stood sideways — and learned one thing: a kitchen island doesn’t need to be permanent to make a difference.
@@ -38,7 +38,7 @@ Forget built-in units. Instead, scope secondhand furniture first — a slim cons
 
 ## 2. Go Rolling — Castors Are Your Best Friend
 
-A fixed island is a non-starter in most rentals. Make yours mobile instead: buy a simple wooden crate or cabinet (IKEA’s KALLAX cube, ~£20) and screw on heavy-duty castors (B&Q, ~£5 for 4 with brakes). You’ll thank yourself when you need to clear floor space for guests or sweep behind it. One tenant I helped fitted castors to a vintage barber’s chair she found at a car boot sale — total spend £18 — then added a butcher’s block top (~£22 at Amazon UK) and hung her favourite mugs underneath with copper S-hooks (~£3 at Dunelm). The whole thing rolls like butter on porridge.
+A fixed island is a non-starter in most rentals. Make yours mobile instead: buy a simple wooden crate or cabinet (IKEA’s KALLAX cube, ~£20) and screw on heavy-duty castors (B&Q, ~£5 for 4 with brakes). You’ll thank yourself when you need to clear floor space for guests or sweep behind it. A vintage bar cart or barber’s trolley from a car boot sale works just as well, especially with a butcher’s block top (~£22 at Amazon UK) added on and mugs hung underneath with copper S-hooks (~£3 at Dunelm). The whole thing rolls like butter on porridge.
 
 ## 3. Peel-and-Stick Countertops — Reversible & Decor-Save
 
@@ -56,7 +56,7 @@ When every cm is precious, a folding leaf is a revelation. IKEA’s MICKE table 
 
 ## 6. Stackable Crates for Tiered Storage
 
-If height is your friend (and floor space isn’t), go vertical with crates. IKEA’s VITTORP drawer unit (£20) stacks neatly, but even wooden apple crates (~£8 each on Facebook Marketplace) work. Line them with peel-and-stick shelf liner (~£4 for 3m at B&Q), and fill with spices, dried pasta, or teabags. One London flatmate suspended a 3-tier crate system from a tension rod above her toaster — the bottom tier held flour, the middle sugar, and the top a tiny scale. No drilling, no mess — and the whole thing lifts away in seconds.
+If height is your friend (and floor space isn’t), go vertical with crates. IKEA’s VITTORP drawer unit (£20) stacks neatly, but even wooden apple crates (~£8 each on Facebook Marketplace) work. Line them with peel-and-stick shelf liner (~£4 for 3m at B&Q), and fill with spices, dried pasta, or teabags. Suspend a 3-tier crate system from a tension rod above the worktop, with flour in the bottom tier, sugar in the middle, and a scale on top. No drilling, no mess — and the whole thing lifts away in seconds.
 
 ![Stackable wooden crates repurposed as tiered kitchen island storage](/images/kitchen-marble-island-worktop.jpg)
 
@@ -66,7 +66,7 @@ Don’t discount the humble bar cart — it’s the original kitchen island for 
 
 ## 8. Repurpose a Sideboard — Hidden Storage, Big Impact
 
-A narrow sideboard (~£50–£80 on Vinted for secondhand) tucked into a corner doubles as prep space and cabinet storage. Clean the front, paint the doors in a bold colour (Dunelm’s “Brutal Blue” emulsion, ~£16), and remove the backs for open shelving. Slide in a small cutting board (~£9 at John Lewis) over the sink for a makeshift splashback. One reader in Leeds used her sideboard’s existing drawers to store wine glasses, and hung a pegboard underneath (~£12 at B&Q) for wine openers, corkscrews, and bottle pullers — all colour-coded by meal type.
+A narrow sideboard (~£50–£80 on Vinted for secondhand) tucked into a corner doubles as prep space and cabinet storage. Clean the front, paint the doors in a bold colour (Dunelm’s “Brutal Blue” emulsion, ~£16), and remove the backs for open shelving. Slide in a small cutting board (~£9 at John Lewis) over the sink for a makeshift splashback. Use the sideboard’s existing drawers to store wine glasses, and hang a pegboard underneath (~£12 at B&Q) for wine openers, corkscrews, and bottle pullers.
 
 ## 9. Add Foldable Stools or a Drop-Leaf Bar
 
@@ -76,7 +76,7 @@ A kitchen island without seating is just a shelf. For renter-ready seating, go f
 
 ## 10. Use Under-Sink Space with a Pull-Out Tray
 
-If your kitchen has a narrow gap beneath a unit (say, next to the sink), build or buy a pull-out tray. Dunelm sells ready-made under-sink carts (~£35), but a DIY option is cheaper: fix a sliding runner (~£8 for 60cm at B&Q) to a piece of plywood and attach a wooden handle. Slide it in, load it with cleaning sprays or sponges, and seal the front with removable adhesive edging — the “ finished” look your landlord will accept. One reader in Manchester used this to hide her compost bin — no smell, no mess.
+If your kitchen has a narrow gap beneath a unit (say, next to the sink), build or buy a pull-out tray. Dunelm sells ready-made under-sink carts (~£35), but a DIY option is cheaper: fix a sliding runner (~£8 for 60cm at B&Q) to a piece of plywood and attach a wooden handle. Slide it in, load it with cleaning sprays or sponges, and seal the front with removable adhesive edging for a finished look your landlord will accept. It also works well for hiding a small compost caddy, with no smell and no mess.
 
 ## 11. Paint & Pattern — Personality Without Permanence
 
