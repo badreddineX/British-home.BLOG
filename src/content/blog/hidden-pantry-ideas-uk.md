@@ -1,7 +1,7 @@
 ---
 title: "Hidden Pantry Ideas for Small UK Kitchens That Save Space & Stress"
 description: "Smart hidden pantry solutions for small UK kitchens under £100 — renter-friendly, deposit-safe, and clutter-free."
-image: "/images/kitchen-open-shelving.jpg"
+image: "/images/pexels-1571453.jpg"
 datePublished: "2026-07-28"
 dateModified: "2026-07-30"
 author: "Badreddine"

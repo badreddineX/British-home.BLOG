@@ -1,7 +1,7 @@
 ---
 title: "Budget Kitchen Worktop Makeover Ideas UK"
 description: "Cheap kitchen worktop ideas UK: adhesive wrap film, laminate paint kits, and edge strip repairs — all cheaper than full replacement, with real prices."
-image: "/images/kitchen-marble-island-worktop.jpg"
+image: "/images/hallway-console-table-mirror.jpg"
 datePublished: "2026-07-06"
 dateModified: "2026-07-27"
 author: "Badreddine"
