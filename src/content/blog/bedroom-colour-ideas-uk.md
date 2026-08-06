@@ -270,3 +270,4 @@ Free orientation check — look up your postcode on Google Maps satellite view. 
 
 → For bedroom styling and decor see [Bedroom Decor Ideas UK](/blog/bedroom-decor-ideas-uk/).
 → For a full bedroom refresh see [Bedroom Makeover UK](/blog/bedroom-makeover-uk/).
+→ Applying the same warm-neutral and sage-green logic to the smallest room in the house? See [Bathroom Colour Ideas UK](/blog/bathroom-colour-ideas-uk/).

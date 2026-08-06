@@ -313,6 +313,6 @@ Choosing a living room colour scheme is one of the decorating decisions that fee
 
 The one thing I'd change about how I approached colour earlier: I treated it as a standalone decision, picking a wall colour and hoping everything else would work around it. The schemes that actually worked were built from the sofa outward — what's the largest fixed element, and what does it need to feel complete?
 
-For next steps, see our [full guide to styling a living room from scratch](/blog/how-to-style-a-living-room-uk/) and our [living room ideas roundup](/blog/small-living-room-ideas-uk/) for inspiration across all budgets and styles. If you're drawn to the darker end of the palette, [Dark Moody Home Decor UK](/blog/dark-moody-home-decor-uk/) covers how to do it without making a small room feel like a cave.
+For next steps, see our [full guide to styling a living room from scratch](/blog/how-to-style-a-living-room-uk/) and our [living room ideas roundup](/blog/small-living-room-ideas-uk/) for inspiration across all budgets and styles. If you're drawn to the darker end of the palette, [Dark Moody Home Decor UK](/blog/dark-moody-home-decor-uk/) covers how to do it without making a small room feel like a cave. And if you're colouring the whole house room by room, [Bathroom Colour Ideas UK](/blog/bathroom-colour-ideas-uk/) covers the same principles adapted for tile constraints and condensation.
 
 Pick the scheme that scares you slightly less than the others. Sample it. Live with the samples for a week. Then buy the paint.
