@@ -5,7 +5,7 @@ image: "/images/pexels-1571468.jpg"
 datePublished: "2026-02-18"
 dateModified: "2026-07-25"
 author: "Badreddine"
-tags: ["modern home interior ideas", "modern British interiors", "contemporary home decor UK", "modern living room UK", "UK interior trends 2026"]
+tags: ["modern home interior ideas", "modern interior design uk", "contemporary interior ideas", "modern British interiors", "contemporary home decor UK", "modern living room UK", "UK interior trends 2026"]
 featured: false
 category: "Room Makeovers"
 readTime: "8 min read"

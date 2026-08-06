@@ -5,7 +5,7 @@ image: "/images/bedroom-makeover-gallery-wall.jpg"
 datePublished: "2026-05-22"
 dateModified: "2026-07-25"
 author: "Badreddine"
-tags: ["small bedroom storage UK", "bedroom storage ideas UK", "wardrobe organisation UK", "renter storage UK"]
+tags: ["small bedroom storage UK", "small bedroom storage ideas", "bedroom storage solutions uk", "bedroom storage ideas UK", "wardrobe organisation UK", "renter storage UK"]
 featured: false
 category: "Bedroom"
 readTime: "9 min read"

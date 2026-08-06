@@ -5,7 +5,7 @@ image: "/images/pexels-2079249.jpg"
 datePublished: "2025-12-20"
 dateModified: "2026-04-10"
 author: "Badreddine"
-tags: ["cottagecore bedroom ideas UK", "cottagecore bedroom decor", "vintage bedroom UK", "botanical bedroom", "cosy bedroom UK"]
+tags: ["cottagecore bedroom ideas UK", "cottagecore bedroom decor uk", "vintage cottagecore bedroom", "cottagecore bedroom decor", "vintage bedroom UK", "botanical bedroom", "cosy bedroom UK"]
 featured: false
 category: "Bedroom"
 readTime: "8 min read"

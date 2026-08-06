@@ -5,7 +5,7 @@ image: "/images/pexels-1571459.jpg"
 datePublished: "2025-12-02"
 dateModified: "2026-07-25"
 author: "Badreddine"
-tags: ["budget home makeover UK", "home makeover UK", "cheap home makeover UK", "budget home decor UK", "home refresh UK"]
+tags: ["budget home makeover UK", "cheap home makeover", "budget home refresh", "home makeover UK", "cheap home makeover UK", "budget home decor UK", "home refresh UK"]
 featured: false
 category: "Room Makeovers"
 readTime: "9 min read"

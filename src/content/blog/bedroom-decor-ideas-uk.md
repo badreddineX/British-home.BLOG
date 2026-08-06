@@ -5,7 +5,7 @@ image: "/images/pexels-1743229.jpg"
 datePublished: "2025-12-09"
 dateModified: "2026-03-20"
 author: "Badreddine"
-tags: ["bedroom decor ideas UK", "UK bedroom ideas", "bedroom styling UK", "British bedroom decor", "cosy bedroom UK"]
+tags: ["bedroom decor ideas UK", "bedroom decor uk", "bedroom ideas uk", "UK bedroom ideas", "bedroom styling UK", "British bedroom decor", "cosy bedroom UK"]
 featured: false
 category: "Bedroom"
 readTime: "8 min read"

@@ -5,7 +5,7 @@ image: "/images/pexels-1866149.jpg"
 datePublished: "2025-10-20"
 dateModified: "2026-07-25"
 author: "Badreddine"
-tags: ["cosy home decor ideas", "cosy home UK", "hygge UK", "cosy living room UK", "warm home decor UK"]
+tags: ["cosy home decor ideas", "cosy home ideas", "hygge home decor uk", "cosy home UK", "hygge UK", "cosy living room UK", "warm home decor UK"]
 featured: false
 category: "Living Room"
 readTime: "8 min read"

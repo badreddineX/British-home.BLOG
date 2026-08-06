@@ -5,7 +5,7 @@ image: "/images/kitchen-open-shelving.jpg"
 datePublished: "2026-07-28"
 dateModified: "2026-07-30"
 author: "Badreddine"
-tags: ["hidden pantry UK", "small kitchen storage", "budget", "renter-friendly"]
+tags: ["hidden pantry UK", "pantry ideas small kitchen", "hidden pantry storage uk", "small kitchen storage", "budget", "renter-friendly"]
 featured: false
 category: "Room Makeovers"
 readTime: "8 min read"

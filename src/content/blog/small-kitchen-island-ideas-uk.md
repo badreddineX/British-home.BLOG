@@ -5,7 +5,7 @@ image: "/images/kitchen-marble-island-worktop.jpg"
 datePublished: "2026-07-31"
 dateModified: "2026-07-31"
 author: "Badreddine"
-tags: ["kitchen island UK", "small kitchen ideas", "budget", "renter-friendly"]
+tags: ["kitchen island UK", "small kitchen island uk", "kitchen island ideas small space", "small kitchen ideas", "budget", "renter-friendly"]
 featured: false
 category: "Room Makeovers"
 readTime: "8 min read"

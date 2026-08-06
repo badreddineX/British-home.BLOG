@@ -5,7 +5,7 @@ image: "/images/pexels-2062426.jpg"
 datePublished: "2025-12-06"
 dateModified: "2026-07-25"
 author: "Badreddine"
-tags: ["kitchen decor ideas UK", "kitchen styling UK", "British kitchen decor", "kitchen ideas UK"]
+tags: ["kitchen decor ideas UK", "kitchen decorating ideas uk", "kitchen decor inspiration", "kitchen styling UK", "British kitchen decor", "kitchen ideas UK"]
 featured: false
 category: "Kitchen"
 readTime: "7 min read"

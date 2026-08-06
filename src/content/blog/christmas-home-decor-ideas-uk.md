@@ -5,7 +5,7 @@ image: "/images/pexels-1708601.jpg"
 datePublished: "2025-10-05"
 dateModified: "2026-07-25"
 author: "Badreddine"
-tags: ["Christmas home decor ideas UK", "British Christmas decorating", "Christmas interior UK", "Christmas living room UK", "UK Christmas styling"]
+tags: ["Christmas home decor ideas UK", "christmas decorating ideas uk", "christmas decor uk", "British Christmas decorating", "Christmas interior UK", "Christmas living room UK", "UK Christmas styling"]
 featured: false
 category: "Living Room"
 readTime: "9 min read"

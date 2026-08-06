@@ -3,9 +3,9 @@ title: "Hallway Decor Ideas UK"
 description: "Transform a narrow British hallway with smart paint, slim furniture, mirrors, and renter-friendly ideas. UK retailers, real prices, practical order."
 image: "/images/pexels-1090638.jpg"
 datePublished: "2026-04-19"
-dateModified: "2026-07-25"
+dateModified: "2026-08-06"
 author: "Badreddine"
-tags: ["hallway decor ideas UK", "small hallway ideas UK", "hallway decorating UK", "British hallway", "entryway ideas UK"]
+tags: ["hallway decor ideas UK", "hallway decorating ideas uk", "hallway ideas uk", "hall design ideas uk", "narrow hallway ideas uk", "small hallway ideas UK", "hallway decorating UK", "British hallway", "entryway ideas UK"]
 featured: false
 category: "Room Makeovers"
 readTime: "8 min read"

@@ -5,7 +5,7 @@ image: "/images/pexels-2082090.jpg"
 datePublished: "2025-10-06"
 dateModified: "2026-07-25"
 author: "Badreddine"
-tags: ["winter cosy home ideas UK", "cosy home UK winter", "British winter home decor", "warm home UK", "winter living room UK"]
+tags: ["winter cosy home ideas UK", "winter home decor uk", "cosy winter living room", "cosy home UK winter", "British winter home decor", "warm home UK", "winter living room UK"]
 featured: false
 category: "Living Room"
 readTime: "9 min read"

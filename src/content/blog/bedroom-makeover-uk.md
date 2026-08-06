@@ -5,7 +5,7 @@ image: "/images/pexels-90317.jpg"
 datePublished: "2026-01-18"
 dateModified: "2026-07-25"
 author: "Badreddine"
-tags: ["bedroom makeover UK", "bedroom transformation UK", "bedroom decor UK", "bedroom refresh ideas UK"]
+tags: ["bedroom makeover UK", "bedroom makeover ideas", "bedroom transformation", "bedroom transformation UK", "bedroom decor UK", "bedroom refresh ideas UK"]
 featured: false
 category: "Room Makeovers"
 readTime: "8 min read"

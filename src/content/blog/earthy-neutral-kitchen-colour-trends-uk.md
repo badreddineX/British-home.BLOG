@@ -5,7 +5,7 @@ image: "/images/earthy-neutral-kitchen-cover.jpg"
 datePublished: "2026-07-15"
 dateModified: "2026-07-30"
 author: "Badreddine"
-tags: ["earthy neutral kitchen", "kitchen trends UK 2026", "budget", "two-tone kitchen", "renter-friendly decor"]
+tags: ["earthy neutral kitchen", "kitchen colour trends uk", "neutral kitchen ideas", "kitchen trends UK 2026", "budget", "two-tone kitchen", "renter-friendly decor"]
 featured: false
 category: "Room Makeovers"
 readTime: "8 min read"

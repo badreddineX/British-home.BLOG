@@ -3,9 +3,9 @@ title: "Small Living Room Layout Ideas UK"
 description: "How to arrange furniture in a tiny British lounge — layout principles, scale rules, and specific configurations for rooms under 15 square metres."
 image: "/images/pexels-6538933.jpg"
 datePublished: "2026-04-18"
-dateModified: "2026-07-25"
+dateModified: "2026-08-06"
 author: "Badreddine"
-tags: ["small living room layout ideas UK", "small lounge layout UK", "tiny living room UK", "furniture arrangement UK"]
+tags: ["small living room layout ideas UK", "small front room layouts", "small living room layouts", "ideas for small living rooms uk", "small lounge layout UK", "tiny living room UK", "furniture arrangement UK"]
 featured: false
 category: "Living Room"
 readTime: "8 min read"
@@ -24,6 +24,8 @@ faqs:
     a: "Not necessarily. Floating a sofa slightly away from the wall (10-15cm) actually makes many small rooms feel larger because it creates depth and makes the layout feel more intentional. Only push furniture to the wall if the room is too narrow to allow any gap."
   - q: "What furniture should I avoid in a small UK living room?"
     a: "Large L-shape sofas (they dominate the room), glass coffee tables (they reflect everything and create visual noise), tall bookcases on multiple walls (can make the room feel oppressive), and too many small pieces of furniture (five small items reads as more cluttered than two larger ones)."
+  - q: "How do I lay out a small front room?"
+    a: "A small front room follows the same rules as any small living room — the terms mean the same thing in most British homes. Identify the focal point, float the sofa slightly off the wall, and use one large rug to unify the seating area. Front rooms in Victorian and Edwardian terraces often have a chimney breast alcove on one side, which is usually the best spot for a media unit or bookcase rather than seating."
 ---
 
 

@@ -5,7 +5,7 @@ image: "/images/pexels-1648776.jpg"
 datePublished: "2026-03-25"
 dateModified: "2026-07-25"
 author: "Badreddine"
-tags: ["maximalist living room decor", "maximalist interior UK", "maximalist home decor UK", "bold living room UK", "eclectic living room UK"]
+tags: ["maximalist living room decor", "maximalist decor uk", "bold interior style uk", "maximalist interior UK", "maximalist home decor UK", "bold living room UK", "eclectic living room UK"]
 featured: false
 category: "Living Room"
 readTime: "8 min read"

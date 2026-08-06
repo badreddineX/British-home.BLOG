@@ -5,7 +5,7 @@ image: "/images/pexels-3356416.jpg"
 datePublished: "2026-04-01"
 dateModified: "2026-05-15"
 author: "Badreddine"
-tags: ["dark moody home decor UK", "dark interior design UK", "dark walls UK", "moody living room", "dark paint colours UK"]
+tags: ["dark moody home decor UK", "moody home decor ideas", "dark academia home decor", "dark interior design UK", "dark walls UK", "moody living room", "dark paint colours UK"]
 featured: false
 category: "Room Makeovers"
 readTime: "9 min read"

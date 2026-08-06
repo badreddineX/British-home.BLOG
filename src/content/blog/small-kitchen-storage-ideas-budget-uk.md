@@ -5,7 +5,7 @@ image: "/images/kitchen-open-shelving.jpg"
 datePublished: "2026-07-13"
 dateModified: "2026-07-27"
 author: "Badreddine"
-tags: ["small kitchen storage ideas uk", "budget kitchen organisation uk", "cheap kitchen storage solutions uk", "kitchen storage UK"]
+tags: ["small kitchen storage ideas uk", "small kitchen storage solutions", "budget kitchen storage ideas", "budget kitchen organisation uk", "cheap kitchen storage solutions uk", "kitchen storage UK"]
 featured: false
 category: "Kitchen"
 readTime: "7 min read"

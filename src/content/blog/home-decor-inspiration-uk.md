@@ -5,7 +5,7 @@ image: "/images/pexels-1648768.jpg"
 datePublished: "2025-11-23"
 dateModified: "2026-07-25"
 author: "Badreddine"
-tags: ["home decor inspiration UK", "UK interior design ideas", "British home decor", "interior inspiration UK", "home styling UK"]
+tags: ["home decor inspiration UK", "home decor ideas uk", "interior design inspiration uk", "UK interior design ideas", "British home decor", "interior inspiration UK", "home styling UK"]
 featured: false
 category: "Room Makeovers"
 readTime: "8 min read"

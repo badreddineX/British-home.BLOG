@@ -5,7 +5,7 @@ image: "/images/kitchen-subway-tile-splashback.jpg"
 datePublished: "2026-06-18"
 dateModified: "2026-07-27"
 author: "Badreddine"
-tags: ["cheap kitchen splashback ideas uk", "peel and stick tiles kitchen uk", "budget kitchen tile alternatives", "kitchen splashback UK"]
+tags: ["cheap kitchen splashback ideas uk", "kitchen splashback ideas uk", "budget tile ideas uk", "peel and stick tiles kitchen uk", "budget kitchen tile alternatives", "kitchen splashback UK"]
 featured: false
 category: "Kitchen"
 readTime: "7 min read"

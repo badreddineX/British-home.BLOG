@@ -5,7 +5,7 @@ image: "/images/kitchen-marble-island-worktop.jpg"
 datePublished: "2026-07-06"
 dateModified: "2026-07-27"
 author: "Badreddine"
-tags: ["cheap kitchen worktop ideas uk", "laminate worktop wrap", "budget kitchen countertop uk", "worktop makeover UK"]
+tags: ["cheap kitchen worktop ideas uk", "budget kitchen worktop uk", "cheap worktop ideas", "laminate worktop wrap", "budget kitchen countertop uk", "worktop makeover UK"]
 featured: false
 category: "Kitchen"
 readTime: "7 min read"

@@ -5,7 +5,7 @@ image: "/images/bathroom-storage-baskets-shelf.jpg"
 datePublished: "2026-04-23"
 dateModified: "2026-07-25"
 author: "Badreddine"
-tags: ["small bathroom storage UK", "bathroom storage ideas UK", "renter-friendly bathroom UK", "no drill storage UK"]
+tags: ["small bathroom storage UK", "small bathroom storage ideas uk", "bathroom storage solutions uk", "bathroom storage ideas UK", "renter-friendly bathroom UK", "no drill storage UK"]
 featured: false
 category: "Room Makeovers"
 readTime: "8 min read"

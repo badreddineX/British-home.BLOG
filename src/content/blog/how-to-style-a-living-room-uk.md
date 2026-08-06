@@ -5,7 +5,7 @@ image: "/images/pexels-2082087.jpg"
 datePublished: "2025-10-07"
 dateModified: "2026-07-25"
 author: "Badreddine"
-tags: ["how to style a living room UK", "living room styling tips UK", "living room layout UK", "living room decor UK", "British interior styling"]
+tags: ["how to style a living room UK", "living room styling ideas", "how to decorate a living room uk", "living room styling tips UK", "living room layout UK", "living room decor UK", "British interior styling"]
 featured: false
 category: "Living Room"
 readTime: "9 min read"

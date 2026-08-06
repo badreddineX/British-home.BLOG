@@ -5,7 +5,7 @@ image: "/images/pexels-4273433.jpg"
 datePublished: "2025-12-14"
 dateModified: "2026-07-25"
 author: "Badreddine"
-tags: ["cottagecore home decor UK", "cottagecore interior UK", "British cottagecore", "cottagecore living room", "vintage home decor UK"]
+tags: ["cottagecore home decor UK", "cottagecore decor ideas", "cottagecore style uk", "cottagecore interior UK", "British cottagecore", "cottagecore living room", "vintage home decor UK"]
 featured: false
 category: "Living Room"
 readTime: "9 min read"

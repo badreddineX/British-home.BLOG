@@ -5,7 +5,7 @@ image: "/images/pexels-5825578.jpg"
 datePublished: "2025-10-02"
 dateModified: "2025-10-02"
 author: "Badreddine"
-tags: ["cosy autumn home decor ideas", "autumn home decor UK", "autumn interior ideas UK", "autumnal home decor", "autumn living room UK"]
+tags: ["cosy autumn home decor ideas", "autumn decorating ideas", "fall home decor uk", "autumn home decor UK", "autumn interior ideas UK", "autumnal home decor", "autumn living room UK"]
 featured: false
 category: "Living Room"
 readTime: "8 min read"

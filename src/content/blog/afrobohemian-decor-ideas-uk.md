@@ -5,7 +5,7 @@ image: "/images/pexels-1090638.jpg"
 datePublished: "2026-07-30"
 dateModified: "2026-07-30"
 author: "Badreddine"
-tags: ["Afrobohemian decor UK", "global-inspired decor", "budget home decor", "renter-friendly"]
+tags: ["Afrobohemian decor UK", "global decor ideas uk", "eclectic decor uk", "global-inspired decor", "budget home decor", "renter-friendly"]
 featured: false
 category: "Room Makeovers"
 readTime: "8 min read"

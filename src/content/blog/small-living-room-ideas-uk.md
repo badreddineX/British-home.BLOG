@@ -5,7 +5,7 @@ image: "/images/pexels-276583.jpg"
 datePublished: "2025-12-08"
 dateModified: "2026-07-25"
 author: "Badreddine"
-tags: ["small living room ideas UK", "small living room UK", "small flat living room", "living room ideas small space", "compact living room UK"]
+tags: ["small living room ideas UK", "small flat living room ideas", "small lounge ideas uk", "small living room UK", "small flat living room", "living room ideas small space", "compact living room UK"]
 featured: false
 category: "Living Room"
 readTime: "8 min read"

@@ -5,7 +5,7 @@ image: "/images/kitchen-wood-floor-open-plan.jpg"
 datePublished: "2026-06-01"
 dateModified: "2026-07-27"
 author: "Badreddine"
-tags: ["cheap kitchen flooring ideas uk", "click vinyl flooring kitchen uk", "budget kitchen floor over lino", "kitchen flooring UK", "diy kitchen flooring"]
+tags: ["cheap kitchen flooring ideas uk", "budget kitchen flooring", "cheap kitchen floor uk", "click vinyl flooring kitchen uk", "budget kitchen floor over lino", "kitchen flooring UK", "diy kitchen flooring"]
 featured: false
 category: "Kitchen"
 readTime: "7 min read"

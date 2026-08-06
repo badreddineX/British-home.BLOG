@@ -5,7 +5,7 @@ image: "/images/pexels-3757055.jpg"
 datePublished: "2026-01-20"
 dateModified: "2026-07-25"
 author: "Badreddine"
-tags: ["Victorian terrace interior ideas", "Victorian house interior UK", "period home decor UK", "Victorian terrace decor", "British period interior"]
+tags: ["Victorian terrace interior ideas", "interior design victorian terrace", "victorian terrace decor ideas", "period property interior ideas", "Victorian house interior UK", "period home decor UK", "Victorian terrace decor", "British period interior"]
 featured: false
 category: "Room Makeovers"
 readTime: "9 min read"

@@ -5,7 +5,7 @@ image: "/images/pexels-1643383.jpg"
 datePublished: "2025-12-12"
 dateModified: "2026-07-25"
 author: "Badreddine"
-tags: ["rented flat makeover UK", "rental makeover UK", "rented home decor UK", "tenant home decor UK"]
+tags: ["rented flat makeover UK", "rented flat ideas uk", "renter decor ideas uk", "rental makeover UK", "rented home decor UK", "tenant home decor UK"]
 featured: false
 category: "Room Makeovers"
 readTime: "9 min read"

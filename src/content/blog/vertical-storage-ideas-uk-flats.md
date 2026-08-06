@@ -7,7 +7,7 @@ image: "/images/bathroom-storage-baskets-shelf.jpg"
 datePublished: "2026-08-03"
 dateModified: "2026-08-03"
 author: "Badreddine"
-tags: ["vertical storage UK", "small flat storage", "budget", "renter-friendly decor"]
+tags: ["vertical storage UK", "vertical storage ideas uk", "wall storage small flat", "small flat storage", "budget", "renter-friendly decor"]
 featured: false
 category: "Room Makeovers"
 readTime: "8 min read"
