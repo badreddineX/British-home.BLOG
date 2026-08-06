@@ -1,7 +1,7 @@
 ---
 title: "Bathroom Colour Ideas UK 2026"
 description: "The best paint and tile colours for British bathrooms — warm neutrals, sage green, and moody tones with UK retailer picks from Dulux, Farrow & Ball, and B&Q."
-image: "/images/hallway-geometric-tiles.jpg"
+image: "/images/cosy-bedroom-diffuser-lamp.jpg"
 datePublished: "2026-08-06"
 dateModified: "2026-08-06"
 author: "Badreddine"
