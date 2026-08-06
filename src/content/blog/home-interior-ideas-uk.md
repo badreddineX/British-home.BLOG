@@ -1,7 +1,7 @@
 ---
 title: "Home Interior Ideas UK"
 description: "Room-by-room British home interior ideas for UK homeowners and renters — light, colour, texture, and personal touches that make your space feel genuinely yours."
-image: "/images/cosy-bedroom-diffuser-lamp.jpg"
+image: "/images/pexels-1571460.jpg"
 datePublished: "2025-10-22"
 dateModified: "2026-07-25"
 author: "Badreddine"
