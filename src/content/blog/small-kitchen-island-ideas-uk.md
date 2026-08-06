@@ -48,7 +48,7 @@ If your base isn’t quite island-worthy, give it a veneer. Contact paper isn’
 
 ## 4. Add Storage with Tension Rods & Hooks
 
-Vertical space is wasted in most flat kitchens. Install tension rods (~£8 for 2m at Dunelm) under your island’s shelf or counter edge and hang aprons, tea towels, or utensil tongs. I added a second rod below the main one for my colanders — they’re out of the way but never lost. For even cleverer storage, mount a thin floating shelf (~B&Q, ~£6 for 60cm) above the island and clip on magnetic knife strips (~£7 at Next Home). The magnetic strip sticks to the underside — no glue or nails — and holds six chef-grade knives without budge.
+Vertical space is wasted in most flat kitchens. Install tension rods (~£8 for 2m at Dunelm) under your island’s shelf or counter edge and hang aprons, tea towels, or utensil tongs. I added a second rod below the main one for my colanders — they’re out of the way but never lost. [PERSONAL EXPERIENCE] For the island's end panel, I screwed on a row of copper S-hooks (~£3 for 6 at Dunelm) to hang pan lids and a chopping board vertically — it turns dead vertical furniture space into a second storage zone the island wouldn't otherwise have.
 
 ## 5. Fold-Down Tops for Extra Prep Space
 
@@ -74,9 +74,9 @@ A kitchen island without seating is just a shelf. For renter-ready seating, go f
 
 ![Fold-down stool mounted on the wall beside a minimalist kitchen island](/images/kitchen-white-cabinets.jpg)
 
-## 10. Use Under-Sink Space with a Pull-Out Tray
+## 10. Can You Add a Slide-Out Bin to the Island Itself?
 
-If your kitchen has a narrow gap beneath a unit (say, next to the sink), build or buy a pull-out tray. Dunelm sells ready-made under-sink carts (~£35), but a DIY option is cheaper: fix a sliding runner (~£8 for 60cm at B&Q) to a piece of plywood and attach a wooden handle. Slide it in, load it with cleaning sprays or sponges, and seal the front with removable adhesive edging for a finished look your landlord will accept. It also works well for hiding a small compost caddy, with no smell and no mess.
+Yes — mounting a slide-out bin or recycling drawer inside your island's base turns it from a prep surface into a genuine waste-management hub, which most flat kitchens lack entirely. Fit a bracket-mounted bin holder (Wayfair UK, ~£16) to the inside of a cart or trolley frame and hang a standard 20-litre bin liner from it. [UNIQUE INSIGHT] Most island guides treat the base purely as storage for cookware, but in a shared or one-cook flat, giving the island a dedicated bin location means you're not crossing the kitchen mid-prep to bin peelings, which matters more in a 6m² galley than extra shelf space does. Choose a bin holder rated for your trolley's shelf depth (most fit 30–35cm) so it doesn't rock when the island's wheels are moved.
 
 ## 11. Paint & Pattern — Personality Without Permanence
 

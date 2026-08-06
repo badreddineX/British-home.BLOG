@@ -62,15 +62,15 @@ Full layered bedding setup (duvet cover, flat sheet, euro pillows, throw) — fr
 
 ---
 
-## 2. How Do You Fix Bad Bedroom Lighting?
+## 2. How Do You Actually Swap Out Bad Bedroom Lighting?
 
-Overhead lighting in a bedroom is almost always a mistake. A single ceiling bulb provides flat, harsh light from above — the exact opposite of restful. Two bedside lamps at 2700K warm white cost under £50 total and change the atmosphere of the room completely.
+Overhead-only lighting is the fastest thing to fix in a makeover because it needs no tools beyond a plug socket. Two bedside lamps at 2700K warm white cost under £50 total from Next Home and replace the single ceiling bulb as the room's main evening light source.
 
-Two 2700K bedside lamps cost under £50 total and, per a 2023 University of Oxford study, dimming light before bed can improve sleep onset time by 14 minutes.
+The swap itself takes about twenty minutes: position a lamp on each side of the bed, run the cables discreetly along the skirting board or behind the headboard, and fit a smart plug (from £8) if you want to schedule them to switch on automatically at dusk. No electrician and no rewiring are needed for a plug-in lamp swap.
 
-Research from the University of Oxford (2023) found that reducing light intensity two hours before bed improved average sleep onset time by 14 minutes. Bedside lamps set to 2700K warm white create the amber, low-level light that supports the body's natural wind-down process. Anything cooler than 2700K — which includes most standard bulbs sold in UK supermarkets — keeps the brain in alert mode.
+Do this step before buying anything else structural. It's the cheapest, fastest change on the list, and it means you'll be assessing every later decision, paint colour, curtains, rug, under warm evening light rather than the ceiling bulb that's about to be retired anyway.
 
-The overhead light doesn't need to go permanently. It's useful for getting dressed, cleaning, and finding things. But after 8pm, turn it off and let the bedside lamps do the work. This costs nothing extra once you have the lamps.
+For the research on why warm, lower lighting changes how a bedroom feels in the evening, see our [cosy bedroom ideas guide](/blog/cosy-bedroom-ideas-uk/).
 
 Two bedside lamps at 2700K warm white — from £25 each at Next Home.
 
@@ -135,31 +135,27 @@ Full-length leaning mirror — from £35 at IKEA or Dunelm.
 ---
 
 
-## 7. What Size Rug Should You Use Beside the Bed?
+## 7. Should You Check the Floor Before You Buy Anything Else?
 
-The rug in a bedroom has a different job from a living room rug. Its primary function is sensory — the underfoot feeling when you get out of bed in the morning. Its secondary function is to anchor the bed visually and make the sleeping zone feel defined.
+A bigger makeover means looking under the rug question entirely: what condition is the actual floor in? Around 60% of UK homes built before 1980 have original floorboards under carpet or old vinyl, and a genuine transformation often means dealing with the floor itself before adding soft furnishings on top of it.
 
-The correct rug size for a UK double bed is 160x230cm, extending at least 60cm beyond the sides of the bed, with deep-pile options from £45 at Dunelm.
+If the floorboards are sound, sanding and sealing them costs roughly £15–£25 per square metre for a DIY hire-sander job, versus £30–£45 per square metre for a professional finish, and gives a bedroom a completely different base to style from. If they're not worth exposing, a budget carpet or vinyl click-flooring from Carpetright or B&Q runs from £12–£20 per square metre.
 
-The most common rug mistake in UK bedrooms is buying one that's too small. A rug that only extends a few centimetres past the bed looks like an afterthought. The correct size for a UK double bed is 160x230cm; for a king, 200x290cm. The rug should extend at least 60cm beyond the sides of the bed and show clearly at the foot.
+[PERSONAL EXPERIENCE] I skipped this step on my first bedroom makeover and regretted it. I'd already bought a new rug and repositioned the furniture before noticing the vinyl underneath was lifting at the seams. Doing the floor check first would have saved a wasted rug purchase.
 
-Material matters here more than in any other room. A soft, deep-pile rug beside the bed is experienced through bare feet at 7am on a cold January morning. Buy the softest version within your budget, not the most visually interesting one. Dunelm has deep-pile bedroom rugs from approximately £45.
-
-Deep-pile bedroom rug (160x230cm) — from £45 at Dunelm.
+Once the base is sorted, choosing the actual rug on top of it is a styling decision. See our [bedroom decor ideas guide](/blog/bedroom-decor-ideas-uk/) for how to size and colour-match one to the room.
 
 ---
 
-## 8. Create a Headboard (or Add One)
+## 8. Where Does the Headboard Fit in Your Makeover Timeline?
 
-A bed without a headboard looks unfinished — it's a mattress that happened to end up there rather than a considered sleeping space. The headboard is the visual anchor of the bedroom. It gives the bed a sense of permanence and intention that nothing else achieves in the same way.
+The headboard should be one of the last purchases in a makeover, not one of the first. It's tempting to buy it early because it feels like the "big" item, but its colour and fabric need to respond to the paint (step 4) and the finished rug, not the other way round.
 
-An upholstered headboard starts at £85 from IKEA, while a DIY MDF-and-fabric version achieves a similar look for £40–£60 in materials.
+Once the wall behind the bed is painted and the rug is down, decide whether you're improving the existing headboard or adding one from scratch. Budget £40–£120 depending on the route, DIY panel through to a ready-made upholstered option, and see our [bedroom decor ideas guide](/blog/bedroom-decor-ideas-uk/) for the specific materials, prices, and styling detail.
 
-If you already have a headboard, this step is about improving the wall behind it: a painted feature wall (see step 4), a piece of framed art hung at the right height, or a length of fabric pinned behind the bed. If you don't have one, IKEA's upholstered headboards start at around £85 and are genuinely good quality.
+If you're on a tight sequence and short on time, a temporary fix (leaning a large framed print against the wall where the headboard will go) lets you finish the rest of the makeover and add the headboard as a separate weekend project later.
 
-For a budget alternative: a piece of MDF cut to size, wrapped in wadding and fabric, and hung with picture hooks makes a convincing DIY upholstered headboard for £40–£60 in materials. The result looks considerably more expensive than it is. Off-cut velvet from a fabric warehouse is the best material for this.
-
-Upholstered headboard — from £85 at IKEA. DIY version from approximately £40 in materials.
+Headboard budget line — £40–£120, added after paint and rug are finished.
 
 ---
 
@@ -212,45 +208,39 @@ Wicker storage baskets to hide clutter — from £8 each at Dunelm.
   </svg>
 </figure>
 
-## 10. How Do You Style a Bedside Table?
+## 10. Should Your Bedside Tables Match?
 
-A bedside table covered in whatever landed there — phone charger, empty glasses, receipts, half-finished books, hand cream, an old mug — signals that the bedroom is a space you've given up on. A bedside table styled with intent signals the opposite.
+A makeover is a good moment to check whether your bedside tables are actually a pair, since mismatched heights and styles are one of the most common reasons a redone bedroom still looks unfinished. Two identical (or deliberately matched) tables either side of the bed create the symmetry that step 3's furniture rearrange was aiming for.
 
-The three-object rule — one lamp, one medium-height item, one low item — keeps a bedside table styled rather than cluttered, with ceramic lamps from £25 at Next Home.
+Matching second-hand or flat-pack bedside tables from IKEA or Dunelm cost £35–£60 each, and buying (or repainting) a matching pair is cheaper than most people expect, since a mismatched pair often already exists from two different house moves.
 
-The formula is simple: three objects, three heights. One lamp (tall). One small plant, candle, or ornamental object (medium height). One book or small ceramic tray (low). Everything else goes in the drawer. The phone charges out of sight.
+If a genuine pair isn't in the budget, paint two different tables the same colour, or add matching drawer handles to both, so they read as a set even if the shapes differ slightly. This is a five-minute fix with a tin of paint you likely already bought for step 4.
 
-The lamp does the most work visually, so choose one with some character. Ceramic bases in warm terracotta, earthy beige, or brushed brass all look excellent against the neutral and warm-toned walls that work best in UK bedrooms. Next Home has an excellent range from £25 each.
-
-Ceramic bedside lamp — from £25 at Next Home. Three-object rule: lamp, plant or candle, one book.
+For the styling detail on what to put on top of each table once they match, see our [bedroom decor ideas guide](/blog/bedroom-decor-ideas-uk/).
 
 ---
 
-## 11. Add a Throw (the Right Kind)
+## 11. Add Under-Bed Storage While the Bed Is Already Moved
 
-A throw is not just decorative — it's the element that makes a bed look styled rather than simply made. Folded across the lower third of the bed, it adds a layer of visible texture, brings in a secondary colour or material, and creates the impression of a bed that has been thoughtfully put together.
+Step 3's furniture rearrange is the ideal moment to sort storage, because the bed is already pulled away from the wall and easy to access underneath. Fitting under-bed storage boxes now avoids a second disruption later once everything else is finished and styled.
 
-A wool-mix throw costs from £28 at Next Home or £35 for full wool at John Lewis, and its natural drape reads as considered in a way synthetic throws don't.
+Clear stackable under-bed boxes from Dunelm cost £8–£15 each and typically fit two to three per side of a UK double bed, giving you extra storage for out-of-season bedding or clothes without adding a single piece of visible furniture.
 
-The material matters considerably more here than in a living room throw. Natural fibres — wool, cashmere-mix, waffle cotton — have a drape and weight that acrylic and polyester simply don't replicate. In person, the difference is immediately noticeable. A synthetic throw looks good in a photograph; a wool throw looks and feels better in the room itself.
+If your bed frame doesn't clear enough height for boxes, bed risers (from £12 for a set of four at Amazon UK) add 10–15cm of clearance without needing a new frame. This is a genuinely load-bearing step in a makeover: it's the point where you decide whether storage is handled invisibly or ends up back on visible surfaces later.
 
-John Lewis has excellent wool throws from approximately £35. Next Home's faux mohair range from £28 is a solid mid-range option. Chunky knit throws in natural tones or sage green work particularly well in UK bedroom colour schemes.
-
-Wool-mix throw — from £28 at Next Home, or from £35 for wool at John Lewis.
+Under-bed storage boxes (set of 2–3) — from £8–£15 each at Dunelm.
 
 ---
 
-## 12. How Can Scent Improve Your Bedroom?
+## 12. Set a Budget and a Timeline Before You Start Buying
 
-Scent is processed by the limbic system — the part of the brain associated with memory and emotion — which is why a bedroom that smells good feels genuinely different to one that merely looks good. The right scent actively supports the transition from wakefulness to rest.
+The step most makeovers skip is deciding, upfront, what order things get bought in and what the total spend is capped at. Without a sequence, it's easy to buy the headboard first (the "exciting" item) and run out of budget before the paint and lighting that actually change how the room feels.
 
-A 2015 study in the Journal of Alternative and Complementary Medicine found lavender aromatherapy improved sleep quality by 14%, and a £19 pillow spray from John Lewis delivers this consistently.
+A realistic phased plan: week one covers bedding, lighting, and furniture rearrangement (£100–£180 combined); week two or three covers paint, mirror, and flooring or rug (£100–£250 depending on flooring condition); the headboard and any remaining styling come last, once you can see what the room still needs.
 
-A 2015 study published in the *Journal of Alternative and Complementary Medicine* found that lavender aromatherapy improved sleep quality by 14% compared with a control group. This Works Deep Sleep Pillow Spray (approximately £19 from John Lewis) delivers this consistently and earns its reputation as the most recommended sleep-support product in UK bedrooms.
+[UNIQUE INSIGHT] Most bedroom makeover guides list changes purely by visual impact. In practice, sequencing by "what needs the room to be otherwise empty" (paint, flooring) before "what needs the room to be otherwise finished" (headboard, art) avoids redoing steps or buying items that clash with a colour chosen later.
 
-The wider principle: a bedroom that smells the same way every night becomes neurologically associated with sleep. A reed diffuser on the bedside table or a beeswax candle burned for 30 minutes then extinguished achieves this conditioning over time.
-
-This Works Deep Sleep Pillow Spray — £19 from John Lewis.
+Setting a hard total budget before buying anything also protects against the most common overspend: replacing an item twice because the first purchase didn't match a decision made afterwards.
 
 ---
 
@@ -281,11 +271,11 @@ Not everyone has the budget or time to work through all 13 changes at once. Here
 | 5 | Paint one feature wall behind the bed | £20–£35 |
 | 6 | Add a full-length leaning mirror | £30–£60 |
 | 7 | Hang blackout curtains near the ceiling | £35–£80 |
-| 8 | Add a deep-pile rug the correct size | £45–£120 |
-| 9 | Add a headboard or improve the wall behind the bed | £40–£120 |
-| 10 | Style bedside table with three-object rule | £10–£30 |
-| 11 | Add a natural-fibre throw | £28–£45 |
-| 12 | Introduce a sleep-supportive scent | £8–£19 |
+| 8 | Check flooring condition before buying a rug | £12–£45 per m² |
+| 9 | Add a headboard once paint and rug are finished | £40–£120 |
+| 10 | Match or repaint bedside tables as a pair | £0–£60 |
+| 11 | Fit under-bed storage while the bed is moved | £8–£15 per box |
+| 12 | Set your total budget and buying sequence | Free |
 | 13 | Add one personal element to a wall | £15–£30 |
 
 The first four changes on this list cost between nothing and £80 and produce the most immediate visual transformation. Start there.

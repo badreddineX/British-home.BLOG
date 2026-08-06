@@ -46,7 +46,7 @@ Cosiness in a bedroom comes down to seven core elements: lighting, layered beddi
 > - Most meaningful cosiness upgrades cost under £50 per element
 > - Deep or warm paint colours outperform stark white in the UK's grey natural light
 
-Read more: [bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk/)
+Read more: [bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/)
 
 ---
 
@@ -187,11 +187,11 @@ Scent works best when it's consistent. Use the same scent every night and the br
 
 A bed without a headboard looks like a mattress on legs. The headboard gives the bed an anchor point, makes the room feel more considered, and provides somewhere comfortable to sit while reading or scrolling. It's the single furniture item with the most visual impact in a bedroom.
 
-A DIY fabric headboard panel costs under £40 in materials, while ready-made options range from IKEA's HAUGA at £55–£75 up to John Lewis's button-back designs from £120 — a spread that puts the look within reach of any budget.
+For cosiness specifically, the fabric matters more than the shape or the budget: boucle, velvet, and linen all absorb sound and soften the room in a way a hard headboard can't, and ready-made options range from IKEA's HAUGA at £55–£75 up to John Lewis's button-back designs from £120.
 
-IKEA's HAUGA upholstered headboard fits standard double and king frames and costs £55–£75. John Lewis's own-range button-back headboards start at £120 and look significantly more expensive than they are. For renters, a freestanding headboard panel leant against the wall or fixed with Command strips is fully deposit-safe. A fabric panel made from a length of upholstery fabric and a sheet of MDF costs under £40 in materials and can be completed in an afternoon.
+IKEA's HAUGA upholstered headboard fits standard double and king frames and costs £55–£75. John Lewis's own-range button-back headboards start at £120 and look significantly more expensive than they are. If you already own a hard headboard, a loose fabric slipcover (from £25 at Dunelm, sized to most standard frames) adds the same acoustic softening without replacing the frame.
 
-Upholstered headboards in boucle, velvet, or linen absorb sound and add warmth. Wooden or metal headboards look smart but feel harder and cooler. For a cosy bedroom, fabric wins.
+Upholstered headboards in boucle, velvet, or linen absorb sound and add warmth. Wooden or metal headboards look smart but feel harder and cooler. For a cosy bedroom, fabric wins. For DIY build options and pricing, see our [bedroom decor ideas guide](/blog/bedroom-decor-ideas-uk/).
 
 ---
 
@@ -209,17 +209,15 @@ The chair needs a lamp beside it. A chair in the dark is not a reading corner. P
 
 ---
 
-## Hang Curtains at Ceiling Height
+## Should You Layer a Sheer Panel Behind the Blackout Curtain?
 
-We touched on this with blackout curtains, but it deserves its own entry because the impact is so consistently underestimated. Hanging curtains at or near ceiling height — rather than just above the window frame — adds a sense of height and grandeur to even the most ordinary UK bedroom. It's one of the oldest tricks in interior design and still one of the most effective.
+A blackout curtain alone gives you one lighting mode: fully closed and dark, or fully open. A sheer panel hung on a second track behind it gives you a middle setting, filtered, diffused daylight, that a lot of the cosiest-feeling bedrooms actually rely on more than either extreme.
 
-The reason it works psychologically is that vertical lines draw the eye upward, which increases the perceived volume of a room. A 2.4m ceiling feels like a 3m ceiling when the curtains run from cornice to floor. This is especially valuable in older UK properties, where ceilings in upstairs rooms are often lower than in ground-floor reception rooms.
+A double curtain track (blackout plus sheer) from Dunelm costs £15–£25 on top of the curtains themselves, and closing just the sheer layer on a bright morning softens hard daylight into the kind of warm, diffused glow that makes a room feel gentle rather than starkly lit.
 
-A ceiling-height curtain rod costs just £12–£18 at Dunelm, making it one of the cheapest changes on this list for the amount of perceived height it adds to a room.
+[UNIQUE INSIGHT] Most cosy-bedroom advice treats curtains as a single binary choice, blackout or nothing. In practice, the sheer layer is doing the atmospheric work during the hours you're actually awake in the room, while the blackout layer only matters while you're asleep with your eyes shut.
 
-A ceiling-height curtain rod from Dunelm costs £12–£18 in most lengths. Install it with wall anchors, not just plaster fixings, and it'll hold for years. The curtains themselves should be long enough to just touch the floor — not pool dramatically, not hover two inches above. Touching is the sweet spot.
-
-If you currently have blinds inside the window recess, adding floor-length curtains outside the recess as well completely transforms how the window reads in the room. Both serve a function; the curtains change the scale.
+Linen-look sheer panels in warm ivory or soft taupe (rather than stark white) keep the tone consistent with the rest of a warm-toned bedroom. Dunelm and Next Home both stock these from £12 per panel.
 
 ---
 
@@ -284,7 +282,7 @@ Not everyone has the time or budget to implement all fourteen ideas at once. Her
 | 9 | Add a weighted blanket | £35–£90 | Medium |
 | 10 | Introduce a scent ritual | £15–£28 | Medium |
 | 11 | Add a headboard | £55–£195 | Medium |
-| 12 | Raise curtain rod to ceiling height | £12–£18 | High |
+| 12 | Add a sheer panel behind the blackout curtain | £12–£25 | High |
 | 13 | Add texture (cushions, throws, rugs) | £20–£60 | Medium |
 | 14 | Add a reading corner chair | £45–£195 | Medium |
 
