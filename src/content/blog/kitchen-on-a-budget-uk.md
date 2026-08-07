@@ -108,31 +108,11 @@ A new monobloc tap from B&Q or Screwfix starts at £45 and is one of the most no
 
 ---
 
-## Regrout the Tile Splashback
+## What Should You Do About the Splashback?
 
-If you have an existing tile splashback, there's a reasonable chance the grout has gone grey or brown. Regrout it. A tube of Mapei Ultracolor Plus grout (around £7–£9 at Wickes or Screwfix) is enough for a standard splashback area. Pair it with a £3 tube of grout rake from Amazon.
+A tired grout line or a bare wall behind the hob are both quick, cheap fixes — regrouting an existing tile splashback runs under £15 in materials, and a peel-and-stick tile sheet covers a bare wall for £25–£45 with no tools or adhesive needed. Either takes an afternoon.
 
-A tube of Mapei Ultracolor Plus grout costs £7–£9, and combined with a £3 grout rake, the total materials cost for a full splashback regrout comes to under £15.
-
-The process is straightforward: rake out 3–5mm of the old grout with the tool, vacuum the dust, mix and apply fresh grout with a float, wipe clean after 20 minutes. The total job takes about three hours. The result looks like a brand new tiled surface at a cost of under £15.
-
-White grout on white tiles looks cleaner. Anthracite grout on metro tiles has become a classic UK kitchen look. Both are easy to find at Wickes or B&Q.
-
-Regrout costs under £15 in materials and gives a tiled splashback a completely new appearance in a single afternoon.
-
----
-
-## Do Peel-and-Stick Splashback Tiles Actually Work?
-
-If you don't have a splashback at all, or you have bare wall behind the hob, peel-and-stick tile sheets are the budget solution that actually works. Brands like Crearreda and Vinyltiles sell A4 and A3 peel-and-stick panels that mimic metro tile, geometric patterns, and even marble. A full splashback area costs £25–£45 from Amazon UK or Dunelm.
-
-A full peel-and-stick splashback from Crearreda or Vinyltiles costs £25–£45 from Amazon UK or Dunelm and needs no tools, adhesive, or grout to install.
-
-I was sceptical about peel-and-stick tiles until I used them on a small section behind a gas hob. Two years later, they're still firmly in place, and visitors consistently ask which tile shop I used. The key is to start on a perfectly flat, grease-free surface and use a credit card to press out every air bubble.
-
-They're not a permanent solution. Heat from a hob can cause edges to lift over time if you don't leave a small gap. But for renters or anyone not ready to commit to real tiling, they're genuinely effective.
-
-Peel-and-stick splashback tile sheets cost £25–£45 for a standard area and require no tools, no adhesive, and no mess.
+Full breakdown of both options, product picks, and step-by-step application: [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk).
 
 ---
 
@@ -191,11 +171,9 @@ Two tins of Dulux Kitchen Matt at around £40 total changes the entire atmospher
 
 ## Should You Replace or Wrap the Worktop?
 
-Replacing a laminate worktop is more involved than most of the upgrades on this list, but laminate offcuts are sold at Wickes and B&Q for as little as £20–£50 per section if you buy remnants. A standard run of worktop (3 metres) costs around £45–£90 in laminate, plus around £30 for fitting kit and jigsaw blades if you're doing it yourself — putting a full DIY worktop swap under £120 in most cases.
+A full DIY worktop swap in laminate can come in under £120 for a standard 3-metre run, and wrap film is a cheaper still option from around £20–£30 a roll if replacement feels too ambitious.
 
-If full replacement feels too ambitious, worktop wrap film (self-adhesive vinyl designed for flat worktop surfaces) is available from Dunelm and Amazon. A 1.5m x 0.9m roll costs around £20–£30 and can convincingly mimic marble or concrete. It won't fool anyone on close inspection, but from a metre away in normal lighting, the effect is solid.
-
-For solid wood worktop fans, B&Q sells Junckers and own-brand oak worktops from around £70 for a 3m x 600mm section. They require oiling twice yearly but genuinely improve a kitchen's quality feel more than almost anything else at this price.
+Full cost breakdown by material (laminate, wrap film, solid wood) and fitting steps: [Budget Kitchen Worktop Makeover Ideas UK](/blog/budget-kitchen-worktop-makeover-uk).
 
 ---
 
@@ -234,13 +212,9 @@ Pair a new sink with the tap upgrade from point four and you've replaced the ent
 
 ## Paint or Tile the Floor
 
-Kitchen floors in UK homes are frequently sheet vinyl or ceramic tile from a decade or more ago. Sheet vinyl can be painted with specialist floor paint — Rust-Oleum Chalked Floor Paint costs around £22 for 887ml at Amazon — though this is a short-term fix that works best in low-traffic areas.
+Dated sheet vinyl or ceramic tile can be refreshed with specialist floor paint for a short-term fix, or replaced with peel-and-stick vinyl tiles — £50–£90 for a standard 3m x 3m kitchen floor, no adhesive needed, and renter-removable.
 
-Peel-and-stick vinyl floor tiles are a better option for larger areas. ClickFix and Plank and Mill both sell self-adhesive luxury vinyl tiles on Amazon UK from around £1.50–£2.50 per tile, bringing a standard 3m x 3m kitchen floor to £50–£90 in materials. They don't require adhesive, go directly over an existing smooth floor, and are renter-removable if you lift them carefully.
-
-Real ceramic tile is the most durable option but requires more commitment. B&Q sells plain white metro floor tiles from around £8 per square metre. Factor in adhesive, grout, and a tile cutter hire (about £25 per day from most tool hire shops).
-
-Peel-and-stick vinyl floor tiles from Amazon UK cost £50–£90 for a standard kitchen floor and go directly over most existing smooth floors.
+Full options including real ceramic tile and fitting costs: [Budget Kitchen Flooring Ideas UK](/blog/budget-kitchen-flooring-ideas-uk).
 
 ---
 
