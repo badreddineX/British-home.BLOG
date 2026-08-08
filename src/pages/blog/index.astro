@@ -132,7 +132,23 @@ function fmtDate(d: string) {
         </div>
 
         <p class="no-posts-msg" id="no-posts-msg" hidden>No articles found — try a different search or category.</p>
-        <nav class="pagination" id="pagination" aria-label="Page navigation"></nav>
+
+        <!-- Pagination controls -->
+        <div class="pagination" id="pagination" aria-label="Pagination">
+          <button class="page-arrow" id="prev-btn" aria-label="Previous page" disabled>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <polyline points="15 18 9 12 15 6"/>
+            </svg>
+          </button>
+
+          <div class="page-numbers" id="page-numbers"></div>
+
+          <button class="page-arrow" id="next-btn" aria-label="Next page">
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <polyline points="9 18 15 12 9 6"/>
+            </svg>
+          </button>
+        </div>
       </div>
 
     </main>
@@ -145,8 +161,12 @@ function fmtDate(d: string) {
   const PER_PAGE = 6;
   const allItems  = Array.from(document.querySelectorAll<HTMLElement>('.post-item'));
   let visibleItems = allItems;
-  const paginationNav = document.getElementById('pagination') as HTMLElement;
+  const pagination  = document.getElementById('pagination') as HTMLElement;
+  const prevBtn      = document.getElementById('prev-btn') as HTMLButtonElement;
+  const nextBtn       = document.getElementById('next-btn') as HTMLButtonElement;
+  const pageNumbers   = document.getElementById('page-numbers') as HTMLElement;
   const noPostsMsg    = document.getElementById('no-posts-msg') as HTMLElement;
+  let currentPage = 1;
 
   /* ---- Category filter ---- */
   let activeCategory = new URLSearchParams(location.search).get('category') ?? '';
@@ -263,6 +283,7 @@ function fmtDate(d: string) {
   function totalPages() { return Math.max(1, Math.ceil(visibleItems.length / PER_PAGE)); }
 
   function showPage(page: number) {
+    currentPage = page;
     allItems.forEach(item => (item.style.display = 'none'));
     const start = (page - 1) * PER_PAGE;
     visibleItems.slice(start, start + PER_PAGE).forEach(item => (item.style.display = ''));
@@ -273,24 +294,54 @@ function fmtDate(d: string) {
     history.replaceState({}, '', u.toString());
   }
 
-  function mkBtn(label: string, page: number, active = false, disabled = false, arrow = false): HTMLButtonElement {
-    const b = document.createElement('button');
-    b.textContent = label;
-    b.className = ['page-btn', active && 'active', disabled && 'disabled', arrow && 'arrow-btn'].filter(Boolean).join(' ');
-    b.disabled = disabled;
-    if (!disabled) b.addEventListener('click', () => showPage(page));
-    return b;
+  function renderPagination(current: number) {
+    const pages = totalPages();
+
+    if (pagination) pagination.style.display = pages <= 1 && visibleItems.length > 0 ? 'none' : 'flex';
+    if (prevBtn) prevBtn.disabled = current <= 1;
+    if (nextBtn) nextBtn.disabled = current >= pages;
+
+    if (!pageNumbers) return;
+    pageNumbers.innerHTML = '';
+    if (pages > 1) renderPageNumbers(pages, current);
   }
 
-  function renderPagination(current: number) {
-    if (!paginationNav) return;
-    paginationNav.innerHTML = '';
-    const pages = totalPages();
-    if (pages <= 1) return;
-    paginationNav.appendChild(mkBtn('‹', current - 1, false, current === 1, true));
-    for (let p = 1; p <= pages; p++) paginationNav.appendChild(mkBtn(String(p), p, p === current));
-    paginationNav.appendChild(mkBtn('›', current + 1, false, current === pages, true));
+  function renderPageNumbers(totalPagesCount: number, current: number) {
+    const isMobile = window.innerWidth <= 480;
+    const win = isMobile ? 0 : 1;
+    const fullThreshold = isMobile ? 5 : 7;
+
+    const makeDot = () => {
+      const span = document.createElement('span');
+      span.className = 'page-ellipsis';
+      span.textContent = '…';
+      pageNumbers.appendChild(span);
+    };
+    const makeBtn = (n: number) => {
+      const btn = document.createElement('button');
+      btn.className = `page-num${n === current ? ' active' : ''}`;
+      btn.textContent = String(n);
+      btn.setAttribute('aria-label', `Page ${n}`);
+      if (n === current) btn.setAttribute('aria-current', 'page');
+      btn.addEventListener('click', () => showPage(n));
+      pageNumbers.appendChild(btn);
+    };
+
+    if (totalPagesCount <= fullThreshold) {
+      for (let i = 1; i <= totalPagesCount; i++) makeBtn(i);
+    } else {
+      makeBtn(1);
+      if (current > 2 + win) makeDot();
+      const start = Math.max(2, current - win);
+      const end   = Math.min(totalPagesCount - 1, current + win);
+      for (let i = start; i <= end; i++) makeBtn(i);
+      if (current < totalPagesCount - 1 - win) makeDot();
+      makeBtn(totalPagesCount);
+    }
   }
+
+  prevBtn?.addEventListener('click', () => { if (currentPage > 1) showPage(currentPage - 1); });
+  nextBtn?.addEventListener('click', () => { if (currentPage < totalPages()) showPage(currentPage + 1); });
 
   // Init
   setActiveBtn(activeCategory);

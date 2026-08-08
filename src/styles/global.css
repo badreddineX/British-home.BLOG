@@ -686,85 +686,100 @@ blockquote {
    component <style> so JS-created buttons
    never receive scoped class selectors.
    ============================================ */
+/* ── Pagination (MUI-inspired, matches Canada blog) ── */
 .pagination {
   display: flex;
-  justify-content: center;
   align-items: center;
-  gap: 1.25rem;
-  margin-top: 3rem;
-  padding-top: 2rem;
+  justify-content: center;
+  gap: 8px;
+  margin-top: 56px;
+  padding-top: 32px;
   border-top: 1px solid var(--color-border);
   flex-wrap: wrap;
 }
 
-.page-btn {
+.page-arrow,
+.page-num {
+  all: unset;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+  transition: background-color 180ms ease, color 180ms ease;
+}
+
+.page-arrow {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  color: rgba(0,0,0,0.4);
+}
+.page-arrow:hover:not(:disabled) {
+  background-color: rgba(0,0,0,0.06);
+  color: rgba(0,0,0,0.87);
+}
+.page-arrow:disabled {
+  color: rgba(0,0,0,0.2);
+  cursor: default;
+  pointer-events: none;
+}
+
+.page-numbers {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.page-num {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  font-family: var(--font-body);
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: rgba(0,0,0,0.75);
+}
+.page-num:hover:not(.active) {
+  background-color: rgba(0,0,0,0.06);
+  color: rgba(0,0,0,0.9);
+}
+.page-num.active {
+  background-color: var(--color-gold);
+  color: #fff;
+  font-weight: 700;
+  animation: page-pop 220ms cubic-bezier(0.34, 1.56, 0.64, 1) both;
+}
+
+@keyframes page-pop {
+  from { transform: scale(0.5); opacity: 0; }
+  to   { transform: scale(1);   opacity: 1; }
+}
+
+.page-ellipsis {
   display: inline-flex;
   align-items: center;
   justify-content: center;
   width: 44px;
   height: 44px;
-  border-radius: 50%;
-  font-family: var(--font-body);
-  font-size: 0.95rem;
-  font-weight: 600;
-  border: none;
-  background: transparent;
-  color: var(--color-text);
-  cursor: pointer;
-  transition: color 150ms, background 150ms;
-  line-height: 1;
-}
-
-.page-btn:hover:not(.disabled):not(.active) {
-  color: var(--color-heading);
-  background: var(--color-surface);
-}
-
-.page-btn.active {
-  background: var(--color-gold);
-  color: #fff;
-  font-weight: 700;
-  cursor: default;
-  box-shadow: 0 2px 12px rgba(184,154,106,0.4);
-}
-
-.page-btn.arrow-btn {
-  font-size: 1.1rem;
-  font-weight: 400;
-  color: var(--color-text-muted);
-  width: 44px;
-  height: 44px;
-  border: 1px solid var(--color-border);
-}
-.page-btn.arrow-btn:hover:not(.disabled) {
-  color: var(--color-heading);
-  border-color: var(--color-text-muted);
-  background: var(--color-surface);
-}
-.page-btn.disabled {
-  opacity: 0.28;
-  cursor: not-allowed;
+  font-size: 1rem;
+  font-weight: 500;
+  color: rgba(0,0,0,0.35);
+  pointer-events: none;
+  letter-spacing: 0.12em;
+  user-select: none;
 }
 
 @media (max-width: 480px) {
-  .pagination {
-    gap: 0.35rem;
-    margin-top: 2rem;
-    padding-top: 1.5rem;
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-    justify-content: center;
-    padding-bottom: 0.5rem;
-  }
-  .pagination::-webkit-scrollbar { display: none; }
-  .page-btn {
-    width: 34px;
-    height: 34px;
-    font-size: 0.82rem;
-    flex-shrink: 0;
-  }
-  .page-btn.arrow-btn { width: 34px; height: 34px; }
+  .pagination { gap: 4px; }
+  .page-numbers { gap: 4px; }
+  .page-arrow { width: 36px; height: 36px; }
+  .page-num { width: 36px !important; height: 36px !important; font-size: 0.82rem !important; }
+  .page-ellipsis { width: 28px !important; height: 36px !important; font-size: 0.88rem !important; }
 }
 
 /* --- Utility --- */
