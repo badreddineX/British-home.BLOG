@@ -9,12 +9,7 @@ tags: ["unfitted kitchen UK", "budget kitchen", "renter-friendly decor", "freest
 featured: false
 category: "Room Makeovers"
 readTime: "8 min read"
-excerpt: "Unfitted kitchens are having a moment in 2026 — and they’re perfect for UK renters and homeowners on a budget who want personality without the building regs.
-TL;DR:
-  - Freestanding units and vintage-inspired furniture pieces create a custom look with zero permanent changes.
-  - Peel-and-stick tiles, like Dunelm’s £8.99/m² options, are a no-nonsense backsplash upgrade for deposits.
-  - Rugs, open shelving, and vintage find-ups give instant warmth and character.
-  - IKEA’s SKÅDIS system helps hang tools and utensils renter-safely on walls.
+excerpt: "Unfitted kitchens are having a moment in 2026 — and they’re perfect for UK renters and homeowners on a budget who want personality without the building regs."
 faqs:
   - q: "Can I use freestanding kitchen units in a rented flat without breaking my deposit?"
     a: "Absolutely —freestanding units like IKEA’s METOD or IKEA discontinued but still available ‘KUSTFRA’ series sit on the floor and don’t require wall fixing. As long as you avoid drilling, most landlords are fine. A quick chat beforehand goes a long way!"
