@@ -292,6 +292,12 @@ function fmtDate(d: string) {
     const u = new URL(location.href);
     page === 1 ? u.searchParams.delete('page') : u.searchParams.set('page', String(page));
     history.replaceState({}, '', u.toString());
+
+    // Scroll to top of grid on page change (matches Canada blog)
+    const grid = document.getElementById('posts-grid');
+    if (grid && page > 1) {
+      grid.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
   }
 
   function renderPagination(current: number) {
