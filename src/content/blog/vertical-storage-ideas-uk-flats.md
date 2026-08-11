@@ -15,7 +15,7 @@ relatedPosts:
 readTime: "8 min read"
 excerpt: "Tired of fighting for floor space? These smart vertical storage ideas help UK renters and homeowners squeeze more out of tiny flats — no drilling required."
 tldr:
-  - "Use over-door storage like the IKEA Godmorgon (~£12) for bathrooms or hallways — zero wall damage."
+  - "Use an over-door hanging organiser (from ~£8-£12 at Dunelm or Amazon UK) for bathrooms or hallways — zero wall damage."
   - "Tiered shelf units (e.g., Dunelm's metal racks, ~£15) turn narrow gaps into hanging or stacked storage."
   - "Command hooks + tension rods hold curtains, shelves, or pegboards — ideal for renters."
   - "Overhead shelf systems (like Next Home's slim units, ~£20) utilise dead ceiling space above doors or cupboards."
@@ -38,7 +38,7 @@ Vertical storage is your secret weapon for small UK flats — especially if you'
 
 ## 1. Can Over-Door Storage Really Work in a UK Rental?
 
-One of my favourite hacks for small hallways? A tall over-door storage unit. The IKEA Godmorgon bathroom cabinet (~£12) slots neatly over a standard door (up to 4.5cm thick) and holds shoes, brooms, or even laundry detergent bottles. It's perfect for rented bathrooms where wall units are a no-go. For non-bathroom use, Dunelm's fabric over-door organiser (~£9) works great — it slots over a closet or bedroom door and has eight clear pockets for folded jumpers, hats, or pet supplies. Zero damage, easy to move, and installs in under 2 minutes. Bonus: it looks neat, not cluttered. I use one behind my bedroom door for hair tools — the flat profile means it never sticks out or gets knocked.
+One of my favourite hacks for small hallways? A tall over-door storage unit. A basic over-door hanging organiser (~£8-£12 at Dunelm or Amazon UK) slots neatly over a standard door (up to 4.5cm thick) and holds shoes, brooms, or even laundry detergent bottles. It's perfect for rented bathrooms where wall units are a no-go. Dunelm's fabric over-door organiser (~£9) works great — it slots over a closet or bedroom door and has eight clear pockets for folded jumpers, hats, or pet supplies. Zero damage, easy to move, and installs in under 2 minutes. Bonus: it looks neat, not cluttered. I use one behind my bedroom door for hair tools — the flat profile means it never sticks out or gets knocked.
 
 ![Over-door storage unit holding folded towels, cleaning sprays and a broom in a small hallway](/images/hallway-console-table-mirror.jpg)
 
@@ -84,7 +84,7 @@ Even small cupboards can hold more with vertical dividers. B&Q's adjustable shel
 
 ## 11. Is Ceiling-Hung Storage Worth It in a High-Ceilinged Flat?
 
-Low ceilings? Skip this one. But if you've got 2.5m+ headroom, ceiling hooks (with proper wall anchors — only with permission) can hold a pull-down coat rack or hanging plant system. The safest bet is a freestanding option like the IKEA SLAVIK hanging shelf (~£15), which attaches to a wall bracket (not ceiling) and holds 10kg. I've hung mine above my front door with a coat rack underneath — perfect for daily jackets. Always use a stud finder and check your tenancy agreement first. When in doubt, skip — it's not worth the deposit hit.
+Low ceilings? Skip this one. But if you've got 2.5m+ headroom, ceiling hooks (with proper wall anchors — only with permission) can hold a pull-down coat rack or hanging plant system. The safest bet is a freestanding-friendly option like the IKEA LACK wall shelf (~£15), which fixes to a wall bracket (not ceiling) and holds a decent everyday load. I've hung mine above my front door with a coat rack underneath — perfect for daily jackets. Always use a stud finder and check your tenancy agreement first. When in doubt, skip — it's not worth the deposit hit.
 
 ## 12. Can Mobile Rolling Storage Replace Fixed Vertical Units?
 

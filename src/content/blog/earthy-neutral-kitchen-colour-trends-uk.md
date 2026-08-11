@@ -12,7 +12,7 @@ readTime: "8 min read"
 excerpt: "Discover how to refresh your kitchen with warm, earthy neutral tones — without breaking the bank or damaging your walls."
 tldr:
   - Pair warm oatmeal cabinets with charcoal greys for a grounded, modern two-tone look.
-  - Use peel-and-stick backsplash tiles (like those from DecoRama or Zinca) for renter-friendly updates under £100.
+  - Use peel-and-stick backsplash tiles (like Art3d or FloorPops, sold on Amazon UK) for renter-friendly updates under £100.
   - Swap cabinet hardware for brushed brass or matte black — under £20 for a full set — to instantly modernise.
   - Paint your walls in a muted clay or warm beige (Dulux’s ‘Warm Earth’ or Farrow & Ball’s ‘String’).
 faqs:
@@ -21,7 +21,7 @@ faqs:
   - q: "Can I do a two-tone kitchen without repainting the whole unit?"
     a: "Absolutely. Paint only the upper cabinets in a warm oatmeal (Dulux ‘Natural Linen’ ~£32 for 2.5L), and keep lower units in a deeper grey (e.g., ‘Dark Slate’ ~£32). Use painter’s tape and a good brush — no need for sanding if you prep properly."
   - q: "What’s the cheapest way to add texture in an earthy kitchen?"
-    a: "Try peel-and-stick tiles like Zinca’s ‘Cement Look’ in Sand (~£18 per 30x30cm sheet on Amazon UK). Cut to size and stick over existing backsplash — no grout, no damage."
+    a: "Try peel-and-stick tiles like Art3d's cement-look range (from ~£18 per pack on Amazon UK). Cut to size and stick over existing backsplash — no grout, no damage."
   - q: "Will this look dated in a year?"
     a: "Not if you keep it balanced: stick to one warm and one cool neutral (e.g., warm oatmeal + cool charcoal), and add flexible accessories like woven baskets or copper utensils. Avoid bold patterns that dominate the palette."
   - q: "How much does a full earthy neutral kitchen refresh typically cost in the UK?"
@@ -48,7 +48,7 @@ This is the most budget-friendly and visually balanced approach. Paint upper cab
 
 ## 4. Why Is Peel-and-Stick Backsplash a Deposit-Safe Hero?
 
-Skip tiling over tiles, it’s permanent and usually banned in leases. Instead, use Zinca peel-and-stick tiles: their ‘Sandstone Look’ range (30x30cm) costs ~£18 per sheet on Amazon UK, and a full 1.8m kitchen run comes to roughly £42 in materials. I installed one myself in 45 minutes with no residue left on removal. Measure your space, clean with sugar soap first (£6 at B&Q), then press and smooth with a squeegee. The texture adds visual depth without the mess, and it’s exactly how I salvaged a landlord’s awful 90s beige tiling.
+Skip tiling over tiles, it's permanent and usually banned in leases. Instead, use a peel-and-stick tile brand like FloorPops: a stone-look range (30x30cm) costs ~£18 per pack on Amazon UK, and a full 1.8m kitchen run comes to roughly £42 in materials. I installed one myself in 45 minutes with no residue left on removal. Measure your space, clean with sugar soap first (£6 at B&Q), then press and smooth with a squeegee. The texture adds visual depth without the mess, and it’s exactly how I salvaged a landlord’s awful 90s beige tiling.
 
 ## 5. How Can £20 of Hardware Swaps Transform a Kitchen?
 
@@ -72,7 +72,7 @@ If peel-and-stick isn’t enough, consider lightweight wall panels. Marmoleum’
 
 ## 10. Flooring: Tile vs. LVT That Works
 
-Most UK kitchens are still tiled, but the trend is shifting to warm-effect LVT (luxury vinyl tile). IKEA’s ‘Trollätt’ in ‘Sand’ costs ~£29/m² and clicks together, so renters can lay it as a floating floor over existing tiles with no glue needed, just weight and edge trim. For true temporary fixes, peel-and-stick vinyl tiles like DecoRama’s ‘Stone Look’ (~£14.99 per 30x30cm tile) work well for a small patch. Don’t go full white, a soft beige with subtle variation will tie in with your cabinetry.
+Most UK kitchens are still tiled, but the trend is shifting to warm-effect LVT (luxury vinyl tile). Click-together LVT flooring in warm sand tones (from ~£25-£30/m² at IKEA, B&Q, or Wickes) lets renters lay it as a floating floor over existing tiles with no glue needed, just weight and edge trim. For true temporary fixes, peel-and-stick vinyl tiles like FloorPops' stone-look range (~£14.99 per 30x30cm tile) work well for a small patch. Don't go full white, a soft beige with subtle variation will tie in with your cabinetry.
 
 ## 11. Accessories: Plants, Rugs, and Textiles That Pull It Together
 

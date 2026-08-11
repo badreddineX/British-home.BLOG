@@ -15,7 +15,7 @@ readTime: "8 min read"
 excerpt: "Unfitted kitchens are having a moment in 2026 — and they’re perfect for UK renters and homeowners on a budget who want personality without the building regs."
 faqs:
   - q: "Can I use freestanding kitchen units in a rented flat without breaking my deposit?"
-    a: "Absolutely —freestanding units like IKEA’s METOD or IKEA discontinued but still available ‘KUSTFRA’ series sit on the floor and don’t require wall fixing. As long as you avoid drilling, most landlords are fine. A quick chat beforehand goes a long way!"
+    a: "Absolutely — freestanding units like the IKEA IVAR shelving/cabinet system sit on the floor and don't require wall fixing. As long as you avoid drilling, most landlords are fine. A quick chat beforehand goes a long way!"
   - q: "Are peel-and-stick tiles truly renter-safe and easy to remove?"
     a: "Yes — when applied to clean, smooth walls, they peel off cleanly after 3–5 years, especially from brands like Peel & Stick (available on Amazon UK for ~£14.99 per 10-pack). Always test a small patch first."
   - q: "How do I prevent freestanding cupboards from wobbling on uneven floors?"
@@ -33,7 +33,7 @@ Unfitted kitchens are booming in 2026, especially for those who want style witho
 
 ## 1. Why Are Freestanding Units Best for an Unfitted Kitchen?
 
-Freestanding kitchen units are the backbone of any unfitted scheme — they’re portable, budget-friendly, and *renter-safe*. Think cupboards, pantries, and island units on castors. IKEA’s discontinued but still widely second-hand ‘KUSTFRA’ series (a 90cm wide pantry unit) pops up regularly on Facebook Marketplace for £65–£90. Newer equivalents like the ‘MALM’ kitchen cabinet (~£79) or the ‘BESTÅ’ wall cabinets (~£65 each) work just as well, especially paired with the SKÅDIS wall system for hanging hooks and trays. Avoid units that require wall fixing — opt for floor-standing only. Even better? If you move, you take your whole kitchen with you.
+Freestanding kitchen units are the backbone of any unfitted scheme — they're portable, budget-friendly, and *renter-safe*. Think cupboards, pantries, and island units on castors. IKEA's IVAR shelving/cabinet system (from ~£35 per section) is a genuinely freestanding option that can be built out into a full pantry run, and it turns up second-hand on Facebook Marketplace often too. The BESTÅ storage system (~£65+ per unit) works well as freestanding kitchen storage as well, especially paired with the SKÅDIS wall system for hanging hooks and trays. Avoid units that require wall fixing — opt for floor-standing only. Even better? If you move, you take your whole kitchen with you.
 
 ![A clean, modern unfitted kitchen with a white IKEA MALM base cabinet, open shelving above, and a vintage-style stove.](/images/kitchen-wood-floor-open-plan.jpg)
 
