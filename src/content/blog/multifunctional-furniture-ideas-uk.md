@@ -8,6 +8,9 @@ author: "Badreddine"
 tags: ["multifunctional furniture UK", "renter-friendly decor", "budget", "small space solutions"]
 featured: false
 category: "Room Makeovers"
+relatedPosts:
+  - "rented-flat-makeover-uk"
+  - "small-living-room-ideas-uk"
 readTime: "8 min read"
 excerpt: "Need more space in your UK flat but stuck with landlord rules? These clever, renter-approved multifunctional pieces transform your home — no permanent changes needed."
 tldr:

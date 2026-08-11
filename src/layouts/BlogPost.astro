@@ -22,6 +22,7 @@ interface Props {
   tldr?: string[];
   faqs?: FAQItem[];
   headings?: { depth: number; slug: string; text: string }[];
+  relatedPosts?: string[];
 }
 
 const {
@@ -37,6 +38,7 @@ const {
   tldr = [],
   faqs = [],
   headings = [],
+  relatedPosts: explicitRelatedSlugs = [],
 } = Astro.props;
 
 const siteUrl = 'https://britishhomeinterior.co.uk';
@@ -47,12 +49,23 @@ const fmtDate = (d: string) =>
 
 const h2s = headings.filter(h => h.depth === 2);
 
-// Related posts: same category, excluding current
+// Related posts: editorial relatedPosts frontmatter takes priority (set via the
+// content-map cannibalization/hub-spoke decisions), falling back to same-category
+// auto-selection for any article that hasn't set it.
 const allPosts = await getCollection('blog');
-const related = allPosts
-  .filter(p => p.id !== slug && p.data.category?.toLowerCase() === category.toLowerCase())
-  .sort((a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime())
+const others = allPosts.filter(p => p.id !== slug);
+
+let related = others.filter(p => explicitRelatedSlugs.includes(p.id))
+  .sort((a, b) => explicitRelatedSlugs.indexOf(a.id) - explicitRelatedSlugs.indexOf(b.id))
   .slice(0, 3);
+
+if (related.length < 3) {
+  const existingIds = new Set(related.map(p => p.id));
+  const fillers = others
+    .filter(p => !existingIds.has(p.id) && p.data.category?.toLowerCase() === category.toLowerCase())
+    .sort((a, b) => new Date(b.data.datePublished).getTime() - new Date(a.data.datePublished).getTime());
+  related.push(...fillers.slice(0, 3 - related.length));
+}
 
 // Related-article thumbnails (320x220 slot) don't need the raw source image.
 const cardImg = (img: string) => img.replace('/images/', '/images/card/').replace(/\.(jpe?g|png)$/i, '.webp');

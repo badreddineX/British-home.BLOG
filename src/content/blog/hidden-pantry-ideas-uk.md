@@ -8,6 +8,9 @@ author: "Badreddine"
 tags: ["hidden pantry UK", "pantry ideas small kitchen", "hidden pantry storage uk", "small kitchen storage", "budget", "renter-friendly"]
 featured: false
 category: "Room Makeovers"
+relatedPosts:
+  - "small-kitchen-storage-ideas-budget-uk"
+  - "kitchen-on-a-budget-uk"
 readTime: "8 min read"
 excerpt: "Turn cramped UK kitchen cupboards into clever, hidden pantry spaces — without drilling, damaging walls, or breaking the bank."
 tldr:

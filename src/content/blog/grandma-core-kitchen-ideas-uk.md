@@ -8,6 +8,9 @@ author: "Badreddine"
 tags: ["grandma core kitchen", "grandma core kitchen UK", "gingham kitchen ideas", "vintage kitchen decor UK", "grandmillennial kitchen", "scalloped edge kitchen decor", "brass kitchen accessories UK", "vintage crockery display"]
 featured: false
 category: "Kitchen"
+relatedPosts:
+  - "kitchen-decor-ideas-uk"
+  - "kitchen-on-a-budget-uk"
 readTime: "9 min read"
 excerpt: "Gingham, scalloped edges, vintage plates on the wall, and brass everywhere — how to build a grandma core kitchen without it tipping into fancy-dress cottage cosplay."
 tldr:

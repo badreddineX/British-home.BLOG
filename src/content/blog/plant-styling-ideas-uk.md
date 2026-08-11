@@ -8,6 +8,9 @@ author: "Badreddine"
 tags: ["low light plants UK", "apartment plants UK", "budget", "renter-friendly decor"]
 featured: false
 category: "Room Makeovers"
+relatedPosts:
+  - "rented-flat-makeover-uk"
+  - "home-decor-inspiration-uk"
 readTime: "8 min read"
 excerpt: "Struggling with dim corners and landlord rules? These renter-friendly, low-light plant styling ideas bring life to your UK flat—no drill, no deposit worries."
 tldr:

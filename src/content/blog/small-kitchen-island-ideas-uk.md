@@ -8,6 +8,9 @@ author: "Badreddine"
 tags: ["kitchen island UK", "small kitchen island uk", "kitchen island ideas small space", "small kitchen ideas", "budget", "renter-friendly"]
 featured: false
 category: "Room Makeovers"
+relatedPosts:
+  - "kitchen-on-a-budget-uk"
+  - "kitchen-decor-ideas-uk"
 readTime: "8 min read"
 excerpt: "Turn a cramped kitchen into a functional hub without breaking the deposit. These UK-tested small kitchen island ideas work for leases, not just lofts."
 tldr:

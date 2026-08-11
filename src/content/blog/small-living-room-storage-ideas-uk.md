@@ -8,6 +8,9 @@ author: "Badreddine"
 tags: ["small living room storage UK", "living room storage ideas", "renter storage UK", "alcove shelving UK", "no drill storage UK", "small flat storage ideas"]
 featured: false
 category: "Living Room"
+relatedPosts:
+  - "small-living-room-ideas-uk"
+  - "small-bedroom-storage-uk"
 readTime: "9 min read"
 excerpt: "12 renter-friendly living room storage ideas for small UK flats, from £5 Command strips to a £150 storage ottoman — none of it needs fitted furniture."
 tldr:

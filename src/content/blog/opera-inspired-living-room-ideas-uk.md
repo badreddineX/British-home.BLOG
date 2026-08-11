@@ -8,6 +8,9 @@ author: "Badreddine"
 tags: ["velvet living room UK", "moody lighting ideas", "budget decor", "rented flat decor"]
 featured: false
 category: "Room Makeovers"
+relatedPosts:
+  - "maximalist-living-room-decor-uk"
+  - "dark-moody-home-decor-uk"
 readTime: "8 min read"
 excerpt: "Channel West End glamour without breaking the bank — real velvet textures, layered lighting, and renters-safe styling tips."
 tldr:

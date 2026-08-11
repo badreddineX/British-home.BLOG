@@ -8,6 +8,9 @@ author: "Badreddine"
 tags: ["unfitted kitchen UK", "budget kitchen", "renter-friendly decor", "freestanding kitchen"]
 featured: false
 category: "Room Makeovers"
+relatedPosts:
+  - "kitchen-on-a-budget-uk"
+  - "rental-kitchen-upgrade-ideas-uk"
 readTime: "8 min read"
 excerpt: "Unfitted kitchens are having a moment in 2026 — and they’re perfect for UK renters and homeowners on a budget who want personality without the building regs."
 faqs:

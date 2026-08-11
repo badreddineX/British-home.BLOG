@@ -8,6 +8,9 @@ author: "Badreddine"
 tags: ["Afrobohemian decor UK", "global decor ideas uk", "eclectic decor uk", "global-inspired decor", "budget home decor", "renter-friendly"]
 featured: false
 category: "Room Makeovers"
+relatedPosts:
+  - "home-decor-inspiration-uk"
+  - "maximalist-living-room-decor-uk"
 readTime: "8 min read"
 excerpt: "Bring warmth, texture, and cultural richness to your UK home with Afrobohemian and global-inspired decor—no deposit risk, all personality."
 tldr:

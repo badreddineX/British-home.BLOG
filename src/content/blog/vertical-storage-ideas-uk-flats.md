@@ -9,6 +9,9 @@ author: "Badreddine"
 tags: ["vertical storage UK", "vertical storage ideas uk", "wall storage small flat", "small flat storage", "budget", "renter-friendly decor"]
 featured: false
 category: "Room Makeovers"
+relatedPosts:
+  - "small-living-room-storage-ideas-uk"
+  - "small-bedroom-storage-uk"
 readTime: "8 min read"
 excerpt: "Tired of fighting for floor space? These smart vertical storage ideas help UK renters and homeowners squeeze more out of tiny flats — no drilling required."
 tldr:
