@@ -6,6 +6,7 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
+    "postbuild": "node scripts/inject-image-dimensions.mjs",
     "preview": "astro preview",
     "astro": "astro"
   },
