@@ -28,7 +28,7 @@ faqs:
 
 The average British kitchen measures around 13 square metres, and a large share of that is taken up by units you can't extend or move, according to [Checkatrade](https://www.checkatrade.com)'s UK kitchen size data. If you're renting, or you've got a galley kitchen from the 1990s with three working cupboards, storage becomes the actual daily problem, not the paint colour.
 
-I wrote a separate post on [budget-friendly ways to refresh a kitchen's whole look](/blog/kitchen-on-a-budget-uk), and another on [styling a kitchen once it's sorted](/blog/kitchen-decor-ideas-uk). This one is neither of those. This is purely about where things go when you don't have enough space to put them.
+I wrote a separate post on [budget-friendly ways to refresh a kitchen's whole look](/blog/kitchen-on-a-budget-uk/), and another on [styling a kitchen once it's sorted](/blog/kitchen-decor-ideas-uk/). This one is neither of those. This is purely about where things go when you don't have enough space to put them.
 
 **TL;DR:** Every idea below costs under £40, works in a rented flat without drilling into cupboard carcasses, and solves a specific storage problem rather than just adding another basket. Start with the over-door rack and the magnetic strip. Together they cost about £10 and free up a full drawer and a full shelf.
 
@@ -149,5 +149,5 @@ The first three steps cost under £30 combined and solve the storage problems th
 
 **Related reading you might find useful:**
 
-- [Kitchen on a Budget UK: 14 Ideas](/blog/kitchen-on-a-budget-uk) for a full budget refresh once storage is sorted
-- [Kitchen Decor Ideas UK](/blog/kitchen-decor-ideas-uk) for the styling layer, separate from pure storage
+- [Kitchen on a Budget UK: 14 Ideas](/blog/kitchen-on-a-budget-uk/) for a full budget refresh once storage is sorted
+- [Kitchen Decor Ideas UK](/blog/kitchen-decor-ideas-uk/) for the styling layer, separate from pure storage

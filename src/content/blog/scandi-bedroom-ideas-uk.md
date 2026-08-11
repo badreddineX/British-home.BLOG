@@ -23,9 +23,9 @@ faqs:
   - q: "How much does a Scandi bedroom makeover cost in the UK?"
     a: "A full refresh with a new bed frame, bedding, throw, rug, and lighting typically runs £250-£450 using IKEA and Amazon UK pricing. A lighter refresh using just bedding, a throw, and a rug can be done for under £80."
   - q: "What's the difference between Scandi and cottagecore bedroom style?"
-    a: "Scandi favours pared-back neutrals, light wood, and minimal clutter, while cottagecore leans into florals, vintage furniture, and a busier, more layered look. See our [cottagecore bedroom decor ideas UK](/blog/cottagecore-bedroom-ideas-uk) guide if that's closer to your taste."
+    a: "Scandi favours pared-back neutrals, light wood, and minimal clutter, while cottagecore leans into florals, vintage furniture, and a busier, more layered look. See our [cottagecore bedroom decor ideas UK](/blog/cottagecore-bedroom-ideas-uk/) guide if that's closer to your taste."
   - q: "Do I need to paint my bedroom white for a Scandi look?"
-    a: "No. Soft grey, warm white, or pale oatmeal all work as well as bright white, and they're often more forgiving in UK flats with less natural light. Our [bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk) guide covers the full range of Scandi-friendly shades."
+    a: "No. Soft grey, warm white, or pale oatmeal all work as well as bright white, and they're often more forgiving in UK flats with less natural light. Our [bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk/) guide covers the full range of Scandi-friendly shades."
 ---
 
 Scandinavian bedroom style works especially well in small UK flats because it's built around light, pale colours and minimal clutter, which makes a modest room feel bigger rather than smaller. I've rebuilt this look in two rented flats now, and it holds up well against grey British weather because the warmth comes from texture and lighting, not sunshine.
@@ -137,11 +137,11 @@ A full refresh with a new bed frame, bedding, throw, rug, and lighting typically
 
 ### What's the difference between Scandi and cottagecore bedroom style?
 
-Scandi favours pared-back neutrals, light wood, and minimal clutter, while cottagecore leans into florals, vintage furniture, and a busier, more layered look. See our [cottagecore bedroom decor ideas UK](/blog/cottagecore-bedroom-ideas-uk) guide if that's closer to your taste.
+Scandi favours pared-back neutrals, light wood, and minimal clutter, while cottagecore leans into florals, vintage furniture, and a busier, more layered look. See our [cottagecore bedroom decor ideas UK](/blog/cottagecore-bedroom-ideas-uk/) guide if that's closer to your taste.
 
 ### Do I need to paint my bedroom white for a Scandi look?
 
-No. Soft grey, warm white, or pale oatmeal all work as well as bright white, and they're often more forgiving in UK flats with less natural light. Our [bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk) guide covers the full range of Scandi-friendly shades.
+No. Soft grey, warm white, or pale oatmeal all work as well as bright white, and they're often more forgiving in UK flats with less natural light. Our [bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk/) guide covers the full range of Scandi-friendly shades.
 
 ---
 
@@ -149,7 +149,7 @@ Scandi bedroom style suits small UK flats because it works with light rather tha
 
 **Related reading you might find useful:**
 
-- [Bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk) for the full range of Scandi-friendly wall colours
-- [Cottagecore bedroom decor ideas UK](/blog/cottagecore-bedroom-ideas-uk) if you want a warmer, busier alternative to the Scandi look
-- [Small bedroom storage ideas UK](/blog/small-bedroom-storage-uk) for keeping surfaces genuinely clear once the style is in place
+- [Bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk/) for the full range of Scandi-friendly wall colours
+- [Cottagecore bedroom decor ideas UK](/blog/cottagecore-bedroom-ideas-uk/) if you want a warmer, busier alternative to the Scandi look
+- [Small bedroom storage ideas UK](/blog/small-bedroom-storage-uk/) for keeping surfaces genuinely clear once the style is in place
 </content>

@@ -31,7 +31,7 @@ Retiling a kitchen splashback properly, with real tiles, adhesive, and grout, ty
 
 I've fitted peel-and-stick tiles in two different rented kitchens now, and I've also painted over a splashback I genuinely couldn't afford to replace. Neither cost more than £45, and both still look good a year or two later. This post covers every budget splashback option I've actually tried or researched properly: what works, what peels within a month, and how to avoid the one mistake that ruins most DIY attempts.
 
-Read more: [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk) for the wider room refresh this fits into.
+Read more: [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) for the wider room refresh this fits into.
 
 ---
 
@@ -69,7 +69,7 @@ A cut-to-size acrylic splashback sheet costs £60–£150 depending on dimension
 
 Acrylic splashback sheets are sold pre-cut to standard hob widths (typically 60cm, 70cm, and 90cm) by suppliers like Wickes and various specialist splashback retailers who deliver UK-wide. You fit them with a combination of panel adhesive and a silicone seal around the edges, a job most confident DIYers can manage in an afternoon.
 
-The advantage over tiles, stick-on or real, is the total absence of grout lines. That means nothing for grease and steam to sit in, which matters more than people expect in a kitchen used daily. The downside is permanence: once an acrylic sheet is adhered and silicone-sealed, it isn't a renter-friendly, remove-without-a-trace option the way peel-and-stick sheets are — for the fully reversible options, see our [rental kitchen upgrade guide](/blog/rental-kitchen-upgrade-ideas-uk).
+The advantage over tiles, stick-on or real, is the total absence of grout lines. That means nothing for grease and steam to sit in, which matters more than people expect in a kitchen used daily. The downside is permanence: once an acrylic sheet is adhered and silicone-sealed, it isn't a renter-friendly, remove-without-a-trace option the way peel-and-stick sheets are — for the fully reversible options, see our [rental kitchen upgrade guide](/blog/rental-kitchen-upgrade-ideas-uk/).
 
 If budget allows the step up, acrylic behind a hob genuinely looks like a fitted kitchen upgrade rather than a DIY fix, particularly in a bold colour or a marble-effect print.
 
@@ -129,4 +129,4 @@ A cut-to-size acrylic splashback typically costs £60–£150 depending on size 
 
 None of these options need a tradesperson, and most can be finished in a single afternoon. Start with the cheapest reversible option, peel-and-stick sheets, if you're renting or unsure about committing. Move up to tile paint or acrylic sheets once you know the look you actually want to keep.
 
-For the rest of the kitchen refresh, from cabinet paint to new handles, see the full [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk) guide for the complete room-by-room breakdown.
+For the rest of the kitchen refresh, from cabinet paint to new handles, see the full [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) guide for the complete room-by-room breakdown.

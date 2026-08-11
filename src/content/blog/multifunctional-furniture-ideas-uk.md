@@ -1,5 +1,5 @@
 ---
-title: "Smart Multifunctional Furniture for UK Rented Flats That Won’t Break the Bank"
+title: "Smart Multifunctional Furniture for UK Rented Flats"
 description: "Discover affordable, deposit-safe multifunctional furniture for UK renters — from sofa beds to stacking desks — all under £250."
 image: "/images/pexels-1643383.jpg"
 datePublished: "2026-07-30"
@@ -66,8 +66,6 @@ If drilling into your wall isn’t an option (and your landlord won’t budge), 
 ## 8. Can Modular Shelving Adapt as Your Needs Change?
 
 Renter living means your space will evolve — maybe you start with a desk, then switch to a yoga corner. Modular shelving units that snap together (no tools) are the answer. Next Home’s ‘Malm’ 3-tier shelving (£38) is widely available and stacks vertically to save floor space. I personalised mine with removable fabric panels (£3 each on Amazon UK) to hide messy cables or plant pots — and the metal frame stays plumb without wall anchors. The feet are felt-lined so they won’t scratch laminate or tile. At 80cm tall, they fit under most windows too — ideal for narrow flats.
-
-![A modular shelving unit in white with fabric covers and a potted olive plant](/images/pexels-1918291.jpg)
 
 ## 9. Can a Storage Bench Organise a Small Entryway?
 

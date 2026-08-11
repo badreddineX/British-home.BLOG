@@ -48,7 +48,7 @@ You don't need a new kitchen. You need about two weekends and four things:
 
 The 14 changes below can be done individually or stacked for a full refresh — most cost under £50 each, and none require a tradesperson.
 
-Read more: [budget home transformation framework](/blog/budget-home-makeover-uk)
+Read more: [budget home transformation framework](/blog/budget-home-makeover-uk/)
 
 ---
 
@@ -112,7 +112,7 @@ A new monobloc tap from B&Q or Screwfix starts at £45 and is one of the most no
 
 A tired grout line or a bare wall behind the hob are both quick, cheap fixes — regrouting an existing tile splashback runs under £15 in materials, and a peel-and-stick tile sheet covers a bare wall for £25–£45 with no tools or adhesive needed. Either takes an afternoon.
 
-Full breakdown of both options, product picks, and step-by-step application: [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk).
+Full breakdown of both options, product picks, and step-by-step application: [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk/).
 
 ---
 
@@ -173,7 +173,7 @@ Two tins of Dulux Kitchen Matt at around £40 total changes the entire atmospher
 
 A full DIY worktop swap in laminate can come in under £120 for a standard 3-metre run, and wrap film is a cheaper still option from around £20–£30 a roll if replacement feels too ambitious.
 
-Full cost breakdown by material (laminate, wrap film, solid wood) and fitting steps: [Budget Kitchen Worktop Makeover Ideas UK](/blog/budget-kitchen-worktop-makeover-uk).
+Full cost breakdown by material (laminate, wrap film, solid wood) and fitting steps: [Budget Kitchen Worktop Makeover Ideas UK](/blog/budget-kitchen-worktop-makeover-uk/).
 
 ---
 
@@ -214,7 +214,7 @@ Pair a new sink with the tap upgrade from point four and you've replaced the ent
 
 Dated sheet vinyl or ceramic tile can be refreshed with specialist floor paint for a short-term fix, or replaced with peel-and-stick vinyl tiles — £50–£90 for a standard 3m x 3m kitchen floor, no adhesive needed, and renter-removable.
 
-Full options including real ceramic tile and fitting costs: [Budget Kitchen Flooring Ideas UK](/blog/budget-kitchen-flooring-ideas-uk).
+Full options including real ceramic tile and fitting costs: [Budget Kitchen Flooring Ideas UK](/blog/budget-kitchen-flooring-ideas-uk/).
 
 ---
 
@@ -229,7 +229,7 @@ In my own kitchen refresh, adding a basil plant, a wooden board, and removing al
 
 ---
 
-Read more: [living room budget ideas UK](/blog/budget-home-makeover-uk)
+Read more: [living room budget ideas UK](/blog/budget-home-makeover-uk/)
 
 ## Where to Start: A Priority Table
 
@@ -260,14 +260,14 @@ The full list, priced at mid-range, comes to roughly £410–£830. That sounds 
 
 **Related reading you might find useful:**
 
-- [Budget Home Makeover UK: Transform Any Room for Under £150](/blog/budget-home-makeover-uk)
+- [Budget Home Makeover UK: Transform Any Room for Under £150](/blog/budget-home-makeover-uk/)
 
 **Going deeper on kitchens specifically:**
 
-- [Budget Kitchen Cabinet Makeover Ideas UK](/blog/budget-kitchen-cabinet-makeover-uk)
-- [Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk)
-- [Small Kitchen Storage Ideas on a Budget UK](/blog/small-kitchen-storage-ideas-budget-uk)
-- [Budget Kitchen Worktop Makeover Ideas UK](/blog/budget-kitchen-worktop-makeover-uk)
-- [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk)
-- [Budget Kitchen Flooring Ideas UK](/blog/budget-kitchen-flooring-ideas-uk)
-- [Kitchen Decor Ideas UK](/blog/kitchen-decor-ideas-uk) for the styling layer once the budget renovation is done
+- [Budget Kitchen Cabinet Makeover Ideas UK](/blog/budget-kitchen-cabinet-makeover-uk/)
+- [Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/)
+- [Small Kitchen Storage Ideas on a Budget UK](/blog/small-kitchen-storage-ideas-budget-uk/)
+- [Budget Kitchen Worktop Makeover Ideas UK](/blog/budget-kitchen-worktop-makeover-uk/)
+- [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk/)
+- [Budget Kitchen Flooring Ideas UK](/blog/budget-kitchen-flooring-ideas-uk/)
+- [Kitchen Decor Ideas UK](/blog/kitchen-decor-ideas-uk/) for the styling layer once the budget renovation is done

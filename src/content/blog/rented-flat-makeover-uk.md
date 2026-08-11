@@ -85,13 +85,13 @@ Large jute rug 200x290cm — from ~£85 at Dunelm. This is the makeover purchase
 
 ## 4. How Do You Bring In Freestanding Furniture to Create Structure?
 
-Most rented flats in the UK have two defining characteristics: not enough storage and not enough structure. Both are solved by freestanding furniture that belongs to you, goes with you, and requires nothing fixed to any wall. See [21 small flat storage ideas UK](/blog/small-bedroom-storage-uk) for the full room-by-room breakdown.
+Most rented flats in the UK have two defining characteristics: not enough storage and not enough structure. Both are solved by freestanding furniture that belongs to you, goes with you, and requires nothing fixed to any wall. See [21 small flat storage ideas UK](/blog/small-bedroom-storage-uk/) for the full room-by-room breakdown.
 
 IKEA's KALLAX unit starts at ~£45 for the 2x2 configuration and ~£115 for the 4x4, making freestanding shelving the most versatile way to add storage and structure to a rental without a single wall fixing.
 
 IKEA's KALLAX shelving unit (from ~£45 for the 2x2 configuration) is the single most versatile piece of freestanding furniture available to UK renters. It works as a room divider, a bookshelf, a TV unit, and a storage system simultaneously. The 4x4 configuration (~£115) covers an entire wall without touching it.
 
-IKEA's BILLY bookcase (from ~£55) gives height and vertical structure to any room. A pair of identical units flanking a sofa or bed creates a built-in look without any building work. For [bedroom storage](/blog/small-bedroom-storage-uk), a freestanding wardrobe (IKEA PAX from ~£115 without doors) frequently provides better storage than the built-in alternatives in older rented flats — and it moves with you when you leave.
+IKEA's BILLY bookcase (from ~£55) gives height and vertical structure to any room. A pair of identical units flanking a sofa or bed creates a built-in look without any building work. For [bedroom storage](/blog/small-bedroom-storage-uk/), a freestanding wardrobe (IKEA PAX from ~£115 without doors) frequently provides better storage than the built-in alternatives in older rented flats — and it moves with you when you leave.
 
 A console table (from ~£45 at Wayfair) in the hallway defines the entrance and provides both surface and storage. It's the hallway version of what a rug does for the living room: it makes the space feel deliberate rather than transitional.
 
@@ -185,7 +185,7 @@ Keep the original handles in a bag and reinstall them when you leave. The whole 
 
 This also works on interior doors if your rented flat has builder-standard white lever handles. A set of matte black door handles from B&Q (~£6-£8 each) changes the entire feel of the hallway and every room it leads to. Store the originals carefully. Reinstall on exit. No deposit impact.
 
-Brushed brass cabinet handles — from ~£2 each at B&Q. Full kitchen swap typically costs under £25. For more kitchen-specific upgrades in the same range, see [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk).
+Brushed brass cabinet handles — from ~£2 each at B&Q. Full kitchen swap typically costs under £25. For more kitchen-specific upgrades in the same range, see [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/).
 
 ---
 

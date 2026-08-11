@@ -163,7 +163,7 @@ Total: ~£57–£90.
 
 ## How Can You Makeover a Kitchen for Under £50?
 
-Kitchens are expensive to properly renovate and offer the lowest visual return per pound of any room at budget level. Full refits cost £5,000–£30,000+. But surface-level changes can make a dated kitchen feel considerably fresher for under £50 — see [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk) for 14 more ideas in the same range.
+Kitchens are expensive to properly renovate and offer the lowest visual return per pound of any room at budget level. Full refits cost £5,000–£30,000+. But surface-level changes can make a dated kitchen feel considerably fresher for under £50 — see [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for 14 more ideas in the same range.
 
 These three kitchen changes cost as little as £20 to £35 combined, despite kitchens typically offering the lowest visual return per pound of any room.
 
@@ -182,7 +182,7 @@ Total: ~£20–£35.
 
 ## What's the Best Bathroom Makeover You Can Do for Under £40?
 
-Like kitchens, bathrooms give the lowest renovation return per pound. But a few targeted changes make a real difference — see [small bathroom storage ideas UK](/blog/bathroom-storage-ideas-uk) for the no-drill storage side of this same room.
+Like kitchens, bathrooms give the lowest renovation return per pound. But a few targeted changes make a real difference — see [small bathroom storage ideas UK](/blog/bathroom-storage-ideas-uk/) for the no-drill storage side of this same room.
 
 A full bathroom refresh here costs just £25 to £40, even though bathrooms — like kitchens — usually give the weakest return per pound spent.
 

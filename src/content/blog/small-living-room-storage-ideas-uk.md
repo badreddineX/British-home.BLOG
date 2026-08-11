@@ -1,5 +1,5 @@
 ---
-title: "Small Living Room Storage Ideas UK (No Fitted Furniture Needed)"
+title: "Small Living Room Storage Ideas UK (No Fitted Furniture)"
 description: "12 small living room storage ideas for UK flats — no fitted furniture, all renter-friendly with real £ prices from IKEA, Argos, Dunelm and Amazon UK."
 image: "/images/pexels-1457842.jpg"
 datePublished: "2026-08-10"
@@ -60,7 +60,7 @@ The IKEA IVAR shelving system (from £45) comes in widths that fit most standard
 
 Floating shelves work best for anything you want visible but off the floor, books, small plants, a few framed photos, rather than heavy or daily-use items. Command strips (from £5, Argos or Amazon UK) hold most lightweight shelves rated up to 7.5kg per strip pair, so no drilling is needed.
 
-Two shelves above a console table or sofa arm add real storage without eating floor space. This is the same principle behind our guide to [small living room ideas UK](/blog/small-living-room-ideas-uk), where vertical space consistently does more work than floor space in a tight room.
+Two shelves above a console table or sofa arm add real storage without eating floor space. This is the same principle behind our guide to [small living room ideas UK](/blog/small-living-room-ideas-uk/), where vertical space consistently does more work than floor space in a tight room.
 
 **Cost:** IKEA LACK floating shelf ~£9 each, Command strip fixing kit ~£5-£8.
 
@@ -107,7 +107,7 @@ Wicker or woven baskets hide loose items on open shelves while staying easy to g
 
 Storage furniture only works if the layout leaves room to actually open it, so plan the layout before buying anything. A storage ottoman that can't fully open its lid because it's wedged against the sofa isn't functional storage at all, it's just a box.
 
-Getting the layout right first is worth doing properly. Our full guide to [small living room layout ideas UK](/blog/small-living-room-layout-ideas) covers sofa placement and traffic flow in rooms under 15 square metres, which is the step most people skip before buying storage furniture.
+Getting the layout right first is worth doing properly. Our full guide to [small living room layout ideas UK](/blog/small-living-room-layout-ideas/) covers sofa placement and traffic flow in rooms under 15 square metres, which is the step most people skip before buying storage furniture.
 
 ---
 
@@ -146,6 +146,6 @@ Complete the first two steps of the priority order, the storage ottoman and floa
 
 **Related reading you might find useful:**
 
-- [Small living room ideas UK](/blog/small-living-room-ideas-uk) for the wider layout and decor approach once storage is sorted
-- [Small living room layout ideas UK](/blog/small-living-room-layout-ideas) if you haven't settled on furniture placement yet, worth doing before buying storage pieces
-- [Small bedroom storage UK](/blog/small-bedroom-storage-uk) for the same renter-friendly approach applied to the bedroom
+- [Small living room ideas UK](/blog/small-living-room-ideas-uk/) for the wider layout and decor approach once storage is sorted
+- [Small living room layout ideas UK](/blog/small-living-room-layout-ideas/) if you haven't settled on furniture placement yet, worth doing before buying storage pieces
+- [Small bedroom storage UK](/blog/small-bedroom-storage-uk/) for the same renter-friendly approach applied to the bedroom

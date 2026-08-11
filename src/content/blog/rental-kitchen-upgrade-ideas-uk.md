@@ -1,5 +1,5 @@
 ---
-title: "Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)"
+title: "Rental Kitchen Upgrade Ideas UK (No Permission Needed)"
 description: "Rental kitchen upgrade ideas UK that need no landlord permission — reversible splashback tiles, peel-and-stick flooring, swappable handles, all deposit-safe."
 image: "/images/kitchen-worktop-wood.jpg"
 datePublished: "2026-07-10"
@@ -32,7 +32,7 @@ I've rented three kitchens in the UK. All three had the same tired combination: 
 
 This post covers the specific rental kitchen upgrade ideas UK tenants can actually use: changes that stick to walls without adhesive, sit over floors without glue, and hang on rods without a drill. Every one of them comes off cleanly and leaves your deposit exactly where it started.
 
-Read more: [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk) for the equivalent list if you own your kitchen and can make permanent changes.
+Read more: [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the equivalent list if you own your kitchen and can make permanent changes.
 
 > **Key Takeaways**
 > - Self-adhesive splashback tiles and worktop film cost £20–£45 and lift off cleanly, no wall damage.
@@ -66,7 +66,7 @@ In short: self-adhesive splashback tile sheets from UK retailers such as Dunelm 
 
 If your kitchen has bare wall instead of tile behind the hob, the same sheets work there too, just on a smooth painted surface rather than over existing grout lines.
 
-For permanent-change equivalents if you own your kitchen or have full landlord sign-off, see our [budget kitchen upgrade guide](/blog/kitchen-on-a-budget-uk).
+For permanent-change equivalents if you own your kitchen or have full landlord sign-off, see our [budget kitchen upgrade guide](/blog/kitchen-on-a-budget-uk/).
 
 ---
 
@@ -140,7 +140,7 @@ Here's the order I'd work through it in, starting with what's free.
 
 Start with steps one to three if your budget or your patience is limited. They cost under £60 combined and take a single weekend. If you complete only that much, the kitchen will already feel noticeably more yours.
 
-The full list still comes in well under £300, and for renters who move every year or two, that's a far better return than sinking money into a kitchen someone else owns. If you're tackling the rest of the flat too, [rented flat makeover UK](/blog/rented-flat-makeover-uk) covers the same reversible-first approach room by room.
+The full list still comes in well under £300, and for renters who move every year or two, that's a far better return than sinking money into a kitchen someone else owns. If you're tackling the rest of the flat too, [rented flat makeover UK](/blog/rented-flat-makeover-uk/) covers the same reversible-first approach room by room.
 
 ---
 
@@ -156,7 +156,7 @@ Technically most tenancy agreements cover this under "no alterations," but swapp
 Peel-and-stick luxury vinyl tiles go directly over existing smooth lino or vinyl with no adhesive to the subfloor. They lift cleanly at move-out and cost roughly £50–£90 for an average kitchen floor.
 
 **How do I make a rental kitchen look better without spending much UK?**
-Start with the free changes: declutter the worktop, swap in warm white bulbs, and use tension-rod shelving. Add a peel-and-stick splashback (from £25) and new handles (from £15) once budget allows. For whole-flat renter-safe ideas beyond the kitchen, see our [rented flat makeover guide](/blog/rented-flat-makeover-uk).
+Start with the free changes: declutter the worktop, swap in warm white bulbs, and use tension-rod shelving. Add a peel-and-stick splashback (from £25) and new handles (from £15) once budget allows. For whole-flat renter-safe ideas beyond the kitchen, see our [rented flat makeover guide](/blog/rented-flat-makeover-uk/).
 
 ---
 
@@ -164,5 +164,5 @@ None of this needs a landlord's sign-off, and none of it puts your deposit at ri
 
 **Related reading you might find useful:**
 
-- [Kitchen on a Budget UK: 14 Ideas](/blog/kitchen-on-a-budget-uk)
-- [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk)
+- [Kitchen on a Budget UK: 14 Ideas](/blog/kitchen-on-a-budget-uk/)
+- [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/)

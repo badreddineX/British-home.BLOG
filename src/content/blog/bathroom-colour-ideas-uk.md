@@ -77,4 +77,4 @@ If your existing tiles are cool white or grey — extremely common in UK rental 
 
 ---
 
-For the storage side of the same room, see our [small bathroom storage ideas UK](/blog/bathroom-storage-ideas-uk) guide — the same no-drill, deposit-safe principles apply whether you're painting or organising. And if you're planning a colour scheme across the whole home, [bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk) and [living room colour schemes UK](/blog/living-room-colour-schemes-uk) cover the same warm-neutral and sage-green logic for the rest of the house.
+For the storage side of the same room, see our [small bathroom storage ideas UK](/blog/bathroom-storage-ideas-uk/) guide — the same no-drill, deposit-safe principles apply whether you're painting or organising. And if you're planning a colour scheme across the whole home, [bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk/) and [living room colour schemes UK](/blog/living-room-colour-schemes-uk/) cover the same warm-neutral and sage-green logic for the rest of the house.

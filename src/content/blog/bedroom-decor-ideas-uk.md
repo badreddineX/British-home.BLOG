@@ -198,7 +198,7 @@ The composition principle from sections 9 and 11 applies here too: pick a handfu
 
 This costs nothing and takes an afternoon. It's the finishing step that makes every other change on this list actually register.
 
-Storage baskets to hide clutter — from ~£8 each at Dunelm. For the full wardrobe and under-bed system, see [small bedroom storage ideas UK](/blog/small-bedroom-storage-uk).
+Storage baskets to hide clutter — from ~£8 each at Dunelm. For the full wardrobe and under-bed system, see [small bedroom storage ideas UK](/blog/small-bedroom-storage-uk/).
 
 ---
 

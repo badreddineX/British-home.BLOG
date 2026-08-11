@@ -1,5 +1,5 @@
 ---
-title: "Budget Kitchen Flooring Ideas UK: Cheap Options That Actually Last"
+title: "Budget Kitchen Flooring Ideas UK: Options That Last"
 description: "Cheap kitchen flooring ideas UK homeowners can fit in a weekend, including click vinyl over lino, peel-and-stick tiles, and when to avoid laying over old floors."
 image: "/images/kitchen-wood-floor-open-plan.jpg"
 datePublished: "2026-06-01"
@@ -36,7 +36,7 @@ I did exactly this in a rented flat with a tired grey lino floor that had been d
 > - Uneven floors need self-levelling compound first, or the new floor will crack or gap.
 > - Skip laying over the top if the subfloor is soft, damp, or blocks appliance and door clearance.
 
-For the styling layer once your floor's sorted, see [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk) for cabinet paint, handles, and lighting ideas that finish the room off.
+For the styling layer once your floor's sorted, see [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) for cabinet paint, handles, and lighting ideas that finish the room off.
 
 ## Quick Comparison: Which Budget Flooring Option?
 
@@ -71,7 +71,7 @@ Cutting planks to fit around cabinets and the kitchen door is the fiddliest part
 
 In our experience, the planks that click together with a genuine locking mechanism (rather than a basic tongue and groove) are worth the extra £2–£3 per square metre. They stay tight at the seams even with heavy kitchen foot traffic, where cheaper systems can start to gap within a year.
 
-For fully reversible options if you're renting, see our [rental kitchen upgrade guide](/blog/rental-kitchen-upgrade-ideas-uk).
+For fully reversible options if you're renting, see our [rental kitchen upgrade guide](/blog/rental-kitchen-upgrade-ideas-uk/).
 
 ---
 
@@ -119,8 +119,8 @@ A DIY click vinyl or peel-and-stick floor for an average UK kitchen costs £50�
 
 Whichever route you choose, the same rule applies: check the existing floor is flat, dry, and structurally sound before you buy a single plank or tile. That five-minute check is what decides whether your new floor lasts two years or ten.
 
-For the rest of the room, [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk) covers cabinet paint, handles, and lighting swaps that pair well with a fresh floor and cost under £200 combined.
+For the rest of the room, [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) covers cabinet paint, handles, and lighting swaps that pair well with a fresh floor and cost under £200 combined.
 
 **Related reading you might find useful:**
 
-- [Kitchen on a Budget UK: 14 Ideas](/blog/kitchen-on-a-budget-uk)
+- [Kitchen on a Budget UK: 14 Ideas](/blog/kitchen-on-a-budget-uk/)

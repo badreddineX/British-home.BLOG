@@ -1,5 +1,5 @@
 ---
-title: "12 Clever Vertical Storage Ideas for Small UK Flats (No Wall Damage!)"
+title: "12 Vertical Storage Ideas for Small UK Flats"
 description: "Small flat storage solutions that maximise height — renter-friendly, budget-conscious ideas for UK homes using IKEA, Dunelm & more."
 
 image: "/images/hallway-coat-rack-mirror.jpg"

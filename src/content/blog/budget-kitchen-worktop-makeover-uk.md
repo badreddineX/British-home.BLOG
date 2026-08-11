@@ -46,7 +46,7 @@ A standard 3-metre laminate worktop run costs £45–£90 in materials at Wickes
 
 This is the context that makes the three cheap fixes below worth considering. If your worktop is structurally sound and just looks worn, spending £20–£45 to refresh it makes far more sense than £45–£250 to replace it.
 
-For the wider kitchen refresh picture beyond worktops alone, [I've covered the full budget kitchen upgrade list here](/blog/kitchen-on-a-budget-uk), including cabinet paint, handles, and lighting.
+For the wider kitchen refresh picture beyond worktops alone, [I've covered the full budget kitchen upgrade list here](/blog/kitchen-on-a-budget-uk/), including cabinet paint, handles, and lighting.
 
 ---
 
@@ -103,7 +103,7 @@ Worth checking before you buy a whole roll of wrap film: sometimes the edge is g
 
 Start by assessing what's actually wrong rather than jumping to the most dramatic fix. A worktop that's structurally sound but visually tired almost never needs full replacement, and the three options above cover most real-world cases at a fraction of the cost.
 
-If you're tackling the worktop as part of a wider refresh, it pairs naturally with the [cabinet paint and handle swaps covered in the full budget kitchen guide](/blog/kitchen-on-a-budget-uk), since a fresh worktop next to dated cabinet doors tends to highlight the contrast rather than fix it.
+If you're tackling the worktop as part of a wider refresh, it pairs naturally with the [cabinet paint and handle swaps covered in the full budget kitchen guide](/blog/kitchen-on-a-budget-uk/), since a fresh worktop next to dated cabinet doors tends to highlight the contrast rather than fix it.
 
 ---
 
@@ -129,4 +129,4 @@ The worktop is rarely the first thing people notice in a kitchen, but it's the s
 
 **Related reading you might find useful:**
 
-- [Kitchen on a Budget UK: 14 Ideas](/blog/kitchen-on-a-budget-uk)
+- [Kitchen on a Budget UK: 14 Ideas](/blog/kitchen-on-a-budget-uk/)
