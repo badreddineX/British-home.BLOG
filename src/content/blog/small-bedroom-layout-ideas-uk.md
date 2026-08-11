@@ -55,9 +55,7 @@ Loft conversions and top-floor flats often have a sloped ceiling on one or two s
 
 **Skip the tall wardrobe.** A tall freestanding wardrobe won't fit under a slope at all. Keep hanging storage on the tallest wall instead, and use the eaves purely for folded items and boxes.
 
-> **Citation-style note:** this is first-hand experience from converting a loft bedroom in a rented flat, not a formal study, but the principle (highest point for the bed, slope for storage) holds in every sloped-ceiling room I've seen it applied to. [PERSONAL EXPERIENCE]
-
-## What's the Best Bed Size and Layout for a UK Box Room?
+> **Citation-style note:** this is first-hand experience from converting a loft bedroom in a rented flat, not a formal study, but the principle (highest point for the bed, slope for storage) holds in every sloped-ceiling room I've seen it applied to. ## What's the Best Bed Size and Layout for a UK Box Room?
 
 Most UK box rooms measure somewhere between 6 and 8 square metres, which is enough for a single bed comfortably or a small double at a genuine squeeze, but rarely more. The bed goes lengthways along the longest wall, leaving a single clear path to the door and window.
 
@@ -95,9 +93,7 @@ Rooms with a single small window, common in Victorian and Edwardian conversions 
 
 **Why not under the window:** a bed under a small window blocks more of the little light the room gets and makes opening the window awkward from bed height, which matters more in a small room that already needs the ventilation.
 
-**Mirror placement matters here.** With limited natural light, a mirror positioned to reflect the window, rather than facing away from it, roughly doubles how much light bounces round the room. This is a genuinely useful trick in rooms this size. [UNIQUE INSIGHT]
-
-**Keep the window wall clear.** Resist the urge to put a wardrobe or chest of drawers on the same wall as the window. It blocks light from reaching the rest of the room even when it's not directly in front of the glass.
+**Mirror placement matters here.** With limited natural light, a mirror positioned to reflect the window, rather than facing away from it, roughly doubles how much light bounces round the room. This is a genuinely useful trick in rooms this size. **Keep the window wall clear.** Resist the urge to put a wardrobe or chest of drawers on the same wall as the window. It blocks light from reaching the rest of the room even when it's not directly in front of the glass.
 
 ## What's the Best Layout for a Bedroom With a Chimney Breast?
 

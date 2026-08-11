@@ -215,7 +215,7 @@ A blackout curtain alone gives you one lighting mode: fully closed and dark, or 
 
 A double curtain track (blackout plus sheer) from Dunelm costs £15–£25 on top of the curtains themselves, and closing just the sheer layer on a bright morning softens hard daylight into the kind of warm, diffused glow that makes a room feel gentle rather than starkly lit.
 
-[UNIQUE INSIGHT] Most cosy-bedroom advice treats curtains as a single binary choice, blackout or nothing. In practice, the sheer layer is doing the atmospheric work during the hours you're actually awake in the room, while the blackout layer only matters while you're asleep with your eyes shut.
+Most cosy-bedroom advice treats curtains as a single binary choice, blackout or nothing. In practice, the sheer layer is doing the atmospheric work during the hours you're actually awake in the room, while the blackout layer only matters while you're asleep with your eyes shut.
 
 Linen-look sheer panels in warm ivory or soft taupe (rather than stark white) keep the tone consistent with the rest of a warm-toned bedroom. Dunelm and Next Home both stock these from £12 per panel.
 

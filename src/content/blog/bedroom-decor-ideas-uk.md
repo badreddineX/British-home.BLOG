@@ -106,7 +106,7 @@ Art is the fastest way to make a bedroom look personal rather than showroom-neut
 
 For a single statement piece, the print's width should roughly match two-thirds of the headboard's width, hung so its centre sits at eye level when seated on the bed. A cluster of three frames should keep consistent gaps of 5–8cm between each frame rather than eyeballing the spacing.
 
-[PERSONAL EXPERIENCE] I spent a year with a single small print floating awkwardly above my bed before swapping it for a wider botanical print sized to the headboard. The difference in how "finished" the wall looked was immediate, and it cost nothing extra since I already owned the print.
+I spent a year with a single small print floating awkwardly above my bed before swapping it for a wider botanical print sized to the headboard. The difference in how "finished" the wall looked was immediate, and it cost nothing extra since I already owned the print.
 
 Choose art that echoes one colour already in your palette (the throw, the curtains, a cushion) rather than introducing a fourth unrelated tone. Botanical prints, abstract line art, and framed textiles all work well against the warm neutrals and deep tones recommended above.
 
@@ -182,7 +182,7 @@ Peel-and-stick wallpaper for feature wall — from ~£18 per roll on Amazon UK.
 
 A bed with cushions in five unrelated colours looks assembled rather than styled, and coordinating textiles is a purely visual fix that costs nothing extra if you already own most of the pieces. The rule: pick one accent colour from your rug or throw and echo it in at least one cushion.
 
-[UNIQUE INSIGHT] Most bedroom styling guides tell you to "layer cushions" without saying how many colours to use. In practice, three tones maximum (your wall colour, one accent, and a neutral) reads as styled; four or more starts to look cluttered regardless of quality.
+Most bedroom styling guides tell you to "layer cushions" without saying how many colours to use. In practice, three tones maximum (your wall colour, one accent, and a neutral) reads as styled; four or more starts to look cluttered regardless of quality.
 
 A set of two to four cushions from Dunelm or Next Home in linen, boucle, or velvet covers costs roughly £8–£18 each, and mixing textures within the same colour family (a linen square with a velvet rectangle in the same sage tone) adds depth without adding visual noise.
 

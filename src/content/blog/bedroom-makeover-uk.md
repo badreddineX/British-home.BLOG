@@ -141,7 +141,7 @@ A bigger makeover means looking under the rug question entirely: what condition 
 
 If the floorboards are sound, sanding and sealing them costs roughly £15–£25 per square metre for a DIY hire-sander job, versus £30–£45 per square metre for a professional finish, and gives a bedroom a completely different base to style from. If they're not worth exposing, a budget carpet or vinyl click-flooring from Carpetright or B&Q runs from £12–£20 per square metre.
 
-[PERSONAL EXPERIENCE] I skipped this step on my first bedroom makeover and regretted it. I'd already bought a new rug and repositioned the furniture before noticing the vinyl underneath was lifting at the seams. Doing the floor check first would have saved a wasted rug purchase.
+I skipped this step on my first bedroom makeover and regretted it. I'd already bought a new rug and repositioned the furniture before noticing the vinyl underneath was lifting at the seams. Doing the floor check first would have saved a wasted rug purchase.
 
 Once the base is sorted, choosing the actual rug on top of it is a styling decision. See our [bedroom decor ideas guide](/blog/bedroom-decor-ideas-uk/) for how to size and colour-match one to the room.
 
@@ -238,7 +238,7 @@ The step most makeovers skip is deciding, upfront, what order things get bought 
 
 A realistic phased plan: week one covers bedding, lighting, and furniture rearrangement (£100–£180 combined); week two or three covers paint, mirror, and flooring or rug (£100–£250 depending on flooring condition); the headboard and any remaining styling come last, once you can see what the room still needs.
 
-[UNIQUE INSIGHT] Most bedroom makeover guides list changes purely by visual impact. In practice, sequencing by "what needs the room to be otherwise empty" (paint, flooring) before "what needs the room to be otherwise finished" (headboard, art) avoids redoing steps or buying items that clash with a colour chosen later.
+Most bedroom makeover guides list changes purely by visual impact. In practice, sequencing by "what needs the room to be otherwise empty" (paint, flooring) before "what needs the room to be otherwise finished" (headboard, art) avoids redoing steps or buying items that clash with a colour chosen later.
 
 Setting a hard total budget before buying anything also protects against the most common overspend: replacing an item twice because the first purchase didn't match a decision made afterwards.
 

@@ -46,7 +46,6 @@ A storage ottoman replaces a coffee table and a blanket box in one piece, which 
 - **Wayfair UK upholstered ottoman bench** (~£100-£150) — wider, works as a bench at the end of a sofa too
 - **Argos Home fabric ottoman** (~£45-£70) — the budget option, still lifts fully open
 
-[IMAGE: A small styled UK living room with a storage ottoman and neutral sofa - pexels-1457842.jpg]
 
 ## 2. Can Alcove Shelving Work Without Built-In Carpentry?
 
@@ -73,7 +72,7 @@ A media console with drawers or cabinet doors replaces the TV stand, the DVD box
 - **Dunelm Foley media unit** (~£120-£180)
 - **Wayfair UK TV unit with storage** (~£90-£200)
 
-[PERSONAL EXPERIENCE] In my current London flat the media console is genuinely the busiest piece of furniture in the room, it holds the router, three remotes, a stack of board games, and the sofa throws when guests are round.
+In my current London flat the media console is genuinely the busiest piece of furniture in the room, it holds the router, three remotes, a stack of board games, and the sofa throws when guests are round.
 
 ## 5. How Do Nested and Stacking Tables Help Storage?
 
@@ -95,7 +94,6 @@ Command hooks and strips (Argos, Amazon UK, from £5) hold coats, bags, and smal
 
 **Cost:** Command large hooks ~£10 for a 4-pack, picture-hanging strips ~£6-£9.
 
-[IMAGE: A general view of a compact UK living room with wall shelving and a media console - pexels-1648776.jpg]
 
 ## 7. Do Wicker Baskets Actually Help an Open-Plan Living Room?
 
@@ -126,13 +124,13 @@ Complete the ottoman and floating shelves first. These two changes alone typical
 
 ## Renting Rules Worth Checking First
 
-**[UNIQUE INSIGHT]** Most people assume alcove shelving needs landlord sign-off the same way built-in carpentry does, but freestanding units generally don't, since nothing is fixed to the wall or floor. It's still worth a quick message to your landlord or agent before buying, just to confirm your specific tenancy agreement doesn't restrict freestanding furniture in alcoves.
+Most people assume alcove shelving needs landlord sign-off the same way built-in carpentry does, but freestanding units generally don't, since nothing is fixed to the wall or floor. It's still worth a quick message to your landlord or agent before buying, just to confirm your specific tenancy agreement doesn't restrict freestanding furniture in alcoves.
 
 Command strips are explicitly designed to be removed without damage, and most UK tenancy agreements that ban drilling still allow adhesive strip products. Always check the weight rating on the pack though, overloading a Command strip is the most common reason people end up with a shelf on the floor rather than the wall.
 
 ## Small Living Room Storage for Shared or Guest-Heavy Flats
 
-Flat-shares and living rooms that double as a guest space need storage that resets quickly. **[ORIGINAL DATA]** Across the three flats I've furnished this way, the setups that survived flatmates and guests best all had one thing in common: a single "everything" ottoman near the sofa that anyone could dump items into during a quick tidy, rather than several small baskets scattered around the room.
+Flat-shares and living rooms that double as a guest space need storage that resets quickly. Across the three flats I've furnished this way, the setups that survived flatmates and guests best all had one thing in common: a single "everything" ottoman near the sofa that anyone could dump items into during a quick tidy, rather than several small baskets scattered around the room.
 
 **One ottoman, clearly designated:** Skip multiple small storage boxes. One larger ottoman that any flatmate or guest can open and use gets used consistently. Several smaller boxes tend to get ignored.
 

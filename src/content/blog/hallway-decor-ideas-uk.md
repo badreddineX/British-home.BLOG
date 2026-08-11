@@ -144,7 +144,7 @@ Size matters more than style. A round mirror under 50cm wide looks decorative bu
 
 **Large round statement mirror.** Currently the most popular choice in British interiors. John Lewis has options from ~£55. Wayfair UK frequently stocks oversized round mirrors (80–100cm diameter) from ~£45 during sale periods.
 
-[INTERNAL-LINK: hallway mirror ideas → living room mirror ideas and light maximisation]
+A mirror does double duty on light, too — see our [living room lighting ideas UK](/blog/living-room-lighting-ideas-uk/) guide for more ways to maximise natural and warm light in a rented flat.
 
 Large round mirror: from ~£45 at John Lewis or Wayfair UK. Full-length leaned mirror: from ~£45 at Next Home.
 
@@ -199,7 +199,7 @@ IKEA Ribba frames start at £3.50. For content: Unsplash has free high-quality p
 
 For renters: Command Picture Hanging Strips (rated to 3.6kg per pair, from ~£6 at Amazon or Wilko) hold frames reliably on most painted plaster. They remove cleanly when peeled slowly downward rather than pulled outward.
 
-[INTERNAL-LINK: stair gallery wall → gallery wall ideas UK, picture hanging tips]
+For more layout and hanging tips, see our [renter-friendly gallery wall ideas UK](/blog/renter-friendly-gallery-wall-ideas-uk/) guide.
 
 Stair gallery wall: ~£20–£50 total using IKEA Ribba frames and self-printed images.
 

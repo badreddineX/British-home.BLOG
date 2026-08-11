@@ -49,7 +49,7 @@ Vertical space is your friend — and tiered shelves unlock hidden depth. A slid
 
 ## 4. Can a Slim Pull-Out Larder Unit Disguise Itself as a Cabinet Panel?
 
-Yes — a slimline pull-out larder unit reads as a plain filler panel until you pull the handle. Wickes sells a 15cm-wide pull-out larder carcass (~£45) designed to slot into the gap beside a fridge or oven housing; fit a matching door front and nobody clocks it as storage. [PERSONAL EXPERIENCE] I squeezed one into a 14cm gap next to my fridge in a Nottingham rental — it now holds oils, stock cubes, and tinned tomatoes, four shelves deep, and looks like a cladding panel when shut. Renters should check with the landlord before screwing the carcass to a cupboard side, but most units simply sit friction-fit between existing cabinetry, so no fixing into a wall is needed.
+Yes — a slimline pull-out larder unit reads as a plain filler panel until you pull the handle. Wickes sells a 15cm-wide pull-out larder carcass (~£45) designed to slot into the gap beside a fridge or oven housing; fit a matching door front and nobody clocks it as storage. I squeezed one into a 14cm gap next to my fridge in a Nottingham rental — it now holds oils, stock cubes, and tinned tomatoes, four shelves deep, and looks like a cladding panel when shut. Renters should check with the landlord before screwing the carcass to a cupboard side, but most units simply sit friction-fit between existing cabinetry, so no fixing into a wall is needed.
 
 ## 5. Stackable Tins Inside Tall Cupboards
 
@@ -71,7 +71,7 @@ A deep cupboard (over 30cm) hides spices behind the first row of tins. Fix a sli
 
 ## 9. Can a Hidden Plinth Drawer Under Your Cabinets Add Secret Storage?
 
-Yes — the toe-kick gap under most base units is dead space, and a plinth drawer turns it into a fully concealed shelf. B&Q sells a DIY kick-board drawer kit (~£32) that fits standard 15–18cm-high plinths and opens with a soft push-catch, so there's no visible handle. [PERSONAL EXPERIENCE] I fitted two along the run of base units in my Bristol kitchen — one holds baking trays, the other holds spare carrier bags and a rolling pin. Closed, they look identical to the rest of the plinth; nobody's ever noticed them on a viewing or an inspection. Measure your kick-board depth first: anything under 10cm won't clear a standard drawer runner.
+Yes — the toe-kick gap under most base units is dead space, and a plinth drawer turns it into a fully concealed shelf. B&Q sells a DIY kick-board drawer kit (~£32) that fits standard 15–18cm-high plinths and opens with a soft push-catch, so there's no visible handle. I fitted two along the run of base units in my Bristol kitchen — one holds baking trays, the other holds spare carrier bags and a rolling pin. Closed, they look identical to the rest of the plinth; nobody's ever noticed them on a viewing or an inspection. Measure your kick-board depth first: anything under 10cm won't clear a standard drawer runner.
 
 ## 10. Cupboard Bottom Pull-Out Trays
 
@@ -79,7 +79,7 @@ Deep cupboard shelves often mean bent knees and lost packets. Slide in a pull-ou
 
 ## 11. Can an Appliance Garage Hide Your Toaster and Kettle?
 
-Yes — an appliance garage with a tambour (roll-front) door tucks small appliances behind a shutter that matches your cabinet fronts. A basic DIY tambour kit (~£38 at Wickes) fits into a corner unit or end-of-run cabinet and rolls up and over, so the toaster disappears the moment breakfast's done. [UNIQUE INSIGHT] Most small-kitchen guides put appliances on open shelving for "aesthetic" reasons; in a genuinely tiny kitchen, hiding them behind a garage door frees more usable counter space than any organiser you could add on top of it. Fit one into a corner cupboard where a door already exists, and you won't lose any cupboard count, just the visible clutter.
+Yes — an appliance garage with a tambour (roll-front) door tucks small appliances behind a shutter that matches your cabinet fronts. A basic DIY tambour kit (~£38 at Wickes) fits into a corner unit or end-of-run cabinet and rolls up and over, so the toaster disappears the moment breakfast's done. Most small-kitchen guides put appliances on open shelving for "aesthetic" reasons; in a genuinely tiny kitchen, hiding them behind a garage door frees more usable counter space than any organiser you could add on top of it. Fit one into a corner cupboard where a door already exists, and you won't lose any cupboard count, just the visible clutter.
 
 ## 12. Can You Add a Drawer to the Back of a Pantry Door?
 

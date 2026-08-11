@@ -38,7 +38,7 @@ Scandinavian bedroom style works especially well in small UK flats because it's 
 
 Scandinavian bedroom style is built on four things: light wood tones, a neutral palette, natural texture, and almost nothing on display. Norwegian and Swedish interior traditions favour function over decoration ([IKEA Museum](https://ikeamuseum.com), ongoing archive), and that restraint is the whole point.
 
-[PERSONAL EXPERIENCE] When I first tried this look, I made the mistake of buying too many "Scandi" accessories at once. The style actually gets weaker the more objects you add. Fewer, better pieces work far better than a full shopping trolley of matching decor.
+When I first tried this look, I made the mistake of buying too many "Scandi" accessories at once. The style actually gets weaker the more objects you add. Fewer, better pieces work far better than a full shopping trolley of matching decor.
 
 The look leans on light, not colour, to do the work. That's a genuine advantage in a UK flat where a bright, well-placed lamp does more for the room than any accent wall.
 
@@ -65,7 +65,7 @@ A Scandi bedroom without texture reads as cold and bare rather than calm and min
 
 Texture comes from natural materials layered together: a chunky knit throw, a faux sheepskin rug underfoot, and linen curtains. None of these need to be expensive. A £25-£35 chunky knit throw from Dunelm or Amazon UK and a £15-£20 faux sheepskin rug do most of the work.
 
-[UNIQUE INSIGHT] Most people over-invest in wall art for this look and under-invest in floor and bed texture. In my experience, a sheepskin rug next to the bed changes the feel of a room more than any print on the wall, because it's the first thing you touch each morning.
+Most people over-invest in wall art for this look and under-invest in floor and bed texture. In my experience, a sheepskin rug next to the bed changes the feel of a room more than any print on the wall, because it's the first thing you touch each morning.
 
 ### Where to Add Texture Without Overdoing It
 
