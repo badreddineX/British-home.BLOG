@@ -1,7 +1,7 @@
 ---
 title: "Spring Home Refresh Ideas UK"
 description: "How to refresh your UK home for spring — lighter textiles, fresh colours, a proper declutter, and bringing nature inside. Practical ideas with UK prices."
-image: "/images/pexels-4846097.jpg"
+image: "/images/orange-tulips-glass-vase.jpg"
 datePublished: "2025-12-13"
 dateModified: "2026-07-25"
 author: "Badreddine"

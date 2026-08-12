@@ -1,7 +1,7 @@
 ---
 title: "Small Bedroom on a Budget UK: Under £150 Refresh"
 description: "A £150 small bedroom refresh for UK flats — bedding, lighting, a mirror, a rug, and wall art, with real prices from Dunelm, IKEA, Amazon, Wilko, and B&M."
-image: "/images/pexels-1454806.jpg"
+image: "/images/minimalist-bedroom-single-bed.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-08-10"
 author: "Badreddine"

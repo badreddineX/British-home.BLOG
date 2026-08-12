@@ -1,7 +1,7 @@
 ---
 title: "Small Bedroom Layout Ideas for Awkward UK Rooms"
 description: "Small bedroom layout ideas for the odd shapes UK flats throw at you: sloped ceilings, box rooms, L-shapes, one small window, chimney breasts."
-image: "/images/pexels-90317.jpg"
+image: "/images/bedroom-bedside-tables-neutral.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-08-10"
 author: "Badreddine"

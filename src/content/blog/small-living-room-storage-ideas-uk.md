@@ -1,7 +1,7 @@
 ---
 title: "Small Living Room Storage Ideas UK (No Fitted Furniture)"
 description: "12 small living room storage ideas for UK flats — no fitted furniture, all renter-friendly with real £ prices from IKEA, Argos, Dunelm and Amazon UK."
-image: "/images/pexels-1457842.jpg"
+image: "/images/cosy-home-library-bookshelves.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-08-10"
 author: "Badreddine"

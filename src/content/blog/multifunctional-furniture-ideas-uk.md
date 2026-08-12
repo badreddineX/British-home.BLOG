@@ -1,7 +1,7 @@
 ---
 title: "Smart Multifunctional Furniture for UK Rented Flats"
 description: "Discover affordable, deposit-safe multifunctional furniture for UK renters — from sofa beds to stacking desks — all under £250."
-image: "/images/pexels-1643383.jpg"
+image: "/images/sofa-bed-built-in-wardrobes.jpg"
 datePublished: "2026-07-30"
 dateModified: "2026-07-30"
 author: "Badreddine"

@@ -1,7 +1,7 @@
 ---
 title: "Opera-Inspired Living Room Ideas UK"
 description: "Create an opera-inspired living room with velvet textures and moody lighting on a UK budget — renter-friendly and DIY smart"
-image: "/images/pexels-1571453.jpg"
+image: "/images/dramatic-velvet-living-room.jpg"
 datePublished: "2026-07-30"
 dateModified: "2026-07-30"
 author: "Badreddine"

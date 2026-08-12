@@ -1,7 +1,7 @@
 ---
 title: "Scandi Bedroom Ideas for UK Homes"
 description: "Scandi bedroom ideas for small UK flats — light wood, layered textiles, and hygge lighting. Real IKEA product picks with £ prices, no fake stats."
-image: "/images/pexels-271624.jpg"
+image: "/images/scandinavian-bedroom-wooden-accents.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-08-10"
 author: "Badreddine"

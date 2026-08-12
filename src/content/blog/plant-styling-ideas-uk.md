@@ -1,7 +1,7 @@
 ---
 title: "5 Low-Light Apartment Plant Ideas That Thrive (UK)"
 description: "Low-light apartment plant ideas for UK renters – budget-friendly, no-damage styling ideas using real UK retailers like Dunelm and IKEA."
-image: "/images/pexels-1866149.jpg"
+image: "/images/kitchen-plants-dim-lighting.jpg"
 datePublished: "2026-07-30"
 dateModified: "2026-07-30"
 author: "Badreddine"

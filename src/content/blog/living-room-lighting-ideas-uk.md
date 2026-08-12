@@ -1,7 +1,7 @@
 ---
 title: "Living Room Lighting Ideas for UK Rentals (No Rewiring)"
 description: "Renter-friendly living room lighting upgrades for UK flats — plug-in lamps, LED strips, battery sconces, and smart bulbs. No rewiring, no deposit risk."
-image: "/images/pexels-1571453.jpg"
+image: "/images/armchair-task-lighting-corner.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-08-10"
 author: "Badreddine"
