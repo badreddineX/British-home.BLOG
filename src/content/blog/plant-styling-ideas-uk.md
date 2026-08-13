@@ -92,4 +92,5 @@ By November, most UK flats drop below 150 lux in key areas. That’s like a dim 
 Styling plants in a UK flat doesn’t need drilling, deep pockets, or sunny windows. It needs smart choices, like letting a ZZ plant sit proud on a £9.99 LACK table beside a mirror that bounces what little light we get. Do that, and your flat feels lived-in—even if the only thing growing is your confidence.
 
 → [Small living room ideas UK](/blog/small-living-room-ideas-uk/)  
-→ [Rented flat makeover UK](/blog/rented-flat-makeover-uk/)
+→ [Rented flat makeover UK](/blog/rented-flat-makeover-uk/)  
+→ [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) for where plants work best in the kitchen

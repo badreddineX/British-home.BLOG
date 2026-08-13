@@ -103,4 +103,5 @@ Technically, ceiling mounts require fixing — but tension rods offer a renter-s
 Multifunctional furniture is theRenters’ Toolkit — it’s flexible, affordable, and won’t cost you your deposit. With a little planning, you can create a home that grows with your life, not one that feels cramped or cluttered. Remember: when in doubt, measure twice and always ask your landlord — most are happy if you’re transparent and respectful.
 
 → [How to style a living room UK](/blog/how-to-style-a-living-room-uk/)  
-→ [Rented flat makeover UK](/blog/rented-flat-makeover-uk/)
+→ [Rented flat makeover UK](/blog/rented-flat-makeover-uk/)  
+→ [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) for the room multifunctional furniture doesn't reach

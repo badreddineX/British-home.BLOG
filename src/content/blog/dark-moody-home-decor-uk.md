@@ -180,3 +180,4 @@ The key for dark kitchens and bathrooms: ventilation and moisture-resistant pain
 
 → For specific paint palette ideas see [Living Room Colour Schemes That Work in British Light](/blog/living-room-colour-schemes-uk/).
 → For living room styling tips to complete the moody look see [21 Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
+→ Taking the dark, moody palette into the kitchen? See [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/).

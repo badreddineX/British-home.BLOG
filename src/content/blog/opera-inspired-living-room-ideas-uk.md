@@ -89,4 +89,5 @@ This is your big splurge — and worth it. I found a £129 vintage velvet armcha
 This isn’t about copying the Royal Opera House — it’s about inviting intimacy, texture, and light into your space, whether you’re renting a studio in Manchester or downsizing in Bath. Your living room doesn’t need a stage — it just needs a spotlight.
 
 → [Velvet Living Room UK: Budget Styling Tips](/blog/budget-home-makeover-uk/)  
-→ [Rented Flat Makeover UK: Damage-Free Drama](/blog/rented-flat-makeover-uk/)
+→ [Rented Flat Makeover UK: Damage-Free Drama](/blog/rented-flat-makeover-uk/)  
+→ [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) for the same dramatic-on-a-budget approach in the kitchen

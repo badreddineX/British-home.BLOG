@@ -155,3 +155,4 @@ Period-style pendant light — from ~£35 at Dunelm.
 
 → For broader home interior inspiration see [Home Interior Ideas UK](/blog/home-interior-ideas-uk/).
 → For a cosy home atmosphere guide see [Cosy Home Decor Ideas UK](/blog/cosy-home-decor-ideas-uk/).
+→ Restoring the kitchen too? See [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/).

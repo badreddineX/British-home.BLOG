@@ -173,3 +173,4 @@ Single-glazed Victorian windows lose significant heat through unlined curtains, 
 → For bedroom cosiness, see [Cosy Bedroom Ideas UK](/blog/cosy-bedroom-ideas-uk/).
 → Cosy at Christmas has its own extra layer of decorating — see [Christmas Home Decor Ideas UK](/blog/christmas-home-decor-ideas-uk/).
 → For more ideas across every room in the house, see [Home Decor Inspiration UK](/blog/home-decor-inspiration-uk/).
+→ For the kitchen, see [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) — the same layered, budget-first approach.

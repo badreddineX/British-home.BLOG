@@ -103,3 +103,5 @@ A rolling side table or cart (like Dunelm's compact metal cart, ~£18) uses vert
 6. **Vertical dividers inside existing cupboards** — low-cost, high-impact  
 
 Start in the zone where you're most frustrated — probably that hall cupboard, front door edge, or kitchen gap — and use just one vertical idea. You'll be shocked how much extra space opens up without spending a fortune or breaking a lease rule.
+
+→ For the kitchen specifically, see [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/).

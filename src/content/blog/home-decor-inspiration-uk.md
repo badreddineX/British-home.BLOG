@@ -173,3 +173,4 @@ Your taste is consistent in ways you might not consciously recognise. A physical
 
 → For British living room ideas at every budget see [21 Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
 → For colour palette decisions specific to British light see [Living Room Colour Schemes That Work in British Light](/blog/living-room-colour-schemes-uk/).
+→ For the room that changes a home the most, see [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/).

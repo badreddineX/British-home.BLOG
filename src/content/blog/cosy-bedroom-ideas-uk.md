@@ -320,6 +320,6 @@ A cosy bedroom isn't a style choice. It's a sleep environment choice, and the tw
 
 You don't need fourteen new things. Pick the two or three ideas from this list that are obviously missing from your room right now. Switch the light off. Buy a throw. Raise the curtain rod. Live with those changes for a week and see how the room feels. Then add the next layer.
 
-If you're starting from scratch with a whole room, the [bedroom decor ideas UK guide](/blog/bedroom-decor-ideas-uk/) walks through everything from furniture layout to colour choices.
+If you're starting from scratch with a whole room, the [bedroom decor ideas UK guide](/blog/bedroom-decor-ideas-uk/) walks through everything from furniture layout to colour choices. And if the kitchen needs the same treatment, [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) is the most-read guide on the site.
 
 Your bedroom should be the room in the house you most want to be in. These fourteen ideas will get you there.

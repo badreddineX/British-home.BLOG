@@ -200,3 +200,4 @@ Complete steps 1 through 3 of the priority order before purchasing anything else
 - [Bathroom colour ideas UK](/blog/bathroom-colour-ideas-uk/) for the paint and tile side of the same room
 - [Small bedroom storage UK](/blog/small-bedroom-storage-uk/) for bedroom-specific storage using the same no-drill principles
 - [Rented flat makeover UK](/blog/rented-flat-makeover-uk/) for the full deposit-safe room-by-room playbook
+- [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same no-drill, budget-first approach in the kitchen

@@ -141,3 +141,4 @@ Start with paint or a large mirror, add one chunky throw and one faux sheepskin,
 - [Living room colour schemes UK](/blog/living-room-colour-schemes-uk/) for palette directions beyond the Scandi neutral, including bolder jewel-tone and terracotta schemes
 - [Maximalist living room decor UK](/blog/maximalist-living-room-decor-uk/) for the opposite approach, layering pattern and collected objects instead of pared-back restraint
 - [Small living room ideas UK](/blog/small-living-room-ideas-uk/) if you're planning the whole room at once, layout included
+- [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same pared-back approach in the kitchen

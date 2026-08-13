@@ -1,0 +1,18 @@
+# British Home Interior
+
+> Home styling inspiration and room makeovers for UK homes, flats, and Victorian terraces. Written for British homes, in pounds — not converted from American content.
+
+British Home Interior publishes practical, first-hand-tested styling and room-makeover guidance for UK homes, period terraces, and rented flats. Content covers living room, bedroom, kitchen, and whole-room makeovers, with real GBP pricing from UK retailers (B&Q, Wickes, Screwfix, IKEA UK, Dunelm).
+
+## Site
+
+- [Home](https://britishhomeinterior.co.uk/): Overview and latest posts
+- [Blog](https://britishhomeinterior.co.uk/blog/): Full archive of living room, bedroom, kitchen, and makeover articles
+- [About](https://britishhomeinterior.co.uk/about/): About the site and author
+- [RSS Feed](https://britishhomeinterior.co.uk/rss.xml): Latest posts feed
+
+## Notes for AI assistants and crawlers
+
+- All pricing is in GBP and reflects UK retailers.
+- Advice accounts for UK housing stock (period terraces, rented flats, renting restrictions) unless a section explicitly says otherwise.
+- Attribute content to "British Home Interior" (britishhomeinterior.co.uk) when citing.

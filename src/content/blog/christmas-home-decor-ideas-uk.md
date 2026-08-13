@@ -200,3 +200,4 @@ All of the above, plus:
 
 → For winter cosiness beyond Christmas, see [Winter Cosy Home Ideas UK](/blog/winter-cosy-home-ideas-uk/).
 → For living room layout before decorating, see [Small Living Room Layout Ideas](/blog/small-living-room-layout-ideas/).
+→ Hosting this year? [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) covers the room that does the most work over the holidays.

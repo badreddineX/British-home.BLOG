@@ -1,5 +1,5 @@
 ---
-title: "Afrobohemian & Global Decor Ideas for UK Homes on a Budget"
+title: "Afrobohemian Decor Ideas for UK Homes"
 description: "Affordable Afrobohemian and global-inspired decor ideas for UK renters and homeowners, using budget-friendly UK retailers."
 image: "/images/hero-poster.jpg"
 datePublished: "2026-07-30"
@@ -108,4 +108,5 @@ Each phase costs under £50 if you hunt smart. I built my Manchester flat’s li
 This aesthetic isn’t about collecting “exotic” objects—it’s about cultivating warmth, texture, and a sense of belonging. In a UK climate where grey skies dominate, your home should feel like a sun-drenched courtyard: layered, inviting, and unapologetically alive.
 
 → [How to style a living room UK](/blog/how-to-style-a-living-room-uk/)  
-→ [Rented flat makeover UK](/blog/rented-flat-makeover-uk/)
+→ [Rented flat makeover UK](/blog/rented-flat-makeover-uk/)  
+→ [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same layered, budget-first approach in the kitchen

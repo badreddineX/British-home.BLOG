@@ -2,6 +2,7 @@
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 import SEO from '../components/SEO.astro';
+import FAQ from '../components/FAQ.astro';
 import '../styles/global.css';
 import { getCollection } from 'astro:content';
 
@@ -291,6 +292,23 @@ const featuredImg  = (img: string) => img.replace('/images/', '/images/featured/
         <div class="all-blogs-wrap">
           <a href="/blog/" class="all-blogs-btn">View All Blogs</a>
         </div>
+      </div>
+
+      <div class="page-wrap">
+        <FAQ questions={[
+          {
+            q: "Who is British Home Interior for?",
+            a: "Anyone styling a British home — period terraces, new-build flats, and rented rooms alike. Every guide uses UK retailers, prices in pounds, and accounts for renting restrictions rather than assuming you own the place."
+          },
+          {
+            q: "Are the prices shown in GBP?",
+            a: "Yes, always in pounds, sourced from UK retailers. Nothing is converted from dollars, so the prices reflect what you'd actually pay shopping in the UK."
+          },
+          {
+            q: "What's the best place to start on a tight budget?",
+            a: "The kitchen on a budget guide is the most-read post on the site — a full room transformation under £200, with real before-and-afters."
+          }
+        ]} />
       </div>
 
       <!-- ====== MOOD BOARD ANIMATION ====== -->

@@ -118,3 +118,4 @@ Once the bed and wardrobe positions are settled, smaller changes (floating night
 - [Small bedroom storage ideas UK](/blog/small-bedroom-storage-uk/) for the storage side once the layout is settled
 - [Bedroom makeover UK](/blog/bedroom-makeover-uk/) if you're planning the whole room, layout included
 - [Bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk/) for making an awkward shape feel bigger through colour once the furniture is in place
+- [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same space-planning-first approach in the kitchen

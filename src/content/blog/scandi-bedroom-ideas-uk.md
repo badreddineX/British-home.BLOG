@@ -152,4 +152,5 @@ Scandi bedroom style suits small UK flats because it works with light rather tha
 - [Bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk/) for the full range of Scandi-friendly wall colours
 - [Cottagecore bedroom decor ideas UK](/blog/cottagecore-bedroom-ideas-uk/) if you want a warmer, busier alternative to the Scandi look
 - [Small bedroom storage ideas UK](/blog/small-bedroom-storage-uk/) for keeping surfaces genuinely clear once the style is in place
+- [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same Scandi-friendly, budget-first approach in the kitchen
 </content>

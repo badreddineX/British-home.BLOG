@@ -166,3 +166,4 @@ The stop test costs nothing. Schedule 30 minutes to walk through and apply it ri
 | 6 | Apply the stop test and edit | Free |
 
 → For living room styling principles see [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/).
+→ Taking maximalism into the kitchen? See [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/).

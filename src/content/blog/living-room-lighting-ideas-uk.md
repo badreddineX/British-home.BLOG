@@ -142,3 +142,4 @@ Lighting is the cheapest, fastest way to change how a rented living room feels, 
 - [How to style a living room UK](/blog/how-to-style-a-living-room-uk/) for layout and furniture placement once your lighting is sorted
 - [Living room colour schemes UK](/blog/living-room-colour-schemes-uk/) to pick a palette that reads well under warm light
 - [Small living room ideas UK](/blog/small-living-room-ideas-uk/) if you're tackling the whole room, not just lighting
+- [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same warm-lighting-first approach in the kitchen

@@ -136,3 +136,4 @@ None of these changes need a landlord's permission or a drill. Start with Comman
 - [Renter-friendly gallery wall ideas UK](/blog/renter-friendly-gallery-wall-ideas-uk/) for a full layout guide once you've got your Command strips
 - [Bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/) for colour and styling once the no-damage basics are in place
 - [Small bedroom storage ideas UK](/blog/small-bedroom-storage-uk/) for the storage side of a rented bedroom
+- [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same no-damage approach in the kitchen

@@ -154,5 +154,6 @@ Every change on this list shares the same test: does it come off clean, and does
 
 - [Renter-friendly gallery wall ideas UK](/blog/renter-friendly-gallery-wall-ideas-uk/) for hanging art without drilling, in more detail
 - [How to style a living room UK](/blog/how-to-style-a-living-room-uk/) once the deposit-safe basics are in place
+- [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same renter-safe approach in the kitchen
 </content>
 </invoke>

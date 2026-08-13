@@ -142,3 +142,4 @@ A small UK living room doesn't need a full renovation to feel noticeably better.
 
 - [Living room colour schemes UK](/blog/living-room-colour-schemes-uk/) for choosing a palette before you buy cushions or a rug
 - [How to style a living room UK](/blog/how-to-style-a-living-room-uk/) for arranging everything once it's all in the room
+- [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same under-£200 approach in the kitchen

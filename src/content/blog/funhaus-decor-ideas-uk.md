@@ -1,5 +1,5 @@
 ---
-title: "FunHaus Decor Ideas UK: Bold, Renter-Friendly Furnishings"
+title: "FunHaus Decor Ideas UK"
 description: "FunHaus is the 2026 trend for renters: bold personality in rugs, cushions and lamps, nothing fixed. Full UK shopping list with real £ prices."
 image: "/images/patchwork-armchair-gallery-wall.jpg"
 datePublished: "2026-08-10"
@@ -133,3 +133,4 @@ Don't rush all six items at once. Buy the rug first, live with it for a week, th
 
 - [Renter-friendly living room ideas UK](/blog/renter-friendly-living-room-ideas-uk/) for the wider toolkit of no-drill, deposit-safe decor tricks
 - [Maximalist living room decor UK](/blog/maximalist-living-room-decor-uk/) for the colour and pattern-mixing principles behind FunHaus
+- [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same low-risk, budget-first approach in the kitchen

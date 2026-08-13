@@ -180,3 +180,4 @@ This same sequence — declutter, clean, swap textiles, refresh — is what's no
 
 → For colour inspiration, see [Living Room Colour Schemes UK](/blog/living-room-colour-schemes-uk/).
 → For the full room styling picture, see [Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
+→ Refreshing the kitchen too? See [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/).

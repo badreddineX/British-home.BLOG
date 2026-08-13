@@ -245,4 +245,4 @@ See our full [rented home decor ideas UK](/blog/rented-flat-makeover-uk/) guide 
 
 The hallway doesn't need a renovation to feel like a proper part of your home. Paint and lighting cost under £70 combined and do more than any piece of furniture ever will. Get those right first, then add the mirror, the hooks, and the slim console. What was a dumping corridor becomes the room that sets the tone for everything behind it.
 
-For the rooms beyond the hallway, see our [living room ideas UK](/blog/small-living-room-ideas-uk/) and [bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/) guides. Renters should read [rented home decor ideas UK](/blog/rented-flat-makeover-uk/) before spending anything.
+For the rooms beyond the hallway, see our [living room ideas UK](/blog/small-living-room-ideas-uk/) and [bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/) guides. Renters should read [rented home decor ideas UK](/blog/rented-flat-makeover-uk/) before spending anything. And at the end of the hall, [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) is the most-read guide on the site.

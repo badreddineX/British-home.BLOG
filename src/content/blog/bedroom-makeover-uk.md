@@ -285,3 +285,5 @@ The first four changes on this list cost between nothing and £80 and produce th
 For a deeper guide to bedroom colour, headboards, and styling decisions, see the full [Bedroom Decor Ideas UK](/blog/bedroom-decor-ideas-uk/) guide.
 
 For everything that makes a bedroom feel genuinely cosy rather than just tidy, see [Cosy Bedroom Decor Ideas UK](/blog/cosy-bedroom-ideas-uk/).
+
+Doing the whole home? [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) is the most-read makeover guide on the site.

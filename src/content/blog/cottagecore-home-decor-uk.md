@@ -175,3 +175,4 @@ Dried eucalyptus bundle for bedroom display — from ~£6 at Dunelm.
 
 → For cottagecore bedroom ideas specifically see [Cottagecore Bedroom Ideas UK](/blog/cottagecore-bedroom-ideas-uk/).
 → For broader cosy home styling see [Cosy Home Decor Ideas UK](/blog/cosy-home-decor-ideas-uk/).
+→ For the kitchen see [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/), the most-read guide on the site.

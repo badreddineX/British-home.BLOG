@@ -150,3 +150,4 @@ Do the five steps in order, bedding, lighting, mirror, rug, wall art, and stop w
 - [Small bedroom storage ideas UK](/blog/small-bedroom-storage-uk/) to pair with this refresh once the visual side is sorted
 - [Bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk/) if you're choosing a wall colour or bedding shade before you shop
 - [Bedroom makeover UK](/blog/bedroom-makeover-uk/) for a fuller room-by-room approach beyond the £150 refresh
+- [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same under-£200 approach in the kitchen

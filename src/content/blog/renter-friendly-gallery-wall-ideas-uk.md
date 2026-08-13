@@ -1,5 +1,5 @@
 ---
-title: "Renter-Friendly Gallery Wall Ideas UK (No Nails, No Damage)"
+title: "Renter-Friendly Gallery Wall Ideas UK"
 description: "Create a stylish gallery wall in your UK rental without nails or damage—peel-and-stick, adhesive, and tension rod options under £50."
 image: "/images/bedroom-makeover-gallery-wall.jpg"
 datePublished: "2026-07-30"
@@ -85,4 +85,5 @@ Adhesive hooks collect dust and lose grip over time. Every 3 months, remove them
 You don’t need to sacrifice style for safety. With careful planning and a few quid’s worth of adhesive, your rented flat can feel like *yours*—without the fear of losing your deposit. I’ve walked through inspection rooms expecting trouble, only to be told, “This looks fantastic—keep it.”
 
 → [Renter-Friendly Flat Makeover UK](/blog/rented-flat-makeover-uk/)  
-→ [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/)
+→ [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/)  
+→ [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) for the deposit-safe approach in the kitchen

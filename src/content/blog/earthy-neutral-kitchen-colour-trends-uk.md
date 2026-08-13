@@ -112,4 +112,5 @@ If you’re renting, focus on non-permanent changes: peel-and-stick tiles, Comma
 Earthy neutral two-tone kitchens in 2026 aren’t about copying influencers — they’re about warmth, practicality, and making your space feel rooted in real life, not trends. And if you’re renting? You can do it all without losing your deposit.
 
 → [How to style a living room UK with earthy tones](/blog/how-to-style-a-living-room-uk/)  
-→ [Rented flat kitchen makeover UK](/blog/rented-flat-makeover-uk/)
+→ [Rented flat kitchen makeover UK](/blog/rented-flat-makeover-uk/)  
+→ [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) for the full room transformation, not just the colour palette

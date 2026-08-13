@@ -170,3 +170,4 @@ Pots matter as much as plants. Terracotta, stone-effect, or matte ceramic pots f
 
 → For colour guidance, see [Living Room Colour Schemes UK](/blog/living-room-colour-schemes-uk/).
 → For the full living room picture, see [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/).
+→ For the same modern, pared-back approach in the kitchen, see [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/).

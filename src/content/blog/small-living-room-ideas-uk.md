@@ -201,3 +201,4 @@ Cost: nothing. Set aside an hour to edit without adding anything.
 → For budget-specific ideas see [Living Room on a Budget UK](/blog/budget-home-makeover-uk/).
 → Want a softer, romantic look instead? [Cottagecore home decor ideas](/blog/cottagecore-home-decor-uk/) covers that style direction.
 → Prefer bold and layered over minimal? [Maximalist living room decor](/blog/maximalist-living-room-decor-uk/) is the opposite approach, done properly.
+→ Ready for the kitchen? [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) is the most-read guide on the site.
