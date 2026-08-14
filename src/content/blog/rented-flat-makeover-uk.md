@@ -266,3 +266,4 @@ Surface styling is entirely free. It typically produces a larger visible improve
 
 → For ideas on making a small rented living room work harder see [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
 → For the bathroom specifically, [bathroom storage ideas UK](/blog/bathroom-storage-ideas-uk/) covers no-drill solutions sized for tiny rental bathrooms. And for the kitchen, [small kitchen storage ideas on a budget](/blog/small-kitchen-storage-ideas-budget-uk/) does the same for cramped rental kitchens.
+→ Running out of floor space across the whole flat? [12 vertical storage ideas for small UK flats](/blog/vertical-storage-ideas-uk-flats/) covers wall-mounted, deposit-safe storage for every room.

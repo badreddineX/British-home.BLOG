@@ -151,3 +151,4 @@ The first three steps cost under £30 combined and solve the storage problems th
 
 - [Kitchen on a Budget UK: 14 Ideas](/blog/kitchen-on-a-budget-uk/) for a full budget refresh once storage is sorted
 - [Kitchen Decor Ideas UK](/blog/kitchen-decor-ideas-uk/) for the styling layer, separate from pure storage
+- [12 Vertical Storage Ideas for Small UK Flats](/blog/vertical-storage-ideas-uk-flats/) for wall-mounted, no-drill storage that works beyond the kitchen too

@@ -8,6 +8,9 @@ author: "Badreddine"
 tags: ["small bathroom storage UK", "small bathroom storage ideas uk", "bathroom storage solutions uk", "bathroom storage ideas UK", "renter-friendly bathroom UK", "no drill storage UK"]
 featured: false
 category: "Room Makeovers"
+relatedPosts:
+  - "vertical-storage-ideas-uk-flats"
+  - "small-bedroom-storage-uk"
 readTime: "8 min read"
 excerpt: "12 no-drill bathroom storage ideas for small UK rentals, with real £ prices from Amazon UK, IKEA, and Dunelm — under £180 for the full setup."
 tldr:
@@ -194,6 +197,8 @@ Two people sharing a small flat bathroom doubles the product count and the frict
 ---
 
 Complete steps 1 through 3 of the priority order before purchasing anything else. The over-toilet shelf alone typically solves 50% of the clutter problem in a small UK flat bathroom.
+
+Running out of floor and cabinet space elsewhere in the flat too? [12 vertical storage ideas for small UK flats](/blog/vertical-storage-ideas-uk-flats) covers the same wall-mounted, no-drill approach for every other room.
 
 **Related reading you might find useful:**
 
