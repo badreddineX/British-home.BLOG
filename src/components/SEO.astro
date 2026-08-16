@@ -68,9 +68,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <title>{pageTitle}</title>
 <meta name="description" content={description} />
-<meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow'} />
+<meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'} />
 {!noindex && <link rel="canonical" href={fullUrl} />}
 <link rel="alternate" type="application/rss+xml" title="British Home Interior" href="/rss.xml" />
+<link rel="alternate" type="text/plain" href="/llms.txt" title="LLMs.txt" />
 <meta name="language" content="en-GB" />
 
 <!-- Pinterest domain verification -->
@@ -179,6 +180,7 @@ window.addEventListener('error', function (e) {
 <script type="application/ld+json" set:html={JSON.stringify({
   "@context": "https://schema.org",
   "@type": "Organization",
+  "@id": `${siteUrl}/#organization`,
   "name": "British Home Interior",
   "url": siteUrl,
   "logo": `${siteUrl}/logo.svg`,

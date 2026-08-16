@@ -1,0 +1,4 @@
+Contact: mailto:hello@britishhomeinterior.co.uk
+Expires: 2027-08-16T00:00:00.000Z
+Canonical: https://britishhomeinterior.co.uk/.well-known/security.txt
+Preferred-Languages: en
