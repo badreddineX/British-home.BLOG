@@ -148,3 +148,4 @@ Complete the first two steps of the priority order, the storage ottoman and floa
 - [Small living room layout ideas UK](/blog/small-living-room-layout-ideas/) if you haven't settled on furniture placement yet, worth doing before buying storage pieces
 - [Small bedroom storage UK](/blog/small-bedroom-storage-uk/) for the same renter-friendly approach applied to the bedroom
 - [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same renter-friendly approach applied to the kitchen
+- [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/) for the full styling sequence this storage fits into

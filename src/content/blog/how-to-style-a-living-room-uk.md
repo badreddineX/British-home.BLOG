@@ -3,7 +3,7 @@ title: "How to Style a Living Room UK"
 description: "How to style a living room in the UK from scratch — focal points, furniture layout, lighting layers, and textiles. Practical steps with UK retailer prices."
 image: "/images/pexels-2082087.jpg"
 datePublished: "2025-10-07"
-dateModified: "2026-07-25"
+dateModified: "2026-08-16"
 author: "Badreddine"
 tags: ["how to style a living room UK", "living room styling ideas", "how to decorate a living room uk", "living room styling tips UK", "living room layout UK", "living room decor UK", "British interior styling"]
 featured: false
@@ -191,3 +191,19 @@ Local garden centres and IKEA both offer good value on common houseplants. The R
 → For a cleaner, pared-back take on the same principles, see [Modern Home Interior UK](/blog/modern-home-interior-uk/).
 → Need ideas across the whole house, not just the living room? See [Home Decor Inspiration UK](/blog/home-decor-inspiration-uk/).
 → Ready for the kitchen? [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) is the most-read guide on the site.
+
+## Living Room Guides for Every Style and Situation
+
+Want to go deeper on one part of the room, or apply a specific style once the fundamentals above are in place? These cover it in full:
+
+- [Living Room Lighting Ideas for UK Rentals (No Rewiring)](/blog/living-room-lighting-ideas-uk/) — the full version of step 5's lighting layer
+- [11 Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/) — space-specific inspiration if your room is genuinely tight
+- [Small Living Room Storage Ideas UK (No Fitted Furniture)](/blog/small-living-room-storage-ideas-uk/) — for rooms that need to double as storage
+- [Small Living Room on a Budget UK: Under £150 Refresh](/blog/small-living-room-budget-uk/) — if the £65–£195 rug budget above is too high right now
+- [Renter-Friendly Living Room Ideas UK (No Permission)](/blog/renter-friendly-living-room-ideas-uk/) — every idea here confirmed deposit-safe
+- [Scandi Living Room Ideas for UK Homes](/blog/scandi-living-room-ideas-uk/) — a specific, pared-back style direction
+- [Soft Minimalism Living Room Ideas for UK Homes](/blog/soft-minimalism-living-room-ideas-uk/) — a warmer alternative to strict Scandi minimalism
+- [Maximalist Living Room Decor UK](/blog/maximalist-living-room-decor-uk/) — the opposite direction, for rooms built around pattern and colour
+- [Opera-Inspired Living Room Ideas UK](/blog/opera-inspired-living-room-ideas-uk/) — a bold, dramatic style direction for a room with real character
+
+Doing the whole flat? [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) applies the same deposit-safe principles to every other room.

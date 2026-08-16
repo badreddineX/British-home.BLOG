@@ -120,3 +120,4 @@ Soft minimalism gives a small UK living room the calm of minimalism without the 
 - [Scandi living room ideas UK](/blog/scandi-living-room-ideas-uk/) if you want the cooler, more graphic alternative to soft minimalism
 - [Small living room ideas UK](/blog/small-living-room-ideas-uk/) for layout and space-planning basics before you start decorating
 - [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same soft-minimalist approach in the kitchen
+- [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/) for the layering fundamentals this style is built on

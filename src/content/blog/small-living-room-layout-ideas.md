@@ -324,3 +324,4 @@ Aim for at least 30% visible floor in any small living room arrangement. If you 
 → For small living room decorating ideas beyond layout see [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
 → For broader living room styling advice see [Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
 → Planning the kitchen layout too? See [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/).
+→ For the full room-styling sequence layout fits into, see [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/).
