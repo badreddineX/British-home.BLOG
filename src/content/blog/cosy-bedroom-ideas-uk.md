@@ -322,4 +322,6 @@ You don't need fourteen new things. Pick the two or three ideas from this list t
 
 If you're starting from scratch with a whole room, the [bedroom decor ideas UK guide](/blog/bedroom-decor-ideas-uk/) walks through everything from furniture layout to colour choices. And if the kitchen needs the same treatment, [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) is the most-read guide on the site.
 
+For the full 13-step room makeover these cosy touches build on, see [Bedroom Makeover Ideas UK](/blog/bedroom-makeover-uk/).
+
 Your bedroom should be the room in the house you most want to be in. These fourteen ideas will get you there.

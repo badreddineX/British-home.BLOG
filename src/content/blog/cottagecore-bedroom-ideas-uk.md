@@ -180,3 +180,4 @@ I've built most of my cottagecore displays from charity shop finds. The stonewar
 → For warm bedroom lighting ideas see [15 Cosy Bedroom Ideas for UK Homes](/blog/cosy-bedroom-ideas-uk/).
 → For bedroom colour palette guidance see [Bedroom Colour Ideas UK](/blog/bedroom-colour-ideas-uk/).
 → For the same cottagecore warmth in the kitchen see [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/).
+→ For the full room makeover sequence this style layers onto, see [13 Bedroom Makeover Ideas UK](/blog/bedroom-makeover-uk/).

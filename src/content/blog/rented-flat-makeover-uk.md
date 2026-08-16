@@ -3,7 +3,7 @@ title: "Rented Flat Makeover UK"
 description: "How to transform a rented flat without losing your deposit — 12 reversible changes covering every room, with UK product picks under £200 total."
 image: "/images/pexels-1643383.jpg"
 datePublished: "2025-12-12"
-dateModified: "2026-07-25"
+dateModified: "2026-08-16"
 author: "Badreddine"
 tags: ["rented flat makeover UK", "rented flat ideas uk", "renter decor ideas uk", "rental makeover UK", "rented home decor UK", "tenant home decor UK"]
 featured: false
@@ -264,6 +264,7 @@ Surface styling is entirely free. It typically produces a larger visible improve
 | 11 | Add 3-5 plants (real or faux) | ~£20-£50 | None |
 | 12 | Surface styling and scent | ~£10-£25 | None |
 
-→ For ideas on making a small rented living room work harder see [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
-→ For the bathroom specifically, [bathroom storage ideas UK](/blog/bathroom-storage-ideas-uk/) covers no-drill solutions sized for tiny rental bathrooms. And for the kitchen, [small kitchen storage ideas on a budget](/blog/small-kitchen-storage-ideas-budget-uk/) does the same for cramped rental kitchens.
-→ Running out of floor space across the whole flat? [12 vertical storage ideas for small UK flats](/blog/vertical-storage-ideas-uk-flats/) covers wall-mounted, deposit-safe storage for every room.
+→ For ideas on making a small rented living room work harder see [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/) or [Renter-Friendly Living Room Ideas UK (No Permission)](/blog/renter-friendly-living-room-ideas-uk/).
+→ For the bathroom specifically, [bathroom storage ideas UK](/blog/bathroom-storage-ideas-uk/) covers no-drill solutions sized for tiny rental bathrooms. And for the kitchen, [small kitchen storage ideas on a budget](/blog/small-kitchen-storage-ideas-budget-uk/) and [Rental Kitchen Upgrade Ideas UK (No Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/) do the same for cramped rental kitchens.
+→ Running out of floor space across the whole flat? [12 vertical storage ideas for small UK flats](/blog/vertical-storage-ideas-uk-flats/) covers wall-mounted, deposit-safe storage for every room, and [Smart Multifunctional Furniture for UK Rented Flats](/blog/multifunctional-furniture-ideas-uk/) covers furniture that does double duty in a small footprint.
+→ Building a gallery wall as part of this makeover? [Renter-Friendly Gallery Wall Ideas UK](/blog/renter-friendly-gallery-wall-ideas-uk/) has the full layout guide for step 7.

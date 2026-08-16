@@ -3,7 +3,7 @@ title: "13 Bedroom Makeover Ideas UK"
 description: "13 bedroom makeover ideas for UK homes — from new bedding and lighting to paint colours and furniture arrangement. All achievable without a full renovation."
 image: "/images/scandi-bedroom-natural-light.jpg"
 datePublished: "2026-01-18"
-dateModified: "2026-07-25"
+dateModified: "2026-08-16"
 author: "Badreddine"
 tags: ["bedroom makeover UK", "bedroom makeover ideas", "bedroom transformation", "bedroom transformation UK", "bedroom decor UK", "bedroom refresh ideas UK"]
 featured: false
@@ -286,4 +286,17 @@ For a deeper guide to bedroom colour, headboards, and styling decisions, see the
 
 For everything that makes a bedroom feel genuinely cosy rather than just tidy, see [Cosy Bedroom Decor Ideas UK](/blog/cosy-bedroom-ideas-uk/).
 
-Doing the whole home? [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) is the most-read makeover guide on the site.
+## Bedroom Guides for Every Situation
+
+Want to go deeper on one specific part of the bedroom? These cover one angle in full detail:
+
+- [Bedroom Colour Ideas UK](/blog/bedroom-colour-ideas-uk/) — the full paint colour breakdown referenced in step 4
+- [Bedroom Lighting Ideas for UK Rentals](/blog/bedroom-lighting-ideas-uk/) — going further than the lamp swap in step 2
+- [Small Bedroom Storage Ideas UK](/blog/small-bedroom-storage-uk/) — the full storage system for step 11
+- [Small Bedroom Layout Ideas for Awkward UK Rooms](/blog/small-bedroom-layout-ideas-uk/) — for the furniture rearrange in step 3
+- [Small Bedroom on a Budget UK: Under £150 Refresh](/blog/small-bedroom-budget-uk/) — if you're working with a tighter total budget than this guide
+- [Renter-Friendly Bedroom Ideas UK (No Nails, No Damage)](/blog/renter-friendly-bedroom-ideas-uk/) — every change on this list confirmed deposit-safe
+- [Scandi Bedroom Ideas for UK Homes](/blog/scandi-bedroom-ideas-uk/) — a specific style direction to apply once the fundamentals are done
+- [Cottagecore Bedroom Decor Ideas UK](/blog/cottagecore-bedroom-ideas-uk/) — another style direction, warmer and more layered than Scandi
+
+Doing the whole home? [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) is the most-read makeover guide on the site, and [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) covers every other room with the same deposit-safe approach.

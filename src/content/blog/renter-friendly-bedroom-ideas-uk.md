@@ -137,3 +137,5 @@ None of these changes need a landlord's permission or a drill. Start with Comman
 - [Bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/) for colour and styling once the no-damage basics are in place
 - [Small bedroom storage ideas UK](/blog/small-bedroom-storage-uk/) for the storage side of a rented bedroom
 - [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same no-damage approach in the kitchen
+- [13 Bedroom Makeover Ideas UK](/blog/bedroom-makeover-uk/) for the full makeover sequence these no-damage basics fit into
+- [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) for the same deposit-safe approach applied to every other room
