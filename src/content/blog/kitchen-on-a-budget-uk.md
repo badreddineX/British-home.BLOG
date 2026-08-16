@@ -3,7 +3,7 @@ title: "Cheap Kitchen Makeover UK: 14 Affordable Ideas"
 description: "14 cheap, affordable kitchen upgrades for UK homes under £500 — paint cabinets, swap handles, add shelving, refresh worktops. Real costs from B&Q, IKEA, Wickes."
 image: "/images/pexels-1080721.jpg"
 datePublished: "2025-11-01"
-dateModified: "2026-08-06"
+dateModified: "2026-08-16"
 author: "Badreddine"
 tags: ["cheap kitchen UK", "cheap kitchen", "affordable kitchen", "affordable kitchen UK", "affordable kitchen renovations", "budget kitchens", "kitchen makeover budget", "kitchen on a budget UK", "budget kitchen ideas UK", "kitchen upgrade UK", "cheap kitchen makeover UK"]
 featured: false
@@ -230,6 +230,16 @@ In my own kitchen refresh, adding a basil plant, a wooden board, and removing al
 ---
 
 Read more: [living room budget ideas UK](/blog/budget-home-makeover-uk/)
+
+## Renting? What You Can Change Without Losing Your Deposit
+
+Most of the changes above are safe for renters, but a few need a second look before you start — UK tenancy deposit schemes typically require the property returned to its original state, so anything permanent is a real risk, not just a formality.
+
+Fully reversible, no landlord permission needed: painting cabinet doors (repaint or revert before move-out), swapping handles (keep the originals in a bag to refit later), a peel-and-stick splashback (removes clean), a washable runner rug, worktop wrap film, and any of the styling/decluttering steps. These cover most of the visual impact on this list without touching anything structural.
+
+Needs a quick conversation with your landlord first: replacing taps or the sink (plumbing changes), and drilling for wall-mounted shelving like the Boaxel system — most letting agents are fine with this if you offer to patch and repaint before you leave, but get it in writing rather than assuming.
+
+If your kitchen situation is specifically a rented flat and you want the full no-permission-needed version of this list — including how to store your original fittings for a stress-free move-out — see [Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/).
 
 ## Where to Start: A Priority Table
 
