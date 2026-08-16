@@ -143,6 +143,8 @@ Layering works because it creates depth, which creates interest, which creates t
 | Materials | Smooth ceramic + rough jute + soft velvet + matte wood |
 | Living things | One large plant + smaller plants + cut flowers in a vase |
 
+For more on choosing and arranging the plants themselves, see our [plant styling ideas](/blog/plant-styling-ideas-uk/) guide.
+
 ---
 
 ## 6. Why Are Heavy Curtains the British Cosiness Non-Negotiable?

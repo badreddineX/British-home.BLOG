@@ -61,7 +61,7 @@ A plug-in pendant hangs from a ceiling hook and runs a fabric-covered cable down
 
 Dunelm stocks plug-in pendants from ~£22. Next Home has a wider design range from ~£25. John Lewis carries more premium options from ~£45.
 
-Fit these in the living room and bedroom at minimum. A 2700K bulb inside a fabric or rattan shade creates the kind of light that makes a room feel welcoming the moment you walk in.
+Fit these in the living room and bedroom at minimum. A 2700K bulb inside a fabric or rattan shade creates the kind of light that makes a room feel welcoming the moment you walk in. For more deposit-safe changes specific to the bedroom, see our [renter-friendly bedroom ideas](/blog/renter-friendly-bedroom-ideas-uk/) guide.
 
 Plug-in pendant light — from ~£22 at Dunelm. One in the living room, one in the bedroom, transforms both.
 

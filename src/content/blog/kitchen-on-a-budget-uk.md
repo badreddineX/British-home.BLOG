@@ -13,7 +13,7 @@ excerpt: "14 ways to upgrade a UK kitchen without a full renovation — from cab
 tldr:
   - "Painting kitchen cabinet doors costs £30–£60 in paint and transforms the whole kitchen — Rust-Oleum Kitchen Cupboard Paint is the most durable option."
   - "Swapping handles is a 30-minute job costing £15–£40 that makes budget flatpack kitchens look custom."
-  - "Open shelving from IKEA Boaxel costs under £50 and adds storage and character without touching the existing layout."
+  - "Open shelving from IKEA Boaxel costs under £50 and adds storage and character without touching the existing layout. If you have the floor space, a freestanding island (see our [small kitchen island ideas](/blog/small-kitchen-island-ideas-uk/) guide) adds even more without any building work."
   - "New taps (from £45 at B&Q) and a peel-and-stick splashback tile sheet (from £25) do more visual work than almost anything else in a kitchen refresh."
 faqs:
   - q: "How can I update my kitchen cheaply in the UK?"

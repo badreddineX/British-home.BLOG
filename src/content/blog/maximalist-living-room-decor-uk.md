@@ -19,7 +19,7 @@ faqs:
   - q: "What is maximalist interior design UK?"
     a: "Maximalism is the deliberate use of abundance — colour, pattern, texture, objects, and art — as an intentional design language. The opposite of minimalism, but not the same as clutter. Maximalism is curated abundance; clutter is unintentional accumulation."
   - q: "How do I start a maximalist living room UK?"
-    a: "Start with colour. Choose one dominant colour that will anchor the room (your sofa colour is often this anchor), then build pattern and texture around it. Add a gallery wall, layer textiles on the sofa, and introduce plants and objects in groups. Build slowly — maximalism done well is always additive and considered."
+    a: "Start with colour. Choose one dominant colour that will anchor the room (your sofa colour is often this anchor), then build pattern and texture around it. Add a gallery wall, layer textiles on the sofa, and introduce plants and objects in groups. Build slowly — maximalism done well is always additive and considered. If you want to push the eclectic, playful end of this even further, our [funhaus decor ideas](/blog/funhaus-decor-ideas-uk/) guide takes the same principles further."
   - q: "How do I mix patterns in a maximalist living room?"
     a: "The rule: all patterns in a space should share at least one colour. A botanical print cushion and a geometric stripe cushion work together if both contain mustard yellow. They clash if they're from different palettes entirely. Mix scales too — large-scale pattern with small-scale pattern reads as intentional; two similar scales compete."
   - q: "Can maximalism work in a small British living room?"

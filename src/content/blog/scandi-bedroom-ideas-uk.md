@@ -26,6 +26,8 @@ faqs:
     a: "Scandi favours pared-back neutrals, light wood, and minimal clutter, while cottagecore leans into florals, vintage furniture, and a busier, more layered look. See our [cottagecore bedroom decor ideas UK](/blog/cottagecore-bedroom-ideas-uk/) guide if that's closer to your taste."
   - q: "Do I need to paint my bedroom white for a Scandi look?"
     a: "No. Soft grey, warm white, or pale oatmeal all work as well as bright white, and they're often more forgiving in UK flats with less natural light. Our [bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk/) guide covers the full range of Scandi-friendly shades."
+  - q: "Can I carry the Scandi look into the rest of the flat?"
+    a: "Yes — the same light wood, neutral palette, and layered textiles work just as well outside the bedroom. See our [Scandi living room ideas UK](/blog/scandi-living-room-ideas-uk/) guide for how to apply it to the rest of the home."
 ---
 
 Scandinavian bedroom style works especially well in small UK flats because it's built around light, pale colours and minimal clutter, which makes a modest room feel bigger rather than smaller. I've rebuilt this look in two rented flats now, and it holds up well against grey British weather because the warmth comes from texture and lighting, not sunshine.
