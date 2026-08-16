@@ -13,6 +13,24 @@ import '../styles/global.css';
       type="website"
       canonicalPath="/about/"
     />
+    <script type="application/ld+json" set:html={JSON.stringify({
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "@id": "https://britishhomeinterior.co.uk/about#person",
+      "name": "Badreddine",
+      "url": "https://britishhomeinterior.co.uk/about",
+      "jobTitle": "Founder & Author, British Home Interior",
+      "description": "British home enthusiast and author of British Home Interior, sharing honest room makeovers, cosy styling ideas, and budget interior inspiration for real British homes and flats.",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "British Home Interior",
+        "url": "https://britishhomeinterior.co.uk"
+      },
+      "sameAs": [
+        "https://www.instagram.com/britishhome_interior/",
+        "https://www.pinterest.com/BritishHomeInterior"
+      ]
+    })} />
   </head>
   <body>
     <!-- Google Tag Manager (noscript) -->

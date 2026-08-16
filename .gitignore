@@ -2,6 +2,7 @@ node_modules/
 dist/
 .astro/
 out/
+out-uk/
 .env
 .env.*
 !.env.example

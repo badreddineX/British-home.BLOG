@@ -23,7 +23,7 @@ const {
   image = '/images/pexels-1571453.jpg',
   datePublished = new Date().toISOString(),
   dateModified = new Date().toISOString(),
-  authorName = 'British Home Interior',
+  authorName = 'Badreddine',
   type = 'website',
   noindex = false,
 } = Astro.props;
@@ -143,6 +143,7 @@ window.addEventListener('error', function (e) {
     "dateModified": dateModified,
     "author": {
       "@type": "Person",
+      "@id": `${siteUrl}/about#person`,
       "name": authorName,
       "url": `${siteUrl}/about`
     },
