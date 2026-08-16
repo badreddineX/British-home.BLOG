@@ -31,8 +31,25 @@
         document.body.style.paddingBottom = '';
       }
 
-      document.getElementById('cookie-accept').addEventListener('click', function () { dismiss('accepted'); });
-      document.getElementById('cookie-decline').addEventListener('click', function () { dismiss('declined'); });
+      document.getElementById('cookie-accept').addEventListener('click', function () {
+        dismiss('accepted');
+        // Actually start GTM now -- it was gated in SEO.astro and never
+        // loaded at all until this moment.
+        if (typeof window.gtag === 'function') {
+          window.gtag('consent', 'update', {
+            analytics_storage: 'granted',
+            ad_storage: 'granted',
+            ad_user_data: 'granted',
+            ad_personalization: 'granted',
+          });
+        }
+        if (window.__startAnalytics) window.__startAnalytics();
+      });
+      document.getElementById('cookie-decline').addEventListener('click', function () {
+        dismiss('declined');
+        // Nothing to do here -- GTM was never loaded, and stays that way
+        // (Consent Mode default in SEO.astro is already 'denied').
+      });
     }
 
     if (document.readyState === 'loading') {
