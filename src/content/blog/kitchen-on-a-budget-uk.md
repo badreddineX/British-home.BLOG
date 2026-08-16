@@ -281,3 +281,8 @@ The full list, priced at mid-range, comes to roughly £410–£830. That sounds 
 - [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk/)
 - [Budget Kitchen Flooring Ideas UK](/blog/budget-kitchen-flooring-ideas-uk/)
 - [Kitchen Decor Ideas UK](/blog/kitchen-decor-ideas-uk/) for the styling layer once the budget renovation is done
+- [Earthy Neutral Kitchen Colour Trends UK](/blog/earthy-neutral-kitchen-colour-trends-uk/) for a two-tone cabinet colour scheme under £500
+- [Grandma Core Kitchen Ideas UK](/blog/grandma-core-kitchen-ideas-uk/) for a specific budget aesthetic direction
+- [Hidden Pantry Ideas for Small UK Kitchens](/blog/hidden-pantry-ideas-uk/) for kitchens with no dedicated pantry space
+- [Small Kitchen Island Ideas for UK Flats](/blog/small-kitchen-island-ideas-uk/) for adding worktop and storage without a full refit
+- [Unfitted Kitchen Ideas UK](/blog/unfitted-kitchen-ideas-uk/) for a freestanding-furniture alternative to fitted units
