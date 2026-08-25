@@ -167,3 +167,4 @@ The stop test costs nothing. Schedule 30 minutes to walk through and apply it ri
 
 → For living room styling principles see [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/).
 → Taking maximalism into the kitchen? See [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/).
+→ Want pattern and colour with a specific cultural throughline? See [Afrobohemian Decor Ideas for UK Homes](/blog/afrobohemian-decor-ideas-uk/).

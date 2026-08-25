@@ -23,11 +23,11 @@ faqs:
   - q: "Can I hang tapestries or macramé in a rented flat without damaging the walls?"
     a: "Yes—use adhesive hooks like Command Strips (available at Dunelm for ~£4.50 for 6), tension rods for draping over windows, or freestanding display frames. Avoid nails or staples if you’re wanting to keep your deposit safe."
   - q: "What’s the cheapest way to get authentic-looking African prints?"
-    a: "Look for 100% cotton fabric at cultural markets like London’s Brixton Market (patches from £2) or online at African Fabric House (yardage from ~£7.50). Alternatively, IKEA’s Vittjö (cotton-blend cushion covers from ~£10) offer subtle nods."
+    a: "Look for 100% cotton fabric at cultural markets like London’s Brixton Market (patches from £2) or online at African Fabric House (yardage from ~£7.50). Alternatively, IKEA’s GURLI (100% cotton cushion covers from ~£4) offer a plain, affordable base to layer patterned textiles over."
   - q: "How do I avoid cultural appropriation with global decor?"
     a: "Focus on appreciation over appropriation: buy from ethical retailers that credit origins (e.g. Not On The High Street sellers like Malaika Studios), learn the symbolism (e.g. Adinkra symbols), and avoid sacred or religious motifs unless you’re part of that culture."
   - q: "Are rattan or wicker pieces suitable for UK homes?"
-    a: "Absolutely—they’re lightweight, storage-friendly, and work in damp conditions if kept dry. Dunelm’s ‘Soleil’ rattan armchair costs ~£149, while IKEA’s KIVIK frame (with rattan sides) is from ~£249. Just avoid placing outdoors without weatherproofing."
+    a: "Absolutely—they’re lightweight, storage-friendly, and work in damp conditions if kept dry. Dunelm’s ‘Soleil’ rattan armchair costs ~£149, while IKEA’s AGEN hand-woven rattan chair is from ~£129. Just avoid placing outdoors without weatherproofing."
 
 ---
 
@@ -49,7 +49,7 @@ The most powerful, budget-conscious tools in your toolbox are textiles. A £12 k
 
 ## 3. Why Does Freestanding Furniture Work Best for Renters?
 
-Avoid the “decorator’s dilemma”: you love rattan or carved wooden storage, but your deposit depends on no wall damage. Rattan sideboards, bamboo chairs, and carved oak trays make fantastic statement pieces—and they’re all fully movable. Dunelm’s “Soleil” rattan storage stool is ~£49. IKEA’s “KARLSTAD” armchair (with optional rattan side panels) retails from ~£129. Next Home’s “Malia” teak console table is £149 (often on sale for ~£119). Keep your footprint light: two focal pieces in a room—say, a rattan chair and a woven basket unit—feel luxurious without overwhelming the space.
+Avoid the “decorator’s dilemma”: you love rattan or carved wooden storage, but your deposit depends on no wall damage. Rattan sideboards, bamboo chairs, and carved oak trays make fantastic statement pieces—and they’re all fully movable. Dunelm’s “Soleil” rattan storage stool is ~£49. IKEA’s AGEN hand-woven rattan chair retails from ~£129. Next Home’s “Malia” teak console table is £149 (often on sale for ~£119). Keep your footprint light: two focal pieces in a room—say, a rattan chair and a woven basket unit—feel luxurious without overwhelming the space.
 
 ## 4. Can Vintage Brass and Ceramics Add Heirloom Warmth?
 
@@ -63,11 +63,11 @@ A rug is the foundation of an Afrobohemian space. Go for flat-weave rugs with tr
 
 ## 6. What Greenery Fits a Global-Inspired Decor Scheme?
 
-Plants are non-negotiable in this aesthetic—but keep them local and low-maintenance. Snake plants, ZZ plants, and olive trees thrive indoors with minimal care. Dunelm sells ceramic planters in textured finishes from ~£12, and IKEA’s “Gruener” planter set (3 pieces) is £15. Pair with woven rope plant hangers (Amazon UK, ~£8 for 3) and let them drape near a window. Avoid plastic ‘fakes’—even the good ones look flat next to real greenery. If your flat has low light, stick to snake plants or peace lilies. A single 30cm olive tree in a whitewashed pot makes your sitting room feel like a Marrakech riad.
+Plants are non-negotiable in this aesthetic—but keep them local and low-maintenance. Snake plants, ZZ plants, and olive trees thrive indoors with minimal care. Dunelm sells ceramic planters in textured finishes from ~£12, and IKEA’s KAKTUSFIKON rattan plant pot is ~£8 each. Pair with woven rope plant hangers (Amazon UK, ~£8 for 3) and let them drape near a window. Avoid plastic ‘fakes’—even the good ones look flat next to real greenery. If your flat has low light, stick to snake plants or peace lilies. A single 30cm olive tree in a whitewashed pot makes your sitting room feel like a Marrakech riad.
 
 ## 7. Can Budget Lighting Set an Afrobohemian Mood?
 
-Lighting is where global decor truly comes alive. Think warm bulbs, layered sources, and tactile shades. Replace harsh overheads with floor lamps (IKEA’s “Mälerven” is £39) and table lamps with rattan or woven shades (Dunelm’s “Luna” lamp is £49). Add fairy lights in a geometric pattern above your bed—just use a battery pack (Amazon UK, ~£6) and clips (Command, ~£4.50) to avoid drilling. For extra soul, hang a macramé lampshade (Not On The High Street, from ~£45) over a reading nook. Warm light is your secret weapon: choose 2700K bulbs only. Too cool, and your vibrant textiles lose their warmth.
+Lighting is where global decor truly comes alive. Think warm bulbs, layered sources, and tactile shades. Replace harsh overheads with floor lamps (IKEA’s NYFORS is from £35) and table lamps with rattan or woven shades (Dunelm’s “Luna” lamp is £49). Add fairy lights in a geometric pattern above your bed—just use a battery pack (Amazon UK, ~£6) and clips (Command, ~£4.50) to avoid drilling. For extra soul, hang a macramé lampshade (Not On The High Street, from ~£45) over a reading nook. Warm light is your secret weapon: choose 2700K bulbs only. Too cool, and your vibrant textiles lose their warmth.
 
 ## 8. How Do You Personalise a Room With Meaningful Objects?
 
@@ -75,11 +75,11 @@ Afrobohemian isn’t about collecting souvenirs—it’s about collecting moment
 
 ## 9. What's the Best Renter-Safe Wall Decor Without Nails?
 
-Nails are a deposit killer. So are heavy tapestries hung directly on plaster. Stick with tension rods for hanging fabric panels in doorways or across blank wall sections. Use removable adhesive strips for small mirrors, woven wall hangings, or framed art. IKEA’s “Loften” picture rails (£12 for 2m) let you hang lightweight frames without wall anchors. For renters, consider leaning larger framed prints against the wall (behind a sofa or armchair), like a gallery wall in progress. Dunelm’s “Lilla Holmsjö” framed botanical prints are £12 each, and Amazon UK’s canvas prints start from ~£18 (check the back for pre-installed hooks). Just ensure everything’s secure—nobody wants a falling frame mid-July garden party.
+Nails are a deposit killer. So are heavy tapestries hung directly on plaster. Stick with tension rods for hanging fabric panels in doorways or across blank wall sections. Use removable adhesive strips for small mirrors, woven wall hangings, or framed art. IKEA’s MOSSLANDA picture ledge (£15 for 55cm) lets you lean and layer lightweight frames without wall anchors. For renters, consider leaning larger framed prints against the wall (behind a sofa or armchair), like a gallery wall in progress. Dunelm’s “Lilla Holmsjö” framed botanical prints are £12 each, and Amazon UK’s canvas prints start from ~£18 (check the back for pre-installed hooks). Just ensure everything’s secure—nobody wants a falling frame mid-July garden party.
 
 ## 10. Can Storage Furniture Add Crafted Charm to a Room?
 
-Clutter kills the vibe—even a beautiful one. Use woven storage boxes (IKEA’s “Kallax” inserts with rattan lids are £9) for magazines, blankets, or toys. Dunelm’s “Duna” seagrass storage basket (medium) is £24. A vintage trunk (I saw one in Oxfam for £18 last week) doubles as coffee table and trunk room. Label bins with handwritten chalkboard tags (B&Q sells mini ones for £2.50) to keep things tidy without feeling clinical. Renter bonus: most of these options can be folded flat and carried through narrow staircases if you move.
+Clutter kills the vibe—even a beautiful one. Use woven storage boxes (IKEA’s BRANÄS rattan basket, sized for KALLAX shelving, from ~£19) for magazines, blankets, or toys. Dunelm’s “Duna” seagrass storage basket (medium) is £24. A vintage trunk (I saw one in Oxfam for £18 last week) doubles as coffee table and trunk room. Label bins with handwritten chalkboard tags (B&Q sells mini ones for £2.50) to keep things tidy without feeling clinical. Renter bonus: most of these options can be folded flat and carried through narrow staircases if you move.
 
 ![Woven storage baskets and a rattan tray styled on a wooden stool](/images/pexels-1090638.jpg)
 

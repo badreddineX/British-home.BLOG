@@ -205,5 +205,6 @@ Want to go deeper on one part of the room, or apply a specific style once the fu
 - [Soft Minimalism Living Room Ideas for UK Homes](/blog/soft-minimalism-living-room-ideas-uk/) — a warmer alternative to strict Scandi minimalism
 - [Maximalist Living Room Decor UK](/blog/maximalist-living-room-decor-uk/) — the opposite direction, for rooms built around pattern and colour
 - [Opera-Inspired Living Room Ideas UK](/blog/opera-inspired-living-room-ideas-uk/) — a bold, dramatic style direction for a room with real character
+- [Afrobohemian Decor Ideas for UK Homes](/blog/afrobohemian-decor-ideas-uk/) — warm textures and pattern with a global, cultural throughline
 
 Doing the whole flat? [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) applies the same deposit-safe principles to every other room.
