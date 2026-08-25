@@ -72,7 +72,7 @@ Standard 2700K warm white bulbs are good year-round. For autumn and winter eveni
 
 Swap the bulbs in your most-used lamps when September arrives. The difference from 2700K to 2200K is subtle but cumulative across an evening — by 9pm, a room lit entirely in 2200K feels noticeably more autumnal than one still on 2700K.
 
-2200K bulbs cost ~£6 for a four-pack from Amazon UK. Philips Warm Glow and IKEA's *Ryet* range both produce this warmer output.
+2200K bulbs cost ~£6 for a four-pack from Amazon UK. Philips Warm Glow produces this warmer output — IKEA's *Ryet* range runs at the slightly cooler 2700K if 2200K isn't easily found.
 
 **Renter note:** Bulb swaps are the most deposit-safe lighting change possible. Keep the original bulbs and swap back when you leave.
 
