@@ -29,6 +29,8 @@ faqs:
 
 Cosiness is not an aesthetic. It's a feeling — and the difference matters more than people think.
 
+This is the year-round guide to cosiness as a principle. For the winter-specific version — draught-proofing, heating-bill trade-offs, and a seasonal maintenance checklist — see [Winter Cosy Home Ideas UK](/blog/winter-cosy-home-ideas-uk/).
+
 You can have a room that looks cosy in photographs and feels cold and uncomfortable to actually sit in. You can have a room that photographs badly — too many books, mismatched lamps, a well-used sofa — and yet makes everyone who enters it want to stay for hours.
 
 According to a 2024 survey by [Which?](https://www.which.co.uk), 71% of UK adults rate feeling comfortable and relaxed at home as their top housing priority, ahead of style, storage, and size. We know what we want. We just don't always know how to create it.

@@ -31,6 +31,8 @@ faqs:
 
 British living rooms present a very specific problem. They're not just small — they're small in specific, awkward ways. A chimney breast that juts into the middle of the room. A bay window that takes up an entire wall. A Victorian terrace lounge that's barely wider than the sofa is long. A modern flat where the front door opens directly into the seating area.
 
+This guide is specifically about furniture arrangement and floor plans for awkward room shapes. For general styling, see [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/); for small-space visual tricks like colour and curtain height, see [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
+
 According to the English Housing Survey 2023, the average UK living room measures just 17.1 square metres — and many properties in London, Manchester, and other major cities are considerably smaller than that. We're not working with the kind of square footage you see in American home tours or Scandinavian design blogs. We're working with real British rooms.
 
 I've lived in three small flats and one narrow Victorian terrace. Each one had a different layout problem, and each one taught me something different about what actually works when space is genuinely tight.

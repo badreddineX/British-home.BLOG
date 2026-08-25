@@ -29,6 +29,8 @@ faqs:
 
 For a long time, "modern" in British home interiors meant Scandinavian. Clean lines, pale wood, white walls, plants in white pots, perhaps a single statement lamp in matte black. Tasteful. Inoffensive. Photographically coherent.
 
+This one's specifically about the warm contemporary style direction. For the general room-by-room framework that applies regardless of style, see [Home Interior Ideas UK](/blog/home-interior-ideas-uk/).
+
 And genuinely quite cold.
 
 According to [Houzz UK](https://www.houzz.co.uk)'s 2025 State of the Home report, 58% of British homeowners now describe their ideal aesthetic as "warm contemporary" — a category that didn't meaningfully exist five years ago. The shift is real and it's visible: the coolly minimal British interior is giving way to something warmer, more personal, more rooted in actual British character.

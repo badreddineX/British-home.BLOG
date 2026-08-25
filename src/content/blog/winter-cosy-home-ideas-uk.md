@@ -29,6 +29,8 @@ faqs:
 
 British winter is a specific experience. It's not the clean, white-snow winter of Christmas films. It's grey, damp, frequently windy, occasionally icy, and characterised by very short days — London gets fewer than eight hours of daylight in December, and much of that is cloudy.
 
+This is the winter-specific version, including draught-proofing and a seasonal maintenance checklist. For the year-round cosiness principles this builds on, see [Cosy Home Decor Ideas UK](/blog/cosy-home-decor-ideas-uk/).
+
 This is the context your home needs to work within for approximately five months of the year. Not an inconvenience to solve, but a condition to design for.
 
 The homes that feel best to be in during a British winter are the ones that have accepted this reality and made positive choices in response. Heavy curtains. Warm, layered lighting. Textiles that actually provide warmth. One designed cosy spot. The smell of something warm in the background.

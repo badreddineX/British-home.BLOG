@@ -32,6 +32,8 @@ faqs:
 
 I've spent years thinking about what makes British homes feel genuinely good to be in. Not showroom-perfect, not Instagram-styled, but the kind of home you walk into and immediately relax. The homes that feel considered without feeling rigid, warm without being cluttered, personal without being chaotic.
 
+This is the general framework for any British home. If "warm contemporary" is specifically your style direction, see [Modern Home Interior Ideas UK](/blog/modern-home-interior-uk/); if you're stuck on where to actually find good inspiration, see [Home Decor Inspiration UK](/blog/home-decor-inspiration-uk/).
+
 According to [Houzz UK](https://www.houzz.co.uk)'s 2025 Home Renovation Trends Report, 63% of British homeowners say making their home feel more comfortable and personal is their top decorating priority — above aesthetics, above style trends, above resale value. That tells you something important about what British people actually want from their homes.
 
 I've pulled together the four core principles I come back to again and again, plus a room-by-room framework you can use as a starting point.

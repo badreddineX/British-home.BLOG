@@ -32,6 +32,8 @@ faqs:
 
 There's a specific frustration that hits when you spend an hour on Pinterest saving beautiful rooms, only to look up at your own living room and feel like you've been deceived. The light is different. The rooms are bigger. The ceilings are taller. There's a utility room that the size of your actual living room. None of it translates.
 
+This guide is about where to find good inspiration, not room-by-room ideas themselves. For the general framework, see [Home Interior Ideas UK](/blog/home-interior-ideas-uk/).
+
 Most home decor inspiration online is American, or styled for American audiences. That's not a criticism — it's just geography. But British homes have specific conditions: smaller rooms, older buildings, grey northern light, radiators that take up wall space, sash windows that limit curtain options, original features that need to be worked with rather than around.
 
 Good inspiration should start from the same conditions you're working in.

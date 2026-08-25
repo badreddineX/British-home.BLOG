@@ -31,6 +31,8 @@ The bedroom is the one room that should always be yours. Not a spare office. Not
 
 And yet. Walk into most British bedrooms and something feels off. The ceiling light is too bright. The bed looks flat. The curtains let in a blade of orange streetlight at 2am. It's a functional room, but it doesn't feel cosy. It doesn't feel like anywhere you'd actually want to spend time.
 
+This guide is specifically about warmth and mood — lighting temperature, scent, texture, sound. For general styling elements, see [Bedroom Decor Ideas UK](/blog/bedroom-decor-ideas-uk/); for a full sequenced renovation project, see [Bedroom Makeover UK](/blog/bedroom-makeover-uk/).
+
 According to the Sleep Council's Great British Bedtime Report, 74% of UK adults say their bedroom environment directly affects the quality of their sleep ([Sleep Council](https://sleepcouncil.org.uk), 2023). That's not a small number. It means three quarters of us are sleeping in rooms that aren't working for us — and most of the fixes cost less than a weekend takeaway.
 
 I spent about two years in a bedroom that looked fine in photographs and felt cold in real life. New duvet cover, framed print above the bed, done. But it never felt like a retreat. The change came when I stopped styling it and started thinking about sensation: how it felt to walk in, to sit on the bed, to lie in the dark. That shift changed everything.

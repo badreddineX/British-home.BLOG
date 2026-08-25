@@ -31,6 +31,8 @@ The bedroom is the one room in the house where you're the only audience. There's
 
 According to the [Sleep Foundation](https://www.sleepfoundation.org)'s 2024 Global Sleep Survey, UK adults spend an average of 7.6 hours in their bedroom per day, making it the most-used room in the home by time. And yet [Houzz UK](https://www.houzz.co.uk) data shows that only 41% of British homeowners have redecorated their bedroom in the past five years, compared with 63% who've updated their living room.
 
+This guide covers styling elements one at a time — colour, bedding, lighting, art, and the rest. If you want a sequenced, room-by-room renovation project instead, see [Bedroom Makeover UK](/blog/bedroom-makeover-uk/); if warmth and mood are the priority over general styling, see [Cosy Bedroom Ideas for UK Homes](/blog/cosy-bedroom-ideas-uk/).
+
 We neglect the room we're in the most. Here are 12 ideas to fix that.
 
 **TL;DR:** The bedroom changes with the highest impact per pound are layered bedding, bedside lamps (not just a ceiling light), a headboard or alternative focal point, and warm paint colour. This guide covers all 12 in order of visual impact.

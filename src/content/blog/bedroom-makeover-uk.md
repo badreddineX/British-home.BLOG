@@ -31,6 +31,8 @@ Your bedroom is the most private room in your home. No guests come in. No one el
 
 According to [Houzz UK](https://www.houzz.co.uk)'s 2024 Home Renovation Trends Report, the bedroom is the second most neglected room in British homes — 58% of UK homeowners haven't updated their bedroom in over three years, despite spending more time there than in any other room. The average UK adult logs roughly 7.5 hours a day in the bedroom, according to the [Sleep Foundation](https://www.sleepfoundation.org)'s 2024 survey. That's more than the living room, kitchen, and home office combined.
 
+This is a sequenced, step-by-step makeover project with a budget and timeline. For a styling-element-by-element approach instead, see [Bedroom Decor Ideas UK](/blog/bedroom-decor-ideas-uk/); for a mood- and warmth-focused angle, see [Cosy Bedroom Ideas for UK Homes](/blog/cosy-bedroom-ideas-uk/).
+
 A bedroom makeover doesn't mean a full renovation. It doesn't require a builder, a skip, or a four-figure budget. These 13 changes work incrementally — you can do one this weekend for £20 or work through all of them over a few months. Either way, the cumulative effect is a room that feels genuinely different.
 
 **TL;DR:** The 13 most effective bedroom makeover changes for UK homes, in order of impact — starting with bedding (the bed is 60% of the room visually) and working through lighting, paint, furniture arrangement, mirrors, curtains, storage, and atmosphere. Most changes cost under £50. None require a builder.

@@ -29,6 +29,8 @@ faqs:
 
 Most living rooms in the UK share the same problem: they were furnished in stages over several years, with individual pieces chosen without much reference to each other, and styled by someone (usually us, usually late on a Sunday) who just kind of placed things where they fit.
 
+This is the general styling guide for any living room. If space is the actual constraint, see [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/); if it's specifically furniture arrangement and floor plan you're stuck on, see [Small Living Room Layout Ideas](/blog/small-living-room-layout-ideas/).
+
 The result is a room that has everything it needs but doesn't quite feel like a room. It feels like a collection of objects waiting to become one.
 
 Styling a living room properly isn't about buying more things — the "vibey" living room look everyone's chasing right now comes from layering, not shopping. It's about understanding the order of layers — what goes first, what responds to what, and where the eye should travel. Once you understand the sequence, it becomes logical rather than overwhelming.
