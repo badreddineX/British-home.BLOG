@@ -54,15 +54,9 @@ Read more: [budget home transformation framework](/blog/budget-home-makeover-uk/
 
 ## What's the Best Way to Paint Your Cabinet Doors?
 
-Painting cabinet doors is the single highest-impact change you can make to a tired kitchen. Rust-Oleum Kitchen Cupboard Paint (around £18 per 750ml tin at B&Q and Screwfix) covers roughly 12–15 cabinet doors per tin and dries to a hard, wipeable finish. Most average kitchens need two tins.
+Painting cabinet doors is the single highest-impact change you can make to a tired kitchen. Two tins of Rust-Oleum Kitchen Cupboard Paint (around £36 total) cover a full standard UK kitchen — the best spend-per-impact ratio of any change on this list.
 
-Two tins of Rust-Oleum Kitchen Cupboard Paint cost around £36 in total and cover a full standard UK kitchen, making cabinet painting the best spend-per-impact ratio of any change on this list.
-
-The prep is more important than the paint. Remove every door, clean with sugar soap, sand lightly with 120-grit, and prime any glossy or laminate surfaces before applying two thin coats. Skipping prep is why most DIY paint jobs look bad six months later. Budget about a full day for prep and two evenings for painting.
-
-Good colour choices for UK kitchens right now include Farrow & Ball Mole's Breath (dusky warm grey), Dulux Heritage Teal Tension, and virtually any off-white. White reflects light beautifully in north-facing kitchens, which describes most rear-extension kitchens in terraced houses.
-
-Two tins of Rust-Oleum Kitchen Cupboard Paint at around £36 total will transform the entire look of a standard UK kitchen. It's the best spend-per-impact ratio on this list.
+Full prep steps, colour choices, and a materials breakdown: [Budget Kitchen Cabinet Makeover UK](/blog/budget-kitchen-cabinet-makeover-uk/).
 
 ---
 
