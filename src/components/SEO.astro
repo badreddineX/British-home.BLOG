@@ -1,6 +1,12 @@
 ---
 import sharp from 'sharp';
 import { join } from 'node:path';
+import { readFileSync } from 'node:fs';
+
+// Self-hosted fonts (was Google Fonts CDN -- removed 2 external DNS/connection
+// round-trips from the critical render path, same fix already applied on
+// Canada/Australia). Inlined at build time.
+const fontCss = readFileSync(join(process.cwd(), 'public', 'fonts.css'), 'utf8');
 
 interface Props {
   title: string;
@@ -144,18 +150,13 @@ window.addEventListener('error', function (e) {
 }, true);
 </script>
 
-<!-- Fonts (preload + swap so a plain <link rel=stylesheet> doesn't block first paint) -->
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link
-  rel="preload"
-  as="style"
-  href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Lato:wght@300;400;700&display=swap"
-  onload="this.onload=null;this.rel='stylesheet'"
-/>
-<noscript>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
-</noscript>
+<!-- Fonts: self-hosted, preload the two weights used above the fold
+     (Lato 400 for body copy, Playfair Display 400 for the hero/H1) --
+     removes the Google Fonts CDN round-trip (preconnect -> stylesheet ->
+     discover font files) that was delaying text render on mobile. -->
+<link rel="preload" as="font" type="font/woff2" href="/fonts/lato-400-normal-latin.woff2" crossorigin />
+<link rel="preload" as="font" type="font/woff2" href="/fonts/playfair-display-400-normal-latin.woff2" crossorigin />
+<style is:inline set:html={fontCss}></style>
 
 <!-- Article Schema (JSON-LD) — only for blog posts -->
 {type === 'article' && (
