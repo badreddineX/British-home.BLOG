@@ -1,6 +1,6 @@
 ---
 title: "Small Living Room on a Budget UK: Under £150 Refresh"
-description: "How to refresh a small UK living room for under £150 — lighting, rug, cushions, wall art, and a plant, in priority order with real Dunelm, IKEA, and Amazon UK prices."
+description: "How to refresh a small UK living room for under £150 — lighting, rug, cushions, and wall art, in priority order with real Dunelm and IKEA prices."
 image: "/images/minimalist-couch-coffee-tray.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-08-10"

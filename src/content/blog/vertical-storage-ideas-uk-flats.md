@@ -1,6 +1,6 @@
 ---
 title: "12 Vertical Storage Ideas for Small UK Flats (No Drilling)"
-description: "Out of floor space, not wall space. 12 deposit-safe vertical storage ideas for small UK flats using IKEA, Dunelm & Command hooks — no drilling, no landlord permission needed."
+description: "Out of floor space, not wall space. 12 deposit-safe vertical storage ideas for small UK flats using IKEA, Dunelm & Command hooks — no drilling."
 
 image: "/images/hallway-coat-rack-mirror.jpg"
 datePublished: "2026-08-03"

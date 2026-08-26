@@ -1,6 +1,6 @@
 ---
 title: "Renter-Friendly Living Room Ideas UK (No Permission)"
-description: "12 deposit-safe living room upgrades for UK renters — peel-and-stick wallpaper, picture rail hooks, and Command strips. No drilling, no landlord permission needed."
+description: "12 deposit-safe living room upgrades for UK renters — peel-and-stick wallpaper, picture rail hooks, and Command strips. No drilling required."
 image: "/images/pexels-1571453.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-08-10"

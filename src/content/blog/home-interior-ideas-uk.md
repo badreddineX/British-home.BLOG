@@ -1,6 +1,6 @@
 ---
 title: "Home Interior Ideas UK"
-description: "Room-by-room British home interior ideas for UK homeowners and renters — light, colour, texture, and personal touches that make your space feel genuinely yours."
+description: "Room-by-room British home interior ideas for UK homeowners and renters — light, colour, and texture that make your space feel genuinely yours."
 image: "/images/pexels-1571460.jpg"
 datePublished: "2025-10-22"
 dateModified: "2026-07-25"

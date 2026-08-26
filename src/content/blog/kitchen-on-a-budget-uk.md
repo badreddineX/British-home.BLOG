@@ -1,6 +1,6 @@
 ---
 title: "Cheap Kitchen Makeover UK: 14 Affordable Ideas"
-description: "14 cheap, affordable kitchen upgrades for UK homes under £500 — paint cabinets, swap handles, add shelving, refresh worktops. Real costs from B&Q, IKEA, Wickes."
+description: "14 cheap kitchen upgrades for UK homes under £500 — paint cabinets, swap handles, add shelving, refresh worktops. Real costs from B&Q, IKEA, Wickes."
 image: "/images/pexels-1080721.jpg"
 datePublished: "2025-11-01"
 dateModified: "2026-08-16"

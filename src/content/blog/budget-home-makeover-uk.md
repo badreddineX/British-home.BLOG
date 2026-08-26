@@ -1,6 +1,6 @@
 ---
 title: "Budget Home Makeover UK Under £150"
-description: "Room-by-room budget home makeover framework for UK homes — highest visual return per pound, with real prices and UK retailer picks. Total under £150 per room."
+description: "A room-by-room budget makeover framework for UK homes — highest visual return per pound, with real prices. Total under £150 per room."
 image: "/images/pexels-1571459.jpg"
 datePublished: "2025-12-02"
 dateModified: "2026-07-25"

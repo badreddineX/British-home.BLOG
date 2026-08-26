@@ -1,6 +1,6 @@
 ---
 title: "Budget Kitchen Cabinet Makeover UK"
-description: "Four affordable kitchen cabinets UK options compared — DIY paint, professional respray, vinyl wrap, and new doors — with real UK prices from B&Q, Wickes, and Screwfix."
+description: "Four affordable UK kitchen cabinet options compared — DIY paint, respray, vinyl wrap, and new doors — with real prices from B&Q, Wickes, and Screwfix."
 image: "/images/kitchen-white-cabinets.jpg"
 datePublished: "2026-05-27"
 dateModified: "2026-07-27"

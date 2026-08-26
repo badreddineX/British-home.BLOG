@@ -1,6 +1,6 @@
 ---
 title: "Grandma Core Kitchen Ideas UK 2026"
-description: "How to create a 'grandma core' kitchen in a UK home — gingham, scalloped edges, vintage crockery, brass, and doily textures, with real prices from Dunelm, IKEA, and Homesense."
+description: "How to create a 'grandma core' kitchen in a UK home — gingham, scalloped edges, vintage crockery, and brass, with real prices from Dunelm and IKEA."
 image: "/images/vintage-china-kitchen-shelf.jpg"
 datePublished: "2026-08-08"
 dateModified: "2026-08-08"
