@@ -3,7 +3,7 @@ title: "Budget Kitchen Worktop Makeover Ideas UK"
 description: "Cheap kitchen worktop ideas UK: adhesive wrap film, laminate paint kits, and edge strip repairs — all cheaper than full replacement, with real prices."
 image: "/images/hallway-console-table-mirror.jpg"
 datePublished: "2026-07-06"
-dateModified: "2026-07-27"
+dateModified: "2026-08-27"
 author: "Badreddine"
 tags: ["cheap kitchen worktop ideas uk", "budget kitchen worktop uk", "cheap worktop ideas", "laminate worktop wrap", "budget kitchen countertop uk", "worktop makeover UK"]
 featured: false
@@ -130,3 +130,12 @@ The worktop is rarely the first thing people notice in a kitchen, but it's the s
 **Related reading you might find useful:**
 
 - [Kitchen on a Budget UK: 14 Ideas](/blog/kitchen-on-a-budget-uk/)
+
+**The budget kitchen series** — each part in depth:
+
+- [Cheap Kitchen Makeover UK: 14 Affordable Ideas](/blog/kitchen-on-a-budget-uk/) — the room-by-room overview
+- [Budget Kitchen Cabinet Makeover Ideas UK](/blog/budget-kitchen-cabinet-makeover-uk/)
+- [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk/)
+- [Budget Kitchen Flooring Ideas UK](/blog/budget-kitchen-flooring-ideas-uk/)
+- [Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/)
+- [Small Kitchen Storage Ideas on a Budget UK](/blog/small-kitchen-storage-ideas-budget-uk/)

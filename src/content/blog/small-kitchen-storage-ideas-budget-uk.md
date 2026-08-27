@@ -3,7 +3,7 @@ title: "Small Kitchen Storage Ideas on a Budget UK"
 description: "Small kitchen storage ideas for UK homes on a budget — over-door racks, magnetic strips, corner solutions, and freestanding shelving, all under £40."
 image: "/images/kitchen-open-shelving.jpg"
 datePublished: "2026-07-13"
-dateModified: "2026-07-27"
+dateModified: "2026-08-27"
 author: "Badreddine"
 tags: ["small kitchen storage ideas uk", "small kitchen storage solutions", "budget kitchen storage ideas", "budget kitchen organisation uk", "cheap kitchen storage solutions uk", "kitchen storage UK"]
 featured: false
@@ -152,3 +152,12 @@ The first three steps cost under £30 combined and solve the storage problems th
 - [Kitchen on a Budget UK: 14 Ideas](/blog/kitchen-on-a-budget-uk/) for a full budget refresh once storage is sorted
 - [Kitchen Decor Ideas UK](/blog/kitchen-decor-ideas-uk/) for the styling layer, separate from pure storage
 - [12 Vertical Storage Ideas for Small UK Flats](/blog/vertical-storage-ideas-uk-flats/) for wall-mounted, no-drill storage that works beyond the kitchen too
+
+**The budget kitchen series** — each part in depth:
+
+- [Cheap Kitchen Makeover UK: 14 Affordable Ideas](/blog/kitchen-on-a-budget-uk/) — the room-by-room overview
+- [Budget Kitchen Cabinet Makeover Ideas UK](/blog/budget-kitchen-cabinet-makeover-uk/)
+- [Budget Kitchen Worktop Makeover Ideas UK](/blog/budget-kitchen-worktop-makeover-uk/)
+- [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk/)
+- [Budget Kitchen Flooring Ideas UK](/blog/budget-kitchen-flooring-ideas-uk/)
+- [Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/)
