@@ -28,7 +28,7 @@ const uid = 'nl-' + Math.random().toString(36).slice(2, 9);
   <h2 class="nl__heading" id={`${uid}-h`}>{heading}</h2>
   <p class="nl__blurb">{blurb}</p>
 
-  <form class="nl-form" method="POST" action="/api/subscribe" novalidate>
+  <form class="nl-form" method="POST" action="/api/subscribe/" novalidate>
     <input type="hidden" name="source" value={source} />
     <span class="nl__hp" aria-hidden="true">
       <label>Leave this field empty

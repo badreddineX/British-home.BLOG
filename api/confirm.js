@@ -23,7 +23,7 @@ export default async function handler(req, res) {
 
     if (confirmed.length) {
       try {
-        const unsubUrl = `${SITE_URL}/api/unsubscribe?token=${token}`;
+        const unsubUrl = `${SITE_URL}/api/unsubscribe/?token=${token}`;
         const { subject, html, text, listUnsubscribe } = welcomeEmail({ unsubUrl });
         await sendMail({ to: confirmed[0].email, subject, html, text, listUnsubscribe });
       } catch (e) {

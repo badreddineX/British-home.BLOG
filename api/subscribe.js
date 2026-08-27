@@ -48,7 +48,7 @@ export default async function handler(req, res) {
       return done(res, wantsJson, 200, { ok: true, state: 'already_subscribed' });
     }
 
-    const confirmUrl = `${SITE_URL}/api/confirm?token=${sub.token}`;
+    const confirmUrl = `${SITE_URL}/api/confirm/?token=${sub.token}`;
     const { subject, html, text } = confirmEmail({ confirmUrl });
     await sendMail({ to: email, subject, html, text });
 

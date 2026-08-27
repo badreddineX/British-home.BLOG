@@ -66,7 +66,7 @@ export default async function handler(req, res) {
       : null;
 
     if (dryRun) {
-      const preview = digestEmail({ idea, posts: newPosts, unsubUrl: `${SITE_URL}/api/unsubscribe?token=SAMPLE` });
+      const preview = digestEmail({ idea, posts: newPosts, unsubUrl: `${SITE_URL}/api/unsubscribe/?token=SAMPLE` });
       return res.status(200).json({
         ok: true,
         dryRun: true,
@@ -80,7 +80,7 @@ export default async function handler(req, res) {
     }
 
     const messages = subs.map((s) => {
-      const unsubUrl = `${SITE_URL}/api/unsubscribe?token=${s.token}`;
+      const unsubUrl = `${SITE_URL}/api/unsubscribe/?token=${s.token}`;
       const { subject, html, text, listUnsubscribe } = digestEmail({ idea, posts: newPosts, unsubUrl });
       return { to: s.email, subject, html, text, listUnsubscribe };
     });
