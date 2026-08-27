@@ -3,7 +3,7 @@ title: "Cheap Kitchen Makeover UK: 14 Affordable Ideas"
 description: "14 cheap kitchen upgrades for UK homes under £500 — paint cabinets, swap handles, add shelving, refresh worktops. Real costs from B&Q, IKEA, Wickes."
 image: "/images/pexels-1080721.jpg"
 datePublished: "2025-11-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-27"
 author: "Badreddine"
 tags: ["cheap kitchen UK", "cheap kitchen", "affordable kitchen", "affordable kitchen UK", "affordable kitchen renovations", "budget kitchens", "kitchen makeover budget", "kitchen on a budget UK", "budget kitchen ideas UK", "kitchen upgrade UK", "cheap kitchen makeover UK"]
 featured: false
@@ -36,6 +36,8 @@ The average full kitchen renovation in the UK costs between £8,000 and £25,000
 I've been there. A couple of years ago, my kitchen was genuinely embarrassing. Oak-effect flatpack units from around 2003, a beige laminate worktop with a burn mark near the hob, and taps that took five seconds of wiggling before water came out. I had about £180 to spend and absolutely no intention of calling a fitter.
 
 What followed was three weekends and some genuinely satisfying before-and-after results. This post is everything I did and everything I'd add if I were doing it now.
+
+> **Work out your own total first:** the [Budget Kitchen Makeover Cost Calculator](/budget-kitchen-makeover-cost-calculator/) lets you tick the jobs you'll actually do and gives you a realistic £ range before you buy anything.
 
 You don't need a new kitchen. You need about two weekends and four things:
 
