@@ -24,8 +24,8 @@ import '../styles/global.css';
     <main class="thanks">
       <div class="thanks-inner">
         <span class="thanks-icon">✓</span>
-        <h1 class="thanks-heading">Message sent!</h1>
-        <p class="thanks-desc">
+        <h1 class="thanks-heading" id="ty-heading">Message sent!</h1>
+        <p class="thanks-desc" id="ty-desc">
           Thank you for reaching out — your message has landed safely in our inbox.
           We'll get back to you within 2–3 business days.
         </p>
@@ -37,6 +37,28 @@ import '../styles/global.css';
     </main>
 
     <Footer />
+
+    <script is:inline>
+      (function () {
+        var src = new URLSearchParams(window.location.search).get('src');
+        var h = document.getElementById('ty-heading');
+        var d = document.getElementById('ty-desc');
+        if (!src || !h || !d) return;
+        if (src === 'newsletter') {
+          document.title = 'Subscribed — British Home Interior';
+          h.textContent = "You're subscribed!";
+          d.textContent = "Thanks for confirming — interior ideas for UK homes will land straight in your inbox, no spam.";
+        } else if (src === 'newsletter-pending') {
+          document.title = 'Almost there — British Home Interior';
+          h.textContent = 'Almost there!';
+          d.textContent = 'Check your inbox and click the confirmation link to finish subscribing.';
+        } else if (src === 'newsletter-error') {
+          document.title = 'Something went wrong — British Home Interior';
+          h.textContent = "Hmm, that didn't work";
+          d.textContent = 'Something went wrong signing you up. Please try again in a moment.';
+        }
+      })();
+    </script>
   </body>
 </html>
 
