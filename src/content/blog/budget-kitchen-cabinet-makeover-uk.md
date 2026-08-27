@@ -180,6 +180,7 @@ For the other thirteen ways to refresh a tired kitchen without a full renovation
 
 **The budget kitchen series** — each part in depth:
 
+- [Budget Kitchen Makeover Cost Calculator](/budget-kitchen-makeover-cost-calculator/) — tick the jobs, get your total
 - [Cheap Kitchen Makeover UK: 14 Affordable Ideas](/blog/kitchen-on-a-budget-uk/) — the room-by-room overview
 - [Budget Kitchen Worktop Makeover Ideas UK](/blog/budget-kitchen-worktop-makeover-uk/)
 - [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk/)

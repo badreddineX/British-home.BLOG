@@ -127,6 +127,7 @@ For the rest of the room, [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/
 
 **The budget kitchen series** — each part in depth:
 
+- [Budget Kitchen Makeover Cost Calculator](/budget-kitchen-makeover-cost-calculator/) — tick the jobs, get your total
 - [Cheap Kitchen Makeover UK: 14 Affordable Ideas](/blog/kitchen-on-a-budget-uk/) — the room-by-room overview
 - [Budget Kitchen Cabinet Makeover Ideas UK](/blog/budget-kitchen-cabinet-makeover-uk/)
 - [Budget Kitchen Worktop Makeover Ideas UK](/blog/budget-kitchen-worktop-makeover-uk/)
