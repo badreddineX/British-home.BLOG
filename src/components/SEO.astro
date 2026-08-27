@@ -19,6 +19,7 @@ interface Props {
   authorName?: string;
   type?: 'website' | 'article';
   noindex?: boolean;
+  faqs?: { q: string; a: string }[];
 }
 
 const {
@@ -32,6 +33,7 @@ const {
   authorName = 'Badreddine',
   type = 'website',
   noindex = false,
+  faqs = [],
 } = Astro.props;
 
 const siteUrl = 'https://britishhomeinterior.co.uk';
@@ -199,6 +201,19 @@ window.addEventListener('error', function (e) {
       { "@type": "ListItem", "position": 2, "name": "Blog", "item": `${siteUrl}/blog/` },
       { "@type": "ListItem", "position": 3, "name": title, "item": fullUrl }
     ]
+  })} />
+)}
+
+<!-- FAQ Schema — only when the post supplies FAQs -->
+{type === 'article' && faqs.length > 0 && (
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": faqs.map((f) => ({
+      "@type": "Question",
+      "name": f.q,
+      "acceptedAnswer": { "@type": "Answer", "text": f.a.replace(/<[^>]+>/g, '') }
+    }))
   })} />
 )}
 
