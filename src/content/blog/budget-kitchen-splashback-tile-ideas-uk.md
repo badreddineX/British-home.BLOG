@@ -3,7 +3,7 @@ title: "Budget Kitchen Splashback & Tile Ideas UK"
 description: "Cheap kitchen splashback ideas UK: peel-and-stick tiles, tile paint, and acrylic sheets compared, with real prices and a fitting guide that avoids peeling."
 image: "/images/kitchen-subway-tile-splashback.jpg"
 datePublished: "2026-06-18"
-dateModified: "2026-07-27"
+dateModified: "2026-08-27"
 author: "Badreddine"
 tags: ["cheap kitchen splashback ideas uk", "kitchen splashback ideas uk", "budget tile ideas uk", "peel and stick tiles kitchen uk", "budget kitchen tile alternatives", "kitchen splashback UK"]
 featured: false
@@ -130,3 +130,12 @@ A cut-to-size acrylic splashback typically costs £60–£150 depending on size 
 None of these options need a tradesperson, and most can be finished in a single afternoon. Start with the cheapest reversible option, peel-and-stick sheets, if you're renting or unsure about committing. Move up to tile paint or acrylic sheets once you know the look you actually want to keep.
 
 For the rest of the kitchen refresh, from cabinet paint to new handles, see the full [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) guide for the complete room-by-room breakdown.
+
+**The budget kitchen series** — each part in depth:
+
+- [Cheap Kitchen Makeover UK: 14 Affordable Ideas](/blog/kitchen-on-a-budget-uk/) — the room-by-room overview
+- [Budget Kitchen Cabinet Makeover Ideas UK](/blog/budget-kitchen-cabinet-makeover-uk/)
+- [Budget Kitchen Worktop Makeover Ideas UK](/blog/budget-kitchen-worktop-makeover-uk/)
+- [Budget Kitchen Flooring Ideas UK](/blog/budget-kitchen-flooring-ideas-uk/)
+- [Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/)
+- [Small Kitchen Storage Ideas on a Budget UK](/blog/small-kitchen-storage-ideas-budget-uk/)

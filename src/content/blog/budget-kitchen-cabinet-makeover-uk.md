@@ -3,7 +3,7 @@ title: "Budget Kitchen Cabinet Makeover UK"
 description: "Four affordable UK kitchen cabinet options compared — DIY paint, respray, vinyl wrap, and new doors — with real prices from B&Q, Wickes, and Screwfix."
 image: "/images/kitchen-white-cabinets.jpg"
 datePublished: "2026-05-27"
-dateModified: "2026-07-27"
+dateModified: "2026-08-27"
 author: "Badreddine"
 tags: ["affordable kitchen cabinets uk", "kitchen cabinet makeover uk", "cheap kitchen cabinets uk", "kitchen cabinet respray cost uk", "vinyl wrap kitchen cabinets", "cheap kitchen cabinet doors uk", "kitchen cabinet makeover"]
 featured: false
@@ -177,3 +177,12 @@ For the other thirteen ways to refresh a tired kitchen without a full renovation
 - [Kitchen on a Budget UK: 14 Ideas](/blog/kitchen-on-a-budget-uk/)
 - [Budget Home Makeover UK: Transform Any Room for Under £150](/blog/budget-home-makeover-uk/)
 - [Kitchen Decor Ideas UK](/blog/kitchen-decor-ideas-uk/) for the styling layer once your cabinets are sorted
+
+**The budget kitchen series** — each part in depth:
+
+- [Cheap Kitchen Makeover UK: 14 Affordable Ideas](/blog/kitchen-on-a-budget-uk/) — the room-by-room overview
+- [Budget Kitchen Worktop Makeover Ideas UK](/blog/budget-kitchen-worktop-makeover-uk/)
+- [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk/)
+- [Budget Kitchen Flooring Ideas UK](/blog/budget-kitchen-flooring-ideas-uk/)
+- [Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/)
+- [Small Kitchen Storage Ideas on a Budget UK](/blog/small-kitchen-storage-ideas-budget-uk/)
