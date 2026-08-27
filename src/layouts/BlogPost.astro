@@ -4,6 +4,7 @@ import Footer from '../components/Footer.astro';
 import SEO from '../components/SEO.astro';
 import TLDRBox from '../components/TLDRBox.astro';
 import FAQ from '../components/FAQ.astro';
+import NewsletterForm from '../components/NewsletterForm.astro';
 import '../styles/global.css';
 import { getCollection } from 'astro:content';
 
@@ -153,6 +154,16 @@ const cardImg = (img: string) => img.replace('/images/', '/images/card/').replac
 
           <!-- FAQ -->
           {faqs.length > 0 && <FAQ questions={faqs} />}
+
+          <!-- Newsletter signup -->
+          <div class="post-newsletter">
+            <NewsletterForm
+              source="post"
+              heading="Get one of these a week"
+              blurb="One cosy styling or room-makeover idea in your inbox every week — British English, prices in pounds. Free, unsubscribe anytime."
+              compact
+            />
+          </div>
 
           <!-- Author bio -->
           <div class="author-bio">
@@ -450,6 +461,8 @@ const cardImg = (img: string) => img.replace('/images/', '/images/card/').replac
 
   /* Content */
   .post-content-area { min-width: 0; }
+
+  .post-newsletter { margin: 2.5rem 0; }
 
   /* Drop cap — desktop only */
   @media (min-width: 640px) {

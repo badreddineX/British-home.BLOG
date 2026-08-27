@@ -30,7 +30,10 @@ export default defineConfig({
   build: { inlineStylesheets: 'always' },
   integrations: [
     sitemap({
-      filter: (page) => !page.endsWith('/404/') && !page.endsWith('/thank-you/'),
+      filter: (page) =>
+        !page.endsWith('/404/') &&
+        !page.endsWith('/thank-you/') &&
+        !page.includes('/newsletter-feed'),
       serialize(item) {
         const slug = item.url.replace('https://britishhomeinterior.co.uk/blog/', '').replace(/\/$/, '');
         if (postDates[slug]) {

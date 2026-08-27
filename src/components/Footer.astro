@@ -40,10 +40,32 @@ const year = new Date().getFullYear();
         <a href="/terms-of-use/" class="footer-nav-link footer-nav-link--policy">Terms of Use</a>
       </nav>
 
-      <!-- About -->
+      <!-- Newsletter -->
       <div class="footer-newsletter">
-        <p class="footer-newsletter-heading">Cosy styling, room makeovers, and interior ideas for UK homes.</p>
-        <a href="/contact/" class="footer-submit footer-contact-link">Get in Touch</a>
+        <p class="footer-newsletter-heading">One interior idea a week — British English, prices in pounds.</p>
+        <form class="nl-form footer-form" method="POST" action="/api/subscribe" novalidate>
+          <input type="hidden" name="source" value="footer" />
+          <span class="footer-hp" aria-hidden="true">
+            <label>Leave empty<input type="text" name="company" tabindex="-1" autocomplete="off" /></label>
+          </span>
+          <label class="footer-form-label" for="footer-nl-email">Your email address</label>
+          <input
+            id="footer-nl-email"
+            class="footer-input"
+            type="email"
+            name="email"
+            placeholder="you@email.com"
+            autocomplete="email"
+            inputmode="email"
+            required
+          />
+          <button type="submit" class="footer-submit">Subscribe</button>
+          <p class="nl-status footer-nl-status" role="status" aria-live="polite" hidden></p>
+          <p class="footer-form-fine">
+            No spam, unsubscribe anytime. See our <a href="/privacy-policy/">Privacy Policy</a>.
+          </p>
+        </form>
+        <a href="/contact/" class="footer-contact-inline">Questions? Get in touch →</a>
       </div>
 
     </div>
@@ -66,6 +88,81 @@ const year = new Date().getFullYear();
 </footer>
 
 <CookieConsent />
+
+<!-- ── Newsletter signup — progressive enhancement for every .nl-form on the page ── -->
+<script>
+(function () {
+  const forms = document.querySelectorAll('form.nl-form');
+  if (!forms.length) return;
+
+  const MSG: Record<string, string> = {
+    pending: 'Almost there — check your inbox and click the confirmation link.',
+    already_subscribed: "You're already on the list. Thank you!",
+    invalid_email: 'Please enter a valid email address.',
+    error: 'Something went wrong. Please try again in a moment.',
+    network: 'Network error — please try again.',
+  };
+
+  forms.forEach((formEl) => {
+    const form = formEl as HTMLFormElement;
+    form.addEventListener('submit', async (e) => {
+      e.preventDefault();
+
+      const btn = form.querySelector('button[type="submit"]') as HTMLButtonElement | null;
+      const status = form.querySelector('.nl-status') as HTMLElement | null;
+      const email = form.querySelector('input[name="email"]') as HTMLInputElement | null;
+      const company = form.querySelector('input[name="company"]') as HTMLInputElement | null;
+      const source = form.querySelector('input[name="source"]') as HTMLInputElement | null;
+
+      if (company && company.value) return;
+      if (!email) return;
+
+      if (!email.value || !email.checkValidity()) {
+        email.setAttribute('aria-invalid', 'true');
+        show(status, MSG.invalid_email, 'err');
+        email.focus();
+        return;
+      }
+      email.removeAttribute('aria-invalid');
+
+      const label = btn ? btn.textContent : '';
+      if (btn) { btn.disabled = true; btn.textContent = 'Subscribing…'; }
+
+      try {
+        const r = await fetch(form.action, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+          body: JSON.stringify({
+            email: email.value,
+            source: source ? source.value : 'site',
+            company: '',
+          }),
+        });
+        const data = (await r.json().catch(() => ({}))) as { ok?: boolean; state?: string; error?: string };
+
+        if (r.ok && data.ok) {
+          show(status, MSG[data.state ?? ''] || MSG.pending, 'ok');
+          form.reset();
+        } else {
+          show(status, MSG[data.error ?? ''] || MSG.error, 'err');
+        }
+      } catch (err) {
+        show(status, MSG.network, 'err');
+      } finally {
+        if (btn) { btn.disabled = false; btn.textContent = label; }
+      }
+    });
+  });
+
+  function show(el: HTMLElement | null, msg: string, kind: 'ok' | 'err') {
+    if (!el) return;
+    el.textContent = msg;
+    el.hidden = false;
+    el.classList.remove('nl-status--ok', 'nl-status--err');
+    el.classList.add(kind === 'ok' ? 'nl-status--ok' : 'nl-status--err');
+  }
+})();
+</script>
 
 <style>
   .site-footer { background: var(--color-dark); color: rgba(255,255,255,0.6); }
@@ -149,7 +246,40 @@ const year = new Date().getFullYear();
     transition: background 200ms;
   }
   .footer-submit:hover { background: #9a7f52; }
+  .footer-submit:disabled { opacity: 0.6; cursor: default; }
   .footer-contact-link { text-decoration: none; text-align: center; }
+
+  .footer-hp { position: absolute; left: -9999px; width: 1px; height: 1px; overflow: hidden; }
+
+  .footer-nl-status {
+    margin: 0.65rem 0 0;
+    font-size: 0.8rem;
+    line-height: 1.55;
+    padding: 0.5rem 0.7rem;
+    background: rgba(255,255,255,0.05);
+    border-left: 3px solid rgba(255,255,255,0.25);
+    color: rgba(255,255,255,0.8);
+  }
+  .footer-nl-status.nl-status--ok  { border-left-color: var(--color-accent); }
+  .footer-nl-status.nl-status--err { border-left-color: #E0997F; color: #F0C4B6; }
+
+  .footer-form-fine {
+    margin: 0.65rem 0 0;
+    font-size: 0.68rem;
+    line-height: 1.55;
+    color: rgba(255,255,255,0.4);
+  }
+  .footer-form-fine a { color: rgba(255,255,255,0.6); text-decoration: underline; text-underline-offset: 2px; }
+  .footer-form-fine a:hover { color: #fff; }
+
+  .footer-contact-inline {
+    display: inline-block;
+    margin-top: 1rem;
+    font-size: 0.8rem;
+    color: rgba(255,255,255,0.5);
+    text-decoration: none;
+  }
+  .footer-contact-inline:hover { color: rgba(255,255,255,0.85); text-decoration: none; }
 
   .footer-social-row {
     display: flex;

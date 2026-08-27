@@ -9,6 +9,7 @@ out-uk/
 
 .vercel
 .env*
+!.env.example
 
 # Ebook PDFs mirrored here from the digital-products build — not referenced
 # by any site source or public/, not served live; kept on disk, not in git
