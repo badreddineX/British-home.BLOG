@@ -3,7 +3,7 @@ title: "Small Kitchen Island Ideas for UK Flats: Budget-Friendly"
 description: "Small kitchen island ideas for UK flats that fit tight budgets and rented spaces — no permanent changes needed. UK spelling."
 image: "/images/kitchen-marble-island-worktop.jpg"
 datePublished: "2026-07-31"
-dateModified: "2026-07-31"
+dateModified: "2026-08-27"
 author: "Badreddine"
 tags: ["kitchen island UK", "small kitchen island uk", "kitchen island ideas small space", "small kitchen ideas", "budget", "renter-friendly"]
 featured: false

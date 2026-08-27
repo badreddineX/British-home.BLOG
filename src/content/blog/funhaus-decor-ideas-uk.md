@@ -3,7 +3,7 @@ title: "FunHaus Decor Ideas UK"
 description: "FunHaus is the 2026 trend for renters: bold personality in rugs, cushions and lamps, nothing fixed. Full UK shopping list with real £ prices."
 image: "/images/patchwork-armchair-gallery-wall.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-08-10"
+dateModified: "2026-08-27"
 author: "Badreddine"
 tags: ["FunHaus decor UK", "FunHaus trend 2026", "renter-friendly decor UK", "bold soft furnishings UK", "colourful living room ideas UK", "maximalist decor UK"]
 featured: false
