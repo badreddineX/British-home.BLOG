@@ -5,7 +5,7 @@ image: "/images/pexels-1080721.jpg"
 datePublished: "2025-11-01"
 dateModified: "2026-08-29"
 author: "Badreddine"
-tags: ["cheap kitchen UK", "cheap kitchen", "affordable kitchen", "affordable kitchen UK", "affordable kitchen renovations", "budget kitchens", "kitchen makeover budget", "kitchen on a budget UK", "budget kitchen ideas UK", "kitchen upgrade UK", "cheap kitchen makeover UK"]
+tags: ["cheap kitchen UK", "cheap kitchen", "budget kitchens", "kitchen makeover budget", "kitchen on a budget UK", "budget kitchen ideas UK", "kitchen upgrade UK", "cheap kitchen makeover UK"]
 featured: false
 category: "Kitchen"
 readTime: "8 min read"
