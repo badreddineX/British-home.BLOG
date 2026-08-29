@@ -44,6 +44,12 @@ const fullUrl = canonicalPath
   : siteUrl;
 const fullImage = image.startsWith('http') ? image : `${siteUrl}${image}`;
 const pageTitle = title.includes('British Home Interior') ? title : `${title} | British Home Interior`;
+// The <title> tag drives the SERP snippet, which truncates past ~60 chars --
+// Google then rewrites it itself, usually worse. Only keep the " | British
+// Home Interior" suffix (24 chars) when the post title is short enough to
+// leave room; otherwise ship the bare title. og:/twitter: keep the branded
+// form since social cards don't truncate the same way.
+const metaTitle = pageTitle.length <= 60 ? pageTitle : title;
 
 // Pinterest Rich Pins and Facebook/LinkedIn crop og:image to the declared
 // width/height, not the file's real dimensions -- a hardcoded 1200x630 lied
@@ -99,7 +105,7 @@ if (!image.startsWith('http')) {
 <!-- Primary Meta Tags -->
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>{pageTitle}</title>
+<title>{metaTitle}</title>
 <meta name="description" content={description} />
 <meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'} />
 {!noindex && <link rel="canonical" href={fullUrl} />}

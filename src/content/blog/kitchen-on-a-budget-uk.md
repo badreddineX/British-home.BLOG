@@ -3,7 +3,7 @@ title: "Cheap Kitchen Makeover UK: 14 Affordable Ideas"
 description: "14 cheap kitchen upgrades for UK homes under £500 — paint cabinets, swap handles, add shelving, refresh worktops. Real costs from B&Q, IKEA, Wickes."
 image: "/images/pexels-1080721.jpg"
 datePublished: "2025-11-01"
-dateModified: "2026-08-16"
+dateModified: "2026-08-29"
 author: "Badreddine"
 tags: ["cheap kitchen UK", "cheap kitchen", "affordable kitchen", "affordable kitchen UK", "affordable kitchen renovations", "budget kitchens", "kitchen makeover budget", "kitchen on a budget UK", "budget kitchen ideas UK", "kitchen upgrade UK", "cheap kitchen makeover UK"]
 featured: false
@@ -18,12 +18,8 @@ tldr:
 faqs:
   - q: "How can I update my kitchen cheaply in the UK?"
     a: "Paint the cabinet doors, swap the handles, add open shelving, and replace the taps. These four changes cost under £200 combined and make a bigger visual impact than most full kitchen renovations."
-  - q: "What paint is best for kitchen cabinets UK?"
-    a: "Rust-Oleum Kitchen Cupboard Paint (around £18 per tin) is the most durable consumer option. Frenchic Al Fresco and Farrow & Ball Estate Eggshell also work well on properly primed surfaces."
   - q: "How do I make a small kitchen look bigger UK?"
     a: "Paint units a light colour, remove upper cabinet doors from one section to create open shelving, add under-cabinet lighting to lift the worktop area visually, and use a large format splashback tile (real or stick-on) to reduce visual busyness."
-  - q: "Is it worth painting kitchen cupboards UK?"
-    a: "Yes — especially on solid wood or MDF doors. Painting saves thousands versus replacing units and can last 5–7 years with proper prep and the right paint. Avoid painting thermofoil or laminate doors without specialist primer."
   - q: "What counts as an affordable kitchen renovation in the UK?"
     a: "An affordable kitchen renovation means working with the existing layout and carcasses rather than a full refit — painting cabinets, swapping handles and taps, and adding open shelving. Done this way, a full budget kitchen refresh typically costs £150–£400, versus £8,000+ for a fitted replacement."
   - q: "How do budget kitchens compare to a full kitchen renovation?"
@@ -52,11 +48,11 @@ Read more: [budget home transformation framework](/blog/budget-home-makeover-uk/
 
 ---
 
-## What's the Best Way to Paint Your Cabinet Doors?
+## Start With the Cabinet Doors
 
 Painting cabinet doors is the single highest-impact change you can make to a tired kitchen. Two tins of Rust-Oleum Kitchen Cupboard Paint (around £36 total) cover a full standard UK kitchen — the best spend-per-impact ratio of any change on this list.
 
-Full prep steps, colour choices, and a materials breakdown: [Budget Kitchen Cabinet Makeover UK](/blog/budget-kitchen-cabinet-makeover-uk/).
+Painting is only one of four ways to update tired cabinets, though — respray, vinyl wrap, and replacement doors each suit different budgets and door types. Full prep steps, colour choices, a cost comparison, and which route fits your situation: [Budget Kitchen Cabinet Makeover UK](/blog/budget-kitchen-cabinet-makeover-uk/).
 
 ---
 

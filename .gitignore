@@ -1,6 +1,12 @@
 node_modules/
 dist/
 .astro/
+
+# WebP siblings of public/images/*.jpg|png -- regenerated at every build by
+# the `prebuild` script (scripts/to-webp.mjs), not source. Matches how the
+# Canada blog handles it.
+public/images/*.webp
+
 out/
 out-uk/
 .env

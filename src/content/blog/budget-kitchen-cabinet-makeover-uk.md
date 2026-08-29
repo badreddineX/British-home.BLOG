@@ -3,7 +3,7 @@ title: "Budget Kitchen Cabinet Makeover UK"
 description: "Four affordable UK kitchen cabinet options compared — DIY paint, respray, vinyl wrap, and new doors — with real prices from B&Q, Wickes, and Screwfix."
 image: "/images/kitchen-white-cabinets.jpg"
 datePublished: "2026-05-27"
-dateModified: "2026-08-27"
+dateModified: "2026-08-29"
 author: "Badreddine"
 tags: ["affordable kitchen cabinets uk", "kitchen cabinet makeover uk", "cheap kitchen cabinets uk", "kitchen cabinet respray cost uk", "vinyl wrap kitchen cabinets", "cheap kitchen cabinet doors uk", "kitchen cabinet makeover"]
 featured: false
@@ -24,6 +24,10 @@ faqs:
     a: "Yes, significantly. Replacement doors that fit your existing carcasses cost roughly a third of a full kitchen replacement, since you avoid new carcasses, worktop removal, and re-plumbing entirely."
   - q: "What's the cheapest way to update kitchen cabinets in the UK?"
     a: "New handles are the cheapest single change, from £15–£40 for a whole kitchen. DIY painting comes next at £30–£60, offering a bigger visual transformation for a modest jump in cost and effort."
+  - q: "What paint is best for kitchen cabinets UK?"
+    a: "Rust-Oleum Kitchen Cupboard Paint (around £18 per tin) is the most durable consumer option. Frenchic Al Fresco and Farrow & Ball Estate Eggshell also work well on properly primed surfaces."
+  - q: "Is it worth painting kitchen cupboards UK?"
+    a: "Yes — especially on solid wood or MDF doors. Painting saves thousands versus replacing units and can last 5–7 years with proper prep and the right paint. Avoid painting thermofoil or laminate doors without specialist primer."
 ---
 
 A few months after I painted my own cabinet doors, a friend asked me to help her decide between a respray and a full replacement. Her kitchen units were structurally fine, just dated: orange pine doors from the early 2000s, brass handles, the works. We spent an evening going through every option, and the price differences genuinely surprised her.
@@ -165,6 +169,14 @@ Yes, significantly. Replacement doors that fit your existing carcasses cost roug
 ### What's the cheapest way to update kitchen cabinets in the UK?
 
 New handles are the cheapest single change, from £15–£40 for a whole kitchen. DIY painting comes next at £30–£60, offering a bigger visual transformation for a modest jump in cost and effort.
+
+### What paint is best for kitchen cabinets UK?
+
+Rust-Oleum Kitchen Cupboard Paint (around £18 per tin) is the most durable consumer option. Frenchic Al Fresco and Farrow & Ball Estate Eggshell also work well on properly primed surfaces.
+
+### Is it worth painting kitchen cupboards UK?
+
+Yes — especially on solid wood or MDF doors. Painting saves thousands versus replacing units and can last 5–7 years with proper prep and the right paint. Avoid painting thermofoil or laminate doors without specialist primer.
 
 ---
 
