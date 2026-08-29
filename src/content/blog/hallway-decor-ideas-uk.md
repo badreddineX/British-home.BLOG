@@ -19,7 +19,7 @@ faqs:
   - q: "What colour should I paint a dark hallway in a UK home?"
     a: "Either go light with a warm white (Farrow & Ball Pointing, Dulux Timeless) or commit to the darkness with a deep tone like Hague Blue or Railings. Avoid cold greys and stark whites — they look washed-out and clinical under artificial light. Warm undertones always outperform cool ones in low-light corridors."
   - q: "How do I decorate a narrow hallway in a Victorian terraced house?"
-    a: "Keep furniture under 30cm deep — slim console tables, wall-mounted coat hooks rather than freestanding hallstands. Use vertical space aggressively: hooks high on the wall, tall mirrors, a stair gallery wall. A runner rug adds warmth without reducing floor width. See our [living room ideas UK](/blog/small-living-room-ideas-uk/) for how the same principles apply across the home."
+    a: "Keep furniture under 30cm deep — slim console tables, wall-mounted coat hooks rather than freestanding hallstands. Use vertical space aggressively: hooks high on the wall, tall mirrors, a stair gallery wall. A runner rug adds warmth without reducing floor width. The same tight-space principles apply in a [small living room](/blog/small-living-room-ideas-uk/)."
   - q: "What hallway ideas work for renters who can't drill?"
     a: "Freestanding coat racks, leaned mirrors, plug-in pendant lights, and Command strip picture rails cover nearly every hallway need without damaging walls. Command hooks rated to 3.6kg handle coats reliably. See our full [rented home decor ideas UK](/blog/rented-flat-makeover-uk/) guide for deposit-safe tactics across every room."
   - q: "What's the best flooring for a small UK hallway?"
