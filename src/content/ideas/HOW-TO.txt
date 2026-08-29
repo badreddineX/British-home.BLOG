@@ -23,9 +23,17 @@ work. Blank line between paragraphs.
 
 QUEUE
 -----
-1  001-living-room-lamp-layers   Living Room
-2  002-rented-bedroom-warmth     Bedroom
-3  003-rental-kitchen-quick-win  Kitchen
-4  004-twenty-pound-gallery-wall Room Makeovers
+1  001-living-room-lamp-layers    Living Room
+2  002-rented-bedroom-warmth      Bedroom
+3  003-rental-kitchen-quick-win   Kitchen
+4  004-twenty-pound-gallery-wall  Room Makeovers
+5  005-hallway-first-metre        Hallway
+6  006-curtains-high-and-wide     Living Room / styling
+7  007-rug-over-the-carpet        Rented / living room
+8  008-bathroom-no-drilling       Bathroom
+9  009-thirty-pound-bedside       Bedroom
+10 010-style-one-open-shelf       Styling
+11 011-paint-the-box-room-dark    Colour / small rooms
+12 012-one-big-plant              Plants / styling
 
-Add the next as 005-... To reorder, change the `order:` numbers.
+Add the next as 013-... To reorder, change the `order:` numbers.
