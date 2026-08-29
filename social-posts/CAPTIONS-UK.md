@@ -1,8 +1,8 @@
 # UK — Instagram captions
 
-Meta Business Suite has no bulk import — paste one at a time into the Planner.
-Image: `social-posts/2026-08-13/<slug>-ig.png`
-IG feed posts can't carry a live link — keep bio link on the newest post. FB captions include the URL.
+Consumed by the auto-poster via `social/build-queue.mjs` → `social/queue.json`.
+Image: `social-posts/ready-UK/NN-<slug>.jpg`
+IG feed posts can’t carry a live link — keep the bio link on the newest post.
 
 ---
 
@@ -20,7 +20,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter #globalinspireddecor #renterfriendly
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -38,7 +37,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #livingroomideas #cosyliving #smalllivingroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -56,7 +54,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -74,7 +71,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -92,7 +88,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #bedroomideas #cosybedroom #smallbedroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -110,7 +105,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #bedroomideas #cosybedroom #smallbedroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -128,7 +122,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #bedroomideas #cosybedroom #smallbedroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -146,7 +139,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -164,7 +156,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -182,7 +173,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #budgetkitchen #kitchenmakeover #ukkitchen
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -200,7 +190,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #budgetkitchen #kitchenmakeover #ukkitchen
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -218,7 +207,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #budgetkitchen #kitchenmakeover #ukkitchen
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -236,7 +224,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #budgetkitchen #kitchenmakeover #ukkitchen
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -254,7 +241,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #livingroomideas #cosyliving #smalllivingroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -272,7 +258,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #bedroomideas #cosybedroom #smallbedroom #cosyroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -290,7 +275,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #livingroomideas #cosyliving #smalllivingroom #hyggeuk
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -308,7 +292,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #bedroomideas #cosybedroom #smallbedroom #botanicalbedroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -326,7 +309,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #livingroomideas #cosyliving #smalllivingroom #britishcottagecore
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -344,7 +326,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -362,7 +343,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter #budget #twotonekitchen #renterfriendlydecor
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -380,7 +360,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -398,7 +377,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #budgetkitchen #kitchenmakeover #ukkitchen
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -416,7 +394,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter #britishhallway
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -434,7 +411,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter #budget #renterfriendly
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -452,7 +428,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -470,7 +445,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -488,7 +462,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #livingroomideas #cosyliving #smalllivingroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -506,7 +479,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #budgetkitchen #kitchenmakeover #ukkitchen
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -524,7 +496,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #budgetkitchen #kitchenmakeover #ukkitchen #cheapkitchen #affordablekitchen #budgetkitchens
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -542,7 +513,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #livingroomideas #cosyliving #smalllivingroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -560,7 +530,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #livingroomideas #cosyliving #smalllivingroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -578,7 +547,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #livingroomideas #cosyliving #smalllivingroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -596,7 +564,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -614,7 +581,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter #renterfriendlydecor #budget
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -632,7 +598,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter #budgetdecor
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -650,7 +615,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter #budget #renterfriendlydecor
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -668,7 +632,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #budgetkitchen #kitchenmakeover #ukkitchen
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -686,7 +649,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -704,7 +666,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #bedroomideas #cosybedroom #smallbedroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -722,7 +683,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter #renterfriendly #budget #nonails
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -740,7 +700,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #livingroomideas #cosyliving #smalllivingroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -758,7 +717,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #bedroomideas #cosybedroom #smallbedroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -776,7 +734,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #livingroomideas #cosyliving #smalllivingroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -794,7 +751,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #bedroomideas #cosybedroom #smallbedroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -812,7 +768,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #bedroomideas #cosybedroom #smallbedroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -830,7 +785,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #bedroomideas #cosybedroom #smallbedroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -848,7 +802,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter #budget #renterfriendly
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -866,7 +819,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #budgetkitchen #kitchenmakeover #ukkitchen
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -884,7 +836,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #livingroomideas #cosyliving #smalllivingroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -902,7 +853,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #livingroomideas #cosyliving #smalllivingroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -920,7 +870,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #livingroomideas #cosyliving #smalllivingroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -938,7 +887,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #livingroomideas #cosyliving #smalllivingroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -956,7 +904,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #livingroomideas #cosyliving #smalllivingroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -974,7 +921,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #livingroomideas #cosyliving #smalllivingroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -992,7 +938,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter #budgetkitchen #renterfriendlydecor #freestandingkitchen
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -1010,7 +955,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter #budget #renterfriendlydecor
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -1028,7 +972,6 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #homemakeover #budgetmakeover #beforeandafter
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
 
@@ -1046,6 +989,5 @@ Full guide — link in bio.
 #ukhome #ukinteriors #rentedhome #homedecoruk #smallspaceuk #livingroomideas #cosyliving #smalllivingroom
 ```
 
-**Facebook:** — (UK has no FB account)
 
 ---
