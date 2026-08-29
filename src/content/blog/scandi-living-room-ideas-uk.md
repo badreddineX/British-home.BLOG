@@ -1,5 +1,5 @@
 ---
-title: "Scandi Living Room Ideas for UK Homes"
+title: "Scandi Living Room Ideas UK"
 description: "Scandi living room ideas for small UK flats — light wood, neutral palettes, hygge textiles, and pared-back furniture. Real IKEA product picks with £ prices."
 image: "/images/scandinavian-living-room-wood.jpg"
 datePublished: "2026-08-10"

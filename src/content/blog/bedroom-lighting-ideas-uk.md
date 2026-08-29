@@ -1,5 +1,5 @@
 ---
-title: "Bedroom Lighting Ideas for UK Rentals"
+title: "Bedroom Lighting Ideas UK (Rental-Safe)"
 description: "Cosy, deposit-safe bedroom lighting ideas for UK renters — warm bulbs, lamps, fairy lights, battery sconces, and dimmer plugs, all with no rewiring."
 image: "/images/cosy-bedroom-diffuser-lamp.jpg"
 datePublished: "2026-08-10"

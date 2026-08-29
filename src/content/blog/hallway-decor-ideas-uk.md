@@ -1,11 +1,11 @@
 ---
-title: "Hallway Decor Ideas UK"
-description: "Transform a narrow British hallway with smart paint, slim furniture, mirrors, and renter-friendly ideas. UK retailers, real prices, practical order."
+title: "Hallway Ideas UK: Small & Narrow Hallways"
+description: "Hallway ideas for UK homes — paint, slim furniture, mirrors, lighting and runners for small and narrow British hallways. UK retailers, real prices, in the order that matters."
 image: "/images/pexels-1090638.jpg"
 datePublished: "2026-04-19"
 dateModified: "2026-08-06"
 author: "Badreddine"
-tags: ["hallway decor ideas UK", "hallway decorating ideas uk", "hallway ideas uk", "hall design ideas uk", "narrow hallway ideas uk", "small hallway ideas UK", "hallway decorating UK", "British hallway", "entryway ideas UK"]
+tags: ["hallway ideas uk", "hallway decor ideas UK", "small hallway ideas uk", "narrow hallway ideas uk", "hallway lighting ideas uk", "hallway runner ideas", "hallway storage ideas uk", "British hallway"]
 featured: false
 category: "Room Makeovers"
 readTime: "8 min read"
@@ -27,7 +27,7 @@ faqs:
 ---
 
 
-The British hallway is a specific problem. It's usually a narrow corridor barely wide enough for two people to pass, no natural light, one bare bulb overhead, and years of accumulated coats, shoes, and unopened post stacked against the wall.
+Hallway ideas written for big American entryways don't help here. The British hallway is a specific problem: usually a narrow corridor barely wide enough for two people to pass, no natural light, one bare bulb overhead, and years of accumulated coats, shoes, and unopened post stacked against the wall.
 
 According to a 2023 survey by the [Royal Institute of British Architects](https://www.architecture.com), nearly 60% of UK homes built before 1919 have entrance hallways under 1.2 metres wide. That's a very particular design challenge — and most American or Scandinavian hallway inspiration on Pinterest simply doesn't translate.
 
