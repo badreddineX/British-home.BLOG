@@ -14,19 +14,20 @@ through this blog's own Resend account.
 ## Architecture
 
 ```
-Visitor → <form class="nl-form">  ──POST──▶  /api/subscribe
+Visitor → <form class="nl-form">  ──POST──▶  /api/subscribe/
                                               │ insert 'pending' + token
                                               │ send confirm email (Hostinger SMTP)
                                               ▼
-Confirm email link  ──GET──▶  /api/confirm?token=…
+Confirm email link  ──GET──▶  /api/confirm/?token=…
                                  │ status → 'active', store confirmed_at
                                  │ send welcome email
                                  ▼  302 → /thank-you/?src=newsletter
 
-Every email footer → /api/unsubscribe?token=…  (GET link + RFC-8058 one-click POST)
+Every email footer → /api/unsubscribe/?token=…  (GET link + RFC-8058 one-click POST)
 
-Weekly:  Vercel Cron (Mon 13:00 UTC) → /api/broadcast
-   reads /newsletter-feed.json, sends only if new posts since last digest
+Weekly:  Vercel Cron (Mon 13:00 UTC) → /api/broadcast/
+   reads /newsletter-feed.json, sends the next unsent idea + any new posts
+   (all API paths carry a trailing slash — site is trailingSlash: true)
 ```
 
 | File | Role |
@@ -89,8 +90,16 @@ That's enough for **capture + double opt-in**. The digest needs three more:
 
 # digest dry run (sends nothing):
 curl -H "Authorization: Bearer YOUR_CRON_SECRET" \
-  "https://britishhomeinterior.co.uk/api/broadcast?dryRun=1"
+  "https://britishhomeinterior.co.uk/api/broadcast/?dryRun=1"
+
+# real run (drop ?dryRun; sends to every active subscriber):
+curl -H "Authorization: Bearer YOUR_CRON_SECRET" \
+  "https://britishhomeinterior.co.uk/api/broadcast/"
 ```
+
+Note the **trailing slash** on `/api/broadcast/` — this site is `trailingSlash: true`,
+so `/api/broadcast` (no slash) 308-redirects and Vercel Cron may not follow it.
+The cron in `vercel.json` is registered with the slash for the same reason.
 
 First real digest run covers the **last 7 days** of posts (max 6). To skip the
 backlog, seed the marker first:
