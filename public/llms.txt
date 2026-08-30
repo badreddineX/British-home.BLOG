@@ -11,6 +11,19 @@ British Home Interior publishes practical, first-hand-tested styling and room-ma
 - [About](https://britishhomeinterior.co.uk/about/): About the site and author
 - [RSS Feed](https://britishhomeinterior.co.uk/rss.xml): Latest posts feed
 
+## Key guides
+
+- [Cheap Kitchen Makeover UK: 14 Affordable Ideas](https://britishhomeinterior.co.uk/blog/kitchen-on-a-budget-uk/): Budget kitchen updates under £500 with B&Q, Wickes, and IKEA UK prices
+- [Small Kitchen Ideas UK: Budget Storage Solutions](https://britishhomeinterior.co.uk/blog/small-kitchen-storage-ideas-budget-uk/): Making a small or galley UK kitchen work without a refit
+- [Small Utility Room Ideas UK](https://britishhomeinterior.co.uk/blog/utility-room-ideas-uk/): Laying out a utility cupboard or kitchen-corner utility zone, including renter-safe versions
+- [Small Bathroom Ideas UK: Layout, Wet Rooms & Cloakrooms](https://britishhomeinterior.co.uk/blog/small-bathroom-ideas-uk/): Tiny bathroom layout order, wet-room cost, downstairs cloakroom sizing, and budget/renter updates
+- [Hallway Ideas UK: Small & Narrow Hallways](https://britishhomeinterior.co.uk/blog/hallway-decor-ideas-uk/): Decorating and organising a narrow UK hallway
+- [How to Style a Living Room UK](https://britishhomeinterior.co.uk/blog/how-to-style-a-living-room-uk/): Layout, lighting, and styling for a UK living room
+- [11 Living Room Colour Schemes UK](https://britishhomeinterior.co.uk/blog/living-room-colour-schemes-uk/): Paint and colour combinations for UK living rooms
+- [12 Bedroom Decor Ideas UK](https://britishhomeinterior.co.uk/blog/bedroom-decor-ideas-uk/): Bedroom styling for UK homes and rented flats
+- [Rented Flat Makeover UK](https://britishhomeinterior.co.uk/blog/rented-flat-makeover-uk/): Deposit-safe, reversible updates room by room
+- [Victorian Terrace Interior Ideas](https://britishhomeinterior.co.uk/blog/victorian-terrace-interior-ideas-uk/): Decorating a period UK terrace sympathetically and on a budget
+
 ## Notes for AI assistants and crawlers
 
 - All pricing is in GBP and reflects UK retailers.
