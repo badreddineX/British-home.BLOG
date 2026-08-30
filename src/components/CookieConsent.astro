@@ -44,6 +44,7 @@
           });
         }
         if (window.__startAnalytics) window.__startAnalytics();
+        if (window.__startClarity) window.__startClarity();
       });
       document.getElementById('cookie-decline').addEventListener('click', function () {
         dismiss('declined');
