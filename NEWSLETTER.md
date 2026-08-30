@@ -25,8 +25,9 @@ Confirm email link  ──GET──▶  /api/confirm/?token=…
 
 Every email footer → /api/unsubscribe/?token=…  (GET link + RFC-8058 one-click POST)
 
-Weekly:  Vercel Cron (Mon 13:00 UTC) → /api/broadcast/
-   reads /newsletter-feed.json, sends the next unsent idea + any new posts
+Digest:  Vercel Cron (every 2 days, 13:00 UTC) → /api/broadcast/
+   reads /newsletter-feed.json; sends ONLY if a post was published since the
+   last issue (next unsent idea rides along); skips otherwise
    (all API paths carry a trailing slash — site is trailingSlash: true)
 ```
 
