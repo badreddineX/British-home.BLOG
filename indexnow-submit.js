@@ -55,6 +55,7 @@ const urlList = [
   "https://britishhomeinterior.co.uk/blog/renter-friendly-living-room-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/scandi-bedroom-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/scandi-living-room-ideas-uk/",
+  "https://britishhomeinterior.co.uk/blog/small-bathroom-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/small-bedroom-budget-uk/",
   "https://britishhomeinterior.co.uk/blog/small-bedroom-layout-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/small-bedroom-storage-uk/",

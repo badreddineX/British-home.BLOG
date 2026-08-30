@@ -202,6 +202,7 @@ Running out of floor and cabinet space elsewhere in the flat too? [12 vertical s
 
 **Related reading you might find useful:**
 
+- [Small bathroom ideas UK](/blog/small-bathroom-ideas-uk/) for laying out a tiny bathroom, shower room, wet room or cloakroom in the first place
 - [Bathroom colour ideas UK](/blog/bathroom-colour-ideas-uk/) for the paint and tile side of the same room
 - [Small bedroom storage UK](/blog/small-bedroom-storage-uk/) for bedroom-specific storage using the same no-drill principles
 - [Rented flat makeover UK](/blog/rented-flat-makeover-uk/) for the full deposit-safe room-by-room playbook
