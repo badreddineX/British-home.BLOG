@@ -1,11 +1,11 @@
 ---
-title: "Small Bedroom on a Budget UK: Under £150 Refresh"
-description: "A £150 small bedroom refresh for UK flats — bedding, lighting, a mirror, a rug, and wall art, with real prices from Dunelm, IKEA, Amazon, Wilko, and B&M."
+title: "Small Bedroom Ideas UK: A Budget Refresh Under £150"
+description: "Small bedroom ideas for UK flats on a budget — bedding, lighting, a mirror, a rug, and wall art in the right order, with real prices from Dunelm, IKEA, Amazon, Wilko, and B&M."
 image: "/images/minimalist-bedroom-single-bed.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-08-10"
+dateModified: "2026-08-30"
 author: "Badreddine"
-tags: ["small bedroom on a budget uk", "cheap bedroom makeover uk", "bedroom refresh under 150", "budget bedroom ideas uk", "renter bedroom uk"]
+tags: ["small bedroom ideas uk", "small bedroom on a budget uk", "cheap bedroom makeover uk", "budget bedroom ideas uk", "renter bedroom uk"]
 featured: false
 category: "Bedroom"
 relatedPosts:
@@ -31,7 +31,7 @@ faqs:
     a: "Wilko and B&M tend to be cheapest for rugs and small decor. Dunelm and Amazon UK are strongest for bedding. IKEA is usually the best value for mirrors and lamps. Comparing all four before buying typically saves £10-£20 across a full refresh."
 ---
 
-A small UK bedroom can look and feel completely different for under £150, if you spend the money in the right order. **TL;DR:** start with bedding (£25-£35), add warm lighting (£15-£20), then a mirror (£35-£45), a rug (£20-£25), and Command-strip wall art (£15-£20). That sequence, in that order, gets you the most visible change per pound spent, and the full refresh lands at roughly £140-£148.
+The best small bedroom ideas for a UK flat aren't about buying more — they're about spending a small budget in the right order. A small UK bedroom can look and feel completely different for under £150 if you do. **TL;DR:** start with bedding (£25-£35), add warm lighting (£15-£20), then a mirror (£35-£45), a rug (£20-£25), and Command-strip wall art (£15-£20). That sequence, in that order, gets you the most visible change per pound spent, and the full refresh lands at roughly £140-£148.
 
 I've done versions of this refresh in two different rented rooms, one in London, one in Manchester, and the order matters more than the total budget. Buy the wall art first and a tired room still looks tired underneath it. Buy the bedding first and even a half-finished room already feels cared for. Here's the priority order I'd use again, with real UK prices.
 

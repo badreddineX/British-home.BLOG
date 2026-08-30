@@ -5,7 +5,7 @@ image: "/images/pexels-276583.jpg"
 datePublished: "2025-12-08"
 dateModified: "2026-07-25"
 author: "Badreddine"
-tags: ["small living room ideas UK", "small flat living room ideas", "small lounge ideas uk", "small living room UK", "small flat living room", "living room ideas small space", "compact living room UK"]
+tags: ["small living room ideas uk", "very small living room ideas", "small flat living room ideas", "small lounge ideas uk", "compact living room uk", "living room ideas small space"]
 featured: false
 category: "Living Room"
 readTime: "8 min read"
@@ -24,12 +24,14 @@ faqs:
     a: "Furniture raised on legs (sofas, chairs, coffee tables) shows floor and makes rooms read as larger. Nesting tables over a fixed coffee table. A two-seater or compact three-seater sofa rather than a large sectional. Floating shelves over floor-standing units to preserve floor area."
   - q: "What colour should I paint a small living room UK?"
     a: "Warm neutrals and soft whites work best in small rooms — Dulux Goose Down, Crown Fossil, or Farrow & Ball Pavilion Grey. Dark colours can work in small rooms if the lighting is excellent, but they're less forgiving. Avoid cool greys in north-facing UK rooms as they read flat and cold."
+  - q: "How do I decorate a very small living room?"
+    a: "In a very small living room (under 12 square metres), the priority order changes: get the sofa off the wall it shares with the door, use a two-seater or a corner sofa rather than a three-seater, hang curtains at ceiling height and let them cover the wall either side of the window, and add one large mirror opposite the light source. Skip the coffee table for nesting tables or a small round side table. One larger piece of furniture always reads better than several small ones fighting for the floor."
 ---
 
 
 The average new-build living room in the UK measures around 17 square metres — and many older flats, particularly in London and other major cities, are significantly smaller than that. According to the [Office for National Statistics (ONS)](https://www.ons.gov.uk) 2023 Housing Survey, UK homes are among the smallest in Western Europe, with the average floor area 30% below the European average.
 
-This guide covers visual tricks — colour, curtains, mirrors, rug size. For general living room styling with no space constraint, see [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/); for furniture arrangement and floor plans specifically, see [Small Living Room Layout Ideas](/blog/small-living-room-layout-ideas/).
+This guide covers visual tricks — colour, curtains, mirrors, rug size — and they matter most in a *very* small living room, the kind you find in a one-bed flat or a 1930s semi. For general living room styling with no space constraint, see [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/); for furniture arrangement and floor plans specifically, see [Small Living Room Layout Ideas](/blog/small-living-room-layout-ideas/).
 
 We're working with less space than almost any other European country. And most advice about "making rooms feel bigger" was written for spaces that are already considerably larger than most British flats.
 

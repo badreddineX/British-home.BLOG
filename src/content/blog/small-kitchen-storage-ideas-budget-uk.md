@@ -1,11 +1,11 @@
 ---
-title: "Small Kitchen Storage Ideas on a Budget UK"
-description: "Small kitchen storage ideas for UK homes on a budget — over-door racks, magnetic strips, corner solutions, and freestanding shelving, all under £40."
+title: "Small Kitchen Ideas UK: Budget Storage Solutions"
+description: "Small kitchen ideas for UK flats and galley kitchens — over-door racks, magnetic strips, corner carousels, and freestanding shelving that make a tiny kitchen work, all under £40."
 image: "/images/kitchen-open-shelving.jpg"
 datePublished: "2026-07-13"
-dateModified: "2026-08-27"
+dateModified: "2026-08-30"
 author: "Badreddine"
-tags: ["small kitchen storage ideas uk", "small kitchen storage solutions", "budget kitchen storage ideas", "budget kitchen organisation uk", "cheap kitchen storage solutions uk", "kitchen storage UK"]
+tags: ["small kitchen ideas uk", "small kitchen storage ideas uk", "small kitchen storage solutions", "budget kitchen storage ideas", "galley kitchen storage uk", "kitchen storage UK"]
 featured: false
 category: "Kitchen"
 readTime: "7 min read"
@@ -26,7 +26,7 @@ faqs:
     a: "Yes, when mounted above worktop height and out of a child's reach. IKEA's Kungsfors rail (£6) holds knives securely with a strong magnetic strip and frees the drawer space a knife block would otherwise use."
 ---
 
-The average British kitchen measures around 13 square metres, and a large share of that is taken up by units you can't extend or move, according to [Checkatrade](https://www.checkatrade.com)'s UK kitchen size data. If you're renting, or you've got a galley kitchen from the 1990s with three working cupboards, storage becomes the actual daily problem, not the paint colour.
+Most small kitchen ideas for UK homes are about how it *looks*. In a rented flat or a 1990s galley kitchen with three working cupboards, the real problem is where everything goes. The average British kitchen is around 13 square metres, much of it taken up by units you can't move, according to [Checkatrade](https://www.checkatrade.com)'s UK kitchen size data — so this guide is about making the space you have hold more.
 
 I wrote a separate post on [budget-friendly ways to refresh a kitchen's whole look](/blog/kitchen-on-a-budget-uk/), and another on [styling a kitchen once it's sorted](/blog/kitchen-decor-ideas-uk/). This one is neither of those. This is purely about where things go when you don't have enough space to put them.
 
