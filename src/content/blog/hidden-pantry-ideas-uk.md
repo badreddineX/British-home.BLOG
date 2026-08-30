@@ -104,5 +104,5 @@ If your pantry has a dedicated spice drawer, it’s likely a mess of sliding pac
 
 Hidden pantry storage in a small UK kitchen isn’t about adding square footage — it’s about seeing space you already have. With these tweaks, your weekly shop becomes easier, your cooking more spontaneous, and your stress levels dip. Even in a 1930s flat with cupboards the size of a sandwich, you can create order.
 
-→ [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/)  
-→ [Small Kitchen Storage Ideas UK](/blog/kitchen-on-a-budget-uk/)
+→ [Small Kitchen Ideas UK: Budget Storage Solutions](/blog/small-kitchen-storage-ideas-budget-uk/)  
+→ [Small Utility Room Ideas UK](/blog/utility-room-ideas-uk/)

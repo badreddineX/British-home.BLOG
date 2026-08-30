@@ -161,3 +161,4 @@ The first three steps cost under £30 combined and solve the storage problems th
 - [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk/)
 - [Budget Kitchen Flooring Ideas UK](/blog/budget-kitchen-flooring-ideas-uk/)
 - [Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/)
+- [Small Utility Room Ideas UK](/blog/utility-room-ideas-uk/) — where the washing machine and cleaning kit go
