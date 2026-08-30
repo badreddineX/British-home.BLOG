@@ -9,7 +9,8 @@
     "build": "astro build",
     "postbuild": "node scripts/inject-image-dimensions.mjs",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "ship": "node scripts/ship-new-posts.mjs"
   },
   "dependencies": {
     "@astrojs/rss": "^4.0.19",
