@@ -67,6 +67,7 @@ const urlList = [
   "https://britishhomeinterior.co.uk/blog/small-living-room-storage-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/soft-minimalism-living-room-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/spring-home-refresh-ideas-uk/",
+  "https://britishhomeinterior.co.uk/blog/studio-flat-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/unfitted-kitchen-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/utility-room-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/vertical-storage-ideas-uk-flats/",
