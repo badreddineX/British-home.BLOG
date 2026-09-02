@@ -33,6 +33,7 @@ const urlList = [
   "https://britishhomeinterior.co.uk/blog/dark-moody-home-decor-uk/",
   "https://britishhomeinterior.co.uk/blog/earthy-neutral-kitchen-colour-trends-uk/",
   "https://britishhomeinterior.co.uk/blog/funhaus-decor-ideas-uk/",
+  "https://britishhomeinterior.co.uk/blog/galley-kitchen-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/grandma-core-kitchen-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/hallway-decor-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/hidden-pantry-ideas-uk/",

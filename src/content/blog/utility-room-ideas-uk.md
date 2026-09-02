@@ -1,7 +1,7 @@
 ---
 title: "Small Utility Room Ideas UK"
 description: "Small utility room ideas for UK homes — laying out a tiny utility room or a utility cupboard, hiding the washing machine, budget fittings, and renter-safe versions."
-image: "/images/kitchen-open-shelving.jpg"
+image: "/images/utility-room-uk.jpg"
 datePublished: "2026-08-30"
 dateModified: "2026-08-30"
 author: "Badreddine"
@@ -56,7 +56,7 @@ A utility cupboard is a 60cm-wide unit, deep enough to take a washing machine (s
 
 The one measurement that matters most: leave at least 50cm of clear floor in front of the machine so the door opens fully and you can crouch to load it. Everything else can be tighter than you think.
 
-![Open shelving above a worktop in a compact utility space](/images/kitchen-open-shelving.jpg)
+![A compact utility room with a plywood worktop over a front-loading washing machine and open shelving below the sink](/images/utility-room-uk.jpg)
 
 ## What's the Right Layout for a Small Utility Room?
 

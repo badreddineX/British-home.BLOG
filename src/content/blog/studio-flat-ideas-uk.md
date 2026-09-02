@@ -1,7 +1,7 @@
 ---
 title: "Studio Flat Ideas UK"
 description: "Studio flat ideas for UK renters — zoning a single room, layout by shape, room dividers, multi-use furniture, and budget fittings that make one room work as a whole home."
-image: "/images/sofa-bed-built-in-wardrobes.jpg"
+image: "/images/studio-flat-zoned-uk.jpg"
 datePublished: "2026-09-01"
 dateModified: "2026-09-01"
 author: "Badreddine"
@@ -51,7 +51,7 @@ Keep a clear walkway from the front door to the kitchen and bathroom that doesn'
 
 Then measure properly. A studio punishes guesswork — a sofa 15cm too deep turns a walkway into a squeeze. Our [small living room layout ideas](/blog/small-living-room-layout-ideas/) walks through the measure-first method in detail, and it applies just as much to the "living" half of a studio.
 
-![A studio flat with a sofa bed set against built-in wardrobes](/images/sofa-bed-built-in-wardrobes.jpg)
+![A studio flat with a breakfast-bar kitchen zone in front of a living area, and the bed screened off behind a glass partition](/images/studio-flat-zoned-uk.jpg)
 
 ## How Do You Divide a Studio Flat Without Building a Wall?
 
