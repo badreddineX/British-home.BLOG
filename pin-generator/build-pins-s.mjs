@@ -29,6 +29,16 @@ const BOARD = {
   'Bathroom': 'Room Makeovers UK',
 };
 const BOARD_FALLBACK = 'Room Makeovers UK';
+// Pinterest search phrases people actually use in this niche (Pinterest guided-search +
+// 2026 trend data), appended per category so pin Keywords lean Pinterest, not Google.
+const PIN_KW = {
+  'Kitchen': ['kitchen ideas uk', 'budget kitchen makeover', 'small kitchen ideas', 'kitchen on a budget', 'rental kitchen makeover', 'kitchen decor ideas'],
+  'Living Room': ['living room ideas uk', 'small living room ideas', 'cosy living room', 'living room decor', 'living room colour schemes', 'living room inspiration'],
+  'Bedroom': ['bedroom ideas uk', 'cosy bedroom ideas', 'small bedroom ideas', 'bedroom decor', 'bedroom colour ideas', 'bedroom inspiration'],
+  'Room Makeovers': ['home decor uk', 'rented flat makeover', 'renter friendly', 'budget home makeover', 'small flat ideas', 'uk home interior'],
+  'Bathroom': ['small bathroom ideas uk', 'bathroom ideas', 'small bathroom decor', 'renter friendly', 'bathroom storage ideas'],
+};
+const PIN_KW_FALLBACK = ['home decor uk', 'uk home interior', 'renter friendly', 'budget home ideas'];
 
 const ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const BLOG_DIR = resolve(ROOT, 'src/content/blog');
@@ -113,15 +123,34 @@ for (const file of files) {
   pins.push({ slug, template: 'S', headline: headline(fm.title, OVERRIDES[slug]), domain: DOMAIN, number: num, photo });
 
   const board = BOARD[fm.category] || BOARD_FALLBACK;
-  const kws = (Array.isArray(fm.tags) ? fm.tags : []).filter((t) => !['Canada', 'IKEA', 'renter-friendly'].includes(t)).slice(0, 6).join(', ');
+  // Keywords: Pinterest search phrases first (category bank), then the post's own tags,
+  // deduped case-insensitively, capped at 9.
+  const tagKw = (Array.isArray(fm.tags) ? fm.tags : [])
+    .filter((t) => !['Canada', 'IKEA', 'renter-friendly', 'renter friendly'].includes(t));
+  const seen = new Set();
+  const kws = [...(PIN_KW[fm.category] || PIN_KW_FALLBACK), ...tagKw]
+    .filter((k) => { const l = k.toLowerCase(); return l && !seen.has(l) && seen.add(l); })
+    .slice(0, 9).join(', ');
+  // Title: keyword-first Pinterest phrase — strip Google buyer-intent tails.
+  const title = fm.title
+    .replace(/^\d+\s+/, '')
+    .replace(/\s*\([^)]*\)\s*$/, '')                 // "(Renter-Friendly)", "(Step-by-Step)"...
+    .replace(/\s+[—–]\s+[^—–]*$/, (m) =>              // trim a trailing "— clause" only if it's a Google-ish tail
+      /where to buy|guide|step|budget|renovation|under [£$]|paint pick|reset aesthetic|options that last|no landlord|no renovation/i.test(m) ? '' : m)
+    .replace(/[:,]?\s*under [£$]\d[\d,]*(\s*(cad|gbp))?\s*$/i, '')
+    .replace(/:\s*[^:]*(hides everything|paint picks|furniture guide)\s*$/i, '')
+    .replace(/^Where to Buy\s+/i, '')
+    .replace(/\s+Buying Guide.*$/i, '')
+    .replace(/\s*[:—–-]\s*(step-by-step|real budgets?|no renovation needed|cheap options that last|the reset aesthetic)\s*$/i, '')
+    .trim().slice(0, 100);
   const desc = (fm.description || fm.excerpt || fm.title).replace(/\s+/g, ' ').trim();
   const mediaUrl = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/pinterest-pins/${PIN_DIR}/${slug}-S.jpg`;
   rows.push([
-    fm.title.replace(/^\d+\s+/, '').slice(0, 100),
+    title,
     mediaUrl,
     board,
     '',
-    (desc + ' Save this for later.').slice(0, 480),
+    (desc + ' Save this pin for later.').slice(0, 480),
     `${SITE}/blog/${slug}/`,
     '',
     kws,
