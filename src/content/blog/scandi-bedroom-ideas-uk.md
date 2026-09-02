@@ -77,7 +77,7 @@ Most people over-invest in wall art for this look and under-invest in floor and 
 
 ## How Do I Keep Surfaces Decluttered the Scandi Way?
 
-A decluttered bedside table and windowsill matter more to the Scandi look than any single product purchase, because visible clutter reads as smaller space in a compact UK bedroom. Scandi style keeps out only what's used daily.
+A decluttered bedside table and windowsill matter more to the Scandi look than any single product purchase, because visible clutter reads as smaller space in a compact UK bedroom. [Scandi style](/blog/scandi-living-room-ideas-uk) keeps out only what's used daily.
 
 This is a maintenance habit as much as a design choice. A bedside table with one lamp, one book, and nothing else looks intentional. The same table with chargers, tissues, and hand cream scattered across it looks cluttered regardless of the colour scheme.
 
@@ -139,7 +139,7 @@ A full refresh with a new bed frame, bedding, throw, rug, and lighting typically
 
 ### What's the difference between Scandi and cottagecore bedroom style?
 
-Scandi favours pared-back neutrals, light wood, and minimal clutter, while cottagecore leans into florals, vintage furniture, and a busier, more layered look. See our [cottagecore bedroom decor ideas UK](/blog/cottagecore-bedroom-ideas-uk/) guide if that's closer to your taste.
+Scandi favours pared-back neutrals, light wood, and minimal clutter, while [cottagecore](/blog/cottagecore-home-decor-uk) leans into florals, vintage furniture, and a busier, more layered look. See our [cottagecore bedroom decor ideas UK](/blog/cottagecore-bedroom-ideas-uk/) guide if that's closer to your taste.
 
 ### Do I need to paint my bedroom white for a Scandi look?
 

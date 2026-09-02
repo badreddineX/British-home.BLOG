@@ -104,7 +104,7 @@ Yes, a single plant costing £8-£15 finishes the room by adding life and colour
 A low-maintenance option matters more than a rare or trendy one here. A pothos, snake plant, or ZZ plant survives low light and irregular watering, which suits most small UK flats that don't get much direct sun.
 
 **Where to buy:**
-- **B&Q** and **Homebase** — houseplants from £8-£15
+- **B&Q** and **Homebase** — [houseplants](/blog/plant-styling-ideas-uk) from £8-£15
 - **IKEA** — faux plants from £6-£10 if you'd rather skip the watering
 - **B&M** — occasional plant stock, cheaper but variable
 

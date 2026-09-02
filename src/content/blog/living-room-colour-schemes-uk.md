@@ -181,7 +181,7 @@ Farrow & Ball's Sudbury Yellow, priced around £55 and one of their most liveabl
 
 **Textile and furniture pairings:** A mustard or amber cushion will blend into the scheme rather than accent it — use cooler tones for contrast. Sage green, warm white, or muted rust all work well as accent colours against ochre walls.
 
-**Accent colour suggestions:** Bring in terracotta plant pots, dark teak wood, and aged brass. A gallery wall of botanical prints in warm timber frames works exceptionally well against ochre.
+**Accent colour suggestions:** Bring in terracotta plant pots, dark teak wood, and aged brass. A [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk) of botanical prints in warm timber frames works exceptionally well against ochre.
 
 Ochre is the colour most affected by artificial light. Under warm bulbs (2700K) it glows. Under cool or daylight bulbs it goes flat and slightly institutional. Sort your lighting before you paint.
 

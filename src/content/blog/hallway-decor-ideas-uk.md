@@ -70,7 +70,7 @@ Paint cost: ~£20–£28 per 2.5L from B&Q or Dulux Direct.
 ## Is a Console Table Worth It in a Narrow Hall?
 
 
-A slim console table transforms a hallway from a through-space into a proper room. The critical dimension is depth: anything over 30cm will block the corridor in a standard Victorian terrace. Most high-street console tables are 35–40cm deep, which is too wide for the job.
+A slim console table transforms a hallway from a through-space into a proper room. The critical dimension is depth: anything over 30cm will block the corridor in a standard [Victorian terrace](/blog/victorian-terrace-interior-ideas-uk). Most high-street console tables are 35–40cm deep, which is too wide for the job.
 
 Of twelve UK console tables checked for hallway suitability, only four measured under the crucial 30cm depth threshold — Argos's Hallie at 25cm (~£65) and Wayfair's Vasylchenko at 28cm (~£89) were among the handful genuinely slim enough for a narrow Victorian terrace.
 
@@ -144,7 +144,7 @@ Size matters more than style. A round mirror under 50cm wide looks decorative bu
 
 **Large round statement mirror.** Currently the most popular choice in British interiors. John Lewis has options from ~£55. Wayfair UK frequently stocks oversized round mirrors (80–100cm diameter) from ~£45 during sale periods.
 
-A mirror does double duty on light, too — see our [living room lighting ideas UK](/blog/living-room-lighting-ideas-uk/) guide for more ways to maximise natural and warm light in a rented flat.
+A mirror does double duty on light, too — see our [living room lighting ideas UK](/blog/living-room-lighting-ideas-uk/) guide for more ways to maximise natural and warm light in a [rented flat](/blog/rented-flat-makeover-uk).
 
 Large round mirror: from ~£45 at John Lewis or Wayfair UK. Full-length leaned mirror: from ~£45 at Next Home.
 
@@ -191,7 +191,7 @@ Pendant light: from ~£35 at John Lewis. Plug-in pendant (renter option): from ~
 
 The stair wall is one of the best opportunities in a British terraced house — a long, naturally vertical surface that climbs with the staircase and can be seen from both the hallway and the upper landing. Most people leave it bare. That's a missed opportunity.
 
-Ten IKEA Ribba frames at £3.50 each, filled with free Rijksmuseum prints or 9p Boots Photo prints, bring a full stair gallery wall to under £50 total — proof that the stair wall's visual impact doesn't require a big budget.
+Ten IKEA Ribba frames at £3.50 each, filled with free Rijksmuseum prints or 9p Boots Photo prints, bring a full stair [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk) to under £50 total — proof that the stair wall's visual impact doesn't require a big budget.
 
 The approach is simpler than it looks. Start with a central anchor piece at eye height on the middle step, then build outward and upward, following the diagonal line of the staircase. Mix frame sizes but keep the frame colour consistent — all black or all white — so the arrangement reads as curated rather than chaotic.
 

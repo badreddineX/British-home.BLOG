@@ -94,7 +94,7 @@ Read more: [colour schemes for living rooms](/blog/living-room-colour-schemes-uk
 
 A room styled entirely by a professional with no input from the person living in it often looks beautiful in photographs and feels strangely empty in person. That's because it lacks the accumulated evidence of a life actually being lived.
 
-Personal touches are not the same as clutter. A gallery wall of photographs you care about, a shelf of books you've actually read, a vase you picked up from a market in a city you love — these are different from piles of unopened post and a collection of items that have no meaning but haven't been thrown away.
+Personal touches are not the same as clutter. A [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk) of photographs you care about, a shelf of books you've actually read, a vase you picked up from a market in a city you love — these are different from piles of unopened post and a collection of items that have no meaning but haven't been thrown away.
 
 The distinction is intentionality. British homes that feel best to be in tend to have been edited — things removed as well as added — so that what remains has either a purpose or a genuine meaning. This is different from minimalism, which removes personality along with clutter.
 
@@ -130,7 +130,7 @@ You don't need to refit a kitchen to make it feel significantly better. Replacin
 
 ### Hallway
 
-Often neglected, but it's the first impression every room in your home makes. A good rug, proper coat storage, and adequate lighting (especially in the typically windowless British hallway) take priority. A mirror makes the space feel larger and more intentional.
+Often neglected, but it's the first impression every room in your home makes. A good rug, proper coat storage, and adequate lighting (especially in the typically windowless British [hallway](/blog/hallway-decor-ideas-uk)) take priority. A mirror makes the space feel larger and more intentional.
 
 ---
 

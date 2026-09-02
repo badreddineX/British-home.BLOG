@@ -35,7 +35,7 @@ relatedPosts:
 
 The flat I rented in Leeds had a galley kitchen in the rear return — about 1.9 metres long, units down both sides, and a gap in the middle you could just about turn around in with the oven door shut. For the first year I moaned about it. It was dark, both walls were solid cupboards floor to ceiling, and if my flatmate was making toast I couldn't get to the fridge.
 
-Then I actually looked at what was wrong, and it was three specific things, not "the kitchen is too small". The gap was fine, it was the light. One wall didn't need to be closed cupboards. And nothing used the vertical space above the worktop. A weekend of paint, a shelf, a rail and two strip lights later, it was the kitchen I'd cook in by choice.
+Then I actually looked at what was wrong, and it was three specific things, not "the kitchen is too small". The gap was fine, it was the light. One wall didn't need to be closed cupboards. And nothing used the vertical space above the [worktop](/blog/budget-kitchen-worktop-makeover-uk). A weekend of paint, a shelf, a rail and two strip lights later, it was the kitchen I'd cook in by choice.
 
 A galley kitchen is the most efficient layout there is — everything is one pivot away. The problems are almost always the gap being wrong, both runs being heavy and closed, and bad lighting. Here's how to lay one out and fix those, most of it without touching the units.
 
@@ -49,7 +49,7 @@ It's the default shape for a lot of British homes:
 
 - **Flat conversions** — the kitchen is often a narrow room carved off the back of a larger space.
 - **Victorian and Edwardian terraces** — the rear return (the bit that sticks out into the yard) is usually a galley, 1.7 to 2.4 metres long.
-- **Ex-local-authority flats and maisonettes** — galley kitchens off a hallway, frequently under 5 square metres.
+- **Ex-local-authority flats and maisonettes** — galley kitchens off a [hallway](/blog/hallway-decor-ideas-uk), frequently under 5 square metres.
 - **New-build flats** — a galley or single-galley kitchen along one side of an open-plan living space.
 
 The length varies but the width rarely does: a galley is defined by being too narrow for anything down the middle. That constraint is also its strength — you're never more than two steps from anything.
@@ -79,7 +79,7 @@ Use the walls and the ceiling. A galley has two full runs of wall and usually de
 
 - **Wall units to the ceiling on one run.** Standard wall cabinets leave a 30 to 40cm dead gap above that collects dust. Taking units (or adding a topper cabinet, from about £30) to the ceiling on one side turns that into cupboard space for things you use twice a year.
 - **A shelf above the worktop on the other run**, instead of wall cabinets. It holds everyday plates, mugs and oils within reach and keeps that side visually light so the room doesn't feel boxed in on both sides.
-- **A rail along the splashback.** An IKEA KUNGSFORS or HULTARP rail, or any screw-fixed rail (£8 to £25 per run), gets utensils, a knife strip, hooks and a small basket off the worktop.
+- **A rail along the [splashback](/blog/budget-kitchen-splashback-tile-ideas-uk).** An IKEA KUNGSFORS or HULTARP rail, or any screw-fixed rail (£8 to £25 per run), gets utensils, a knife strip, hooks and a small basket off the worktop.
 - **The back of the door.** An over-door or screw-mounted rack holds tea towels, foil, cleaning spray and a chopping board.
 - **A tall pull-out larder** in place of one base-and-wall stack. A 300mm pull-out holds more than a 600mm cupboard you have to unpack to see into.
 

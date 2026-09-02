@@ -68,7 +68,7 @@ One overhead light plus one lamp beats one overhead light alone, every time. Pos
 
 Yes, and a large leaning mirror costs £35-£45 at IKEA or B&M, which is genuinely worth the spend. A mirror placed opposite or near a window bounces natural daylight deeper into the room and adds visual depth that a flat wall doesn't have.
 
-IKEA's HOVET or NISSEDAL leaning mirrors run £35-£65 depending on size, and B&M regularly stocks similar full-length leaning mirrors from £30-£40. A leaning mirror needs no drilling and no wall fixings, which matters in a rented flat.
+IKEA's HOVET or NISSEDAL leaning mirrors run £35-£65 depending on size, and B&M regularly stocks similar full-length leaning mirrors from £30-£40. A leaning mirror needs no drilling and no wall fixings, which matters in a [rented flat](/blog/rented-flat-makeover-uk).
 
 Measuring both rooms I refreshed before and after adding a large mirror, the change wasn't in square footage, obviously, but in how long visitors took to comment that the room "felt bigger." In both cases it was within the first minute of walking in, unprompted.
 

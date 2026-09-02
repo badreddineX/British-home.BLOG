@@ -32,7 +32,7 @@ faqs:
     a: "Command's large picture-hanging strips hold up to 7.3kg per set for mirrors and shelves, and the standard strips hold 2.5kg for frames, according to 3M's own product specifications. Always check the weight rating printed on the pack before hanging anything heavy."
 ---
 
-Most rented bedrooms in the UK come with magnolia walls, a fitted wardrobe you can't stand, and a strict no-drilling clause in the tenancy agreement. **TL;DR:** Peel-and-stick wallpaper on one wall, Command strips for a gallery wall, freestanding furniture instead of anything fitted, clip-on or plug-in lighting, and a door curtain for draughts. Every change here removes cleanly at check-out and none of it touches the landlord's plaster, paint, or wiring.
+Most rented bedrooms in the UK come with magnolia walls, a fitted wardrobe you can't stand, and a strict no-drilling clause in the tenancy agreement. **TL;DR:** Peel-and-stick wallpaper on one wall, Command strips for a [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk), freestanding furniture instead of anything fitted, clip-on or plug-in lighting, and a door curtain for draughts. Every change here removes cleanly at check-out and none of it touches the landlord's plaster, paint, or wiring.
 
 I've rented four flats across three UK cities in the last six years, and every single deposit came back in full. The trick isn't decorating less. It's decorating in ways that come apart as easily as they went up. Below is the full list, in the order I'd tackle a bare rented bedroom.
 

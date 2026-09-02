@@ -30,7 +30,7 @@ faqs:
 
 Bathroom colour gets less attention than any other room in a British home, and it shows — most UK bathrooms are still whatever shade of builder's white came with the suite, regardless of how the light actually falls in the room. That's a mistake, because a bathroom is usually the smallest room in the house and the easiest to transform with paint alone, no retiling required.
 
-I've repainted the bathroom in my own rented flat twice, and both times the biggest lesson was the same: UK bathroom light is unforgiving. A colour that looked warm and inviting on the tin looked flat and grey by the time it was on a north-facing bathroom wall with one small window. Here's what actually works, and why.
+I've repainted the bathroom in my own [rented flat](/blog/rented-flat-makeover-uk) twice, and both times the biggest lesson was the same: UK bathroom light is unforgiving. A colour that looked warm and inviting on the tin looked flat and grey by the time it was on a north-facing bathroom wall with one small window. Here's what actually works, and why.
 
 **TL;DR:**
 - Warm neutrals are the safest choice and work regardless of your existing tile colour or which way your bathroom faces

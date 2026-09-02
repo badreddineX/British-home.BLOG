@@ -113,7 +113,7 @@ Vinyl wrap film for kitchen cabinets costs £150–£400 for a full UK kitchen u
 
 Replacement cabinet doors that fit your existing carcass cost £800–£2,500 for an average UK kitchen, roughly a third of the price of a full unit replacement, according to typical trade and supplier quotes. Companies including Kitchen Door Workshop and B&Q's made-to-measure door service both offer this service.
 
-The principle is straightforward: your existing cabinet boxes (the carcasses) stay bolted to the wall and floor exactly where they are. Only the doors, drawer fronts, and sometimes the worktop get swapped. This avoids the biggest costs in a kitchen renovation: new carcasses, re-plumbing, and re-wiring behind the units.
+The principle is straightforward: your existing cabinet boxes (the carcasses) stay bolted to the wall and floor exactly where they are. Only the doors, drawer fronts, and sometimes the [worktop](/blog/budget-kitchen-worktop-makeover-uk) get swapped. This avoids the biggest costs in a kitchen renovation: new carcasses, re-plumbing, and re-wiring behind the units.
 
 A full new fitted kitchen with carcasses, doors, and worktop typically starts around £4,000–£6,000 for a modest UK kitchen and climbs well beyond that for larger spaces or premium finishes. Replacement doors alone land at £800–£2,500 for the same footprint, which is why this option appeals to anyone whose layout still works but whose doors look dated or damaged.
 

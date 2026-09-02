@@ -67,7 +67,7 @@ Limewash is the defining paint trend of modern British interiors right now. You'
 
 Traditional limewash is a chalk-and-water paint that's been used on British buildings for centuries. Modern versions replicate the visual effect with regular paint technology. The result is a wall that looks like it has depth and history — even in a new build.
 
-A limewash-effect hallway using Rust-Oleum's £14 Chalky Finish paint cost around £30 total for materials, versus £65 per 2.5L for genuine limewash from Bauwerk Colour — proof the look scales to almost any budget.
+A limewash-effect [hallway](/blog/hallway-decor-ideas-uk) using Rust-Oleum's £14 Chalky Finish paint cost around £30 total for materials, versus £65 per 2.5L for genuine limewash from Bauwerk Colour — proof the look scales to almost any budget.
 
 I tried the limewash technique in my hallway using Rust-Oleum's Chalky Finish paint (~£14 per 750ml from B&Q) applied with a dry brush in circular strokes over a base coat. The result wasn't identical to true limewash, but it was significantly more interesting than flat emulsion and cost about £30 total for a small hallway.
 

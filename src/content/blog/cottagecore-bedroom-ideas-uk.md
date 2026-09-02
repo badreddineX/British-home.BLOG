@@ -27,11 +27,11 @@ faqs:
 ---
 
 
-Most cottagecore content on the internet is American — farmhouses with wraparound porches, mason jars, and shiplap walls. That's a lovely aesthetic for American homes. But it has almost nothing to do with British cottagecore, which draws from a completely different tradition: the English countryside, hedgerow foraging, Victorian botanical obsession, and the particular cosiness of a low-beamed cottage bedroom in autumn.
+Most [cottagecore](/blog/cottagecore-home-decor-uk) content on the internet is American — farmhouses with wraparound porches, mason jars, and shiplap walls. That's a lovely aesthetic for American homes. But it has almost nothing to do with British cottagecore, which draws from a completely different tradition: the English countryside, hedgerow foraging, Victorian botanical obsession, and the particular cosiness of a low-beamed cottage bedroom in autumn.
 
 The good news is that British homes are practically built for this. Victorian terraces, stone cottages, purpose-built flats with their standard dimensions — they all carry the aesthetic more naturally than you'd expect.
 
-I've been building the cottagecore bedroom in my own Victorian terrace for two years. Here's what actually works, what to buy, and what to make.
+I've been building the cottagecore bedroom in my own [Victorian terrace](/blog/victorian-terrace-interior-ideas-uk) for two years. Here's what actually works, what to buy, and what to make.
 
 **TL;DR:** The foundations are dried flowers, linen bedding, botanical elements on the walls, and earthy tones throughout. Most of it costs under £100 total if you're strategic about charity shops and Etsy. Renters can achieve the full look without a single permanent change.
 
@@ -77,7 +77,7 @@ Original Victorian botanical prints from eBay UK and Etsy can be found from £5�
 
 **Original prints:** Search eBay UK and Etsy for "antique botanical print" — original Victorian illustrations from scientific journals can be found from £5–£30 depending on size and condition. These are not reproductions; they're actual pages from 19th-century natural history publications.
 
-**Reproductions:** Download free public domain botanical illustrations from the Biodiversity Heritage Library (biodiversitylibrary.org) — a vast archive of scanned historical natural history books with beautiful illustrations. Print them at your local Rymans or at home, frame in simple wooden frames, and you have a gallery wall for the cost of the frames.
+**Reproductions:** Download free public domain botanical illustrations from the Biodiversity Heritage Library (biodiversitylibrary.org) — a vast archive of scanned historical natural history books with beautiful illustrations. Print them at your local Rymans or at home, frame in simple wooden frames, and you have a [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk) for the cost of the frames.
 
 **Pressed flowers:** A frame of pressed wildflowers — picked from the garden or hedgerow and dried under heavy books for two weeks — is one of the most genuinely cottagecore things you can put on a bedroom wall, and it costs nothing but time.
 

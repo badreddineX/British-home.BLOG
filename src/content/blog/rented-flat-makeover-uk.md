@@ -43,7 +43,7 @@ This is the highest-impact change in any rented flat and it costs under £20. Mo
 
 A full-flat bulb swap to 2700K warm white LEDs typically costs £15-£25 in total, using 4-packs from ~£8 on Amazon UK, making it the cheapest, highest-impact change available in any British rental.
 
-Replace every bulb in the flat — kitchen, bathroom, hallway, bedroom, living room — with 2700K warm white LEDs. The difference is immediate and dramatic. The flat stops feeling like a rental and starts feeling like a home, even before anything else changes.
+Replace every bulb in the flat — kitchen, bathroom, [hallway](/blog/hallway-decor-ideas-uk), bedroom, living room — with 2700K warm white LEDs. The difference is immediate and dramatic. The flat stops feeling like a rental and starts feeling like a home, even before anything else changes.
 
 Keep the original bulbs in a bag and reinstall them when you leave. Your tenancy agreement requires the property to be returned as found. Bulbs back in, no issue.
 
@@ -131,7 +131,7 @@ Ceiling-height curtains on existing pole — from ~£22 per pair at Dunelm. Hang
 
 ## 7. How Do You Build a Gallery Wall With Command Strips?
 
-A gallery wall built with Command Picture Hanging Strips is fully deposit-safe, takes an afternoon, and does more to make a rented space feel personally yours than almost any other single intervention. Command strips hold up to 3.6kg per pair, apply to plaster and painted walls cleanly, and remove without damage by pulling the release tab slowly downward.
+A [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk) built with Command Picture Hanging Strips is fully deposit-safe, takes an afternoon, and does more to make a rented space feel personally yours than almost any other single intervention. Command strips hold up to 3.6kg per pair, apply to plaster and painted walls cleanly, and remove without damage by pulling the release tab slowly downward.
 
 A full gallery wall using Command strips (rated to 3.6kg per pair) and IKEA Ribba frames from £3.50 each typically costs under £40 in total, making it one of the cheapest fully deposit-safe makeover projects on this list.
 

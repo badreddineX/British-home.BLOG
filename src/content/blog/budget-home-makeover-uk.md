@@ -78,7 +78,7 @@ Total: ~£91. Most people can't tell this room from a £500 refresh.
 <figure>
   <svg viewBox="0 0 560 420" style="max-width: 100%; height: auto; font-family: 'Inter', system-ui, sans-serif" role="img" aria-label="Lollipop chart ranking 8 budget living-room upgrades by visual impact score out of 10, with approximate cost for each">
     <title>Visual Impact vs. Cost — 8 Budget Living Room Upgrades</title>
-    <desc>Feature-wall paint 9/10 (£45), statement mirror 8/10 (£35), layered rug 8/10 (£40), cushions and throws 7/10 (£25), new lampshades 6/10 (£18), framed prints 6/10 (£20), hardware swap 5/10 (£15), plant styling 5/10 (£10). Source: author survey of 20 homeowners.</desc>
+    <desc>Feature-wall paint 9/10 (£45), statement mirror 8/10 (£35), layered rug 8/10 (£40), cushions and throws 7/10 (£25), new lampshades 6/10 (£18), framed prints 6/10 (£20), hardware swap 5/10 (£15), [plant styling](/blog/plant-styling-ideas-uk) 5/10 (£10). Source: author survey of 20 homeowners.</desc>
     <line x1="190" y1="30" x2="190" y2="380" stroke="currentColor" opacity="0.3" />
     <line x1="190" y1="52" x2="530" y2="52" stroke="currentColor" opacity="0.15" stroke-width="1" />
     <circle cx="530" cy="52" r="6" fill="#f97316" />
@@ -144,7 +144,7 @@ Total: ~£73. A bedroom that feels like a retreat rather than a place to sleep.
 
 ## Hallway Budget Makeover — Under £60
 
-The hallway is the most-seen space in your home and the one most people spend the least time decorating. It takes 30 seconds to form a first impression. Making it count costs less than almost any other room.
+The [hallway](/blog/hallway-decor-ideas-uk) is the most-seen space in your home and the one most people spend the least time decorating. It takes 30 seconds to form a first impression. Making it count costs less than almost any other room.
 
 Three changes — paint, a coat rack, and a mirror — cost between £57 and £90 total, yet the hallway is the single fastest-formed impression in any UK home.
 

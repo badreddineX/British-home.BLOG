@@ -29,7 +29,7 @@ faqs:
     a: "Charity shops, Vinted, and local car boot sales are the cheapest sources, with mismatched plates typically £1-£4 each. Homesense and Dunelm also stock new vintage-style patterned plates from around £4-£8 each if you want a faster, more curated result."
 ---
 
-Grandma core kitchen searches grew 545% year-on-year on Pinterest heading into 2026, making it one of the platform's fastest-rising home trends this year ([Pinterest Predicts](https://business.pinterest.com/en-gb/predicts/), 2026). It's not the same look as cottagecore, and it isn't the earthy-neutral trend either. Grandma core is warmer, more decorative, and unashamedly pattern-heavy.
+Grandma core kitchen searches grew 545% year-on-year on Pinterest heading into 2026, making it one of the platform's fastest-rising home trends this year ([Pinterest Predicts](https://business.pinterest.com/en-gb/predicts/), 2026). It's not the same look as [cottagecore](/blog/cottagecore-home-decor-uk), and it isn't the earthy-neutral trend either. Grandma core is warmer, more decorative, and unashamedly pattern-heavy.
 
 **TL;DR:** Grandma core kitchens use gingham fabric, scalloped shelf and blind edges, brass hardware, vintage crockery on display, and doily or lace textures. Most of the look can be built for under £150 using Dunelm, IKEA, and Homesense. This guide covers 12 ways to build the look, room by room.
 
@@ -164,7 +164,7 @@ The most common mistake with grandma core is layering every element at once, gin
 
 Pick two or three signature elements rather than all five. A gingham curtain, a plate wall, and brass handles together read as a considered grandma core kitchen. Add doilies, lace, and a scalloped trim on top of that and it starts to feel like a stage set.
 
-Leave some surfaces genuinely plain. A grandma core kitchen still needs negative space, on the worktop, on at least one wall, to let the patterned elements stand out rather than compete with each other.
+Leave some surfaces genuinely plain. A grandma core kitchen still needs negative space, on the [worktop](/blog/budget-kitchen-worktop-makeover-uk), on at least one wall, to let the patterned elements stand out rather than compete with each other.
 
 ---
 

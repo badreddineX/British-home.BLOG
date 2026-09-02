@@ -33,7 +33,7 @@ According to [Houzz UK](https://www.houzz.co.uk)'s 2024 Home Design Report, sear
 
 I've been a committed maximalist for three years. I've made many of the mistakes so you don't have to.
 
-**TL;DR:** Maximalism requires structure before abundance. Anchor your colour, establish your pattern rules, build your gallery wall with a unifying element, and group objects rather than scattering them. Then add, layer, and keep going until the room passes the stop test: when nothing can be removed without loss.
+**TL;DR:** Maximalism requires structure before abundance. Anchor your colour, establish your pattern rules, build your [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk) with a unifying element, and group objects rather than scattering them. Then add, layer, and keep going until the room passes the stop test: when nothing can be removed without loss.
 
 ---
 
@@ -80,7 +80,7 @@ Every successful gallery wall has at least one consistent variable: all black fr
 A gallery wall built from frames spaced 5–8cm apart in three mixed sizes, but one consistent frame colour, reads as a considered collection rather than a random accumulation of prints.
 
 The most reliable gallery wall formula for a British maximalist living room:
-- All frames in the same colour (black is most versatile, warm wood for cottagecore-adjacent maximalism, white for a cleaner look)
+- All frames in the same colour (black is most versatile, warm wood for [cottagecore](/blog/cottagecore-home-decor-uk)-adjacent maximalism, white for a cleaner look)
 - Mix three sizes: large (A2), medium (A4), small (A5)
 - Mix content: art print, black-and-white photograph, small mirror, typography, botanical illustration
 - Lay the arrangement on the floor first — adjust until it feels balanced

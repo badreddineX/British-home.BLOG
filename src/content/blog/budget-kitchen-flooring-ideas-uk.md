@@ -28,7 +28,7 @@ faqs:
 
 The average professionally fitted kitchen floor in the UK costs somewhere between £400 and £800 once you factor in removal of the old floor, according to typical Checkatrade tradesperson quotes. Most of us don't have that kind of budget sitting around for a floor nobody will really compliment. The good news is that a genuinely decent-looking kitchen floor is one of the more achievable weekend DIY jobs, especially if you're willing to lay the new floor straight over what's already there.
 
-I did exactly this in a rented flat with a tired grey lino floor that had been down since before I moved in. Click-lock vinyl plank went straight over it in an afternoon, and eighteen months later it still looks fine. This post covers the two cheapest routes, how to handle an uneven old floor, and when laying over the top is genuinely a bad idea.
+I did exactly this in a [rented flat](/blog/rented-flat-makeover-uk) with a tired grey lino floor that had been down since before I moved in. Click-lock vinyl plank went straight over it in an afternoon, and eighteen months later it still looks fine. This post covers the two cheapest routes, how to handle an uneven old floor, and when laying over the top is genuinely a bad idea.
 
 > **Key Takeaways**
 > - Click-lock vinyl (from £15/m²) fits straight over flat, sound lino or tile with no adhesive.
@@ -95,7 +95,7 @@ Press firmly on any suspicious patches, particularly near the sink, dishwasher, 
 
 Height clearance is the other big one. Adding even one layer of click vinyl (typically 4–6mm thick) can be enough to stop an integrated dishwasher, oven, or kitchen door from opening and closing properly. Check clearance under appliances and behind the door swing before committing, ideally by placing a sample plank or tile in the tightest spot and testing it.
 
-I learned this one the hard way on a previous flat: a new floor layer meant the dishwasher door caught on the worktop edge every time it opened. Measuring first would have saved an afternoon of taking the appliance back out to trim the floor around it. If in doubt, measure twice and buy the thinnest suitable product rather than the thickest.
+I learned this one the hard way on a previous flat: a new floor layer meant the dishwasher door caught on the [worktop](/blog/budget-kitchen-worktop-makeover-uk) edge every time it opened. Measuring first would have saved an afternoon of taking the appliance back out to trim the floor around it. If in doubt, measure twice and buy the thinnest suitable product rather than the thickest.
 
 New flooring shouldn't go over an existing kitchen floor if the subfloor is soft, damp, or if the added thickness (commonly 4-6mm for click vinyl) blocks appliance doors or the kitchen door from closing, according to standard UK flooring fitting guidance from retailers including B&Q and Wickes.
 

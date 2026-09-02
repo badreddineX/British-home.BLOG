@@ -49,8 +49,8 @@ The British Christmas palette in 2026 goes well beyond red and green. The most a
 
 - **Traditional British:** Deep forest green + claret red + aged gold
 - **Contemporary British:** Soft cream + copper + eucalyptus green
-- **Modern Maximalist:** Deep navy + burnished gold + ivory
-- **Cottagecore British:** Sage green + blush + warm brass + dried botanicals
+- **Modern [Maximalist](/blog/maximalist-living-room-decor-uk):** Deep navy + burnished gold + ivory
+- **[Cottagecore](/blog/cottagecore-home-decor-uk) British:** Sage green + blush + warm brass + dried botanicals
 - **Dark and Cosy:** Deep plum + forest green + candlelight gold
 
 The mistake isn't choosing a bold palette — it's not choosing one at all. A room decorated in forest green, navy, red, silver, white, and gold simultaneously looks chaotic because there's no thread connecting the elements. Pick two or three tones and stick to them for every element: tree, ornaments, candles, table, wrapping paper.

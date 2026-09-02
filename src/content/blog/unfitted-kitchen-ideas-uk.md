@@ -39,7 +39,7 @@ Freestanding kitchen units are the backbone of any unfitted scheme — they're p
 
 ## 2. Kitchen Islands on Wheels? Yes, Please.
 
-A rolling island is the ultimate unfitted kitchen upgrade. It gives you extra prep space, storage, and even a dining nook — all in one clever piece. Dunelm’s ‘Rolling Kitchen Island’ (~£129) has adjustable shelves and a durable butcher’s block top. John Lewis has a slightly sleeker option (‘The Rolling Island Unit’, ~£179) with steel legs and oak veneer. If you’re feeling crafty, repurpose a old chest of drawers — remove top drawers, add castors (£3.99 for 4 at B&Q), and you’ve got instant mobile workspace. Bonus: slide it under the window when not in use. No damage, no fuss.
+A rolling island is the ultimate unfitted kitchen upgrade. It gives you extra prep space, storage, and even a dining nook — all in one clever piece. Dunelm’s ‘Rolling [Kitchen Island](/blog/small-kitchen-island-ideas-uk)’ (~£129) has adjustable shelves and a durable butcher’s block top. John Lewis has a slightly sleeker option (‘The Rolling Island Unit’, ~£179) with steel legs and oak veneer. If you’re feeling crafty, repurpose a old chest of drawers — remove top drawers, add castors (£3.99 for 4 at B&Q), and you’ve got instant mobile workspace. Bonus: slide it under the window when not in use. No damage, no fuss.
 
 ## 3. Can Peel-and-Stick Backsplashes Update a Rental Kitchen?
 

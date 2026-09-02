@@ -29,7 +29,7 @@ faqs:
 
 The average full kitchen renovation in the UK costs between £8,000 and £25,000, according to Checkatrade's 2024 cost data — nowhere near affordable for most people. Most British homeowners simply don't have that sitting around, so a cheap kitchen makeover that skips the fitter entirely is the realistic option. And yet almost every kitchen I've seen in a terrace, a flat, or a 1990s semi looks tired in exactly the same ways: dated handles, grimy grout, wonky cabinet doors, and that one drawer that's been broken for three years.
 
-I've been there. A couple of years ago, my kitchen was genuinely embarrassing. Oak-effect flatpack units from around 2003, a beige laminate worktop with a burn mark near the hob, and taps that took five seconds of wiggling before water came out. I had about £180 to spend and absolutely no intention of calling a fitter.
+I've been there. A couple of years ago, my kitchen was genuinely embarrassing. Oak-effect flatpack units from around 2003, a beige laminate [worktop](/blog/budget-kitchen-worktop-makeover-uk) with a burn mark near the hob, and taps that took five seconds of wiggling before water came out. I had about £180 to spend and absolutely no intention of calling a fitter.
 
 What followed was three weekends and some genuinely satisfying before-and-after results. This post is everything I did and everything I'd add if I were doing it now.
 
@@ -100,7 +100,7 @@ A new monobloc tap from B&Q or Screwfix starts at £45 and is one of the most no
 
 ## What Should You Do About the Splashback?
 
-A tired grout line or a bare wall behind the hob are both quick, cheap fixes — regrouting an existing tile splashback runs under £15 in materials, and a peel-and-stick tile sheet covers a bare wall for £25–£45 with no tools or adhesive needed. Either takes an afternoon.
+A tired grout line or a bare wall behind the hob are both quick, cheap fixes — regrouting an existing tile [splashback](/blog/budget-kitchen-splashback-tile-ideas-uk) runs under £15 in materials, and a peel-and-stick tile sheet covers a bare wall for £25–£45 with no tools or adhesive needed. Either takes an afternoon.
 
 Full breakdown of both options, product picks, and step-by-step application: [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk/).
 
@@ -229,7 +229,7 @@ Fully reversible, no landlord permission needed: painting cabinet doors (repaint
 
 Needs a quick conversation with your landlord first: replacing taps or the sink (plumbing changes), and drilling for wall-mounted shelving like the Boaxel system — most letting agents are fine with this if you offer to patch and repaint before you leave, but get it in writing rather than assuming.
 
-If your kitchen situation is specifically a rented flat and you want the full no-permission-needed version of this list — including how to store your original fittings for a stress-free move-out — see [Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/).
+If your kitchen situation is specifically a [rented flat](/blog/rented-flat-makeover-uk) and you want the full no-permission-needed version of this list — including how to store your original fittings for a stress-free move-out — see [Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/).
 
 ## Where to Start: A Priority Table
 

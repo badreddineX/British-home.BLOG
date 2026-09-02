@@ -32,7 +32,7 @@ relatedPosts:
   - "hidden-pantry-ideas-uk"
 ---
 
-Most utility room ideas you find online show a room the size of a small bedroom, with a butler sink, a boot bench, and a dog-washing station. That is not the UK utility room. Here, a utility room is usually a cupboard off the kitchen, a slice of the garage, a lean-to at the back, or — for a lot of renters — no room at all, just the washing machine wedged under the kitchen worktop and an airer that lives permanently in the hall.
+Most utility room ideas you find online show a room the size of a small bedroom, with a butler sink, a boot bench, and a dog-washing station. That is not the UK utility room. Here, a utility room is usually a cupboard off the kitchen, a slice of the garage, a lean-to at the back, or — for a lot of renters — no room at all, just the washing machine wedged under the kitchen [worktop](/blog/budget-kitchen-worktop-makeover-uk) and an airer that lives permanently in the hall.
 
 I've had all four versions across different flats and a terraced house. What I learned is that the size barely matters. A good utility zone does four jobs — house the appliance, give you a surface to fold on, dry a load without taking over a room, and hide the cleaning kit — and you can fit all four into a 60cm cupboard if you plan it in the right order.
 

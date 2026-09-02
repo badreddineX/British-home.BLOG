@@ -81,7 +81,7 @@ A flat duvet on a flat bed looks like a show home that no one lives in. Layering
 
 Dunelm's Dorma brushed cotton duvet covers start at £32 for a double, and pairing one with a £28–£40 waffle-weave throw from Next Home creates the layered hotel-bed effect for under £75 total.
 
-Dunelm's Dorma range does brushed cotton duvet covers in terracotta, sage, and dusty pink from £32 for a double. A waffle-weave throw from Next Home costs £28–£40 and adds exactly the right texture without going full maximalist. Euro pillows (65x65cm) behind your standard pillows add depth and make the head of the bed look considered.
+Dunelm's Dorma range does brushed cotton duvet covers in terracotta, sage, and dusty pink from £32 for a double. A waffle-weave throw from Next Home costs £28–£40 and adds exactly the right texture without going full [maximalist](/blog/maximalist-living-room-decor-uk). Euro pillows (65x65cm) behind your standard pillows add depth and make the head of the bed look considered.
 
 The layering matters more than the quality of any individual piece. A £25 duvet cover with a well-placed throw will look more inviting than an expensive single duvet cover on its own.
 

@@ -26,11 +26,11 @@ faqs:
     a: "Yes, when mounted above worktop height and out of a child's reach. IKEA's Kungsfors rail (£6) holds knives securely with a strong magnetic strip and frees the drawer space a knife block would otherwise use."
 ---
 
-Most small kitchen ideas for UK homes are about how it *looks*. In a rented flat or a 1990s galley kitchen with three working cupboards, the real problem is where everything goes. The average British kitchen is around 13 square metres, much of it taken up by units you can't move, according to [Checkatrade](https://www.checkatrade.com)'s UK kitchen size data — so this guide is about making the space you have hold more.
+Most small kitchen ideas for UK homes are about how it *looks*. In a rented flat or a 1990s [galley kitchen](/blog/galley-kitchen-ideas-uk) with three working cupboards, the real problem is where everything goes. The average British kitchen is around 13 square metres, much of it taken up by units you can't move, according to [Checkatrade](https://www.checkatrade.com)'s UK kitchen size data — so this guide is about making the space you have hold more.
 
 I wrote a separate post on [budget-friendly ways to refresh a kitchen's whole look](/blog/kitchen-on-a-budget-uk/), and another on [styling a kitchen once it's sorted](/blog/kitchen-decor-ideas-uk/). This one is neither of those. This is purely about where things go when you don't have enough space to put them.
 
-**TL;DR:** Every idea below costs under £40, works in a rented flat without drilling into cupboard carcasses, and solves a specific storage problem rather than just adding another basket. Start with the over-door rack and the magnetic strip. Together they cost about £10 and free up a full drawer and a full shelf.
+**TL;DR:** Every idea below costs under £40, works in a [rented flat](/blog/rented-flat-makeover-uk) without drilling into cupboard carcasses, and solves a specific storage problem rather than just adding another basket. Start with the over-door rack and the magnetic strip. Together they cost about £10 and free up a full drawer and a full shelf.
 
 ---
 
@@ -52,7 +52,7 @@ Over-cupboard door racks cost from £4 at Wilko and add a full extra storage she
 
 A magnetic knife strip mounted on the wall removes an entire knife block or drawer's worth of blades, and IKEA's Kungsfors rail costs just £6. That's one drawer freed up entirely, which in a small kitchen is often the difference between a tidy drawer and one that won't shut properly.
 
-Mount the strip at a height that's out of easy reach for children, ideally above the worktop's usual clutter zone. Two small screws or a strong adhesive strip (for renters who can't drill) will hold most home knife sets without any sagging.
+Mount the strip at a height that's out of easy reach for children, ideally above the [worktop](/blog/budget-kitchen-worktop-makeover-uk)'s usual clutter zone. Two small screws or a strong adhesive strip (for renters who can't drill) will hold most home knife sets without any sagging.
 
 Magnetic spice racks work on the same principle. Tins with magnetic bases stick straight to a strip fixed to the inside of a cupboard door or the side of a fridge. A set of 12 magnetic spice tins from Amazon UK runs about £15–£20, and it clears an entire shelf that spice jars would otherwise dominate.
 

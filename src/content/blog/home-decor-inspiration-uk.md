@@ -30,7 +30,7 @@ faqs:
 ---
 
 
-There's a specific frustration that hits when you spend an hour on Pinterest saving beautiful rooms, only to look up at your own living room and feel like you've been deceived. The light is different. The rooms are bigger. The ceilings are taller. There's a utility room that the size of your actual living room. None of it translates.
+There's a specific frustration that hits when you spend an hour on Pinterest saving beautiful rooms, only to look up at your own living room and feel like you've been deceived. The light is different. The rooms are bigger. The ceilings are taller. There's a [utility room](/blog/utility-room-ideas-uk) that the size of your actual living room. None of it translates.
 
 This guide is about where to find good inspiration, not room-by-room ideas themselves. For the general framework, see [Home Interior Ideas UK](/blog/home-interior-ideas-uk/).
 
@@ -101,7 +101,7 @@ Using these hashtags in your searches rather than generic ones like #livingroomd
 
 Pinterest is a genuinely useful tool if you use it with intention rather than letting the algorithm serve you whatever is most popular globally.
 
-**The key adjustment:** Don't search for "[style]". Search for "[style] UK home", "[style] Victorian terrace", or "[style] small British living room". The specificity filters out a huge amount of irrelevant American content and surfaces boards created by or for people in similar homes.
+**The key adjustment:** Don't search for "[style]". Search for "[style] UK home", "[style] [Victorian terrace](/blog/victorian-terrace-interior-ideas-uk)", or "[style] small British living room". The specificity filters out a huge amount of irrelevant American content and surfaces boards created by or for people in similar homes.
 
 **Building a useful inspiration board:**
 
@@ -155,7 +155,7 @@ Digital inspiration boards have one weakness: they're easy to add to and almost 
 
 A physical file — just a folder or envelope where you cut and keep images you genuinely love, from magazines, brochures, and printed screenshots — forces a higher bar for inclusion. If it's worth the effort of printing or cutting out, it's worth keeping. If it isn't, it probably wasn't that useful.
 
-Flip through the file when you're making a decision about the room. Patterns emerge quickly: you'll notice whether you consistently gravitate toward dark moody rooms or light airy ones, toward maximalist layering or restrained editing, toward warm colours or cool ones.
+Flip through the file when you're making a decision about the room. Patterns emerge quickly: you'll notice whether you consistently gravitate toward dark moody rooms or light airy ones, toward [maximalist](/blog/maximalist-living-room-decor-uk) layering or restrained editing, toward warm colours or cool ones.
 
 Your taste is consistent in ways you might not consciously recognise. A physical file reveals it faster than a scroll through a digital board.
 

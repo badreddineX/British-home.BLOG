@@ -41,7 +41,7 @@ Sofa beds are the gold standard for studio flats, and modern UK models are far m
 
 ## 2. Do Stackable Chairs Actually Save Space?
 
-Dining chairs that dominate your kitchen or sitting room are a no-go — especially when moving out. Stackable chairs solve this elegantly. IKEA’s ‘LACK’ stacking chair (pack of 2 for ~£25) only needs 12cm of depth when stacked vertically, and fits neatly beside a sofa or under a kitchen counter. I kept two stacked in my Manchester hallway (with a slim coat hook above) for visitors — and they survived three moves in one piece. Better yet: Dunelm’s ‘Bistro Stack Chair’ (£18 each) has a soft-touch finish that feels luxe, not plastic-y — and the rounded edges won’t chip walls when sliding them in and out.
+Dining chairs that dominate your kitchen or sitting room are a no-go — especially when moving out. Stackable chairs solve this elegantly. IKEA’s ‘LACK’ stacking chair (pack of 2 for ~£25) only needs 12cm of depth when stacked vertically, and fits neatly beside a sofa or under a kitchen counter. I kept two stacked in my Manchester [hallway](/blog/hallway-decor-ideas-uk) (with a slim coat hook above) for visitors — and they survived three moves in one piece. Better yet: Dunelm’s ‘Bistro Stack Chair’ (£18 each) has a soft-touch finish that feels luxe, not plastic-y — and the rounded edges won’t chip walls when sliding them in and out.
 
 ## 3. Can a Wall-Mounted Fold-Up Desk Replace a Home Office?
 
@@ -77,7 +77,7 @@ Even if you’re not allowed to drill in the bathroom, over-door organisers are 
 
 ## 11. Can a Fold-Away Table Add Kitchen Counter Space?
 
-Countertops full? A fold-away table that clamps to the edge of your kitchen island or counter is a lifesaver. IKEA’s ‘FRYSEN’ table (£19) uses a sturdy clamp (no drilling) and holds 8kg — perfect for breakfasts or quick meal prep. I used one in a 25m² flat where every inch counted, and the salmon-pink finish added a cheerful touch. When dinner was over, I tucked it under the counter — no visual clutter, no permanent marks. For safety: check your countertop material first (it works best on solid wood or laminate, not stone).
+Countertops full? A fold-away table that clamps to the edge of your [kitchen island](/blog/small-kitchen-island-ideas-uk) or counter is a lifesaver. IKEA’s ‘FRYSEN’ table (£19) uses a sturdy clamp (no drilling) and holds 8kg — perfect for breakfasts or quick meal prep. I used one in a 25m² flat where every inch counted, and the salmon-pink finish added a cheerful touch. When dinner was over, I tucked it under the counter — no visual clutter, no permanent marks. For safety: check your countertop material first (it works best on solid wood or laminate, not stone).
 
 ## 12. Can Floating Bedside Tables Save Bedroom Floor Space?
 

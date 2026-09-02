@@ -29,10 +29,10 @@ faqs:
     a: "You can swap a surface-mounted medicine cabinet without any damage to walls or plumbing. Surface-mounted units typically have two to four screws. Remove the old cabinet, patch the screw holes with a renter-safe filler when you leave, and install the new one. This is distinct from recessed cabinets (built into the wall), which you should leave untouched in a rental."
 ---
 
-My bathroom in a rented flat in London was 38 sq ft. That is not a typo. There was a toilet, a pedestal basin with zero storage underneath, a shower cubicle, and about 60cm of floor space between them. When I moved in, my toiletries lived on the cistern and the edge of the basin. Within three months I had figured out a system that actually works — no drilling required, all from UK retailers, under £180 total for the core setup. Here is that system, in the order that makes the most difference.
+My bathroom in a [rented flat](/blog/rented-flat-makeover-uk) in London was 38 sq ft. That is not a typo. There was a toilet, a pedestal basin with zero storage underneath, a shower cubicle, and about 60cm of floor space between them. When I moved in, my toiletries lived on the cistern and the edge of the basin. Within three months I had figured out a system that actually works — no drilling required, all from UK retailers, under £180 total for the core setup. Here is that system, in the order that makes the most difference.
 
 **TL;DR:**
-- **First move:** freestanding over-toilet shelves (~£30-£45, Amazon UK) — adds three shelves of vertical storage instantly, no drilling
+- **First move:** freestanding over-toilet shelves (~£30-£45, Amazon UK) — adds three shelves of [vertical storage](/blog/vertical-storage-ideas-uk-flats) instantly, no drilling
 - **Second move:** over-door organiser on the bathroom door (~£15-£25) — holds toiletries, hair tools, cleaning supplies
 - **Under £180 total** covers the five most impactful changes for most UK rental bathrooms
 - All solutions on this list work in London, Manchester, and Birmingham rental flats — no permanent wall changes required
@@ -41,7 +41,7 @@ My bathroom in a rented flat in London was 38 sq ft. That is not a typo. There w
 
 ## 1. Why Is Over-Toilet Shelving the Highest-Value Move?
 
-In a small bathroom, the wall above the toilet is the only large open vertical zone. Most small rental bathrooms waste it entirely.
+In a [small bathroom](/blog/small-bathroom-ideas-uk), the wall above the toilet is the only large open vertical zone. Most small rental bathrooms waste it entirely.
 
 A freestanding over-toilet shelf unit sits around the cistern and adds three full shelves of vertical space without touching the walls. A Songmics-style 3-tier unit on Amazon UK runs ~£30-£45 and fits standard UK toilet dimensions. Three shelves hold toiletries, spare toilet roll, small baskets, and hand towels with room to spare.
 

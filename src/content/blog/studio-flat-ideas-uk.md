@@ -72,7 +72,7 @@ One piece per job, and pick pieces that comfortably do two. The studio mistake i
 
 - **Bed**: a real bed if it fits, with storage drawers underneath or an ottoman lift. A sofa bed *only* if you'll fold it every single day — see the FAQ. A small double (120cm) instead of a full double (135cm) can be the difference that lets a sofa fit too.
 - **Sofa**: a two-seater, ideally with legs so the floor shows underneath and the room breathes. Skip the corner sofa — it eats a studio.
-- **Table**: a drop-leaf or wall-mounted fold-down table is desk, dining table and worktop in one. Open for meals, half-open as a desk, flat to the wall the rest of the time. £40–£120.
+- **Table**: a drop-leaf or wall-mounted fold-down table is desk, dining table and [worktop](/blog/budget-kitchen-worktop-makeover-uk) in one. Open for meals, half-open as a desk, flat to the wall the rest of the time. £40–£120.
 - **Storage**: vertical, against the walls, above waist height only at the edges of the room. The KALLAX divider does a lot of this; a tall narrow shelf unit in a corner does the rest.
 
 For the multi-use pieces worth the money and the ones that aren't, [multifunctional furniture ideas UK](/blog/multifunctional-furniture-ideas-uk/) goes through them one by one.

@@ -155,7 +155,7 @@ Grouping objects in odd-numbered sets of three, at varying heights, is what sepa
 
 **The rule of three:** Group objects in threes, at varying heights. A tall vase, a medium candle, a small ceramic figure. A stack of three books, a plant on top of the stack, a small object beside it. Odd numbers read as more natural than even ones; varying heights create visual movement.
 
-**Every surface needs a breathing space:** Even if you love a maximalist aesthetic, each surface should have at least one clear area. This is what separates a styled surface from a dumping ground.
+**Every surface needs a breathing space:** Even if you love a [maximalist](/blog/maximalist-living-room-decor-uk) aesthetic, each surface should have at least one clear area. This is what separates a styled surface from a dumping ground.
 
 **Books as objects:** Don't underestimate books as decorative elements. Stack them horizontally, arrange them by colour spine-out, or use them as plinths for smaller objects. They add warmth and personality that bought decorative objects often can't match.
 
@@ -171,7 +171,7 @@ Start with one large plant (a snake plant or bird of paradise for lower-light ro
 
 Terracotta pots universally improve the look of plants in a living room. Plastic pots, however practical, undercut the warmth of the overall styling.
 
-Local garden centres and IKEA both offer good value on common houseplants. The RHS recommends snake plants (Sansevieria) as one of the best plants for British light conditions — they tolerate low light, irregular watering, and central heating better than almost anything else.
+Local garden centres and IKEA both offer good value on common [houseplants](/blog/plant-styling-ideas-uk). The RHS recommends snake plants (Sansevieria) as one of the best plants for British light conditions — they tolerate low light, irregular watering, and central heating better than almost anything else.
 
 ---
 
@@ -189,7 +189,7 @@ Local garden centres and IKEA both offer good value on common houseplants. The R
 | 8 | Add one large plant in a terracotta pot | ~£15–£30 |
 
 → For colour palette decisions see [Living Room Colour Schemes That Work in British Light](/blog/living-room-colour-schemes-uk/).
-→ For small living room layout challenges see [Small Living Room Layout Ideas](/blog/small-living-room-layout-ideas/).
+→ For [small living room layout](/blog/small-living-room-layout-ideas) challenges see [Small Living Room Layout Ideas](/blog/small-living-room-layout-ideas/).
 → For a cleaner, pared-back take on the same principles, see [Modern Home Interior UK](/blog/modern-home-interior-uk/).
 → Need ideas across the whole house, not just the living room? See [Home Decor Inspiration UK](/blog/home-decor-inspiration-uk/).
 → Ready for the kitchen? [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) is the most-read guide on the site.

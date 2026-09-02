@@ -54,7 +54,7 @@ Dunelm’s Walltopia peel-and-stick wallpaper (~£24.99/roll, covers ~5m²) is i
 Mix flat art with 3D objects to avoid wall dependency. Leaning a small shelf (IKEA LACK, ~£6) over your gallery holds keys, a tiny plant, and mini frames. Stack wood crates (Wayfair UK, ~£9.99 each) against the wall—stain one black for contrast, then prop art on top. Even a vintage suitcase (thrifted for ~£5) stacked with art books doubles as wall art and storage. In my Glasgow flat, I placed a leaning mirror between two gallery sections—it bounced light, made the room feel larger, and scored +£0 on my deposit return.
 
 ## 8. Stick to One Colour & Frame Style  
-Visual unity matters more than variety when space is tight. White MDF frames (Next Home, ~£7/A3) instantly lift dark walls; black gives moody contrast. Avoid mixing wood tones unless you’re going maximalist (and even then, stick to warm or cool—never both). Your frames should match your door or skirting if possible—my Leeds flat had pale oak skirtings, so I picked oak-effect frames (IKEA, ~£8/A3). For photos, add black mat board behind prints to keep a consistent border. Less variation = more expensive feel.
+Visual unity matters more than variety when space is tight. White MDF frames (Next Home, ~£7/A3) instantly lift dark walls; black gives moody contrast. Avoid mixing wood tones unless you’re going [maximalist](/blog/maximalist-living-room-decor-uk) (and even then, stick to warm or cool—never both). Your frames should match your door or skirting if possible—my Leeds flat had pale oak skirtings, so I picked oak-effect frames (IKEA, ~£8/A3). For photos, add black mat board behind prints to keep a consistent border. Less variation = more expensive feel.
 
 ## 9. Use Tension Rods for Mirrors  
 Small mirrors (under 30cm) can be hung with adhesive mirrors (B&Q’s 'Adhere' mirror tiles, ~£11.99/3-pack), but anything bigger? Go tension-rod. Suspend a 40×60cm oval mirror (Dunelm, ~£19.99) between two 1.2m rods, with black S-hooks (~50p at Dunelm). It looks intentional, not accidental—and removes cleanly. In my Leeds flat, this became the focal point above a console table. Landlord asked where I got it.
@@ -82,7 +82,7 @@ Adhesive hooks collect dust and lose grip over time. Every 3 months, remove them
 5. Rearrange seasonally to keep it feeling fresh.  
 6. Clean hooks and walls every 3 months for longevity.
 
-You don’t need to sacrifice style for safety. With careful planning and a few quid’s worth of adhesive, your rented flat can feel like *yours*—without the fear of losing your deposit. I’ve walked through inspection rooms expecting trouble, only to be told, “This looks fantastic—keep it.”
+You don’t need to sacrifice style for safety. With careful planning and a few quid’s worth of adhesive, your [rented flat](/blog/rented-flat-makeover-uk) can feel like *yours*—without the fear of losing your deposit. I’ve walked through inspection rooms expecting trouble, only to be told, “This looks fantastic—keep it.”
 
 → [Renter-Friendly Flat Makeover UK](/blog/rented-flat-makeover-uk/)  
 → [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/)  

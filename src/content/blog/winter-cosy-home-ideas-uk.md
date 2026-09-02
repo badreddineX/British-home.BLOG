@@ -64,7 +64,7 @@ The Energy Saving Trust estimates that draught-proofing a typical semi-detached 
 - **Chimney balloon** (if your fireplace is decorative or unused) — inflatable device that sits in the flue, ~£20–£25 from Amazon UK
 - **Letterbox brush excluder** — fits inside the letterbox, ~£5–£8
 
-I put a chimney balloon in my Victorian terrace's living room fireplace three winters ago, combined with a door draught excluder on the front door. The difference in room temperature was immediate and measurable — the room held heat for noticeably longer after the heating went off.
+I put a chimney balloon in my [Victorian terrace](/blog/victorian-terrace-interior-ideas-uk)'s living room fireplace three winters ago, combined with a door draught excluder on the front door. The difference in room temperature was immediate and measurable — the room held heat for noticeably longer after the heating went off.
 
 **Renter note:** Check your tenancy agreement before making any fixed changes. Draught excluders placed at doors are fine. Window seal tape is removable and generally safe. A chimney balloon is removable and non-damaging. Ask your landlord about fixed draught-proofing if significant draughts are affecting your comfort — they have a legal obligation to maintain a habitable temperature.
 

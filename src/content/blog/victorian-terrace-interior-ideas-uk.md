@@ -63,7 +63,7 @@ Fibrous plaster replacement coving — from ~£8 per metre from specialist suppl
 
 ### How Do You Restore Encaustic Hallway Tiles?
 
-Encaustic and geometric Victorian hallway tiles are among the most valuable and irreplaceable features a terraced house can have. Laid in geometric patterns — typically black and white, or terracotta and cream — they're the first thing you see when you open the front door and they set the tone for the whole house.
+Encaustic and geometric Victorian [hallway](/blog/hallway-decor-ideas-uk) tiles are among the most valuable and irreplaceable features a terraced house can have. Laid in geometric patterns — typically black and white, or terracotta and cream — they're the first thing you see when you open the front door and they set the tone for the whole house.
 
 If yours have been covered with laminate, carpet, or vinyl (extremely common in houses renovated in the 1970s–1990s), uncovering them is almost always worth the effort. A professional tile restoration service — cleaning, re-grouting, and sealing — typically costs ~£80–£150 and reveals tiles that no reproduction can match.
 

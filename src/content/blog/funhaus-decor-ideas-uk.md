@@ -43,7 +43,7 @@ The name has been circulating on Pinterest through 2026 as a shorthand for rooms
 
 Where a lot of "bold" trends assume you own the walls, FunHaus assumes you don't. It works around that constraint instead of ignoring it.
 
-Most maximalist trends get diluted the moment someone tries to apply them to a rental, because half the instructions involve paint or wallpaper. FunHaus is the first version of "bold decor" I've seen that was clearly built with renters in mind from the start, not adapted for them afterwards.
+Most [maximalist](/blog/maximalist-living-room-decor-uk) trends get diluted the moment someone tries to apply them to a rental, because half the instructions involve paint or wallpaper. FunHaus is the first version of "bold decor" I've seen that was clearly built with renters in mind from the start, not adapted for them afterwards.
 
 ## Why Does FunHaus Suit UK Renters So Well?
 
@@ -81,7 +81,7 @@ IKEA and Amazon UK both stock playful table lamps from around £20-£45, and Hab
 
 ### Add One Quirky Statement Wall Art Piece
 
-One bold print or sculptural wall piece, hung with Command strips rather than nails, gives the eye somewhere to land above the sofa or bed. Keep it to one piece rather than a gallery wall, since FunHaus works best when the wall stays calm and the soft furnishings carry the colour.
+One bold print or sculptural wall piece, hung with Command strips rather than nails, gives the eye somewhere to land above the sofa or bed. Keep it to one piece rather than a [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk), since FunHaus works best when the wall stays calm and the soft furnishings carry the colour.
 
 Command picture-hanging strips cost around £6-£10 for a pack and hold most framed prints without any wall damage, which matters for keeping your deposit intact.
 

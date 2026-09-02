@@ -33,7 +33,7 @@ Real British kitchens are working rooms. And styling them has to start from that
 
 According to a 2024 survey by [Houzz UK](https://www.houzz.co.uk), 67% of British homeowners describe their kitchen as the room they're least satisfied with aesthetically — not because it doesn't function, but because they've never quite figured out how to make it feel styled rather than just furnished. That gap between "it works" and "I love it" is exactly what this list addresses.
 
-I've styled three different kitchens in British homes — one rented Victorian terrace, one first-buyer new build, and the one I'm in now. Here's what actually moves the needle.
+I've styled three different kitchens in British homes — one rented [Victorian terrace](/blog/victorian-terrace-interior-ideas-uk), one first-buyer new build, and the one I'm in now. Here's what actually moves the needle.
 
 **TL;DR:** The 12 ideas below are ranked loosely by impact-to-effort ratio. You won't need all of them. Start with ideas 1, 2, and 5 — they cover lighting, textiles, and herbs, and together they cost under £50. That combination alone will make your kitchen feel intentionally designed rather than accidentally assembled.
 
@@ -43,7 +43,7 @@ Read more: [home interior ideas overview](/blog/home-interior-ideas-uk/)
 
 ## 1. Why Add Under-Cabinet LED Strip Lighting?
 
-Under-cabinet lighting is the single highest-impact kitchen upgrade that doesn't require a builder. According to [Which? UK](https://www.which.co.uk)'s 2023 Home Improvement Report, kitchen lighting is cited by 43% of homeowners as the change that made the biggest difference to their kitchen's atmosphere — more than any new appliance or cabinet colour. A strip of warm-white LEDs underneath your wall cabinets floods the worktop with functional task light and adds the layered, considered feel that overhead lighting alone can't achieve.
+Under-cabinet lighting is the single highest-impact kitchen upgrade that doesn't require a builder. According to [Which? UK](https://www.which.co.uk)'s 2023 Home Improvement Report, kitchen lighting is cited by 43% of homeowners as the change that made the biggest difference to their kitchen's atmosphere — more than any new appliance or cabinet colour. A strip of warm-white LEDs underneath your wall cabinets floods the [worktop](/blog/budget-kitchen-worktop-makeover-uk) with functional task light and adds the layered, considered feel that overhead lighting alone can't achieve.
 
 The key is colour temperature. Choose 2700K warm white, not 4000K or "daylight." Daylight LEDs make a kitchen look like a supermarket; warm white makes it look like a home. B&Q's Diall LED strip light starts at ~£18 for a 1-metre self-adhesive strip with a plug-in connector — no electrician required.
 
@@ -91,7 +91,7 @@ Set of 4 glass storage jars — from ~£8 at Dunelm.
 
 ## 5. Use a Wooden Chopping Board as a Worktop Display
 
-A large wooden chopping board leaned against the splashback or laid flat on the worktop as a "station" anchors the kitchen's cooking area and makes it look immediately more styled. The board grounds any objects placed alongside it — a bottle of olive oil, a small jar of salt, a lemon — into a deliberate composition rather than scattered items.
+A large wooden chopping board leaned against the [splashback](/blog/budget-kitchen-splashback-tile-ideas-uk) or laid flat on the worktop as a "station" anchors the kitchen's cooking area and makes it look immediately more styled. The board grounds any objects placed alongside it — a bottle of olive oil, a small jar of salt, a lemon — into a deliberate composition rather than scattered items.
 
 Oak and acacia boards photograph and look best. A good-sized one (at least 35x25cm) from John Lewis runs ~£18–£30, or Dunelm stocks acacia options from ~£10. The board doesn't even need to be actively used in cooking — it works purely as a styling anchor. Though in practice, having a beautiful board on the worktop means you actually use it more.
 

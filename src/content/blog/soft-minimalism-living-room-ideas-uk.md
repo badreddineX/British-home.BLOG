@@ -41,7 +41,7 @@ Soft minimalism is the 2026 interior trend replacing stark, cold minimalism with
 
 Soft minimalism is defined by warmth, not just by having less stuff. A stark minimalist room uses white walls, grey sofas, and glass or chrome furniture. A soft minimalist room uses the same decluttered layout but chooses cream, oatmeal, and warm taupe over white, and swaps hard materials for linen, boucle, and light wood.
 
-The two styles share a rule: fewer objects, more breathing room. Where they split is texture. Stark minimalism photographs beautifully but can feel unlived-in day to day, especially in a small UK flat where you're in the room constantly, not just visiting it. I found a fully white minimalist living room in a rented flat looked sharp in photos but felt cold every evening once the overhead light went on, which is exactly the gap soft minimalism is designed to close.
+The two styles share a rule: fewer objects, more breathing room. Where they split is texture. Stark minimalism photographs beautifully but can feel unlived-in day to day, especially in a small UK flat where you're in the room constantly, not just visiting it. I found a fully white minimalist living room in a [rented flat](/blog/rented-flat-makeover-uk) looked sharp in photos but felt cold every evening once the overhead light went on, which is exactly the gap soft minimalism is designed to close.
 
 Soft minimalism also leans on shape. Straight-edged furniture gets replaced or softened with curved silhouettes, a rounded coffee table, a curved-back sofa, an arched mirror. Curves read as calmer to the eye than hard right angles, which matters more in a small room where every piece of furniture is close and visible at once.
 

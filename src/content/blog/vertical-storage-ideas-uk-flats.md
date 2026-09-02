@@ -70,7 +70,7 @@ If your landlord says yes to hook-and-bracket systems (many do), go for Command�
 
 ## 8. What's Better Than a Shoe Rack for Vertical Storage?
 
-Tall flat? Use a vertical shoe rack instead of a wide one. IKEA's FRAKTA bag (~£1) stuffed with removable shelves (or even a stack of small baskets) turns a 25cm-tall gap into four shoe levels. Or try the Dunelm foldable shoe organiser (~£10) — it slots into tight hallway cupboards and holds six pairs vertically. My hack: put heel-faces out and use a thin fabric divider (£1.50 at Amazon UK) between each. Saves 15cm of width per shelf — and no drilling required.
+Tall flat? Use a vertical shoe rack instead of a wide one. IKEA's FRAKTA bag (~£1) stuffed with removable shelves (or even a stack of small baskets) turns a 25cm-tall gap into four shoe levels. Or try the Dunelm foldable shoe organiser (~£10) — it slots into tight [hallway](/blog/hallway-decor-ideas-uk) cupboards and holds six pairs vertically. My hack: put heel-faces out and use a thin fabric divider (£1.50 at Amazon UK) between each. Saves 15cm of width per shelf — and no drilling required.
 
 ![Vertical shoe storage in a hallway cupboard using a foldable rack and fabric dividers](/images/bathroom-storage-baskets-shelf.jpg)
 

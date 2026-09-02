@@ -35,7 +35,7 @@ I’ve renovated three rented flats across the UK—Camden, Bristol and Manchest
 
 ## 1. Choose your fighter: the top 3 low-light plants for UK renters
 
-Snake plant (Sansevieria trifasciata) is the gold standard. It thrives under fluorescent office lighting, so your dull hallway’s no problem. My own variegated one’s survived neglect in a north-facing bedroom for three years. ZZ plant (Zamioculcas zamiifolia) sits comfortably in low light and needs water only once every 2–3 weeks—perfect if you’re often out. Pothos (Epipremnum aureum) trains up a wall or spills over a shelf, and even recovers well if you forget it for a week. Avoid fiddle-leaf figs or calatheas—they demand more light and humidity than most UK flats provide, and their loss will nudge your decorating budget up.
+Snake plant (Sansevieria trifasciata) is the gold standard. It thrives under fluorescent office lighting, so your dull [hallway](/blog/hallway-decor-ideas-uk)’s no problem. My own variegated one’s survived neglect in a north-facing bedroom for three years. ZZ plant (Zamioculcas zamiifolia) sits comfortably in low light and needs water only once every 2–3 weeks—perfect if you’re often out. Pothos (Epipremnum aureum) trains up a wall or spills over a shelf, and even recovers well if you forget it for a week. Avoid fiddle-leaf figs or calatheas—they demand more light and humidity than most UK flats provide, and their loss will nudge your decorating budget up.
 
 ![Snake plant in a simple white pot on a freestanding shelf](/images/pexels-2062426.jpg)
 

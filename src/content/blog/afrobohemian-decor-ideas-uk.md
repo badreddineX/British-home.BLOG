@@ -39,7 +39,7 @@ I’ve renovated three rented flats across Bristol, Manchester, and Leeds—most
 
 ## 1. Should Afrobohemian Decor Start With Neutral or Bold Walls?
 
-Your walls don’t need paint or wallpaper—especially if you’re renting. In fact, keeping them soft and warm (think warm white, oat, or clay) lets your global pieces shine. Dunelm sells “Haven” paint in ‘Clay Beige’ (±£35 for 2.5L), which has a gentle hint of terracotta and works beautifully with African textiles. If your landlord allows, try removable wallpaper like Grasscloth Peel-and-Stick from Amazon UK (from ~£22 per roll). Use it only on feature sections—a fireplace surround, a niche, or above a bed—to avoid commitment. Remember, renter-friendly doesn’t mean boring—it means strategic. One coat of warm neutral paint in a hallway can turn a tired space into a gallery-ready backdrop in an afternoon.
+Your walls don’t need paint or wallpaper—especially if you’re renting. In fact, keeping them soft and warm (think warm white, oat, or clay) lets your global pieces shine. Dunelm sells “Haven” paint in ‘Clay Beige’ (±£35 for 2.5L), which has a gentle hint of terracotta and works beautifully with African textiles. If your landlord allows, try removable wallpaper like Grasscloth Peel-and-Stick from Amazon UK (from ~£22 per roll). Use it only on feature sections—a fireplace surround, a niche, or above a bed—to avoid commitment. Remember, renter-friendly doesn’t mean boring—it means strategic. One coat of warm neutral paint in a [hallway](/blog/hallway-decor-ideas-uk) can turn a tired space into a gallery-ready backdrop in an afternoon.
 
 ![A warm white wall with a brass hanging lamp and woven tapestry](/images/pexels-1454806.jpg)
 
@@ -75,7 +75,7 @@ Afrobohemian isn’t about collecting souvenirs—it’s about collecting moment
 
 ## 9. What's the Best Renter-Safe Wall Decor Without Nails?
 
-Nails are a deposit killer. So are heavy tapestries hung directly on plaster. Stick with tension rods for hanging fabric panels in doorways or across blank wall sections. Use removable adhesive strips for small mirrors, woven wall hangings, or framed art. IKEA’s MOSSLANDA picture ledge (£15 for 55cm) lets you lean and layer lightweight frames without wall anchors. For renters, consider leaning larger framed prints against the wall (behind a sofa or armchair), like a gallery wall in progress. Dunelm’s “Lilla Holmsjö” framed botanical prints are £12 each, and Amazon UK’s canvas prints start from ~£18 (check the back for pre-installed hooks). Just ensure everything’s secure—nobody wants a falling frame mid-July garden party.
+Nails are a deposit killer. So are heavy tapestries hung directly on plaster. Stick with tension rods for hanging fabric panels in doorways or across blank wall sections. Use removable adhesive strips for small mirrors, woven wall hangings, or framed art. IKEA’s MOSSLANDA picture ledge (£15 for 55cm) lets you lean and layer lightweight frames without wall anchors. For renters, consider leaning larger framed prints against the wall (behind a sofa or armchair), like a [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk) in progress. Dunelm’s “Lilla Holmsjö” framed botanical prints are £12 each, and Amazon UK’s canvas prints start from ~£18 (check the back for pre-installed hooks). Just ensure everything’s secure—nobody wants a falling frame mid-July garden party.
 
 ## 10. Can Storage Furniture Add Crafted Charm to a Room?
 
