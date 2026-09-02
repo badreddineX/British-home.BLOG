@@ -2,6 +2,7 @@
 import sharp from 'sharp';
 import { join } from 'node:path';
 import { readFileSync } from 'node:fs';
+import hreflangMap from '../lib/hreflang.json';
 
 // Self-hosted fonts (was Google Fonts CDN -- removed 2 external DNS/connection
 // round-trips from the critical render path, same fix already applied on
@@ -43,6 +44,8 @@ const fullUrl = canonicalPath
   ? `${siteUrl}/blog/${slug}/`
   : siteUrl;
 const fullImage = image.startsWith('http') ? image : `${siteUrl}${image}`;
+// Regional twin on smallspacehome.ca, if this post has one (src/lib/hreflang.json).
+const hreflangAlt = slug && (hreflangMap as Record<string, { 'en-CA': string; 'en-GB': string }>)[slug] || null;
 const pageTitle = title.includes('British Home Interior') ? title : `${title} | British Home Interior`;
 // The <title> tag drives the SERP snippet, which truncates past ~60 chars --
 // Google then rewrites it itself, usually worse. Only keep the " | British
@@ -123,6 +126,13 @@ if (!image.startsWith('http')) {
 <meta name="description" content={description} />
 <meta name="robots" content={noindex ? 'noindex, nofollow' : 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1'} />
 {!noindex && <link rel="canonical" href={fullUrl} />}
+{hreflangAlt && (
+  <>
+    <link rel="alternate" hreflang="en-CA" href={hreflangAlt['en-CA']} />
+    <link rel="alternate" hreflang="en-GB" href={hreflangAlt['en-GB']} />
+    <link rel="alternate" hreflang="x-default" href={hreflangAlt['en-CA']} />
+  </>
+)}
 <link rel="alternate" type="application/rss+xml" title="British Home Interior" href="/rss.xml" />
 <link rel="alternate" type="text/plain" href="/llms.txt" title="LLMs.txt" />
 <meta name="language" content="en-GB" />

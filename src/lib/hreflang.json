@@ -1,0 +1,24 @@
+{
+  "_comment": "Regional twin posts across britishhomeinterior.co.uk (en-GB) and smallspacehome.ca (en-CA). Keyed by THIS blog's local slug. Each entry lists BOTH regional URLs so SEO.astro emits an identical, self-referential hreflang cluster on both sides. Only pair posts that are genuine regional equivalents. The CA repo carries a mirror file keyed by CA slugs with the same URL values.",
+
+  "renter-friendly-gallery-wall-ideas-uk": {
+    "en-CA": "https://smallspacehome.ca/blog/renter-friendly-gallery-wall-ideas",
+    "en-GB": "https://britishhomeinterior.co.uk/blog/renter-friendly-gallery-wall-ideas-uk/"
+  },
+  "studio-flat-ideas-uk": {
+    "en-CA": "https://smallspacehome.ca/blog/studio-apartment-layout-ideas",
+    "en-GB": "https://britishhomeinterior.co.uk/blog/studio-flat-ideas-uk/"
+  },
+  "vertical-storage-ideas-uk-flats": {
+    "en-CA": "https://smallspacehome.ca/blog/vertical-storage-ideas-small-apartment",
+    "en-GB": "https://britishhomeinterior.co.uk/blog/vertical-storage-ideas-uk-flats/"
+  },
+  "small-living-room-ideas-uk": {
+    "en-CA": "https://smallspacehome.ca/blog/small-space-living-room-ideas",
+    "en-GB": "https://britishhomeinterior.co.uk/blog/small-living-room-ideas-uk/"
+  },
+  "multifunctional-furniture-ideas-uk": {
+    "en-CA": "https://smallspacehome.ca/blog/small-space-furniture",
+    "en-GB": "https://britishhomeinterior.co.uk/blog/multifunctional-furniture-ideas-uk/"
+  }
+}
