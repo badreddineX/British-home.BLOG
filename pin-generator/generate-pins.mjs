@@ -201,6 +201,27 @@ const templates = {
     <div class="arch"></div>
     <div class="ribbon-wrap"><div class="ribbon"><h2>${p.headline}</h2></div></div>
     <div class="domain">${p.domain}</div>`,
+// ===== S · SCENIC (save-worthy) — full-bleed photo, one short line, tiny domain =====
+  S: (p) => `
+    <style>${BASE_CSS}
+      body{display:flex;align-items:flex-end}
+      .photo{position:absolute;inset:0;background:url('${p.photo}') center/cover no-repeat}
+      .grain::after{content:'';position:absolute;inset:0;
+        background:linear-gradient(180deg, rgba(26,35,24,0) 0%, rgba(26,35,24,.08) 40%, rgba(12,18,11,.60) 100%)}
+      .voice{position:relative;width:100%;padding:0 72px 60px;display:flex;flex-direction:column;justify-content:flex-end}
+      h2{font-size:62px;line-height:1.12;color:#F3F4EF;max-width:780px;
+         text-shadow:0 1px 20px rgba(0,0,0,.38)}
+      h2 em{color:var(--gold);font-style:italic}
+      .domain{color:rgba(243,244,239,.8);margin-top:18px;font-size:18px;letter-spacing:.22em}
+      .no{position:absolute;top:58px;right:66px;font-family:'Lato',sans-serif;font-weight:700;
+          font-size:16px;letter-spacing:.24em;color:rgba(243,244,239,.5)}
+    </style>
+    <div class="photo grain"></div>
+    ${p.number ? `<div class="no">Nº&nbsp;${p.number}</div>` : ''}
+    <div class="voice">
+      <h2>${p.headline}</h2>
+      <div class="domain">${p.domain}</div>
+    </div>`,
 };
 
 const pins = JSON.parse(readFileSync(process.argv[2] ?? 'pins-uk.json', 'utf8'));
