@@ -7,7 +7,8 @@
     "start": "astro dev",
     "prebuild": "node scripts/to-webp.mjs public/images",
     "build": "astro build",
-    "postbuild": "node scripts/inject-image-dimensions.mjs",
+    "postbuild": "node scripts/inject-image-dimensions.mjs && node scripts/check-dist.mjs",
+    "check-dist": "node scripts/check-dist.mjs",
     "preview": "astro preview",
     "astro": "astro",
     "ship": "node scripts/ship-new-posts.mjs"
