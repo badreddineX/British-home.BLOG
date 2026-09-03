@@ -47,15 +47,8 @@ export default defineConfig({
       },
     }),
   ],
-  redirects: {
-    '/blog/cosy-bedroom-decor-ideas-uk': '/blog/cosy-bedroom-ideas-uk',
-    // Cannibalization consolidation, 2026-07-29: merged near-duplicate/low-value
-    // posts into their stronger sibling. Kitchen-budget cluster left untouched --
-    // genuinely well-differentiated hub-and-spoke, not cannibalized.
-    '/blog/rented-home-decor-ideas-uk': '/blog/rented-flat-makeover-uk',
-    '/blog/living-room-budget-ideas-uk': '/blog/budget-home-makeover-uk',
-    '/blog/living-room-ideas-uk': '/blog/how-to-style-a-living-room-uk',
-    '/blog/small-flat-storage-ideas-uk': '/blog/small-bedroom-storage-uk',
-    '/blog/maximalist-home-decor-uk': '/blog/maximalist-living-room-decor-uk',
-  },
+  // Consolidation redirects (cannibalization cleanup 2026-07-29) live in
+  // vercel.json as real 301s — that's the single source of truth. They used to
+  // be duplicated here too, which only generated dead meta-refresh stub pages
+  // in dist. Removed 2026-09-03.
 });
