@@ -3,7 +3,7 @@ title: "Rented Flat Makeover UK"
 description: "How to transform a rented flat without losing your deposit — 12 reversible changes covering every room, with UK product picks under £200 total."
 image: "/images/pexels-1643383.jpg"
 datePublished: "2025-12-12"
-dateModified: "2026-08-16"
+dateModified: "2026-09-05"
 author: "Badreddine"
 tags: ["rented flat makeover UK", "rented flat ideas uk", "renter decor ideas uk", "rental makeover UK", "rented home decor UK", "tenant home decor UK"]
 featured: false
@@ -41,29 +41,19 @@ I've rented for nine years across six different properties in the UK. Three of t
 
 This is the highest-impact change in any rented flat and it costs under £20. Most British rentals come fitted with either bare bulbs or 4000K-6500K "cool white" or "daylight" bulbs. These make every room feel like a waiting room.
 
-A full-flat bulb swap to 2700K warm white LEDs typically costs £15-£25 in total, using 4-packs from ~£8 on Amazon UK, making it the cheapest, highest-impact change available in any British rental.
-
-Replace every bulb in the flat — kitchen, bathroom, [hallway](/blog/hallway-decor-ideas-uk), bedroom, living room — with 2700K warm white LEDs. The difference is immediate and dramatic. The flat stops feeling like a rental and starts feeling like a home, even before anything else changes.
+Replace every bulb in the flat — kitchen, bathroom, [hallway](/blog/hallway-decor-ideas-uk), bedroom, living room — with 2700K warm white LEDs, using 4-packs from ~£8 on Amazon UK. A full-flat swap typically runs £15-£25 total, making it the cheapest, highest-impact change available in any British rental. The difference is immediate and dramatic: the flat stops feeling like a rental and starts feeling like a home, even before anything else changes.
 
 Keep the original bulbs in a bag and reinstall them when you leave. Your tenancy agreement requires the property to be returned as found. Bulbs back in, no issue.
-
-4-pack 2700K warm white LEDs — from ~£8 on Amazon UK. Full flat replacement typically costs £15-£25.
 
 ---
 
 ## 2. Add a Plug-In Pendant Light to Replace the Overhead Bare Bulb
 
-According to Dunelm's 2024 Home Trends Report, plug-in pendant lights are one of the fastest-growing lighting categories in the UK market — because renters have discovered they solve the single most common rental problem without any electrician or landlord permission.
+A plug-in pendant hangs from a ceiling hook and runs a fabric-covered cable down the wall to a plug socket. The ceiling hook is either adhesive (for solid ceilings, holding up to 3kg) or a small screw-in type (which makes a hole easily filled with filler on exit). Because it needs no wiring, it solves the UK's most common rental lighting problem without an electrician or landlord permission.
 
-Plug-in pendant lights cost from ~£22 at Dunelm, ~£25 at Next Home, and ~£45 at John Lewis, and because the ceiling hook is rated to hold up to 3kg, they solve the UK's most common rental lighting problem without an electrician or landlord permission.
-
-A plug-in pendant hangs from a ceiling hook and runs a fabric-covered cable down the wall to a plug socket. The ceiling hook is either adhesive (for solid ceilings, holding up to 3kg) or a small screw-in type (which makes a hole easily filled with filler on exit). The result is a properly positioned pendant light in any room, with complete control over position, shade, and bulb temperature.
-
-Dunelm stocks plug-in pendants from ~£22. Next Home has a wider design range from ~£25. John Lewis carries more premium options from ~£45.
+Dunelm stocks plug-in pendants from ~£22, Next Home has a wider design range from ~£25, and John Lewis carries more premium options from ~£45. The result is a properly positioned pendant light in any room, with complete control over position, shade, and bulb temperature.
 
 Fit these in the living room and bedroom at minimum. A 2700K bulb inside a fabric or rattan shade creates the kind of light that makes a room feel welcoming the moment you walk in. For more deposit-safe changes specific to the bedroom, see our [renter-friendly bedroom ideas](/blog/renter-friendly-bedroom-ideas-uk/) guide.
-
-Plug-in pendant light — from ~£22 at Dunelm. One in the living room, one in the bedroom, transforms both.
 
 ---
 
@@ -71,15 +61,11 @@ Plug-in pendant light — from ~£22 at Dunelm. One in the living room, one in t
 
 A correctly sized rug is the single most transformative deposit-safe purchase in a rented flat. It covers dated or damaged flooring completely. It defines zones in open-plan layouts. It adds warmth, texture, and colour to spaces that otherwise have none.
 
-A correctly sized rug — extending at least 60cm beyond the bed on both sides, or covering all front sofa legs — is the top-scoring makeover purchase in this guide, with a 200x290cm size costing around £85 at Dunelm.
-
 The sizing rule is non-negotiable: in the living room, all front legs of the sofa and chairs must sit on the rug. In the bedroom, the rug should extend at least 60cm beyond the bed on both sides. An undersized rug is worse than no rug — it makes the furniture look as though it's floating awkwardly.
 
-In testing across four different rented flats for this post, a correctly sized rug (200x290cm) produced the largest single improvement in how "finished" the room felt on a scale rated by three separate visitors who hadn't seen the rooms before. The rug scored higher than new furniture, gallery walls, and lighting changes individually.
+A rug this size is consistently the change renters notice most once it's down, more than new furniture, gallery walls, or lighting on their own — it's the one purchase that makes a room read as finished rather than furnished.
 
 Dunelm stocks a 200x290cm jute-style rug for ~£85. IKEA's STOENSE range offers 200x300cm options from ~£89. For a more contemporary look, Wayfair regularly has 200x290cm rugs from ~£65 in the sale.
-
-Large jute rug 200x290cm — from ~£85 at Dunelm. This is the makeover purchase with the highest visual return per pound.
 
 ---
 
@@ -87,15 +73,11 @@ Large jute rug 200x290cm — from ~£85 at Dunelm. This is the makeover purchase
 
 Most rented flats in the UK have two defining characteristics: not enough storage and not enough structure. Both are solved by freestanding furniture that belongs to you, goes with you, and requires nothing fixed to any wall. See [21 small flat storage ideas UK](/blog/small-bedroom-storage-uk/) for the full room-by-room breakdown.
 
-IKEA's KALLAX unit starts at ~£45 for the 2x2 configuration and ~£115 for the 4x4, making freestanding shelving the most versatile way to add storage and structure to a rental without a single wall fixing.
-
-IKEA's KALLAX shelving unit (from ~£45 for the 2x2 configuration) is the single most versatile piece of freestanding furniture available to UK renters. It works as a room divider, a bookshelf, a TV unit, and a storage system simultaneously. The 4x4 configuration (~£115) covers an entire wall without touching it.
+IKEA's KALLAX shelving unit (from ~£45 for the 2x2 configuration, ~£115 for the 4x4) is the single most versatile piece of freestanding furniture available to UK renters. It works as a room divider, a bookshelf, a TV unit, and a storage system simultaneously, and the 4x4 configuration covers an entire wall without touching it.
 
 IKEA's BILLY bookcase (from ~£55) gives height and vertical structure to any room. A pair of identical units flanking a sofa or bed creates a built-in look without any building work. For [bedroom storage](/blog/small-bedroom-storage-uk/), a freestanding wardrobe (IKEA PAX from ~£115 without doors) frequently provides better storage than the built-in alternatives in older rented flats — and it moves with you when you leave.
 
 A console table (from ~£45 at Wayfair) in the hallway defines the entrance and provides both surface and storage. It's the hallway version of what a rug does for the living room: it makes the space feel deliberate rather than transitional.
-
-IKEA KALLAX 2x4 shelving — from ~£65 at IKEA. The most versatile single piece for a rented flat.
 
 ---
 
@@ -103,15 +85,11 @@ IKEA KALLAX 2x4 shelving — from ~£65 at IKEA. The most versatile single piece
 
 Most furnished rented flats come with sofas and beds in beige, grey, or brown. Not because landlords have no taste, but because neutral furniture is cheapest to re-let. Your job is to cover that furniture with your own textiles until it looks like yours.
 
-Refreshing a sofa with four new cushion covers (~£6 each at Dunelm) and one throw costs around £45 total and takes about ten minutes, yet it's enough to make an inherited, landlord-owned sofa look entirely your own.
-
-The sofa: two new cushion covers in one colour (from ~£6 each at Dunelm), two in a complementary texture or pattern, and a throw draped over the armrest or back. The existing sofa becomes visually unrecognisable. It takes ten minutes.
+The sofa: two new cushion covers in one colour (from ~£6 each at Dunelm), two in a complementary texture or pattern, and a throw draped over the armrest or back. Four covers plus one throw runs about £45 total and takes ten minutes — the existing sofa becomes visually unrecognisable.
 
 The bed: a flat sheet folded back over the duvet, two euro square pillows (65x65cm) in pillowcases behind the sleeping pillows, and a throw folded at the foot. I've done this in four furnished rented bedrooms. In every case, guests assumed I'd chosen the bed, not inherited it. The duvet was the landlord's. The pillowcases were mine. Nobody could tell.
 
-Dunelm's Dorma range covers most of this for under £60. Cushion covers from ~£6, euro pillowcases from ~£12 each, throws from ~£18.
-
-New cushion covers for sofa — from ~£6 each at Dunelm. Four covers + one throw = ~£45 total. The sofa looks entirely different.
+Dunelm's Dorma range covers most of this for under £60: cushion covers from ~£6, euro pillowcases from ~£12 each, throws from ~£18.
 
 ---
 
@@ -119,13 +97,9 @@ New cushion covers for sofa — from ~£6 each at Dunelm. Four covers + one thro
 
 Most rented flats have curtain tracks or poles already fitted, and the curtains that came with them are thin, dated, or both. Replacing them with your own curtains using the existing fixings is permitted in almost all tenancy agreements — you take the curtains with you when you leave.
 
-Dunelm's curtain range starts at ~£22 per pair, with blackout lining from ~£35, and hanging them using an existing pole or a tension rod means no drilling is involved at any point.
-
 If you want to hang curtains at ceiling height where no existing fitting exists, a tension rod works in standard UK window recesses without any drilling. For windows wider than 100cm, use an extendable heavy-duty tension rod and check the weight rating before buying.
 
 Dunelm's curtain range starts at ~£22 per pair, with blackout lining from ~£35. Hanging them as high as possible — ideally just below the ceiling — makes windows look larger and rooms feel taller. This is the single most common mistake in rented flats: curtains hung just above the window frame rather than at ceiling height.
-
-Ceiling-height curtains on existing pole — from ~£22 per pair at Dunelm. Hang them high; it transforms the proportion of the room.
 
 ---
 
@@ -133,15 +107,9 @@ Ceiling-height curtains on existing pole — from ~£22 per pair at Dunelm. Hang
 
 A [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk) built with Command Picture Hanging Strips is fully deposit-safe, takes an afternoon, and does more to make a rented space feel personally yours than almost any other single intervention. Command strips hold up to 3.6kg per pair, apply to plaster and painted walls cleanly, and remove without damage by pulling the release tab slowly downward.
 
-A full gallery wall using Command strips (rated to 3.6kg per pair) and IKEA Ribba frames from £3.50 each typically costs under £40 in total, making it one of the cheapest fully deposit-safe makeover projects on this list.
+The process: collect frames in two or three sizes (IKEA Ribba from £3.50 each, all in white or all in black — never mixed). Fill them with personal photographs, printed-at-home art, or free downloads from the Rijksmuseum's online collection. Lay the whole arrangement on the floor first. Then mount it. A full gallery wall built this way typically costs under £40 in total.
 
-The process: collect frames in two or three sizes (IKEA Ribba from £3.50 each, all in white or all in black — never mixed). Fill them with personal photographs, printed-at-home art, or free downloads from the Rijksmuseum's online collection. Lay the whole arrangement on the floor first. Then mount it.
-
-A gallery wall is the most effective signal that a rented space belongs to the person living in it. It communicates curation and care in a way that purchased furniture alone cannot. Estate agents and landlords notice it too — properties with personalised, well-presented interiors consistently achieve better relationships with landlords because they read as "looked after." The gallery wall costs under £40 and pays back in goodwill.
-
-Leave 5-8cm between frames. Group all small frames together rather than scattering them. The arrangement should feel dense enough to read as a collection, not sparse enough to look like it ran out of ideas halfway across the wall.
-
-3M Command Picture Hanging Strips — from ~£6 per multipack on Amazon UK. IKEA Ribba A4 frame from £3.50 each.
+Leave 5-8cm between frames. Group all small frames together rather than scattering them. The arrangement should feel dense enough to read as a collection, not sparse enough to look like it ran out of ideas halfway across the wall. Landlords and letting agents tend to notice this kind of care too — a well-presented, personalised interior generally makes for an easier relationship at inspections and renewal.
 
 ---
 
@@ -149,13 +117,9 @@ Leave 5-8cm between frames. Group all small frames together rather than scatteri
 
 Most UK rented flats have a north or east-facing orientation, limited natural light, and small windows. A large mirror placed opposite the room's main window bounces available daylight around the space and can make a room feel noticeably larger.
 
-A full-length leaner mirror costs ~£30-£45 at Dunelm, while more decorative arched or rounded options from Next Home and H&M Home run ~£35-£65, and none of them require any fixings since they simply lean against the wall.
-
 A full-length leaner mirror propped against the wall (no fixings needed) costs ~£30-£45 at Dunelm and works in both living rooms and bedrooms. For something more decorative, Next Home and H&M Home both stock arched and rounded mirrors from ~£35-£65 that have a distinctly more designed feel.
 
 Leaning rather than hanging removes any fixings question entirely. A leaner mirror in a small flat bedroom, positioned to reflect the window, is one of the most effective deposit-safe makeover tools available.
-
-Large leaner mirror — from ~£30 at Dunelm. Position opposite the window for maximum light reflection.
 
 ---
 
@@ -163,15 +127,11 @@ Large leaner mirror — from ~£30 at Dunelm. Position opposite the window for m
 
 Plants do something to a rented space that no piece of furniture or art can fully replicate: they make it feel lived in and cared for. They're always permitted, always portable, and they cost almost nothing compared to their visual impact.
 
-IKEA's faux monstera costs ~£20 and a real snake plant costs from ~£8 at most UK garden centres, making plants one of the lowest-cost, highest-impact additions available regardless of a flat's light levels.
-
 For renters who travel frequently or have limited natural light: IKEA's Fejka range of artificial plants has improved dramatically in quality and the larger pieces are convincing from a normal viewing distance. The faux monstera (~£20) and faux fiddle leaf fig (~£25) are the most effective for creating the impression of a properly cared-for interior.
 
 For real plants suited to rented flat conditions (low light, unpredictable watering): snake plants (Sansevieria), pothos, and ZZ plants all thrive in these conditions. All three are available from most UK garden centres for £5-£12 each, and from many supermarkets for less.
 
 A plant on a shelf, a plant in a corner, and a small herb pot on the kitchen windowsill are enough to transform how a rented flat reads to anyone walking through the front door.
-
-IKEA Fejka faux monstera — ~£20 at IKEA. Snake plant from ~£8 at most UK garden centres.
 
 ---
 
@@ -179,13 +139,9 @@ IKEA Fejka faux monstera — ~£20 at IKEA. Snake plant from ~£8 at most UK gar
 
 This is the rental equivalent of changing cushion covers: small, reversible, and dramatically effective. Most rented flats have builder-standard chrome or brushed steel handles throughout the kitchen and bathroom. Swapping these for a more contemporary finish — brushed brass, matte black, or antique bronze — completely changes the character of existing cabinetry.
 
-New handles cost £2-£4 each from B&Q, or from ~£18 for a coordinated set of 10 on Amazon UK, and the whole swap takes about 20 minutes with a screwdriver.
+New handles cost £2-£4 each from B&Q, or from ~£18 for a coordinated set of 10 on Amazon UK, and the whole swap takes about 20 minutes with a screwdriver. Keep the original handles in a bag and reinstall them when you leave.
 
-Keep the original handles in a bag and reinstall them when you leave. The whole swap takes 20 minutes with a screwdriver. The new handles cost £2-£4 each from B&Q, or you can buy a coordinated set of 10 from Amazon UK from ~£18.
-
-This also works on interior doors if your rented flat has builder-standard white lever handles. A set of matte black door handles from B&Q (~£6-£8 each) changes the entire feel of the hallway and every room it leads to. Store the originals carefully. Reinstall on exit. No deposit impact.
-
-Brushed brass cabinet handles — from ~£2 each at B&Q. Full kitchen swap typically costs under £25. For more kitchen-specific upgrades in the same range, see [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/).
+This also works on interior doors if your rented flat has builder-standard white lever handles. A set of matte black door handles from B&Q (~£6-£8 each) changes the entire feel of the hallway and every room it leads to. Store the originals carefully. Reinstall on exit. No deposit impact. For more kitchen-specific upgrades in the same range, see [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/).
 
 ---
 
@@ -205,13 +161,9 @@ Zone definition using furniture placement and rugs costs nothing beyond the rug 
 
 Removable peel-and-stick wallpaper has improved significantly in quality over the past three years. Applied correctly to a clean, flat, painted surface, it creates a feature wall that reads as properly hung wallpaper and is genuinely striking in photographs.
 
-Amazon UK stocks peel-and-stick wallpaper from ~£18 per roll, and a typical chimney breast or alcove feature wall needs two to three rolls, keeping a full feature wall well under £60 in most cases.
+Amazon UK stocks a wide range from ~£18 per roll, and a typical chimney breast or alcove feature wall needs two to three rolls, keeping a full feature wall well under £60 in most cases. Botanical prints, textural faux finishes (linen, plaster, concrete), and soft geometric patterns all suit the proportions of a typical UK rented flat.
 
-Removal is done by warming the adhesive with a hairdryer on medium heat and peeling slowly from the top corner. On most standard plaster and emulsion finishes, this leaves no mark. It's worth testing a small patch in an inconspicuous spot first — some older plaster finishes can be vulnerable, and it's better to find out before committing a full wall.
-
-Amazon UK stocks a wide range from ~£18 per roll. A chimney breast or alcove typically requires two to three rolls. Botanical prints, textural faux finishes (linen, plaster, concrete), and soft geometric patterns all suit the proportions of a typical UK rented flat. Always inform your letting agent and get permission in writing before applying — most landlords agree readily because they know it causes no damage.
-
-Peel-and-stick wallpaper — from ~£18 per roll on Amazon UK. One feature wall changes the whole character of a room.
+Removal is done by warming the adhesive with a hairdryer on medium heat and peeling slowly from the top corner. On most standard plaster and emulsion finishes, this leaves no mark. It's worth testing a small patch in an inconspicuous spot first — some older plaster finishes can be vulnerable, and it's better to find out before committing a full wall. Always inform your letting agent and get permission in writing before applying — most landlords agree readily because they know it causes no damage.
 
 ---
 
@@ -219,13 +171,9 @@ Peel-and-stick wallpaper — from ~£18 per roll on Amazon UK. One feature wall 
 
 Scent is the most underused tool in a rented flat makeover. It bypasses visual analysis entirely and communicates "this is a home" in the most immediate way possible. A rented flat with the right scent feels cared for and personal the moment you walk through the door.
 
-Reed diffusers start at ~£5 at Dunelm and soy candles from ~£8 at Next Home, making scent one of the cheapest tools available for making a rented flat feel personally yours.
-
-Reed diffusers (from ~£5 at Dunelm), soy candles (from ~£8 at Next Home), and linen sprays for the bed and sofa are all entirely renter-safe. Choose one or two complementary scents and use them consistently throughout the flat. Consistency matters more than the specific scent chosen.
+Reed diffusers (from ~£5 at Dunelm), soy candles (from ~£8 at Next Home), and linen sprays for the bed and sofa are all entirely renter-safe. Choose one or two complementary scents and use them consistently throughout the flat — consistency matters more than the specific scent chosen.
 
 For the bathroom, a small reed diffuser on the windowsill is the single most effective upgrade available at a low price point. For the kitchen, a fresh herb plant — basil, rosemary, thyme — provides both scent and visual life for ~£2 from any supermarket.
-
-Reed diffuser — from ~£5 at Dunelm. One in the living room and one in the bathroom is enough to transform how the flat feels on arrival.
 
 ---
 
@@ -237,13 +185,9 @@ Three objects on a shelf look designed. Five objects on a shelf look crowded. Ze
 
 On the coffee table: one tray containing a candle, a small plant, and a decorative object. On the bookshelf: books arranged vertically with small objects placed in front at intervals. On the windowsill: one plant, one object. The space between things is as important as the things themselves.
 
+This is how interior designers work, and it applies equally in a £600-a-month Midlands flat and a £2,500-a-month London flat — the principle doesn't know about the rent, and it typically produces a bigger visible improvement than the last £50 spent on new objects.
+
 Read more: [small living room ideas UK](/blog/small-living-room-ideas-uk/)
-
-Surface styling works the same way whether the flat costs £600 a month in the Midlands or £2,500 a month in London, and it costs nothing itself since it only requires editing what's already there.
-
-This is how interior designers work, and it applies equally in a £600-a-month Midlands flat and a £2,500-a-month London flat. The principle doesn't know about the rent.
-
-Surface styling is entirely free. It typically produces a larger visible improvement than the last £50 spent on new objects.
 
 ---
 

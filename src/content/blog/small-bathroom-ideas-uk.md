@@ -79,7 +79,7 @@ Two things make a small wet room much more pleasant:
 - **A single glass splash panel** (around £150–£300) beside the shower so the toilet roll and towels don't get soaked.
 - **Underfloor heating** under the tiles — a small electric mat is £100–£200 and dries the floor between uses, which matters when the whole floor gets wet.
 
-Get the tanking done by someone who'll guarantee it. A wet room that leaks into the room below is the one bathroom mistake that's genuinely expensive to put right — the [official guidance on wetroom waterproofing](https://www.gov.uk/government/publications) is worth a look, but the real safeguard is a fitter who stands behind the work.
+Get the tanking done by someone who'll guarantee it. A wet room that leaks into the room below is the one bathroom mistake that's genuinely expensive to put right, so ask for evidence they follow a recognised waterproofing standard (BS 8000-11 is the one most reputable tilers and wetroom fitters work to) and get it in writing — the real safeguard is a fitter who stands behind the work.
 
 ## How Do You Fit a Downstairs Cloakroom or Small Toilet?
 
