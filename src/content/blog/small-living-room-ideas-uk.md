@@ -75,8 +75,6 @@ Sofa with visible legs — IKEA Söderhamn from ~£499 at IKEA.
 
 In a small room, a large mirror does two things: it bounces natural light deeper into the space, and it creates the visual impression of a second room beyond the wall. Both effects make the room feel significantly larger.
 
-A statement mirror of at least 60-80cm, available from around £25 at Dunelm, bounces natural light deeper into the room and creates the illusion of a second space beyond the wall.
-
 The mirror should be statement-sized — at least 60–80cm wide — to have real impact. Position it opposite or at a 45-degree angle to the main window. Leaning it against the wall rather than hanging it creates a more casual look and avoids renter complications.
 
 Round mirrors are particularly good in small rooms because they avoid competing with the room's angular architecture. Dunelm's mirror range starts at ~£25 and includes excellent large-format options.
@@ -179,11 +177,9 @@ Plug-in pendant light — from ~£22 at Dunelm.
 
 In a small living room, every item either earns its place or makes the room feel smaller. Editing — removing objects that don't actively serve the space — is the final and often most powerful technique.
 
-Removing just seven objects from surfaces and shelves — at zero cost — made this room feel measurably more open, proving that editing is often more effective than any purchase.
+In my own small living room, removing just seven objects from surfaces and shelves — at zero cost — made the space feel measurably more open. No new purchases were involved; editing is often more effective than any purchase.
 
 The test: does this object make the room better to be in, or does it just exist? Scatter cushions beyond four, decorative objects beyond the rule-of-three groupings, side tables without clear purpose, and floor items that could be shelved — all of these should be considered for removal.
-
-In my own small living room, removing seven objects from surfaces and shelves made the space feel measurably more open. No new purchases were involved. The act of creating visible space is more effective than filling it.
 
 Cost: nothing. Set aside an hour to edit without adding anything.
 
