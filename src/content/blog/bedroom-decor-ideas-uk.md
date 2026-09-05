@@ -3,7 +3,7 @@ title: "12 Bedroom Decor Ideas UK"
 description: "12 bedroom decor ideas for UK homes — colour, bedding, lighting, storage and styling, in order of visual impact. Real UK prices from Dunelm, Next, John Lewis and IKEA."
 image: "/images/pexels-1743229.jpg"
 datePublished: "2025-12-09"
-dateModified: "2026-03-20"
+dateModified: "2026-09-05"
 author: "Badreddine"
 tags: ["bedroom decor ideas UK", "bedroom decor uk", "bedroom ideas uk", "UK bedroom ideas", "bedroom styling UK", "British bedroom decor", "cosy bedroom UK"]
 featured: false
@@ -29,7 +29,7 @@ faqs:
 
 The bedroom is the one room in the house where you're the only audience. There's no guest to impress, no party to host. It exists entirely for you — and yet it's usually the last room we properly decorate.
 
-According to the [Sleep Foundation](https://www.sleepfoundation.org)'s 2024 Global Sleep Survey, UK adults spend an average of 7.6 hours in their bedroom per day, making it the most-used room in the home by time. And yet [Houzz UK](https://www.houzz.co.uk) data shows that only 41% of British homeowners have redecorated their bedroom in the past five years, compared with 63% who've updated their living room.
+UK adults spend more time in the bedroom than in any other room in the home — and yet it's consistently the room people get around to redecorating last, well behind the living room and kitchen.
 
 This guide covers styling elements one at a time — colour, bedding, lighting, art, and the rest. If you want a sequenced, room-by-room renovation project instead, see [Bedroom Makeover UK](/blog/bedroom-makeover-uk/); if warmth and mood are the priority over general styling, see [Cosy Bedroom Ideas for UK Homes](/blog/cosy-bedroom-ideas-uk/).
 
@@ -94,7 +94,7 @@ The most clinical mistake in British bedrooms is relying on a single ceiling lig
 
 Two bedside lamps at 2700K warm white cost around £25 each from Next Home, and 2023 Oxford University research found reducing light intensity before bed improved sleep onset time by an average of 14 minutes in study participants — a small change with an outsized effect on how restful a bedroom feels.
 
-Two bedside lamps, both at 2700K warm white, are the replacement. They cast a lower, warmer light that's appropriate for winding down. This isn't an aesthetic preference — research from the University of Oxford (2023) found that reducing light intensity two hours before bed improved sleep onset time by an average of 14 minutes in study participants.
+Two bedside lamps, both at 2700K warm white, are the replacement. They cast a lower, warmer light that's appropriate for winding down. This isn't just an aesthetic preference — dimmer, warmer light in the run-up to bed is one of the more consistently recommended changes for falling asleep faster.
 
 Lamps don't need to match perfectly. Two different lamps in complementary finishes (both brass, or both ceramic) look more personal than a matched pair. Next Home has an excellent range of bedside lamps from ~£25 each.
 

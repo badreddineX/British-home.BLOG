@@ -3,7 +3,7 @@ title: "Budget Home Makeover UK Under £150"
 description: "A room-by-room budget makeover framework for UK homes — highest visual return per pound, with real prices. Total under £150 per room."
 image: "/images/pexels-1571459.jpg"
 datePublished: "2025-12-02"
-dateModified: "2026-07-25"
+dateModified: "2026-09-05"
 author: "Badreddine"
 tags: ["budget home makeover UK", "cheap home makeover", "budget home refresh", "home makeover UK", "cheap home makeover UK", "budget home decor UK", "home refresh UK"]
 featured: false
@@ -27,7 +27,7 @@ faqs:
 ---
 
 
-"My house doesn't look the way I want it to — but I can't afford to do anything about it." This is the most common home decorating complaint in Britain. According to [Money Saving Expert](https://www.moneysavingexpert.com)'s 2024 consumer survey, 64% of UK adults would like to improve their home but consistently defer spending due to financial uncertainty.
+"My house doesn't look the way I want it to — but I can't afford to do anything about it." This is one of the most common home decorating complaints in Britain, and it's usually more about not knowing where to start than about the actual size of the budget.
 
 The honest answer to this is that most people's homes don't look wrong because of insufficient spending. They look wrong because of insufficient understanding of which changes deliver the highest visual impact for the least cost — and which expensive changes deliver surprisingly little.
 

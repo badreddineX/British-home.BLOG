@@ -3,7 +3,7 @@ title: "Bedroom Colour Ideas UK 2026"
 description: "The best paint colours for British bedrooms in 2026 — warm neutrals, muted blues, and bold tones, with picks from Dulux and Farrow & Ball."
 image: "/images/pexels-1454806.jpg"
 datePublished: "2026-02-27"
-dateModified: "2026-08-16"
+dateModified: "2026-09-05"
 author: "Badreddine"
 tags: ["bedroom colour ideas UK", "bedroom paint colours", "bedroom colour ideas", "bedroom color ideas", "paint colours for bedroom", "bedroom paint colours UK", "best bedroom colours UK", "bedroom paint ideas UK"]
 featured: false
@@ -29,7 +29,7 @@ faqs:
 
 Bedroom colour advice from American interior blogs and Scandinavian design accounts is almost always wrong for British homes. Not because it's bad advice in principle — but because it was written for different light. The US gets stronger, warmer sunlight. Scandinavia compensates with high-contrast white on white. Neither approach travels well to a north-facing terrace bedroom in Leeds or a ground-floor flat in South London.
 
-According to the [House of Commons Library](https://commonslibrary.parliament.uk) 2024 Housing Report, over 60% of UK bedrooms face north or north-east — the directions that receive the least direct sunlight. Paint that looks fresh and creamy in a Californian sunroom reads flat and cold in a British bedroom. The entire colour decision changes when you account for actual light conditions.
+Most UK bedrooms weren't built with generous south-facing light in mind — a lot of them face north or north-east, the directions that receive the least direct sunlight. Paint that looks fresh and creamy in a Californian sunroom reads flat and cold in a British bedroom. The entire colour decision changes when you account for actual light conditions.
 
 I've painted my bedroom twice in the past four years. The first time, following American advice, I picked a cool grey-white. It looked beautiful on Instagram. In real life, my bedroom felt like a waiting room. This guide reflects what I've actually learned.
 
