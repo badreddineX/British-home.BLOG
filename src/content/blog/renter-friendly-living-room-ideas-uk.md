@@ -3,7 +3,7 @@ title: "Renter-Friendly Living Room Ideas UK (No Permission)"
 description: "12 deposit-safe living room upgrades for UK renters — peel-and-stick wallpaper, picture rail hooks, and Command strips. No drilling required."
 image: "/images/pexels-1571453.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-08-10"
+dateModified: "2026-09-05"
 author: "Badreddine"
 tags: ["renter friendly living room UK", "living room ideas UK renters", "deposit safe decorating UK", "no drill decorating UK", "rental living room ideas"]
 featured: false
@@ -155,5 +155,4 @@ Every change on this list shares the same test: does it come off clean, and does
 - [Renter-friendly gallery wall ideas UK](/blog/renter-friendly-gallery-wall-ideas-uk/) for hanging art without drilling, in more detail
 - [How to style a living room UK](/blog/how-to-style-a-living-room-uk/) once the deposit-safe basics are in place
 - [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same renter-safe approach in the kitchen
-</content>
-</invoke>
+- [Deposit Deductions UK: What Landlords Actually Charge For](/blog/deposit-deductions-uk/) for what actually happens if any of this goes wrong at check-out

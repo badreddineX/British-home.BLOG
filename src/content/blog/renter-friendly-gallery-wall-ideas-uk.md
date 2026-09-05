@@ -3,7 +3,7 @@ title: "Renter-Friendly Gallery Wall Ideas UK"
 description: "Create a stylish gallery wall in your UK rental without nails or damage—peel-and-stick, adhesive, and tension rod options under £50."
 image: "/images/bedroom-makeover-gallery-wall.jpg"
 datePublished: "2026-07-30"
-dateModified: "2026-08-27"
+dateModified: "2026-09-05"
 author: "Badreddine"
 tags: ["renter friendly", "gallery wall UK", "budget", "no nails", "peel and stick"]
 featured: false
@@ -87,3 +87,4 @@ You don’t need to sacrifice style for safety. With careful planning and a few 
 → [Renter-Friendly Flat Makeover UK](/blog/rented-flat-makeover-uk/)  
 → [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/)  
 → [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) for the deposit-safe approach in the kitchen
+→ [Deposit Deductions UK: What Landlords Actually Charge For](/blog/deposit-deductions-uk/) for what a landlord can and can't claim if a hole doesn't come out clean

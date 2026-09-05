@@ -3,7 +3,7 @@ title: "Renter-Friendly Bedroom Ideas UK (No Nails, No Damage)"
 description: "Renter-friendly bedroom ideas for UK flats — Command strips, peel-and-stick wallpaper, and clip-on lighting. Every change here is deposit-safe."
 image: "/images/pexels-90317.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-08-10"
+dateModified: "2026-09-05"
 author: "Badreddine"
 tags: ["renter friendly bedroom ideas UK", "no drill bedroom decor", "deposit safe bedroom updates", "peel and stick wallpaper UK", "renter bedroom decor UK", "small bedroom ideas UK"]
 featured: false
@@ -139,3 +139,4 @@ None of these changes need a landlord's permission or a drill. Start with Comman
 - [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same no-damage approach in the kitchen
 - [13 Bedroom Makeover Ideas UK](/blog/bedroom-makeover-uk/) for the full makeover sequence these no-damage basics fit into
 - [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) for the same deposit-safe approach applied to every other room
+- [Deposit Deductions UK: What Landlords Actually Charge For](/blog/deposit-deductions-uk/) for the real data on what triggers a deduction

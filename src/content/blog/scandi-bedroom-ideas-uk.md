@@ -3,7 +3,7 @@ title: "Scandi Bedroom Ideas for UK Homes"
 description: "Scandi bedroom ideas for small UK flats — light wood, layered textiles, and hygge lighting. Real IKEA product picks with £ prices, no fake stats."
 image: "/images/scandinavian-bedroom-wooden-accents.jpg"
 datePublished: "2026-08-10"
-dateModified: "2026-08-10"
+dateModified: "2026-09-05"
 author: "Badreddine"
 tags: ["scandi bedroom ideas UK", "scandinavian bedroom UK", "hygge bedroom UK", "small bedroom ideas UK", "IKEA bedroom UK", "minimalist bedroom UK"]
 featured: false
@@ -156,4 +156,3 @@ Scandi bedroom style suits small UK flats because it works with light rather tha
 - [Small bedroom storage ideas UK](/blog/small-bedroom-storage-uk/) for keeping surfaces genuinely clear once the style is in place
 - [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same Scandi-friendly, budget-first approach in the kitchen
 - [13 Bedroom Makeover Ideas UK](/blog/bedroom-makeover-uk/) for the full makeover sequence this style builds on
-</content>
