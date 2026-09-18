@@ -166,6 +166,7 @@ None of this needs a landlord's sign-off, and none of it puts your deposit at ri
 
 - [Kitchen on a Budget UK: 14 Ideas](/blog/kitchen-on-a-budget-uk/)
 - [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/)
+- [Galley Kitchen Ideas UK](/blog/galley-kitchen-ideas-uk/) if your rented kitchen is long and narrow
 
 **The budget kitchen series** — each part in depth:
 

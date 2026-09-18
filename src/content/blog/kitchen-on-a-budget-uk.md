@@ -170,7 +170,7 @@ Full cost breakdown by material (laminate, wrap film, solid wood) and fitting st
 
 ## Add a Kitchen Runner Rug
 
-This one gets overlooked constantly. A washable kitchen runner from Dunelm's Thornbury or Taunton ranges costs £18–£35 and adds warmth underfoot without touching a single hard surface in the room — softening the floor and pulling colour into a space that's often dominated by hard surfaces, especially in front of the sink or along a galley layout.
+This one gets overlooked constantly. A washable kitchen runner from Dunelm's Thornbury or Taunton ranges costs £18–£35 and adds warmth underfoot without touching a single hard surface in the room — softening the floor and pulling colour into a space that's often dominated by hard surfaces, especially in front of the sink or along a [galley kitchen](/blog/galley-kitchen-ideas-uk/) layout.
 
 Choose a washable rug rather than a standard flatweave, particularly if you cook frequently. Machine-washable runners from Dunelm or IKEA's Traaby range handle the daily mess of a working kitchen. Avoid anything with a thick pile — kitchen floors need something flat enough that it doesn't catch on chair legs or trip people.
 
@@ -265,6 +265,7 @@ The full list, priced at mid-range, comes to roughly £410–£830. That sounds 
 **Going deeper on kitchens specifically:**
 
 - [Budget Kitchen Cabinet Makeover Ideas UK](/blog/budget-kitchen-cabinet-makeover-uk/)
+- [Galley Kitchen Ideas UK](/blog/galley-kitchen-ideas-uk/) for narrow, two-run layouts
 - [Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/)
 - [Small Kitchen Storage Ideas on a Budget UK](/blog/small-kitchen-storage-ideas-budget-uk/)
 - [Budget Kitchen Worktop Makeover Ideas UK](/blog/budget-kitchen-worktop-makeover-uk/)
