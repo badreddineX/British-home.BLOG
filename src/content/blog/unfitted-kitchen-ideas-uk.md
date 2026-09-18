@@ -103,4 +103,5 @@ You don’t need to tile around a sink to make it the focal point. A Belfast or 
 There’s real joy in building a kitchen that feels grown, not installed — one that evolves with your life, not dictates it. In a UK climate where rental terms are tight and budgets tighter, unfitted kitchens give you control, character, and confidence.
 
 → [Read more: How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/)  
-→ [See the full guide: Budget Home Makeover UK](/blog/budget-home-makeover-uk/)
+→ [See the full guide: Budget Home Makeover UK](/blog/budget-home-makeover-uk/)  
+→ [Refresh tired cupboards: Kitchen Cabinet Makeover UK](/blog/budget-kitchen-cabinet-makeover-uk/)

@@ -132,3 +132,4 @@ Do the lighting and the paint first — between them they fix the two things tha
 - [Small Kitchen Storage Ideas on a Budget UK](/blog/small-kitchen-storage-ideas-budget-uk/)
 - [Unfitted Kitchen Ideas UK](/blog/unfitted-kitchen-ideas-uk/)
 - [Rental Kitchen Upgrade Ideas UK](/blog/rental-kitchen-upgrade-ideas-uk/)
+- [Kitchen Cabinet Makeover UK: 4 Cheap Ways](/blog/budget-kitchen-cabinet-makeover-uk/) if the cupboards are the tired part
