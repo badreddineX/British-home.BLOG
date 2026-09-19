@@ -34,7 +34,6 @@ Not showroom-perfect, not Instagram-styled, but the kind of home you walk into a
 
 This is the general framework for any British home. If "warm contemporary" is specifically your style direction, see [Modern Home Interior Ideas UK](/blog/modern-home-interior-uk/); if you're stuck on where to actually find good inspiration, see [Home Decor Inspiration UK](/blog/home-decor-inspiration-uk/).
 
-According to [Houzz UK](https://www.houzz.co.uk)'s 2025 Home Renovation Trends Report, 63% of British homeowners say making their home feel more comfortable and personal is their top decorating priority — above aesthetics, above style trends, above resale value. That tells you something important about what British people actually want from their homes.
 
 
 **TL;DR:** Great British home interiors are built on four things: light that suits our grey climate, colour that works in diffused northern light, texture that creates physical warmth, and personal touches that stop a home feeling like a showroom. This guide covers all four, room by room.

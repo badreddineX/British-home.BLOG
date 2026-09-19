@@ -31,7 +31,7 @@ There's a particular gloom that settles into a British home by late February. It
 
 The spring refresh exists to address this. It's not a renovation — it's a resetting.
 
-According to the [Royal Horticultural Society](https://www.rhs.org.uk), British gardening activity increases by 340% from February to March as the days lengthen, reflecting a deep seasonal instinct to engage with the world differently. The same instinct applies indoors. We want to open windows, move things around, let light in, and make space.
+The same instinct applies indoors. We want to open windows, move things around, let light in, and make space.
 
 
 **TL;DR:** A spring home refresh has four components: edit and declutter (remove things), lighten the textiles (swap winter for spring alternatives), clean what's been ignored all winter (windows, curtains, behind furniture), and bring spring colour and nature inside through plants and seasonal accents.

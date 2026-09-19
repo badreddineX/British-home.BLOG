@@ -38,7 +38,7 @@ That gap is what this page is about. The UK's three deposit protection schemes �
 ## Key findings
 
 - **Cleaning is the single most disputed deduction category** — 29.38% of all deposit claims in 2025, and rising steadily from 24.57% in 2021 ([DPS data via The Intermediary](https://theintermediary.co.uk/2026/06/cleaning-remains-leading-cause-of-tenancy-deposit-claims-dps-data-shows/)).
-- **63% of UK renters have experienced a cleaning-related deposit deduction** at some point ([Property Reporter](https://www.propertyreporter.co.uk/majority-of-uk-renters-hit-with-cleaning-related-deposit-deductions.html)).
+- **63% of UK renters have experienced a cleaning-related deposit deduction** at some point (SpareRoom survey, via [Property Reporter](https://www.propertyreporter.co.uk/majority-of-uk-renters-hit-with-cleaning-related-deposit-deductions.html)).
 - **The average deposit deduction is £250** — but 29% of affected renters lose more than £500, and 16% lose more than £750.
 - **Damage (18.42%), rent arrears (16.45%) and redecoration (10.88%)** round out the next three biggest categories.
 - **Only ~1% of tenancies (46,950 cases in the year to March 2025) reach formal adjudication** — most disputes are settled before that point ([NRLA / TDS](https://www.nrla.org.uk/news/what-2025-taught-us-about-deposit-disputes)).
@@ -118,7 +118,7 @@ This is where paint colour choices matter. Painting a wall a bold or dark colour
 
 Every figure on this page is sourced to a specific report or organisation, linked below. Where sources reported slightly different numbers for the same category (which happens because TDS, DPS and mydeposits each publish their own data separately), the most recent and most specific figure was used.
 
-- **Dispute category breakdown, deduction averages, and the 63% renter-experience figure** — DPS 2025 deposit deduction data, as reported by [The Intermediary](https://theintermediary.co.uk/2026/06/cleaning-remains-leading-cause-of-tenancy-deposit-claims-dps-data-shows/) and [Property Reporter](https://www.propertyreporter.co.uk/majority-of-uk-renters-hit-with-cleaning-related-deposit-deductions.html), 2026.
+- **Dispute category breakdown, deduction averages** — DPS 2025 deposit deduction data, as reported by [The Intermediary](https://theintermediary.co.uk/2026/06/cleaning-remains-leading-cause-of-tenancy-deposit-claims-dps-data-shows/) and [Property Reporter](https://www.propertyreporter.co.uk/majority-of-uk-renters-hit-with-cleaning-related-deposit-deductions.html), 2026.
 - **Adjudication outcome percentages, dispute volume, and the ~1% formal-dispute rate** — [NRLA, "What 2025 taught us about deposit disputes"](https://www.nrla.org.uk/news/what-2025-taught-us-about-deposit-disputes), drawing on the TDS adjudication team's 2025 data.
 - **Fair wear and tear and betterment principles** — [Shelter England, "What can a landlord keep from your deposit?"](https://england.shelter.org.uk/housing_advice/tenancy_deposits/what_can_your_landlord_deduct_from_your_deposit).
 

@@ -33,7 +33,7 @@ This is the year-round guide to cosiness as a principle. For the winter-specific
 
 You can have a room that looks cosy in photographs and feels cold and uncomfortable to actually sit in. You can have a room that photographs badly — too many books, mismatched lamps, a well-used sofa — and yet makes everyone who enters it want to stay for hours.
 
-According to a 2024 survey by [Which?](https://www.which.co.uk), 71% of UK adults rate feeling comfortable and relaxed at home as their top housing priority, ahead of style, storage, and size. We know what we want. We just don't always know how to create it.
+We know what we want. We just don't always know how to create it.
 
 The real question is what actually creates cosiness rather than just the appearance of it. Here's what works.
 
@@ -49,7 +49,7 @@ No element has more impact on how cosy a room feels than its lighting. A room wi
 
 The rule is simple: **layer your lighting, use warm bulbs, and stop relying on a single overhead light in the evening.**
 
-According to the [Lighting Industry Association](https://www.thelia.org.uk), 82% of UK homes still use a single central ceiling light as their primary living room source. This is the single most common cause of rooms that feel bright but not cosy.
+A single central ceiling light is the most common cause of rooms that feel bright but not cosy.
 
 With 82% of UK homes still relying on a single central ceiling light, swapping in a £35–£65 floor lamp and a £25–£45 table lamp on warm 2700K bulbs is often the fastest fix for a room that feels bright but not cosy.
 

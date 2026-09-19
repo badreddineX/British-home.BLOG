@@ -26,7 +26,7 @@ faqs:
     a: "Yes, when mounted above worktop height and out of a child's reach. IKEA's Kungsfors rail (£6) holds knives securely with a strong magnetic strip and frees the drawer space a knife block would otherwise use."
 ---
 
-Most small kitchen ideas for UK homes are about how it *looks*. In a rented flat or a 1990s [galley kitchen](/blog/galley-kitchen-ideas-uk) with three working cupboards, the real problem is where everything goes. The average British kitchen is around 13 square metres, much of it taken up by units you can't move, according to [Checkatrade](https://www.checkatrade.com)'s UK kitchen size data — so this guide is about making the space you have hold more.
+Most small kitchen ideas for UK homes are about how it *looks*. In a rented flat or a 1990s [galley kitchen](/blog/galley-kitchen-ideas-uk) with three working cupboards, the real problem is where everything goes.
  This is purely about where things go when you don't have enough space to put them.
 
 **TL;DR:** Every idea below costs under £40, works in a [rented flat](/blog/rented-flat-makeover-uk) without drilling into cupboard carcasses, and solves a specific storage problem rather than just adding another basket. Start with the over-door rack and the magnetic strip. Together they cost about £10 and free up a full drawer and a full shelf.

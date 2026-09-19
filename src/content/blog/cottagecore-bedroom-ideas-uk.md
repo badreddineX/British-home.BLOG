@@ -129,7 +129,6 @@ Replace overhead lighting with:
 - **A fairy light string** along the headboard or window frame
 - **A small table lantern** from a charity shop or Dunelm (~£12–£20)
 
-According to [Lighting Industry Association](https://www.thelia.org.uk) data, switching from overhead to layered warm lighting is one of the most significant quality-of-life improvements UK homeowners report making — and it costs under £40 to achieve in most bedrooms.
 
 ---
 

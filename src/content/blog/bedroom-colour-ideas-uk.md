@@ -80,7 +80,7 @@ Dulux Timeless 2.5L — ~£22 from B&Q. The safest light-bedroom choice in the D
 
 ## 3. Why Is Sage Green the Most-Searched Bedroom Colour in the UK Right Now?
 
-Sage green became the dominant bedroom colour trend in the UK around 2022, and it hasn't faded. [Google Trends](https://trends.google.com) UK data shows "sage green bedroom" searches remain consistently high in 2026 — above navy, blush, and even neutral search volumes in the bedroom category.
+Sage green became the dominant bedroom colour trend in the UK around 2022, and it hasn't faded.
 
 The reason it works so well in British bedrooms is botanical. Sage and muted greens reference the British countryside, hedge-rows, and garden walls in a way that feels rooted rather than fashionable. They also sit naturally alongside the warm lamplight that most UK bedrooms run on in evenings.
 

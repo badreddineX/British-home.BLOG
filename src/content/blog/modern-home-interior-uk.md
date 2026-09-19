@@ -33,7 +33,7 @@ This one's specifically about the warm contemporary style direction. For the gen
 
 And genuinely quite cold.
 
-According to [Houzz UK](https://www.houzz.co.uk)'s 2025 State of the Home report, 58% of British homeowners now describe their ideal aesthetic as "warm contemporary" — a category that didn't meaningfully exist five years ago. The shift is real and it's visible: the coolly minimal British interior is giving way to something warmer, more personal, more rooted in actual British character.
+The shift is real and it's visible: the coolly minimal British interior is giving way to something warmer, more personal, more rooted in actual British character.
 
 This is what modern actually looks like in the UK right now.
 
