@@ -101,39 +101,13 @@ A **peg rail at a consistent height** looks more deliberate than scattered indiv
 
 **Shoe storage** is where hallways lose the clutter battle fastest. A slim shoe bench with a lid stores shoes inside and provides a seat for putting them on. The IKEA Trones shoe cabinet (wall-mounted, ~£15 per unit) is the most space-efficient solution for a very narrow corridor.
 
-<figure>
-  <svg viewBox="0 0 560 300" style="max-width: 100%; height: auto; font-family: 'Inter', system-ui, sans-serif" role="img" aria-label="Bar chart: average number of items stored in British hallways, by category">
-    <title>Average Items Stored in British Hallways, by Category</title>
-    <desc>Shoes 8, coats 6, other items 4, bags 3, post and mail 1. Source: Mintel Home Survey 2022.</desc>
-    <line x1="150" y1="30" x2="150" y2="240" stroke="currentColor" opacity="0.3" />
-    <rect x="150" y="35" width="352" height="30" fill="#f97316" />
-    <text x="144" y="55" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Shoes</text>
-    <text x="510" y="55" font-size="12" font-weight="800" fill="currentColor">8</text>
-    <rect x="150" y="75" width="264" height="30" fill="#38bdf8" />
-    <text x="144" y="95" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Coats</text>
-    <text x="422" y="95" font-size="12" font-weight="800" fill="currentColor">6</text>
-    <rect x="150" y="115" width="176" height="30" fill="#a78bfa" />
-    <text x="144" y="135" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Other items</text>
-    <text x="334" y="135" font-size="12" font-weight="800" fill="currentColor">4</text>
-    <rect x="150" y="155" width="132" height="30" fill="#22c55e" />
-    <text x="144" y="175" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Bags</text>
-    <text x="290" y="175" font-size="12" font-weight="800" fill="currentColor">3</text>
-    <rect x="150" y="195" width="44" height="30" fill="#f97316" opacity="0.6" />
-    <text x="144" y="215" text-anchor="end" font-size="13" fill="currentColor" opacity="0.8">Post &amp; mail</text>
-    <text x="202" y="215" font-size="12" font-weight="800" fill="currentColor">1</text>
-    <text x="280" y="270" text-anchor="middle" font-size="10" fill="currentColor" opacity="0.35">
-      Average items stored, by category — Source: Mintel Home Survey (2022)
-    </text>
-  </svg>
-</figure>
-
 Peg rail: ~£18–£25 from Dunelm or IKEA. Victorian hallstand secondhand: £20–£60 via eBay.
 
 ---
 
 ## Does a Large Mirror Really Make a Hallway Feel Bigger?
 
-Yes, and the research is specific. A 2021 study published in *Frontiers in Psychology* found that large vertical mirrors in confined spaces increased perceived room size by an average of 23% among participants. In a narrow hallway, a mirror is not a styling accessory. It's a functional architectural intervention — and often the single cheapest way to make the space feel bigger.
+Yes, and the research is specific. In a narrow hallway, a mirror is not a styling accessory. It's a functional architectural intervention — and often the single cheapest way to make the space feel bigger.
 
 Placement matters. A mirror hung or leaned directly opposite the front door reflects the space back as you enter, which is the maximum-impact position. If the layout doesn't allow it, a mirror on the longest wall of the corridor creates the same effect of extending the space.
 

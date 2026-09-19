@@ -71,7 +71,7 @@ For anything under about 1.8m² total, skip the partition altogether and rely on
 
 ## How Does Waterproofing (Tanking) Actually Work?
 
-Tanking is the continuous waterproof membrane that covers the floor and lower walls of a wet room before any tiling goes down, and it's what stops water reaching the joists or the flat below. [UNIQUE INSIGHT] It's also the single biggest reason wet room quotes vary so much, because the quality of tanking is invisible once the tiles are on, and cutting corners here doesn't show up as a problem for months or years.
+Tanking is the continuous waterproof membrane that covers the floor and lower walls of a wet room before any tiling goes down, and it's what stops water reaching the joists or the flat below. It's also the single biggest reason wet room quotes vary so much, because the quality of tanking is invisible once the tiles are on, and cutting corners here doesn't show up as a problem for months or years.
 
 In simple terms: a waterproof membrane (a liquid-applied coating or a matting system) gets bonded across the entire floor, up every wall to shower height, and sealed around the drain, pipework, and any corners or joints, before tiles ever touch it. The tiles and grout on top are decorative and give some water resistance, but they are not the waterproofing layer. That's the membrane underneath.
 

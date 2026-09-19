@@ -73,7 +73,7 @@ The Energy Saving Trust estimates that draught-proofing a typical semi-detached 
 
 A single-glazed sash window can lose as much heat as an open door — and many British homes still have these, particularly Victorian and Edwardian terraces. Curtains are your first line of defence.
 
-The difference between a thin unlined curtain and a properly interlined one is significant: according to the National Energy Foundation, well-lined curtains can reduce window heat loss by up to 40%, making them one of the single highest-impact winter changes a British home can make.
+The difference between a thin unlined curtain and a properly interlined one is significant: well-lined curtains can noticeably reduce window heat loss.
 
 **What to look for in winter curtains:**
 

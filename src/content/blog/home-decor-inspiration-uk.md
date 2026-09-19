@@ -124,11 +124,11 @@ The episode discussions about paint colours, material choices, and how rooms wil
 
 When you do find inspiration from non-British sources, the adaptation is almost always the same in three ways.
 
-68% of UK homeowners rank their home's period features as its most important asset (Which? Magazine, 2024), and typical American rooms run 20–30% larger than British ones — two reasons colour warmth and scale are the adaptations that matter most.
+
 
 **Colour:** Shift warmer. What looks beautiful in a Californian room flooded with direct sunlight will look grey and cold in a north-facing British living room. If a room you love uses cool sage, try warm sage instead. If it uses pale grey, try warm greige. The principle applies consistently.
 
-**Scale:** Reduce. Most American interior design assumes rooms 20-30% larger than typical British equivalents. A grand statement sofa that anchors a large American room might overwhelm a typical UK sitting room. When you see a scaled furniture arrangement you like, ask: would this work in a room that's one third smaller?
+**Scale:** Reduce. A grand statement sofa that anchors a large American room might overwhelm a typical UK sitting room. When you see a scaled furniture arrangement you like, ask: would this work in a room that's one third smaller?
 
 **Architecture:** British homes have features that American interiors rarely deal with — fireplaces, coving, picture rails, sash windows, bay windows, radiators. Good British interior inspiration works with these features. International inspiration often ignores or removes them.
 

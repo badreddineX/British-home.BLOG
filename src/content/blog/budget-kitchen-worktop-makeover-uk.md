@@ -26,7 +26,7 @@ faqs:
     a: "Resurfacing with wrap film or paint is almost always cheaper short-term, from £20–£45 versus £45–£120+ for new laminate. Replacement makes more sense if the worktop is damaged, swollen from water, or you want a genuinely different material."
 ---
 
-The average UK kitchen worktop replacement costs between £45 and £120 per run for laminate, and considerably more for solid surface, according to retailer pricing at Wickes and B&Q. That's a lot for a surface that might just be tired-looking rather than actually broken.
+The average UK kitchen worktop replacement costs between £45 and £120 per run for laminate, and considerably more for solid surface. That's a lot for a surface that might just be tired-looking rather than actually broken.
 
 
 This post covers worktop wrap film, laminate worktop paint kits, and front edge strip replacement, plus where full replacement still makes sense as a comparison point. All three below-replacement options solve different problems, so the right one depends on what's actually wrong with your worktop.
@@ -41,7 +41,7 @@ Laminate remains the cheapest new-worktop material by a wide margin. It's what m
 
 Budget solid surface, sometimes marketed as laminate-quartz or compact laminate, sits in the middle. It resists heat and scratching better than standard laminate but costs two to three times as much, and most people end up paying a fitter rather than doing it themselves.
 
-A standard 3-metre laminate worktop run costs £45–£90 in materials at Wickes or B&Q, while budget solid surface alternatives typically run £150–£250 fitted, according to current retailer pricing (2026).
+A standard 3-metre laminate worktop run costs £45–£90 in materials at Wickes or B&Q, while budget solid surface alternatives typically run £150–£250 fitted.
 
 This is the context that makes the three cheap fixes below worth considering. If your worktop is structurally sound and just looks worn, spending £20–£45 to refresh it makes far more sense than £45–£250 to replace it.
 
@@ -70,7 +70,7 @@ These kits are two-part or three-part systems specifically formulated to grip no
 
 Most guides treat wrap film and paint kits as interchangeable, but they suit different starting conditions. Wrap film works best on a smooth, undamaged surface you just want a different pattern on. Paint kits work better when the laminate itself has faded or discoloured unevenly, since the primer coat evens out the base colour before you add finish. If your worktop has patchy sun-fading or watermarks, paint hides it more convincingly than a thin wrap.
 
-**A specialist laminate worktop paint kit costs around £30–£45 and gives roughly five to seven years of durability with proper application, according to Rust-Oleum's own product guidance.**
+**A specialist laminate worktop paint kit costs around £30–£45 and gives roughly five to seven years of durability with proper application.**
 
 Curing time is the real cost here, not money. You'll need to keep the worktop mostly clear and dry for the better part of a week, which is awkward in a kitchen you actually use. Plan the job for a week when you can lean on the microwave and takeaways more than usual.
 
@@ -114,7 +114,7 @@ Adhesive worktop wrap film is the cheapest option at £20–£35 per roll from D
 Yes, using a specialist laminate worktop paint kit such as Rust-Oleum Worktop Transformation Kit (around £40). Standard emulsion or furniture paint won't bond properly and will chip within weeks.
 
 **How long does worktop wrap film last?**
-Good quality wrap film lasts 2–4 years with careful use, according to most manufacturer guidance from brands like d-c-fix. It's not heatproof, so always use a trivet or board rather than placing hot pans directly on it.
+Good quality wrap film lasts 2–4 years with careful use. It's not heatproof, so always use a trivet or board rather than placing hot pans directly on it.
 
 **Is it cheaper to replace or resurface a kitchen worktop?**
 Resurfacing with wrap film or paint is almost always cheaper short-term, from £20–£45 versus £45–£120+ for new laminate. Replacement makes more sense if the worktop is damaged, swollen from water, or you want a genuinely different material.

@@ -39,10 +39,8 @@ That gap is what this page is about. The UK's three deposit protection schemes �
 
 - **Cleaning is the single most disputed deduction category** — 29.38% of all deposit claims in 2025, and rising steadily from 24.57% in 2021 ([DPS data via The Intermediary](https://theintermediary.co.uk/2026/06/cleaning-remains-leading-cause-of-tenancy-deposit-claims-dps-data-shows/)).
 - **63% of UK renters have experienced a cleaning-related deposit deduction** at some point (SpareRoom survey, via [Property Reporter](https://www.propertyreporter.co.uk/majority-of-uk-renters-hit-with-cleaning-related-deposit-deductions.html)).
-- **The average deposit deduction is £250** — but 29% of affected renters lose more than £500, and 16% lose more than £750.
 - **Damage (18.42%), rent arrears (16.45%) and redecoration (10.88%)** round out the next three biggest categories.
 - **Only ~1% of tenancies (46,950 cases in the year to March 2025) reach formal adjudication** — most disputes are settled before that point ([NRLA / TDS](https://www.nrla.org.uk/news/what-2025-taught-us-about-deposit-disputes)).
-- **When cases do reach adjudication, tenants win the full amount 22.8% of the time**, landlords win in full 19.2% of the time, and the rest — the majority — end in a split award.
 - **A landlord cannot legally charge for "fair wear and tear" or for "betterment"** — two principles that, correctly understood, would rule out a large share of what currently gets deducted.
 
 <figure>

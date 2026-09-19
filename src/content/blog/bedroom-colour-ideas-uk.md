@@ -101,11 +101,11 @@ Farrow & Ball Mizzle 2.5L — ~£59 from Farrow & Ball. Works in both north- and
 
 ## 4. Blues in the Bedroom: What Works and What Doesn't
 
-Blue is a perennially popular bedroom colour, and with good reason — it's consistently associated with calm and sleep in colour psychology research. A 2018 study by Travelodge UK found that people who sleep in blue rooms get more sleep than any other colour group, averaging 7 hours 52 minutes per night.
+Blue is a perennially popular bedroom colour, and with good reason — it's consistently associated with calm and sleep in colour psychology research.
 
 But not all blues travel equally. Bright, saturated blues feel cold and stark in UK light. The blues that succeed are the ones that have been muted, deepened, or warmed.
 
-UK blue paints range from about £22 for Dulux Sapphire Salute to £59 for Farrow & Ball Hague Blue, and the 2018 Travelodge UK study found people sleeping in blue rooms averaged 7 hours 52 minutes of sleep — more than any other colour group.
+UK blue paints range from about £22 for Dulux Sapphire Salute to £59 for Farrow & Ball Hague Blue.
 
 Blues that work well:
 

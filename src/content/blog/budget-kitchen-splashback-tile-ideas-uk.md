@@ -27,7 +27,7 @@ faqs:
 ---
 
 
-Retiling a kitchen splashback properly, with real tiles, adhesive, and grout, typically costs £150–£400 including a tradesperson, according to Checkatrade's 2024 UK cost guides. Most of us don't want to spend that on a wall behind a hob that's otherwise fine.
+Retiling a kitchen splashback properly, with real tiles, adhesive, and grout, typically costs £150–£400 including a tradesperson. Most of us don't want to spend that on a wall behind a hob that's otherwise fine.
 
 Peel-and-stick tiles and tile paint can each transform a splashback for under £45. This post covers every budget splashback option worth considering: what works, what peels within a month, and how to avoid the one mistake that ruins most DIY attempts.
 
@@ -93,7 +93,7 @@ The most common cause of early peeling is grease left on the wall before applica
 
 Prep decides how long peel-and-stick lasts. An install that is properly degreased with a heat gap left can stay flat for years, while a rushed clean can start curling at a corner within months. Same product, same brand, different prep.
 
-> Grease residue left on the wall before applying peel-and-stick tiles is the leading cause of early edge peeling, and sugar soap cleaning beforehand resolves it in most cases, according to standard fitting guidance from UK peel-and-stick tile suppliers.
+> Grease residue left on the wall before applying peel-and-stick tiles is the leading cause of early edge peeling, and sugar soap cleaning beforehand resolves it in most cases.
 
 ---
 

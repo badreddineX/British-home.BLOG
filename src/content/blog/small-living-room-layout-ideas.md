@@ -33,7 +33,7 @@ British living rooms present a very specific problem. They're not just small —
 
 This guide is specifically about furniture arrangement and floor plans for awkward room shapes. For general styling, see [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/); for small-space visual tricks like colour and curtain height, see [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
 
-According to the English Housing Survey 2023, the average UK living room measures just 17.1 square metres — and many properties in London, Manchester, and other major cities are considerably smaller than that. We're not working with the kind of square footage you see in American home tours or Scandinavian design blogs. We're working with real British rooms.
+We're not working with the kind of square footage you see in American home tours or Scandinavian design blogs. We're working with real British rooms.
 
 
 **TL;DR:** The biggest layout mistakes in small British living rooms are pushing every piece of furniture against the wall, choosing a sofa that's too long for the room, and leaving the space without a clear focal point. Fix those three things and most small-room layout problems resolve themselves.
@@ -45,7 +45,6 @@ Read more: [small living room decorating ideas](/blog/small-living-room-ideas-uk
 > **Key Takeaways**
 > - Float your sofa 5-15cm from the wall — it creates depth and makes the room read as more intentional
 > - Define one focal point (fireplace, TV wall, or window) and arrange all seating to face it
-> - According to the English Housing Survey 2023, the average UK living room is just 17.1 sq metres — standard furniture sizing often doesn't fit
 > - A 160x230cm rug is the minimum size to unify a seating area in a small British lounge
 > - Fewer, larger pieces of furniture read better than many small ones in a tight space
 
@@ -152,7 +151,7 @@ Compact two-seater sofa, 180-200cm long, under 90cm deep — from ~£299 at Next
 <figure>
   <svg viewBox="0 0 560 340" style="max-width: 100%; height: auto; font-family: 'Inter', system-ui, sans-serif" role="img" aria-label="Grouped bar chart: floor clearance remaining after fitting a 2-seater or 3-seater sofa in UK living rooms of 3m, 3.5m, and 4m width">
     <title>Sofa Clearance by Room Width</title>
-    <desc>3m room: 1.2m clearance with a 2-seater, 0.9m with a 3-seater. 3.5m room: 1.7m with a 2-seater, 1.4m with a 3-seater. 4m room: 2.2m with a 2-seater, 1.9m with a 3-seater. Based on average sofa lengths (2-seater 180cm, 3-seater 210cm). Source: English Housing Survey 2023 (average UK room widths).</desc>
+    <desc>3m room: 1.2m clearance with a 2-seater, 0.9m with a 3-seater. 3.5m room: 1.7m with a 2-seater, 1.4m with a 3-seater. 4m room: 2.2m with a 2-seater, 1.9m with a 3-seater. Based on average sofa lengths (2-seater 180cm, 3-seater 210cm). Illustrative calculation.</desc>
     <rect x="230" y="16" width="14" height="14" fill="#f97316" />
     <text x="250" y="27" font-size="12" fill="currentColor" opacity="0.8">2-seater</text>
     <rect x="330" y="16" width="14" height="14" fill="#38bdf8" />
@@ -177,7 +176,7 @@ Compact two-seater sofa, 180-200cm long, under 90cm deep — from ~£299 at Next
     <text x="457" y="110" text-anchor="middle" font-size="12" font-weight="800" fill="currentColor">1.9m</text>
     <text x="438" y="292" text-anchor="middle" font-size="13" fill="currentColor" opacity="0.8">4m room</text>
     <text x="300" y="322" text-anchor="middle" font-size="10" fill="currentColor" opacity="0.35">
-      Floor clearance after sofa (2-seater 180cm / 3-seater 210cm) — Source: English Housing Survey 2023
+      Floor clearance after sofa (2-seater 180cm / 3-seater 210cm) — illustrative, based on typical sofa lengths
     </text>
   </svg>
 </figure>

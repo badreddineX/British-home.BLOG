@@ -60,7 +60,7 @@ DIY cabinet painting costs £30–£60 in materials using products like Rust-Ole
 
 ## What Does a Professional Kitchen Cabinet Respray Cost?
 
-A professional kitchen cabinet respray typically costs £1,200–£3,500 for an average UK kitchen, according to pricing from specialist sprayers including Kitchen Makeover Company and regional trade sprayers who quote per door. Most charge £25–£45 per door plus a call-out or setup fee.
+A professional kitchen cabinet respray typically costs £1,200–£3,500 for an average UK kitchen. Most charge £25–£45 per door plus a call-out or setup fee.
 
 Respraying is done with a spray gun rather than a brush or roller, which eliminates brush marks entirely. The sprayer usually removes your doors, sprays them in a controlled booth or dust-sheeted space, and rehangs them once cured. The result looks genuinely close to a brand-new factory finish.
 
@@ -111,7 +111,7 @@ Vinyl wrap film for kitchen cabinets costs £150–£400 for a full UK kitchen u
 
 ## Are Replacement Cabinet Doors Cheaper Than a New Kitchen?
 
-Replacement cabinet doors that fit your existing carcass cost £800–£2,500 for an average UK kitchen, roughly a third of the price of a full unit replacement, according to typical trade and supplier quotes. Companies including Kitchen Door Workshop and B&Q's made-to-measure door service both offer this service.
+Replacement cabinet doors that fit your existing carcass cost £800–£2,500 for an average UK kitchen, roughly a third of the price of a full unit replacement. Companies including Kitchen Door Workshop and B&Q's made-to-measure door service both offer this service.
 
 The principle is straightforward: your existing cabinet boxes (the carcasses) stay bolted to the wall and floor exactly where they are. Only the doors, drawer fronts, and sometimes the [worktop](/blog/budget-kitchen-worktop-makeover-uk) get swapped. This avoids the biggest costs in a kitchen renovation: new carcasses, re-plumbing, and re-wiring behind the units.
 

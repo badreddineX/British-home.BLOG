@@ -27,7 +27,7 @@ faqs:
 ---
 
 
-There are approximately 5.5 million Victorian terraced houses in the United Kingdom — more than any other single house type in the country, according to the NHBC Foundation's 2023 Housing Stock Analysis. They were built between roughly 1840 and 1901, and the best examples are among the most architecturally rich domestic buildings in Europe.
+Victorian terraces were built between roughly 1840 and 1901, and the best examples are among the most architecturally rich domestic buildings in Europe.
 
 They are also among the most commonly mishandled interiors in Britain. White walls, grey carpet, recessed spotlights, and modern fitted kitchens in rooms designed for a completely different visual language. The architecture remains spectacular. The interiors often betray it.
 
@@ -46,9 +46,8 @@ Before any decorating decision, deal with the original fabric of the house. Ever
 
 The most common mistake made in Victorian terraces is removing original features in a misguided attempt at modernisation. Cornicing, ceiling roses, dado rails, picture rails, and original fireplaces are the architectural vocabulary the room was designed around. Without them, you have a box. With them, you have a Victorian room.
 
-The NHBC Foundation 2023 report estimates that original period features add an average of 6–8% to the market value of a terraced house. But the real case for restoration isn't financial — it's aesthetic. These details create the proportions, shadows, and visual rhythm that give Victorian rooms their distinctive character.
+But the real case for restoration isn't financial — it's aesthetic. These details create the proportions, shadows, and visual rhythm that give Victorian rooms their distinctive character.
 
-The NHBC Foundation found original period features add 6–8% to a Victorian terrace's market value, and even full cornicing restoration typically costs just £150–£300 per room — a fraction of that uplift.
 
 What to restore rather than remove:
 - **Cornicing:** If cracked or missing sections, original-style plaster coving can be matched by a specialist plasterer. Replacement sections typically cost ~£150–£300 per room including labour

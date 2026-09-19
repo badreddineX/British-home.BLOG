@@ -33,7 +33,7 @@ This is a sequenced, step-by-step makeover project with a budget and timeline. F
 
 A bedroom makeover doesn't mean a full renovation. It doesn't require a builder, a skip, or a four-figure budget. These 13 changes work incrementally — you can do one this weekend for £20 or work through all of them over a few months. Either way, the cumulative effect is a room that feels genuinely different.
 
-**TL;DR:** The 13 most effective bedroom makeover changes for UK homes, in order of impact — starting with bedding (the bed is 60% of the room visually) and working through lighting, paint, furniture arrangement, mirrors, curtains, storage, and atmosphere. Most changes cost under £50. None require a builder.
+**TL;DR:** The 13 most effective bedroom makeover changes for UK homes, in order of impact — starting with bedding (the bed is the largest visual element in the room) and working through lighting, paint, furniture arrangement, mirrors, curtains, storage, and atmosphere. Most changes cost under £50. None require a builder.
 
 ---
 
@@ -50,7 +50,7 @@ Read more: [bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/)
 
 ## 1. Start With New Bedding
 
-The bed occupies roughly 60% of the visual space in a typical British bedroom. This means the single fastest way to transform how a room looks is to change what's on the bed. New bedding in a linen or cotton weave, from £35 at Dunelm, shifts the entire character of the room before you've touched anything else. A full layered set — duvet cover, flat sheet, euro pillows, and a throw — runs £55–£80.
+The bed is the largest visual element in a typical British bedroom. This means the single fastest way to transform how a room looks is to change what's on the bed. New bedding in a linen or cotton weave, from £35 at Dunelm, shifts the entire character of the room before you've touched anything else. A full layered set — duvet cover, flat sheet, euro pillows, and a throw — runs £55–£80.
 
 The specific upgrade that makes the biggest difference isn't just a new duvet cover. It's adding a flat sheet (folded back at the turn-down), two euro square pillows (65x65cm) behind your standard sleeping pillows, and a throw across the lower third of the bed. This layered structure creates the hotel-bed effect that photographs beautifully and feels genuinely different to sleep in.
 

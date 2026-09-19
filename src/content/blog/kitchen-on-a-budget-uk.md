@@ -27,7 +27,7 @@ faqs:
 ---
 
 
-The average full kitchen renovation in the UK costs between £8,000 and £25,000, according to Checkatrade's 2024 cost data — nowhere near affordable for most people. Most British homeowners simply don't have that sitting around, so a cheap kitchen makeover that skips the fitter entirely is the realistic option. And yet almost every kitchen in a terrace, a flat, or a 1990s semi looks tired in exactly the same ways: dated handles, grimy grout, wonky cabinet doors, and that one drawer that's been broken for three years.
+The average full kitchen renovation in the UK costs between £8,000 and £25,000 — nowhere near affordable for most people. Most British homeowners simply don't have that sitting around, so a cheap kitchen makeover that skips the fitter entirely is the realistic option. And yet almost every kitchen in a terrace, a flat, or a 1990s semi looks tired in exactly the same ways: dated handles, grimy grout, wonky cabinet doors, and that one drawer that's been broken for three years.
 
 The usual culprits are dated oak-effect flatpack units, a beige laminate [worktop](/blog/budget-kitchen-worktop-makeover-uk) with a burn mark near the hob, and taps that take five seconds of wiggling before water comes out. All of it is fixable on about £180 with no fitter.
 

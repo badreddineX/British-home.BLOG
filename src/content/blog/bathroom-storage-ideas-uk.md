@@ -166,7 +166,7 @@ Most UK Assured Shorthold Tenancy agreements include clauses about alterations t
 - Replacing a recessed medicine cabinet
 - Altering any plumbing connections
 
-**The practical test:** If you can take it with you when you move and leave the bathroom in identical condition, it's a no-drill solution. This covers 90% of the storage changes on this list.
+**The practical test:** If you can take it with you when you move and leave the bathroom in identical condition, it's a no-drill solution. This covers most of the storage changes on this list.
 
 ---
 
@@ -181,7 +181,7 @@ Most UK Assured Shorthold Tenancy agreements include clauses about alterations t
 | 5 | Freestanding towel rack or over-door hook rack | ~£22-£30 |
 | **Total steps 1-5** | | **~£117-£179** |
 
-Complete steps 1 through 3 before spending on anything else. These three changes handle 80% of bathroom storage problems in a small UK rental. Steps 4 and 5 are refinements.
+Complete steps 1 through 3 before spending on anything else. These three changes handle most bathroom storage problems in a small UK rental. Steps 4 and 5 are refinements.
 
 ## Bathroom Storage for Two in a Small Flat
 
@@ -195,7 +195,7 @@ Two people sharing a small flat bathroom doubles the product count and the frict
 
 ---
 
-Complete steps 1 through 3 of the priority order before purchasing anything else. The over-toilet shelf alone typically solves 50% of the clutter problem in a small UK flat bathroom.
+Complete steps 1 through 3 of the priority order before purchasing anything else. The over-toilet shelf alone typically solves much of the clutter problem in a small UK flat bathroom.
 
 Running out of floor and cabinet space elsewhere in the flat too? [12 vertical storage ideas for small UK flats](/blog/vertical-storage-ideas-uk-flats) covers the same wall-mounted, no-drill approach for every other room.
 

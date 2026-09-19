@@ -92,7 +92,7 @@ IKEA upholstered headboard — from ~£85 at IKEA.
 
 The most clinical mistake in British bedrooms is relying on a single ceiling light for all purposes. Overhead light in a bedroom is harsh and flattening — it's the opposite of restful.
 
-Two bedside lamps at 2700K warm white cost around £25 each from Next Home, and 2023 Oxford University research found reducing light intensity before bed improved sleep onset time by an average of 14 minutes in study participants — a small change with an outsized effect on how restful a bedroom feels.
+Two bedside lamps at 2700K warm white cost around £25 each from Next Home.
 
 Two bedside lamps, both at 2700K warm white, are the replacement. They cast a lower, warmer light that's appropriate for winding down. This isn't just an aesthetic preference — dimmer, warmer light in the run-up to bed is one of the more consistently recommended changes for falling asleep faster.
 

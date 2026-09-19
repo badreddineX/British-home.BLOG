@@ -26,7 +26,7 @@ faqs:
     a: "A DIY click vinyl or peel-and-stick floor for an average UK kitchen costs £50–£150 in materials, according to typical B&Q and Wickes pricing. A professionally fitted new floor with removal of the old one runs closer to £400–£800."
 ---
 
-The average professionally fitted kitchen floor in the UK costs somewhere between £400 and £800 once you factor in removal of the old floor, according to typical Checkatrade tradesperson quotes. Most of us don't have that kind of budget sitting around for a floor nobody will really compliment. The good news is that a genuinely decent-looking kitchen floor is one of the more achievable weekend DIY jobs, especially if you're willing to lay the new floor straight over what's already there.
+The average professionally fitted kitchen floor in the UK costs somewhere between £400 and £800 once you factor in removal of the old floor. Most of us don't have that kind of budget sitting around for a floor nobody will really compliment. The good news is that a genuinely decent-looking kitchen floor is one of the more achievable weekend DIY jobs, especially if you're willing to lay the new floor straight over what's already there.
 
 Click-lock vinyl plank went straight over it in an afternoon, and eighteen months later it still looks fine. This post covers the two cheapest routes, how to handle an uneven old floor, and when laying over the top is genuinely a bad idea.
 
@@ -97,7 +97,7 @@ Height clearance is the other big one. Adding even one layer of click vinyl (typ
 
 Measuring first would have saved an afternoon of taking the appliance back out to trim the floor around it. If in doubt, measure twice and buy the thinnest suitable product rather than the thickest.
 
-New flooring shouldn't go over an existing kitchen floor if the subfloor is soft, damp, or if the added thickness (commonly 4-6mm for click vinyl) blocks appliance doors or the kitchen door from closing, according to standard UK flooring fitting guidance from retailers including B&Q and Wickes.
+New flooring shouldn't go over an existing kitchen floor if the subfloor is soft, damp, or if the added thickness (commonly 4-6mm for click vinyl) blocks appliance doors or the kitchen door from closing.
 
 ---
 
@@ -113,7 +113,7 @@ Peel-and-stick vinyl floor tiles are the cheapest option, from around £1.50–�
 Not usually. If the existing floor is flat, dry, and structurally sound, most click vinyl and peel-and-stick products can be laid straight on top. Removal is only necessary if the old floor is damaged, uneven, or damp.
 
 ### How much does it cost to redo a kitchen floor UK?
-A DIY click vinyl or peel-and-stick floor for an average UK kitchen costs £50–£150 in materials, according to typical B&Q and Wickes pricing. A professionally fitted new floor with removal of the old one runs closer to £400–£800.
+A DIY click vinyl or peel-and-stick floor for an average UK kitchen costs £50–£150 in materials. A professionally fitted new floor with removal of the old one runs closer to £400–£800.
 
 ---
 

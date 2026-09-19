@@ -51,7 +51,7 @@ The rule is simple: **layer your lighting, use warm bulbs, and stop relying on a
 
 A single central ceiling light is the most common cause of rooms that feel bright but not cosy.
 
-With 82% of UK homes still relying on a single central ceiling light, swapping in a £35–£65 floor lamp and a £25–£45 table lamp on warm 2700K bulbs is often the fastest fix for a room that feels bright but not cosy.
+Swapping in a £35–£65 floor lamp and a £25–£45 table lamp on warm 2700K bulbs is often the fastest fix for a room that feels bright but not cosy.
 
 What to do instead:
 - **One floor lamp** positioned in a corner (~£35–£65, Dunelm)
