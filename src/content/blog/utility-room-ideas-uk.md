@@ -1,6 +1,6 @@
 ---
 title: "Small Utility Room Ideas UK"
-description: "Small utility room ideas for UK homes — laying out a tiny utility room or a utility cupboard, hiding the washing machine, budget fittings, and renter-safe versions."
+description: "Small utility room ideas for UK homes: laying out a tiny utility room or cupboard, hiding the washing machine, budget fittings and renter-safe versions."
 image: "/images/utility-room-uk.jpg"
 datePublished: "2026-08-30"
 dateModified: "2026-08-30"

@@ -1,6 +1,6 @@
 ---
 title: "Small Kitchen Ideas UK: Budget Storage Solutions"
-description: "Small kitchen ideas for UK flats and galley kitchens — over-door racks, magnetic strips, corner carousels, and freestanding shelving that make a tiny kitchen work, all under £40."
+description: "Small kitchen ideas for UK flats and galley kitchens: over-door racks, magnetic strips, corner carousels and freestanding shelving, all under £40."
 image: "/images/kitchen-open-shelving.jpg"
 datePublished: "2026-07-13"
 dateModified: "2026-08-30"

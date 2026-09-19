@@ -1,6 +1,6 @@
 ---
 title: "Studio Flat Ideas UK"
-description: "Studio flat ideas for UK renters — zoning a single room, layout by shape, room dividers, multi-use furniture, and budget fittings that make one room work as a whole home."
+description: "Studio flat ideas for UK renters: zoning a single room, layouts by shape, room dividers, multi-use furniture and budget fittings that make one room work."
 image: "/images/studio-flat-zoned-uk.jpg"
 datePublished: "2026-09-01"
 dateModified: "2026-09-01"

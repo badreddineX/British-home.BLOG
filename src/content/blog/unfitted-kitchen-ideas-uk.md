@@ -1,6 +1,6 @@
 ---
 title: "Unfitted Kitchen Ideas UK: Renter-Friendly Freestanding Looks"
-description: "Unfitted kitchen ideas for UK homes: freestanding units, open shelving and peel-and-stick splashbacks that give the look without a full refit. Renter-friendly and budget-led."
+description: "Unfitted kitchen ideas for UK homes: freestanding units, open shelving and peel-and-stick splashbacks for the look without a refit. Renter-friendly."
 image: "/images/sunlit-farmhouse-kitchen-wood.jpg"
 datePublished: "2026-07-30"
 dateModified: "2026-07-30"

@@ -1,6 +1,6 @@
 ---
 title: "Small Bedroom Ideas UK: A Budget Refresh Under £150"
-description: "Small bedroom ideas for UK flats on a budget — bedding, lighting, a mirror, a rug, and wall art in the right order, with real prices from Dunelm, IKEA, Amazon, Wilko, and B&M."
+description: "Small bedroom ideas for UK flats on a budget: bedding, lighting, a mirror, a rug and wall art in the right order, with prices from Dunelm and IKEA."
 image: "/images/minimalist-bedroom-single-bed.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-08-30"

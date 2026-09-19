@@ -1,6 +1,6 @@
 ---
 title: "12 Bedroom Decor Ideas UK"
-description: "12 bedroom decor ideas for UK homes — colour, bedding, lighting, storage and styling, in order of visual impact. Real UK prices from Dunelm, Next, John Lewis and IKEA."
+description: "12 bedroom decor ideas for UK homes: colour, bedding, lighting, storage and styling in order of visual impact, with UK prices from Dunelm, Next and IKEA."
 image: "/images/pexels-1743229.jpg"
 datePublished: "2025-12-09"
 dateModified: "2026-09-05"

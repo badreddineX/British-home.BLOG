@@ -1,6 +1,6 @@
 ---
 title: "Small Bathroom Ideas UK: Layout, Wet Rooms & Cloakrooms"
-description: "Small bathroom ideas for UK homes — laying out a tiny bathroom, shower room or wet room, fitting a downstairs cloakroom, budget fittings, and renter-safe updates with real UK prices."
+description: "Small bathroom ideas for UK homes: laying out a tiny bathroom, shower room or cloakroom, budget fittings and renter-safe updates, with real UK prices."
 image: "/images/small-bathroom-modern-uk.jpg"
 datePublished: "2026-08-30"
 dateModified: "2026-08-30"

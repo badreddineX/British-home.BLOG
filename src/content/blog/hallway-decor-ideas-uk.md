@@ -1,6 +1,6 @@
 ---
 title: "Hallway Ideas UK: Small & Narrow Hallways"
-description: "Hallway ideas for UK homes — paint, slim furniture, mirrors, lighting and runners for small and narrow British hallways. UK retailers, real prices, in the order that matters."
+description: "Hallway ideas for UK homes: paint, slim furniture, mirrors, lighting and runners for small, narrow British hallways, with UK retailers and real prices."
 image: "/images/pexels-1090638.jpg"
 datePublished: "2026-04-19"
 dateModified: "2026-08-06"

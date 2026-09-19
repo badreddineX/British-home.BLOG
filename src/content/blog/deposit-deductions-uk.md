@@ -1,6 +1,6 @@
 ---
 title: "Deposit Deductions UK: What Landlords Actually Charge For (2026)"
-description: "Real UK deposit deduction data for 2026 — what landlords actually claim for, how much gets deducted, and the exact decor decisions that trigger it, sourced from TDS, DPS and Shelter."
+description: "Guide to UK tenancy deposit deductions: what landlords commonly claim for, how disputes work and which decor choices can trigger them."
 image: "/images/pexels-1643383.jpg"
 datePublished: "2026-09-05"
 dateModified: "2026-09-05"
