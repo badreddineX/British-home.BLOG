@@ -18,7 +18,8 @@ import { readFileSync, writeFileSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-const GRAPH = 'https://graph.facebook.com/v21.0';
+// IG_LOGIN=1 -> 'Instagram API with Instagram login' (no Facebook Page needed); default = Facebook-login route
+const GRAPH = process.env.IG_LOGIN === '1' ? 'https://graph.instagram.com/v21.0' : 'https://graph.facebook.com/v21.0';
 const here = dirname(fileURLToPath(import.meta.url));
 const QUEUE = resolve(here, 'queue.json');
 const STATE = resolve(here, 'state.json');

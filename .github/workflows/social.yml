@@ -23,6 +23,7 @@ jobs:
           META_TOKEN: ${{ secrets.META_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           POSTS_PER_RUN: "1"
+          IG_LOGIN: "1"
           DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '0' }}
         run: node social/publish.mjs
       - name: Save state (so nothing posts twice)
