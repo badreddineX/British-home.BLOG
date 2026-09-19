@@ -29,6 +29,8 @@ faqs:
     a: "Line the shelf with non-slip drawer liner (£3 at B&Q) or use tapered spice tins with low centres of gravity — John Lewis sells set of 6 aluminium tins for ~£12. For deeper shelves, add a simple cardboard divider cut to fit, costing pennies."
 ---
 
+The best hidden pantry storage for renters goes behind doors and inside cabinets: over-the-door organisers, pull-out baskets, tiered shelves and slim larder units, most of which need no drilling.
+
 You're not alone: a lot of UK renters live in kitchens under 4m² — and tiny pantries are the main culprit behind the stress of finding that last can of tomato purée. A Victorian converted flat with a cupboard smaller than a suitcase is common across the UK. These are the hacks that *actually* work without jeopardising your deposit. This isn't a general storage roundup: every idea below is about hiding pantry storage behind a door, inside a cabinet, or beneath a fixture, so your kitchen looks uncluttered even when the cupboards are full.
 
 **TL;DR:** This guide is about *disguised* pantry storage specifically — tucking food storage behind existing doors and inside cabinetry so it's invisible when closed, not open shelving or standalone units. Renter-friendly options like over-the-door organizers, sliding tiered shelves, and stackable pull-out baskets fit into cramped cupboards, under sinks, or even inside tall cabinets — all under £35. Focus on vertical space, use low-profile containers, and prioritise doors and backs of cupboards. You’ll recover 30–50% more usable space in under an hour, and nobody walking into your kitchen will know it's there.

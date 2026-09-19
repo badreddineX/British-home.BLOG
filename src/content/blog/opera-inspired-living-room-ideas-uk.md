@@ -33,7 +33,7 @@ faqs:
 
 ## 1. Start With Velvet — But Smartly
 
-Velvet is the star of the opera aesthetic, and you don’t need full upholstery to get the look. For renters, slipcovers and peel-and-stick options are your friends — no nails, no damage, and washable to boot. Dunelm stocks velvet cushion inserts from ~£8 each, or grab ready-made ones like their ‘Luxe Velvet’ range (35x35cm, ~£14). Layer with a £19 velvet ottoman from Wayfair UK — roll it under your sofa and instantly add height and texture. Avoid synthetic ‘velvet-look’ fabrics that shimmer too much — real velvet absorbs light, giving that signature rich, quiet opulence.
+Velvet is the star of the opera aesthetic, and you don’t need full upholstery to get the look. For renters, slipcovers and peel-and-stick options are your friends — no nails, no damage, and washable to boot. Avoid synthetic ‘velvet-look’ fabrics that shimmer too much — real velvet absorbs light, giving that signature rich, quiet opulence.
 
 ![A beige sofa with vintage-style cushions in emerald green velvet, placed beside a brass floor lamp](/images/pexels-1571459.jpg)
 
