@@ -31,7 +31,7 @@ faqs:
     a: "Under £150 covers most of it: warm lighting (£20-£30), a rug to define the seating zone (£25-£45), cushions and a throw for softness (£20-£30), wall art to draw the eye up (£15-£25), and one plant for life (£8-£15). None of it requires structural changes."
 ---
 
-Refreshing a small UK living room for under £150 works best when you spend in this order: lighting first, then a rug, then cushions and a throw, then wall art, then a plant. I've done this exact sequence in two different rented flats and the order matters almost as much as the items themselves. Get the order wrong and you end up with nice cushions in a room that still feels flat and under-lit.
+Refreshing a small UK living room for under £150 works best when you spend in this order: lighting first, then a rug, then cushions and a throw, then wall art, then a plant. The order matters almost as much as the items themselves. Get the order wrong and you end up with nice cushions in a room that still feels flat and under-lit.
 
 **TL;DR:** Warm white bulbs and one lamp (£20-£30) first, a rug (£25-£45) second, cushions and a throw (£20-£30) third, Command-strip wall art (£15-£25) fourth, one plant (£8-£15) last. Total: under £150, fully reversible, no deposit risk.
 
@@ -41,7 +41,7 @@ Refreshing a small UK living room for under £150 works best when you spend in t
 
 Most UK rental flats come with a single cool-white ceiling bulb, and it's the single biggest reason a small living room feels flat and uninviting. Swapping to warm white bulbs (2700K) costs around £8 for a four-pack ([Wilko](https://www.wilko.com), [Amazon UK](https://www.amazon.co.uk)) and changes the entire mood of the room within minutes.
 
-In my last flat, the living room had one central bulb and nothing else. Adding a single floor lamp in the corner did more for how the room felt in the evening than any piece of furniture I owned.
+A living room with one central bulb and nothing else feels flat in the evening. Adding a single floor lamp in the corner does more for the room than most furniture.
 
 **What to buy:**
 - **Warm white LED bulbs** (2700K, not 4000K or "daylight") — ~£8 for a 4-pack at Wilko or Amazon UK
@@ -86,7 +86,7 @@ Read our guide to [living room colour schemes UK](/blog/living-room-colour-schem
 
 Yes, Command strips (from 3M) hold picture frames without marks and cost around £6-£9 for a pack, making wall art fully deposit-safe in a rented UK flat ([3M Command](https://www.command.com), 2026). This is what makes wall art worth including in a rental budget plan at all.
 
-I've used Command strips across three different rentals and never had a mark left behind, as long as you follow the weight limit on the pack and remove them slowly, pulling straight down rather than out.
+Command strips leave no mark behind as long as you follow the weight limit on the pack and remove them slowly, pulling straight down rather than out.
 
 **What to buy:**
 - **A set of 2-3 prints or frames** — Amazon UK, IKEA, or B&M all do budget frames from £5-£12 each
@@ -130,7 +130,7 @@ Stay disciplined about the order. Doing the plant and cushions before the lighti
 
 The order matters because each step compounds on the one before it, and doing them in reverse wastes money on items that can't show their full effect yet. Lighting affects how every other colour and texture in the room reads, so it has to come first.
 
-I tested the reverse order once in a previous flat, buying the rug and cushions before touching the lighting, and the room still felt flat under the original cool white bulb. Redoing the lighting afterwards made a bigger visible difference than the rug and cushions combined had.
+Buying the rug and cushions before touching the lighting leaves the room feeling flat under the original cool white bulb, and redoing the lighting afterwards makes a bigger visible difference than the rug and cushions combined.
 
 That's not a knock on rugs or cushions. It's just evidence that lighting is doing more structural work in a small room than it gets credit for, and it should always come first on a tight budget.
 

@@ -35,7 +35,7 @@ You can have a room that looks cosy in photographs and feels cold and uncomforta
 
 According to a 2024 survey by [Which?](https://www.which.co.uk), 71% of UK adults rate feeling comfortable and relaxed at home as their top housing priority, ahead of style, storage, and size. We know what we want. We just don't always know how to create it.
 
-I've been obsessing over this question — what actually creates cosiness rather than just the appearance of it — for years. Here's what I've found.
+The real question is what actually creates cosiness rather than just the appearance of it. Here's what works.
 
 **TL;DR:** Genuine cosiness comes from five elements working together: warm layered light, textiles in natural fibres, a deliberately chosen scent, a specific comfortable spot (not just a generally comfortable room), and the evidence of a life being lived. This guide covers all five.
 
@@ -71,7 +71,7 @@ Cosiness is partly psychological, but it's also physical. We feel warm when we'r
 
 The cosy home has textiles everywhere: on sofas, over chairs, under feet, at windows. They absorb sound, reduce visual harshness, and signal comfort in a direct, instinctive way.
 
-The most useful thing I've done to make my flat feel genuinely cosy is to keep a large, heavy throw on the sofa at all times — not folded neatly, but draped in a way that makes it clearly available. It's an invitation. People reach for it almost immediately when they sit down.
+The most useful thing you can do to make a flat feel genuinely cosy is to keep a large, heavy throw on the sofa at all times — not folded neatly, but draped in a way that makes it clearly available. It's an invitation. People reach for it almost immediately when they sit down.
 
 A £25 chunky knit throw draped across the sofa, paired with a £45 wool rug underfoot, adds the tactile warmth that cheaper synthetic textiles simply don't replicate.
 
@@ -90,7 +90,7 @@ A £25 chunky knit throw draped across the sofa, paired with a £45 wool rug und
 
 We talk about lighting and textiles, but scent is the fastest way to change the emotional atmosphere of a room. It bypasses analysis and goes directly to feeling — which is exactly what cosiness requires.
 
-In my own experience of visiting many homes over the years, the ones that feel most immediately welcoming almost always have a distinct, pleasant scent. The ones that feel flat or unwelcoming often smell of nothing — or of the faint chemical smell of cleaning products.
+The homes that feel most immediately welcoming almost always have a distinct, pleasant scent. The ones that feel flat or unwelcoming often smell of nothing — or of the faint chemical smell of cleaning products.
 
 Cosy scent doesn't require a big budget — a Primark Home candle from around £4 or a Dunelm reed diffuser from £8 is enough to change the emotional atmosphere of a room almost instantly.
 
@@ -155,7 +155,7 @@ This is the element of cosy British interiors that is most specific to our clima
 
 Heavy, properly lined curtains do three things at once: they reduce heat loss from windows, they block out street light and noise, and they create a visual barrier between you and the outside world that makes the inside feel more enclosed, more private, more sheltering.
 
-I added velvet curtains to my living room in October three years ago. The room felt immediately warmer — and it was warmer, because single-glazed Victorian windows lose significant heat through unlined curtains. But the psychological warmth was just as real. The room felt like a room with an inside and an outside.
+Adding velvet curtains to a living room makes it feel immediately warmer, and it is warmer, because single-glazed Victorian windows lose significant heat through unlined curtains. The psychological warmth is just as real: the room feels like a room with an inside and an outside.
 
 Single-glazed Victorian windows lose significant heat through unlined curtains, so heavy lined options from ~£35/pair at Dunelm or ~£45/pair at Next Home pay for themselves in both warmth and atmosphere.
 

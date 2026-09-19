@@ -29,7 +29,7 @@ faqs:
 
 Retiling a kitchen splashback properly, with real tiles, adhesive, and grout, typically costs £150–£400 including a tradesperson, according to Checkatrade's 2024 UK cost guides. Most of us don't want to spend that on a wall behind a hob that's otherwise fine.
 
-I've fitted peel-and-stick tiles in two different rented kitchens now, and I've also painted over a splashback I genuinely couldn't afford to replace. Neither cost more than £45, and both still look good a year or two later. This post covers every budget splashback option I've actually tried or researched properly: what works, what peels within a month, and how to avoid the one mistake that ruins most DIY attempts.
+Peel-and-stick tiles and tile paint can each transform a splashback for under £45. This post covers every budget splashback option worth considering: what works, what peels within a month, and how to avoid the one mistake that ruins most DIY attempts.
 
 Read more: [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) for the wider room refresh this fits into.
 
@@ -39,7 +39,7 @@ Read more: [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) for the wider
 
 Peel-and-stick tile sheets are the cheapest genuine splashback option available, costing £25–£45 for a standard area at Dunelm, Wilko, or Amazon UK ([Dunelm, 2026](https://www.dunelm.com)). They need no adhesive, no grout, and no tools beyond scissors and a credit card for smoothing.
 
-I first used peel-and-stick sheets behind a gas hob in a [rented flat](/blog/rented-flat-makeover-uk) where retiling wasn't allowed. Two years on, they're still fully stuck down, and I've had three separate visitors ask if they're real tile. The brands I'd actually trust after using them are Crearreda and Vinyltiles, both widely stocked on Amazon UK, plus Wilko's own-brand mosaic-effect sheets from around £6 per A4 panel.
+Peel-and-stick sheets suit a [rented flat](/blog/rented-flat-makeover-uk) where retiling isn't allowed, even behind a gas hob when fitted with a proper heat gap. Well-fitted sheets can pass for real tile. Brands worth considering are Crearreda and Vinyltiles, both widely stocked on Amazon UK, plus Wilko's own-brand mosaic-effect sheets from around £6 per A4 panel.
 
 Coverage varies by brand. A3-sized sheets (roughly 42cm x 30cm) need six to eight sheets for a standard splashback behind a single hob run, so budget on the higher end if your kitchen has a wide gap between [worktop](/blog/budget-kitchen-worktop-makeover-uk) and wall units. Metro, hexagon, and Moroccan-tile patterns are the most convincing from a normal viewing distance — a blue zellige-effect sheet is a newer option worth checking stock for if you want something with more visual texture than a flat metro tile.
 
@@ -53,7 +53,7 @@ Yes, tile paint is a genuine option if your existing tiles are structurally soun
 
 Ronseal One Coat Tile Paint and Rust-Oleum's tile paint range are the two most reliable options sold in the UK. Both need a thorough clean with sugar soap, light sanding to key the glazed surface, and two coats with proper drying time between each. Skip the sanding and the paint will peel within months.
 
-Most guides treat tile paint as a last resort, but I'd argue it's actually underused. It's the only option on this list that also refreshes the grout lines in the same step, since the paint coats everything in one continuous colour. That single detail makes a dated multicoloured 1990s splashback look genuinely modern for under £30.
+Most guides treat tile paint as a last resort, but it is arguably underused. It's the only option on this list that also refreshes the grout lines in the same step, since the paint coats everything in one continuous colour. That single detail makes a dated multicoloured 1990s splashback look genuinely modern for under £30.
 
 Tile transfer stickers (individual adhesive tile-front designs, from £1–£2 each at Amazon or Etsy UK) are a lighter-touch alternative if the existing tiles are plain white and just need pattern rather than a full colour change. They stick directly onto individual tiles and can be removed later without paint scraping.
 
@@ -91,7 +91,7 @@ The most common cause of early peeling is grease left on the wall before applica
 
 **Leave expansion gaps near heat.** Leave a small 2–3mm gap at any edge close to the hob itself, since sheets pressed flush against a direct heat source are the ones most likely to lift at the corner first.
 
-Of the two peel-and-stick installs I've done personally, the one where I properly degreased and left a heat gap has had zero lifting after two years. The one where I rushed the clean, on a smaller test patch in a previous flat, started curling at one corner within about four months. Same product, same brand, different prep.
+Prep decides how long peel-and-stick lasts. An install that is properly degreased with a heat gap left can stay flat for years, while a rushed clean can start curling at a corner within months. Same product, same brand, different prep.
 
 > Grease residue left on the wall before applying peel-and-stick tiles is the leading cause of early edge peeling, and sugar soap cleaning beforehand resolves it in most cases, according to standard fitting guidance from UK peel-and-stick tile suppliers.
 

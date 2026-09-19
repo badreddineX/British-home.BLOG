@@ -31,7 +31,7 @@ Cottagecore might have arrived as a social media aesthetic, but in Britain it ha
 
 According to [Google Trends](https://trends.google.com) UK data, searches for "cottagecore home decor" increased by 340% between 2020 and 2024. But the most interesting thing about British cottagecore is that we already had most of the ingredients — we just hadn't given them a name.
 
-I've been pulling this aesthetic together in my own home for two years, sourcing from charity shops, car boots, and a handful of independent UK makers. Here's what I've learned about doing it authentically.
+Pulling this aesthetic together means sourcing from charity shops, car boots and a handful of independent UK makers. Here's how to do it authentically.
 
 **TL;DR:** British cottagecore is most authentic when it draws on our own countryside tradition — William Morris prints, earthenware ceramics, native botanical plants, and natural linen. This guide covers every room, from living room to [hallway](/blog/hallway-decor-ideas-uk), with specific sourcing advice and UK retailer picks.
 
@@ -61,7 +61,7 @@ Framed William Morris prints cost from around £15 on Amazon UK, while genuine o
 
 You don't need original Morris fabric. The William Morris Gallery in Walthamstow licenses prints through several UK retailers, and you can find affordable framed Morris prints from ~£15 on Amazon UK. A single large Morris print on a feature wall, in a warm wood frame, is one of the most effective single cottagecore moves you can make.
 
-I have a Willow Bough print above my fireplace that I bought for £8 at a charity shop, originally sold as a greetings card. Framed in a charity shop frame repainted in sage green, it has received more compliments than anything I've bought new.
+A Willow Bough print, originally sold as a greetings card and found for a few pounds in a charity shop, looks striking framed in a charity shop frame repainted in sage green.
 
 William Morris framed print — from ~£15 on Amazon UK; originals from ~£8 at charity shops.
 
@@ -114,7 +114,7 @@ The best sources for genuine British vintage cottagecore pieces:
 - **Facebook Marketplace and Vinted:** For larger pieces — old wooden furniture, linen tablecloths, pre-loved wicker baskets
 - **Etsy UK:** For independent British makers producing authentic pieces — handmade ceramics, hand-stitched textiles, pressed botanical art
 
-Over six months of charity shop sourcing for this post, I tracked 47 cottagecore-adjacent pieces purchased. Average cost per piece: £4.20. Equivalent reproduction cost from mid-range retailers: £18.40 per piece. The vintage pieces looked better in every case.
+Charity shop and car boot finds typically cost a fraction of new reproduction pieces from mid-range retailers, and vintage pieces often look better because they carry real age and patina.
 
 Charity shop earthenware jug — typically ~£3–£8.
 
