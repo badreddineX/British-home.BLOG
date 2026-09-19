@@ -50,7 +50,7 @@ DIY cabinet painting costs £30–£60 in materials for an average UK kitchen an
 
 The short version: remove the doors, clean with sugar soap, sand lightly, prime anything glossy or laminate, then apply two thin coats.
 
-In our experience, the finish holds up well on solid wood and MDF but struggles on thermofoil or high-gloss vinyl doors without a proper adhesion primer. If your doors are that shiny, factory-style laminate, skip straight to vinyl wrap or a professional respray instead.
+The finish holds up well on solid wood and MDF but struggles on thermofoil or high-gloss vinyl doors without a proper adhesion primer. If your doors are that shiny, factory-style laminate, skip straight to vinyl wrap or a professional respray instead.
 
 DIY paint suits anyone with a free weekend, solid wood or MDF doors, and a budget under £100. It won't match a sprayed finish for smoothness, but at roughly a tenth of the price, that's rarely a dealbreaker.
 

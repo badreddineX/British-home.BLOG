@@ -9,7 +9,7 @@ tags: ["bedroom colour ideas UK", "bedroom paint colours", "bedroom colour ideas
 featured: false
 category: "Bedroom"
 readTime: "7 min read"
-excerpt: "The best bedroom paint colours for UK homes — from warm neutrals to moody blues, all tested in real British light."
+excerpt: "The best bedroom paint colours for UK homes — from warm neutrals to moody blues, all chosen for British light."
 tldr:
   - "Warm neutrals (Dulux Goose Down, Farrow & Ball Dead Salmon, Crown Country Cream) are the safest and most universally flattering bedroom colours in UK homes."
   - "Muted sage green (Farrow & Ball Mizzle, Dulux Sage Wisdom) is the most searched bedroom colour in the UK right now — it works in both north- and south-facing rooms."

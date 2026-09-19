@@ -11,7 +11,7 @@ category: "Room Makeovers"
 readTime: "8 min read"
 excerpt: "Turn blank walls into personal galleries without breaking your tenancy agreement—here’s how to display art, photos, and mirrors safely and stylishly."
 tldr:
-  - "Use peel-and-stick adhesive hooks and frames for damage-free hanging—tested on plasterboard in 3 rented flats."
+  - "Use peel-and-stick adhesive hooks and frames for damage-free hanging on plasterboard."
   - "Tension rod systems work brilliantly for larger or heavier prints without touching the wall."
   - "Print your own art via Amazon UK or Snapfish for ~£8 per framed A3 piece."
   - "Mix textures—cork, fabric, wood—so the gallery feels curated, not fussy."

@@ -69,7 +69,7 @@ The floor underneath needs to be flat, clean, and firmly stuck down. Sweep and m
 
 Cutting planks to fit around cabinets and the kitchen door is the fiddliest part. A basic laminate cutter (around £25 to hire for a day from most tool hire shops, or £15 to buy a hand version at Screwfix) makes clean, straight cuts far easier than a knife or saw. Leave a small 5–8mm expansion gap around the room's edges, since vinyl expands slightly with heat, and cover it later with a matching quarter-round trim.
 
-In our experience, the planks that click together with a genuine locking mechanism (rather than a basic tongue and groove) are worth the extra £2–£3 per square metre. They stay tight at the seams even with heavy kitchen foot traffic, where cheaper systems can start to gap within a year.
+The planks that click together with a genuine locking mechanism (rather than a basic tongue and groove) are worth the extra £2–£3 per square metre. They stay tight at the seams even with heavy kitchen foot traffic, where cheaper systems can start to gap within a year.
 
 For fully reversible options if you're renting, see our [rental kitchen upgrade guide](/blog/rental-kitchen-upgrade-ideas-uk/).
 

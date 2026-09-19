@@ -55,8 +55,6 @@ Loft conversions and top-floor flats often have a sloped ceiling on one or two s
 
 **Skip the tall wardrobe.** A tall freestanding wardrobe won't fit under a slope at all. Keep hanging storage on the tallest wall instead, and use the eaves purely for folded items and boxes.
 
-> **Citation-style note:** this is first-hand experience from converting a loft bedroom in a rented flat, not a formal study, but the principle (highest point for the bed, slope for storage) holds in every sloped-ceiling room I've seen it applied to. ## What's the Best Bed Size and Layout for a UK Box Room?
-
 Most UK box rooms measure somewhere between 6 and 8 square metres, which is enough for a single bed comfortably or a small double at a genuine squeeze, but rarely more. The bed goes lengthways along the longest wall, leaving a single clear path to the door and window.
 
 **Single bed box rooms (under 7 sqm):** a single bed against the long wall leaves enough space for a narrow wardrobe on the opposite wall and still a walkable gap between them. Don't add a bedside table on the wall side; a floating shelf does the same job without narrowing the path.

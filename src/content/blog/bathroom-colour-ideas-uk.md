@@ -9,7 +9,7 @@ tags: ["bathroom colour ideas uk", "bathroom paint colours uk", "bathroom colour
 featured: false
 category: "Room Makeovers"
 readTime: "7 min read"
-excerpt: "The best bathroom colours for British homes — warm neutrals, sage green, and moody tones, all tested against real UK bathroom light and tile constraints."
+excerpt: "The best bathroom colours for British homes — warm neutrals, sage green, and moody tones, all chosen for real UK bathroom light and tile constraints."
 tldr:
   - "Warm neutrals (Dulux Goose Down, Farrow & Ball Skimming Stone) work in almost any UK bathroom, regardless of natural light or existing tile colour."
   - "Sage green (Farrow & Ball Mizzle, Dulux Sage Wisdom) is the most-searched bathroom colour in the UK right now and pairs well with both white and cream suites."

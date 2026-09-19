@@ -12,7 +12,7 @@ relatedPosts:
   - "kitchen-on-a-budget-uk"
   - "kitchen-decor-ideas-uk"
 readTime: "8 min read"
-excerpt: "Turn a cramped kitchen into a functional hub without breaking the deposit. These UK-tested small kitchen island ideas work for leases, not just lofts."
+excerpt: "Turn a cramped kitchen into a functional hub without breaking the deposit. These small kitchen island ideas work for leases, not just lofts."
 tldr:
   - "Use freestanding furniture (like a console table or bookcase) as a kitchen island — no drilling required."
   - "Peel-and-stick wallpaper or contact paper can instantly refresh existing surfaces — great for tenants."

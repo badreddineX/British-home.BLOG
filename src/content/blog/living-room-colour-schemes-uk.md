@@ -9,7 +9,7 @@ tags: ["living room colour schemes UK", "living room paint ideas uk", "lounge co
 featured: false
 category: "Living Room"
 readTime: "8 min read"
-excerpt: "11 colour schemes that actually work in British living rooms — tested in real homes with real UK light."
+excerpt: "11 colour schemes that actually work in British living rooms — chosen for real UK light."
 tldr:
   - "Warm greige (Farrow & Ball Elephant's Breath, Dulux Goose Down) with white trim and natural wood is the most universally successful living room colour scheme in UK homes."
   - "Deep forest green walls with warm brass accents and cream upholstery is the scheme that looks most expensive on the smallest budget."
