@@ -32,7 +32,7 @@ relatedPosts:
   - "rented-flat-makeover-uk"
 ---
 
-The UK bathroom is small by default. In a terrace it's often a room carved out of a back bedroom; in a flat it's an internal box with no window; in a lot of 1930s semis it's 1.7 by 2 metres with the bath under the window and no room to swing the door. I've redone two of them and lived with several more, and the pattern is always the same — there's exactly one layout that works, and the job is finding it rather than inventing space that isn't there.
+The UK bathroom is small by default. In a terrace it's often a room carved out of a back bedroom; in a flat it's an internal box with no window; in a lot of 1930s semis it's 1.7 by 2 metres with the bath under the window and no room to swing the door.
 
 This guide covers the small versions specifically: how to lay out a tiny bathroom, when a wet room is the right call, how to fit a downstairs cloakroom into a cupboard, and what's worth changing on a budget or in a [rented flat](/blog/rented-flat-makeover-uk).
 

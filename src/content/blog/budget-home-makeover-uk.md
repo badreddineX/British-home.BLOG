@@ -27,11 +27,10 @@ faqs:
 ---
 
 
-"My house doesn't look the way I want it to — but I can't afford to do anything about it." This is one of the most common home decorating complaints in Britain, and it's usually more about not knowing where to start than about the actual size of the budget.
 
 The honest answer to this is that most people's homes don't look wrong because of insufficient spending. They look wrong because of insufficient understanding of which changes deliver the highest visual impact for the least cost — and which expensive changes deliver surprisingly little.
 
-I've made over a dozen rooms on budgets of £50–£200. Here's the framework that works every time.
+Here's the framework that works every time.
 
 **TL;DR:** The highest-impact budget home makeover changes, in order: rearrange furniture (free), replace bulbs with 2700K warm white (~£8), paint the room's main colour (~£22–£35), add new cushion covers (~£30), install a correctly sized rug (~£45). Total: under £120 for most rooms. The rest of this guide shows you how to apply this room by room.
 
@@ -49,7 +48,7 @@ Before spending a single pound, apply the three free interventions that consiste
 
 **3. Maximise natural light.** Open curtains fully, clean windows (often genuinely transformative in the UK, where windows collect grime from exhaust and rain), and move any furniture that blocks the window light path.
 
-In my first flat, I followed these three steps before my first purchase and two friends separately asked what I'd done to the room. Nothing had been bought. The room simply finally made sense.
+Nothing had been bought. The room simply finally made sense.
 
 After these three steps, assess. Many rooms need nothing else.
 

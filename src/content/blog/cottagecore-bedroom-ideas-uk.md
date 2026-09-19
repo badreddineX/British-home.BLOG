@@ -31,7 +31,7 @@ Most [cottagecore](/blog/cottagecore-home-decor-uk) content on the internet is A
 
 The good news is that British homes are practically built for this. Victorian terraces, stone cottages, purpose-built flats with their standard dimensions — they all carry the aesthetic more naturally than you'd expect.
 
-I've been building the cottagecore bedroom in my own [Victorian terrace](/blog/victorian-terrace-interior-ideas-uk) for two years. Here's what actually works, what to buy, and what to make.
+Here's what actually works, what to buy, and what to make.
 
 **TL;DR:** The foundations are dried flowers, linen bedding, botanical elements on the walls, and earthy tones throughout. Most of it costs under £100 total if you're strategic about charity shops and Etsy. Renters can achieve the full look without a single permanent change.
 
@@ -47,7 +47,7 @@ Dried flower bunches from Etsy UK sellers typically cost £10–£18 delivered, 
 
 **What to display them in:** Rough ceramic vases, simple glass bottles, wicker baskets, or old stoneware jugs. Avoid plastic and anything too polished or modern. The vessel matters as much as the flowers.
 
-I keep a large bunch of dried pampas in a vintage stoneware jug on my window ledge and smaller bunches of lavender hanging from a hook beside the window. The lavender doubles as a sleep aid, which feels very appropriately cottagecore.
+The lavender doubles as a sleep aid, which feels very appropriately cottagecore.
 
 **Seasonal tip:** In summer, British hedgerows are full of materials for drying — grasses, seed heads, small branches of berries before they ripen. Foraged and dried, these are free and look completely authentic because they are.
 
@@ -152,7 +152,6 @@ Most of these do well in the moderate British light and don't require a south-fa
 
 The cottagecore aesthetic specifically benefits from objects that look old — and old things cost nothing in British charity shops.
 
-My entire charity-shop cottagecore display — a stoneware jug, a pair of brass candlesticks, and a vintage quilt — cost under £15 combined, proof that the aesthetic's authenticity doesn't scale with spend.
 
 What to look for:
 - **Stoneware or ceramic vases** in muted tones
@@ -161,7 +160,6 @@ What to look for:
 - **Brass candlesticks** in varying heights
 - **Old jam jars and glass bottles** for dried flowers
 
-I've built most of my cottagecore displays from charity shop finds. The stoneware jug on my windowsill (£2 from Oxfam), the brass candlesticks on my mantle (£4 for a pair from BHF), the vintage quilt at the end of my bed (£6 from Sue Ryder) — none of it cost more than £15 combined, and none of it looks like it came from a charity shop in context.
 
 ---
 

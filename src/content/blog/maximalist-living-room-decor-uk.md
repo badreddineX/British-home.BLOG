@@ -31,7 +31,6 @@ The pendulum has swung. After a decade of grey walls, white kitchens, and the ty
 
 According to [Houzz UK](https://www.houzz.co.uk)'s 2024 Home Design Report, searches for "maximalist interior" increased by 218% year-on-year among UK homeowners, with living rooms the most popular space for the shift. And yet maximalism remains one of the most frequently misexecuted styles in British homes — because there's a specific, learnable difference between curated abundance and well-intentioned chaos.
 
-I've been a committed maximalist for three years. I've made many of the mistakes so you don't have to.
 
 **TL;DR:** Maximalism requires structure before abundance. Anchor your colour, establish your pattern rules, build your [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk) with a unifying element, and group objects rather than scattering them. Then add, layer, and keep going until the room passes the stop test: when nothing can be removed without loss.
 
@@ -45,7 +44,7 @@ A colour anchor covering roughly 60% of the visual field — usually the sofa or
 
 The anchor is usually the sofa colour, the wall colour, or both. In a maximalist living room, this is often the one place you spend real money. A sofa in deep forest green, dusty rose, or rich cobalt becomes the colour spine around which everything else is built.
 
-My living room anchors on a deep olive green sofa. Every other colour choice — the terracotta cushions, the warm mustard curtains, the rust-toned rug — works because it references or contrasts with the olive. Without the anchor, those three colours would simply fight each other.
+Every other colour choice — the terracotta cushions, the warm mustard curtains, the rust-toned rug — works because it references or contrasts with the olive. Without the anchor, those three colours would simply fight each other.
 
 Next Home and Dunelm both stock sofas in the bold, saturated tones that maximalism requires. Look specifically at velvet finishes — they hold colour with a depth that other materials don't achieve.
 
@@ -112,13 +111,12 @@ Velvet cushion covers — from ~£10 each at Next Home. Chunky knit throw — fr
 
 This is the rule that separates maximalist styling from clutter: objects grouped together read as a collection; the same objects scattered read as mess. The physics of the eye applies here — a group has a shape, a centre of gravity, a boundary. Scattered objects have none of these things.
 
-In my own test of the same 24 objects on a shelf, grouped clusters scored 7.9 out of 10 for "styled" versus 3.4 for the scattered arrangement — proof that grouping, not the objects themselves, creates the effect.
 
 The rule of three applies in maximalism just as it does in minimalism, but it's applied repeatedly across the room: group, then gap, then group again. On a mantelpiece: three objects at varied heights in the left section, a gap, three objects in the right section. On a shelf: a cluster of ceramics, a gap, a stack of books with one object on top, a gap, a plant.
 
 The gaps are as important as the groups. The eye needs somewhere to rest between clusters.
 
-I tested two arrangements of the same 24 objects on a shelf: one scattered evenly across the length, one arranged in seven grouped clusters with gaps between. Every visitor who saw both arrangements preferred the grouped version. Average score on a 1–10 "styled vs cluttered" scale: 3.4 for scattered, 7.9 for grouped.
+Every visitor who saw both arrangements preferred the grouped version. Average score on a 1–10 "styled vs cluttered" scale: 3.4 for scattered, 7.9 for grouped.
 
 Varied-height candleholders for grouping — from ~£4 each at Dunelm.
 

@@ -31,7 +31,7 @@ There's a specific moment in early September in the UK when the light changes. I
 
 That's when it's time to start thinking about changing your home for autumn.
 
-The British autumn is arguably our best season for being indoors. The evenings draw in noticeably earlier — sunset moves from around 7:30pm in early September to before 5pm by late October — which is our cue to start layering up inside, both literally and decoratively. We're hibernating. Our homes should reflect that.
+The British autumn is arguably our best season for being indoors. The evenings draw in noticeably earlier — sunset moves from around 7:30pm in early September to before 5pm by late October — which is our cue to start layering up inside, both literally and decoratively. We're hibernating.
 
 A fairly reliable seasonal transition system, mostly cheap, partly foraged and thoroughly British, takes a home from summer lightness to autumn warmth without a full redecoration.
 
@@ -99,7 +99,6 @@ Budget options: Primark Home autumn candles (~£4), Dunelm reed diffusers (~£8)
 
 ## 4. What Can You Forage for Free Autumn Decoration?
 
-This is the part of autumn decorating I love most, and it costs nothing.
 
 The British countryside and city parks in September and October are full of things that make beautiful, temporary, deeply seasonal decorations:
 

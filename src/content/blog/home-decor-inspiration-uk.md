@@ -38,7 +38,6 @@ Most home decor inspiration online is American, or styled for American audiences
 
 Good inspiration should start from the same conditions you're working in.
 
-I've spent years filtering out the irrelevant and finding the sources that actually help. Here's what I've found.
 
 **TL;DR:** Prioritise UK-specific sources — British interior magazines, UK Instagram accounts, and real homes rather than styled shoots. When using international sources like Pinterest, always filter your searches to surface UK content. And start with your own street: houses similar to yours, already solved, are your most useful reference. For a complete walkthrough of British interior style principles, see our [home interior ideas guide](/blog/home-interior-ideas-uk/).
 
@@ -50,7 +49,7 @@ Before opening any app or magazine, walk slowly down your own street and look at
 
 This sounds banal, but it's genuinely the most practical starting point because the houses on your street share your exact conditions: the same orientation, the same light quality, similar room sizes, and — if it's a Victorian or Edwardian terrace — the same architectural bones.
 
-When I was deciding what to do with my bay window, I walked the road first. Half the houses in my street have the same window. Some had curtains that worked; some had ones that didn't. Seeing them in situ, in our specific light, told me more than an hour of Pinterest ever could.
+Some had curtains that worked; some had ones that didn't.
 
 Look specifically at: how people have handled the bay window, what colour they've painted the front (often a clue to interior palette), whether they've kept original features, and how they've handled the challenge of making a terrace feel like a home rather than a rental.
 

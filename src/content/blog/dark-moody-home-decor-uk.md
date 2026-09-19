@@ -33,7 +33,6 @@ But there's another logic — one that's been running through British interior d
 
 Dark, moody interiors are the British interior tradition. And they're very much back.
 
-I tested this in my own living room eighteen months ago — painting three walls in Farrow & Ball *Hague Blue* and the chimney breast in something even deeper. It was the most transformative thing I've done to my home, and I've never looked back.
 
 **TL;DR:** The key to dark and moody done right is warmth — warm lighting, warm textiles, warm accessory tones. Dark walls need warm companions, not cool ones. Renters can get 80% of the effect through textiles and lighting alone. Budget options exist at every price point from B&Q (~£18) to Farrow & Ball (~£65 per 2.5L tin).
 

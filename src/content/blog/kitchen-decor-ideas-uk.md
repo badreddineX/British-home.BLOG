@@ -29,9 +29,9 @@ faqs:
 
 Kitchen styling advice online has a problem. Every mood board, every Pinterest grid, every magazine spread shows a kitchen that has been emptied of the things that make kitchens actual kitchens. No washing-up liquid bottle. No mug tree inherited from someone's grandmother. No stack of takeaway menus shoved between the toaster and the wall.
 
-Real British kitchens are working rooms. And styling them has to start from that reality — most people never quite figure out how to make a working kitchen feel styled rather than just furnished. That gap between "it works" and "I love it" is exactly what this list addresses.
+Real British kitchens are working rooms. And styling them has to start from that reality — most people never quite figure out how to make a working kitchen feel styled rather than just furnished.
 
-I've styled three different kitchens in British homes — one rented [Victorian terrace](/blog/victorian-terrace-interior-ideas-uk), one first-buyer new build, and the one I'm in now. Here's what actually moves the needle.
+Here's what actually moves the needle.
 
 **TL;DR:** The 12 ideas below are ranked loosely by impact-to-effort ratio. You won't need all of them. Start with ideas 1, 2, and 5 — they cover lighting, textiles, and herbs, and together they cost under £50. That combination alone will make your kitchen feel intentionally designed rather than accidentally assembled.
 
@@ -45,7 +45,7 @@ Under-cabinet lighting is the single highest-impact kitchen upgrade that doesn't
 
 The key is colour temperature. Choose 2700K warm white, not 4000K or "daylight." Daylight LEDs make a kitchen look like a supermarket; warm white makes it look like a home. B&Q's Diall LED strip light starts at ~£18 for a 1-metre self-adhesive strip with a plug-in connector — no electrician required.
 
-I fitted under-cabinet strips in my current kitchen on a Saturday afternoon. The difference was so pronounced that my partner, who had previously resisted the idea, asked if we could add them over the hob too. Total cost: £36. Total time: 90 minutes. It's the best value kitchen upgrade I've ever made.
+Total cost: £36. Total time: 90 minutes.
 
 ---
 

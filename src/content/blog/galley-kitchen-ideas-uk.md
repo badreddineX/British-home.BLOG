@@ -33,9 +33,8 @@ relatedPosts:
   - "rental-kitchen-upgrade-ideas-uk"
 ---
 
-The flat I rented in Leeds had a galley kitchen in the rear return — about 1.9 metres long, units down both sides, and a gap in the middle you could just about turn around in with the oven door shut. For the first year I moaned about it. It was dark, both walls were solid cupboards floor to ceiling, and if my flatmate was making toast I couldn't get to the fridge.
 
-Then I actually looked at what was wrong, and it was three specific things, not "the kitchen is too small". The gap was fine, it was the light. One wall didn't need to be closed cupboards. And nothing used the vertical space above the [worktop](/blog/budget-kitchen-worktop-makeover-uk). A weekend of paint, a shelf, a rail and two strip lights later, it was the kitchen I'd cook in by choice.
+The gap was fine, it was the light. One wall didn't need to be closed cupboards. And nothing used the vertical space above the [worktop](/blog/budget-kitchen-worktop-makeover-uk).
 
 A galley kitchen is the most efficient layout there is — everything is one pivot away. The problems are almost always the gap being wrong, both runs being heavy and closed, and bad lighting. Here's how to lay one out and fix those, most of it without touching the units.
 
@@ -94,7 +93,7 @@ A galley feels like a corridor when the eye keeps hitting edges and shadows. Smo
 - **One colour on the base units and worktop**, carried the full length of both runs. A pale, continuous line down each side makes the room read as longer, not shorter. Save any contrast colour for the wall above or a single tall unit.
 - **Open shelves on at least one run.** Two solid walls of cupboard to the ceiling is what makes a galley claustrophobic. Swapping one side's wall cabinets for open shelves or a plate rack lifts the visual weight. [Unfitted kitchen ideas UK](/blog/unfitted-kitchen-ideas-uk/) leans into this look with freestanding and open pieces.
 - **Floorboards or planks laid lengthways**, down the room rather than across it, pull the eye to the far end and make the space feel deeper.
-- **Under-cabinet lighting.** The single biggest change in my rented galley. Wall cabinets throw the worktop into shadow; a strip of LED underneath (stick-on battery or plug-in, £10 to £30 a run) puts light where you chop and makes the whole kitchen feel less like a cupboard.
+- Wall cabinets throw the worktop into shadow; a strip of LED underneath (stick-on battery or plug-in, £10 to £30 a run) puts light where you chop and makes the whole kitchen feel less like a cupboard.
 - **A larger splashback tile or a sheet splashback** rather than small mosaics — fewer grout lines is calmer in a tight space.
 
 ## What Can Renters Change in a Galley Kitchen?

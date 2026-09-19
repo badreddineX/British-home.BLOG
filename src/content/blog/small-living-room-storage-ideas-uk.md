@@ -51,7 +51,7 @@ A storage ottoman replaces a coffee table and a blanket box in one piece, which 
 
 Most Victorian and Edwardian terrace flats have alcoves either side of the chimney breast, and freestanding shelving fills them without any structural work. This matters in rentals, where fitted alcove carpentry is rarely something a landlord will approve or pay for.
 
-The IKEA IVAR shelving system (from £45) comes in widths that fit most standard alcoves and can be adjusted or dismantled entirely when you move. Cube storage units from Argos (from £35) are the other common option, and they stack to whatever height the alcove allows. I've used both in a Bristol flat with a 58cm-wide alcove, and the IVAR unit needed almost no trimming.
+The IKEA IVAR shelving system (from £45) comes in widths that fit most standard alcoves and can be adjusted or dismantled entirely when you move. Cube storage units from Argos (from £35) are the other common option, and they stack to whatever height the alcove allows.
 
 **Cost:** IKEA IVAR from ~£45, Argos cube storage from ~£35 per unit.
 
@@ -72,7 +72,6 @@ A media console with drawers or cabinet doors replaces the TV stand, the DVD box
 - **Dunelm Foley media unit** (~£120-£180)
 - **Wayfair UK TV unit with storage** (~£90-£200)
 
-In my current London flat the media console is genuinely the busiest piece of furniture in the room, it holds the router, three remotes, a stack of board games, and the sofa throws when guests are round.
 
 ## 5. How Do Nested and Stacking Tables Help Storage?
 
@@ -84,7 +83,7 @@ This matters more in living rooms under 12 square metres, where a single fixed c
 
 ## 6. What Can I Store With No-Drill Wall Storage?
 
-Command hooks and strips (Argos, Amazon UK, from £5) hold coats, bags, and small wall cabinets without a single hole in the plaster. A row of three large hooks by the door catches coats and bags before they end up on the sofa arm, which was the single biggest daily clutter source in my last two flats.
+Command hooks and strips (Argos, Amazon UK, from £5) hold coats, bags, and small wall cabinets without a single hole in the plaster.
 
 **What works well on Command strips:**
 - Floating shelves under 7.5kg loaded weight
@@ -130,7 +129,7 @@ Command strips are explicitly designed to be removed without damage, and most UK
 
 ## Small Living Room Storage for Shared or Guest-Heavy Flats
 
-Flat-shares and living rooms that double as a guest space need storage that resets quickly. Across the three flats I've furnished this way, the setups that survived flatmates and guests best all had one thing in common: a single "everything" ottoman near the sofa that anyone could dump items into during a quick tidy, rather than several small baskets scattered around the room.
+Flat-shares and living rooms that double as a guest space need storage that resets quickly.
 
 **One ottoman, clearly designated:** Skip multiple small storage boxes. One larger ottoman that any flatmate or guest can open and use gets used consistently. Several smaller boxes tend to get ignored.
 

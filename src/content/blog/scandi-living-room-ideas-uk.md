@@ -31,7 +31,7 @@ faqs:
     a: "Yes, room by room. Many UK flats keep the living room pared-back and Scandi while going bolder elsewhere, or the reverse. If you want the opposite approach in full, our [maximalist living room decor UK](/blog/maximalist-living-room-decor-uk/) guide covers layering pattern, colour, and collected objects instead of restraint."
 ---
 
-A Scandinavian living room works especially well in a small UK flat because the whole style was built to solve a small, dim-room problem in the first place. Light wood, a muted palette, and warm layered textures make a room feel bigger and calmer without adding a single extra piece of furniture. I've rebuilt two rented living rooms this way, once in a north-facing London flat that barely saw direct sun, and the light wood and white combination made the biggest visible difference of anything I tried.
+A Scandinavian living room works especially well in a small UK flat because the whole style was built to solve a small, dim-room problem in the first place. Light wood, a muted palette, and warm layered textures make a room feel bigger and calmer without adding a single extra piece of furniture.
 
 **TL;DR:** Get the palette right first (light wood, white, grey, one muted accent colour), then add one or two anchor furniture pieces in light wood (IKEA POÄNG from £129, KIVIK sofa from £449), then layer hygge textiles last (chunky throw £25-£40, faux sheepskin £15-£20, wool rug £90-£150). Keep decorative surfaces to one or two considered objects each, not bare and not cluttered.
 
@@ -43,7 +43,7 @@ Scandinavian design developed in countries with long, dark winters, so it priori
 
 The style rests on four pillars: light wood tones, a muted neutral palette, functional minimalist furniture, and hygge textiles for warmth. None of these require a large room or a big budget. They require consistency.
 
-Most "Scandi fails" I've seen in UK flats come from stopping at the palette and skipping the textiles. A white room with light wood furniture and nothing soft in it doesn't read as Scandi, it reads as unfinished. Hygge textiles aren't optional decoration here, they're a structural part of the style.
+A white room with light wood furniture and nothing soft in it doesn't read as Scandi, it reads as unfinished. Hygge textiles aren't optional decoration here, they're a structural part of the style.
 
 ![A bright Scandinavian-style small living room with light wood furniture and layered neutral textiles](/images/pexels-1648776.jpg)
 
@@ -125,8 +125,6 @@ Here's a complete shopping list covering palette, furniture, and textiles for a 
 | Larger statement plant | Garden centre or IKEA | £25-£45 |
 
 **Full room total:** roughly £876-£1,029 including a new sofa and armchair, or under £250 if you already own seating and are layering the palette and textiles onto it.
-
-That range matters. Across the two rented living rooms I've done this in, the textile-and-palette-only version cost £180 and £215 respectively and got most of the visual result, while the full furniture refresh only made sense once we were staying somewhere longer than a year.
 
 ---
 

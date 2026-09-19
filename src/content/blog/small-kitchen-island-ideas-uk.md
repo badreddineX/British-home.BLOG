@@ -29,13 +29,13 @@ faqs:
     a: "Apply contact paper (~£8 for 10m at Dunelm) over MDF board (~£10 for 60x90cm at B&Q) cut to size. Glue it down with spray adhesive (~£4), then seal edges with clear nail polish. It’s permanent enough for use but fully reversible."
 ---
 
-A huge number of UK renters live in kitchens under 6m², often sharing space with a dining area or living zone. That’s tighter than a Mancunian pub queue — and plenty of flats have no dedicated pantry either, so every inch counts. I’ve renovated three rented flats across the UK — from a Glasgow studio with a [galley kitchen](/blog/galley-kitchen-ideas-uk) no bigger than a washing machine to a Birmingham terraced house where the fridge stood sideways — and learned one thing: a kitchen island doesn’t need to be permanent to make a difference.
+A huge number of UK renters live in kitchens under 6m², often sharing space with a dining area or living zone. That’s tighter than a Mancunian pub queue — and plenty of flats have no dedicated pantry either, so every inch counts.
 
 **TL;DR:** You *can* add functional kitchen island space in a [rented flat](/blog/rented-flat-makeover-uk) without breaking your deposit or the rules. Focus on freestanding, adjustable, and reversible solutions — like repurposed furniture, rolling carts, or stackable crates — then add peel-and-stick surfaces, under-sink hooks, and fold-down tops for prep. Most of these ideas cost under £50 and vanish cleanly on move-out.
 
 ## 1. Can You Add a Kitchen Island Without Drilling?
 
-Forget built-in units. Instead, scope secondhand furniture first — a slim console table, vintage trolley, or even a ladder desk can be repurposed. I scored a 1970s metal trolley from a local charity shop for £12 that already had wheels. Clean it, paint the frame in eggshell white (Dunelm’s eggshell paint, ~£18 for 2.5L), and line the shelf with peel-and-stick bamboo veneer (~£12 for 1m² at Etsy UK sellers). It fits perfectly in a 45cm gap between my fridge and the cooker, and its castors mean I can tuck it away after Sunday roast. Bonus: the open shelves hold sauce bottles and cooking oil within arm’s reach — no bending into tight cupboards.
+Forget built-in units. Instead, scope secondhand furniture first — a slim console table, vintage trolley, or even a ladder desk can be repurposed. Clean it, paint the frame in eggshell white (Dunelm’s eggshell paint, ~£18 for 2.5L), and line the shelf with peel-and-stick bamboo veneer (~£12 for 1m² at Etsy UK sellers). Bonus: the open shelves hold sauce bottles and cooking oil within arm’s reach — no bending into tight cupboards.
 
 ![A slim rolling metal trolley repurposed as a kitchen island with hanging utensils and stacked jars](/images/kitchen-white-cabinets.jpg)
 
@@ -51,11 +51,11 @@ If your base isn’t quite island-worthy, give it a veneer. Contact paper isn’
 
 ## 4. Can Tension Rods and Hooks Add Island Storage?
 
-Vertical space is wasted in most flat kitchens. Install tension rods (~£8 for 2m at Dunelm) under your island’s shelf or counter edge and hang aprons, tea towels, or utensil tongs. I added a second rod below the main one for my colanders — they’re out of the way but never lost. For the island's end panel, I screwed on a row of copper S-hooks (~£3 for 6 at Dunelm) to hang pan lids and a chopping board vertically — it turns dead vertical furniture space into a second storage zone the island wouldn't otherwise have.
+Vertical space is wasted in most flat kitchens. Install tension rods (~£8 for 2m at Dunelm) under your island’s shelf or counter edge and hang aprons, tea towels, or utensil tongs.
 
 ## 5. Can a Fold-Down Top Add Extra Prep Space?
 
-When every cm is precious, a folding leaf is a revelation. IKEA’s MICKE table (£25) comes with a fold-down leaf, but even a basic round table (~£30 at Wayfair UK) can be fitted with one. I added a 30cm leaf to mine — doubles my working surface for baking but folds flat when I’m just boiling kettles. For renters, skip permanent hinges: use “L” brackets and removable screws (Amazon UK, ~£4 for 10), so you can detach the leaf cleanly. Line the underside with self-adhesive cork (~£5 at Dunelm) for fridge-magnet storage — handy for grocery lists or lease terms.
+When every cm is precious, a folding leaf is a revelation. IKEA’s MICKE table (£25) comes with a fold-down leaf, but even a basic round table (~£30 at Wayfair UK) can be fitted with one. For renters, skip permanent hinges: use “L” brackets and removable screws (Amazon UK, ~£4 for 10), so you can detach the leaf cleanly. Line the underside with self-adhesive cork (~£5 at Dunelm) for fridge-magnet storage — handy for grocery lists or lease terms.
 
 ## 6. Can Stackable Crates Create Tiered Island Storage?
 
@@ -87,11 +87,11 @@ A plain wood base can look dated. Revamp it with paint or paper. Try chalk paint
 
 ## 12. Can a Mini Herb Station Fit on a Small Kitchen Island?
 
-Who says your island can’t grow food? A narrow windowsill shelf (~£7 at B&Q) or hanging planter system (~£15 for 3 at Wayfair UK) holds basil, mint, or rosemary. I used recycled tin cans (painted, ~£2 at Dunelm), filled with lightweight compost, and anchored them with hook-and-loop strips — no nails, no leaks. Adds colour, scent, and free garnish. Bonus: the green brings calm to busy prep zones, which stats show lowers stress during meal prep — though the ONS doesn’t yet track herb-based anxiety reduction, it’s common sense.
+Who says your island can’t grow food? A narrow windowsill shelf (~£7 at B&Q) or hanging planter system (~£15 for 3 at Wayfair UK) holds basil, mint, or rosemary. Adds colour, scent, and free garnish. Bonus: the green brings calm to busy prep zones, which stats show lowers stress during meal prep — though the ONS doesn’t yet track herb-based anxiety reduction, it’s common sense.
 
 ## 13. Can LED Strip Lighting Upgrade a Kitchen Island?
 
-If your kitchen feels like a cave, add LED strips under the island overhang or along the base. B&Q’s 2m battery-operated strips (~£9) or plug-in ones (~£14) with remote dimming make even a tiny space feel intentional. I run mine warm white (2700K) for cooking and cool white (4000K) for cleaning — switch in seconds. Plug into a power strip so you’re not adding extra sockets to the wall. Renter-approved, and it costs less than a pint of milk.
+If your kitchen feels like a cave, add LED strips under the island overhang or along the base. B&Q’s 2m battery-operated strips (~£9) or plug-in ones (~£14) with remote dimming make even a tiny space feel intentional. Plug into a power strip so you’re not adding extra sockets to the wall. Renter-approved, and it costs less than a pint of milk.
 
 ![Warm LED strip lighting under the edge of a kitchen island](/images/kitchen-wood-floor-open-plan.jpg)
 

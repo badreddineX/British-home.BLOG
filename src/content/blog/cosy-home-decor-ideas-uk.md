@@ -67,7 +67,7 @@ Dimmer switches make a huge difference if you can install them. They're landlord
 
 ## 2. Textiles: The Physical Language of Warmth
 
-Cosiness is partly psychological, but it's also physical. We feel warm when we're surrounded by soft, tactile materials — and our brains register this warmth even before we've touched anything.
+Cosiness is partly psychological, but it's also physical.
 
 The cosy home has textiles everywhere: on sofas, over chairs, under feet, at windows. They absorb sound, reduce visual harshness, and signal comfort in a direct, instinctive way.
 
@@ -151,7 +151,7 @@ For more on choosing and arranging the plants themselves, see our [plant styling
 
 ## 6. Why Are Heavy Curtains the British Cosiness Non-Negotiable?
 
-This is the element of cosy British interiors that is most specific to our climate and housing. We have cold winters, draughty windows, and the specific pleasure of being inside when it's dark and wet outside.
+This is the element of cosy British interiors that is most specific to our climate and housing.
 
 Heavy, properly lined curtains do three things at once: they reduce heat loss from windows, they block out street light and noise, and they create a visual barrier between you and the outside world that makes the inside feel more enclosed, more private, more sheltering.
 

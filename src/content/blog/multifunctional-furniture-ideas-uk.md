@@ -29,9 +29,9 @@ faqs:
     a: "Use freestanding shelving units (like Next Home’s 3-tier ‘Malm’ style, ~£38) orCommand™ hooks for lightweight shelves (no drilling, £6 per 10). For plasterboard walls, B&Q’s wall anchor kit (£5) is helpful — but always ask your landlord first. Peel-and-stick shelves from Amazon UK (£12) work surprisingly well for books under 1kg each."
 ---
 
-I’ve renovated three rented flats across the UK — from a London bedsit to a Manchester terraced flat and a Glasgow studio — and learned the hard way that “quick fixes” can cost me hundreds in deposit deductions. Unapproved wall modifications are one of the most common causes of deposit disputes, so choosing renter-safe decor is non-negotiable. The good news? Multifunctional furniture makes small spaces feel larger without any drilling or glue — and most options are under £200.
+Unapproved wall modifications are one of the most common causes of deposit disputes, so choosing renter-safe decor is non-negotiable. The good news? Multifunctional furniture makes small spaces feel larger without any drilling or glue — and most options are under £200.
 
-**TL;DR:** Multifunctional furniture is your secret weapon in UK rented flats — it saves space, avoids deposit drama, and keeps things stylish. I’ve tested every piece below across three cities, and all are compliant with standard tenancy agreements. You don’t need to drill, glue, or risk losing your £500 deposit.
+**TL;DR:** Multifunctional furniture is your secret weapon in UK rented flats — it saves space, avoids deposit drama, and keeps things stylish. You don’t need to drill, glue, or risk losing your £500 deposit.
 
 ## 1. Can a Sofa Bed Include Hidden Storage?
 
@@ -45,7 +45,7 @@ Dining chairs that dominate your kitchen or sitting room are a no-go — especia
 
 ## 3. Can a Wall-Mounted Fold-Up Desk Replace a Home Office?
 
-If WFH means your kitchen table doubles as your office, a fold-down desk is your new best friend. The ‘MICKE’ desk from IKEA (£45) attaches to the wall with hidden brackets (no drill needed — use Command™ hooks for plasterboard, £6 per set) and folds flush when not in use. At just 60cm wide, it fits beside a door or in a corner, and the cable management grommet keeps chargers tidy. I’ve used this exact setup in two flats: no damage, no arguments with landlords, and it freed up 0.8m² of precious floor space. For a sturdier option, B&Q’s ‘Fold & Go Desk’ (£59) has a reinforced shelf and can hold a 15” laptop with ease.
+If WFH means your kitchen table doubles as your office, a fold-down desk is your new best friend. The ‘MICKE’ desk from IKEA (£45) attaches to the wall with hidden brackets (no drill needed — use Command™ hooks for plasterboard, £6 per set) and folds flush when not in use. At just 60cm wide, it fits beside a door or in a corner, and the cable management grommet keeps chargers tidy. For a sturdier option, B&Q’s ‘Fold & Go Desk’ (£59) has a reinforced shelf and can hold a 15” laptop with ease.
 
 ## 4. Can a Storage Ottoman Replace a Coffee Table?
 

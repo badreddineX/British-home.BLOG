@@ -41,7 +41,7 @@ Soft minimalism is the 2026 interior trend replacing stark, cold minimalism with
 
 Soft minimalism is defined by warmth, not just by having less stuff. A stark minimalist room uses white walls, grey sofas, and glass or chrome furniture. A soft minimalist room uses the same decluttered layout but chooses cream, oatmeal, and warm taupe over white, and swaps hard materials for linen, boucle, and light wood.
 
-The two styles share a rule: fewer objects, more breathing room. Where they split is texture. Stark minimalism photographs beautifully but can feel unlived-in day to day, especially in a small UK flat where you're in the room constantly, not just visiting it. I found a fully white minimalist living room in a [rented flat](/blog/rented-flat-makeover-uk) looked sharp in photos but felt cold every evening once the overhead light went on, which is exactly the gap soft minimalism is designed to close.
+The two styles share a rule: fewer objects, more breathing room. Where they split is texture. Stark minimalism photographs beautifully but can feel unlived-in day to day, especially in a small UK flat where you're in the room constantly, not just visiting it.
 
 Soft minimalism also leans on shape. Straight-edged furniture gets replaced or softened with curved silhouettes, a rounded coffee table, a curved-back sofa, an arched mirror. Curves read as calmer to the eye than hard right angles, which matters more in a small room where every piece of furniture is close and visible at once.
 
@@ -75,7 +75,7 @@ Layered, warm lighting is what stops a decluttered room from feeling clinical, a
 
 Swap any cool-white bulbs for warm white (2700K) bulbs, around £3-£6 each from IKEA or Amazon UK, in every fixture in the living room. Add a floor lamp (£25-£45, IKEA or Dunelm) in a corner and a table lamp (£15-£30) near the sofa, so the room has light at three different heights rather than one source from the ceiling.
 
-In the evening, turn the overhead light off entirely and rely on lamps. This single habit change, no extra spending required, made more visible difference to how "soft" a rented living room felt than any furniture I bought that year.
+In the evening, turn the overhead light off entirely and rely on lamps.
 
 ## How Does Soft Minimalism Compare to Scandi Style in a Small UK Flat?
 

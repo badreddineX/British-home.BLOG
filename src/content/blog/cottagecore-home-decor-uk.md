@@ -33,7 +33,7 @@ According to [Google Trends](https://trends.google.com) UK data, searches for "c
 
 Pulling this aesthetic together means sourcing from charity shops, car boots and a handful of independent UK makers. Here's how to do it authentically.
 
-**TL;DR:** British cottagecore is most authentic when it draws on our own countryside tradition — William Morris prints, earthenware ceramics, native botanical plants, and natural linen. This guide covers every room, from living room to [hallway](/blog/hallway-decor-ideas-uk), with specific sourcing advice and UK retailer picks.
+This guide covers every room, from living room to [hallway](/blog/hallway-decor-ideas-uk), with specific sourcing advice and UK retailer picks.
 
 ---
 

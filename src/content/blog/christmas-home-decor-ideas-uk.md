@@ -33,7 +33,7 @@ And then there's the other kind — the kind that involves inflatable garden rei
 
 According to a [Mintel](https://www.mintel.com) Christmas trends report, British consumers spend an average of £340 on Christmas home decorations annually — but spending more is no guarantee of a better result. The homes that feel most genuinely Christmassy are usually the most edited ones.
 
-I've put together a guide to doing Christmas properly in a British home — with real product picks at every budget and the principles that separate a genuinely beautiful Christmas room from one that just looks busy.
+We've put together a guide to doing Christmas properly in a British home — with real product picks at every budget and the principles that separate a genuinely beautiful Christmas room from one that just looks busy.
 
 **TL;DR:** The key to British Christmas styling is warmth, consistency, and generosity with natural elements. Pick two or three colours. Layer warm lighting. Use real greenery wherever possible. Style one focal point beautifully rather than decorating every surface lightly.
 
@@ -65,7 +65,7 @@ Christmas lighting in the UK has a quality problem. The default is often cool wh
 
 Warm white fairy lights (2700K) look like stars. Cool white fairy lights look like LEDs. The difference to the atmosphere of a room is significant.
 
-I switched from cool white to warm white copper-wire fairy lights three Christmases ago. The room looked warmer, more old-fashioned, and — honestly — more magical. The lights hadn't changed position. Just the colour temperature.
+The room looked warmer, more old-fashioned, and — honestly — more magical. The lights hadn't changed position. Just the colour temperature.
 
 Warm white fairy lights start at £8 for Dunelm's copper-wire sets, and layering in £8 beeswax candles from John Lewis and a £25 candelabra from Next Home covers a full warm-lighting refresh for around £40.
 
@@ -154,7 +154,7 @@ A bunch of holly costs just £3–£5 and lasts two weeks, while a bag of ready-
 - **Cinnamon sticks** — tied with ribbon as ornaments or piled in a glass jar
 - **Clementines** — a bowl of them on the coffee table is quintessentially British Christmas
 
-A bowl of clementines, a pile of walnuts, and a tealight on the coffee table costs about £3 total and smells precisely like Christmas morning. It's the detail I come back to every year without fail.
+A bowl of clementines, a pile of walnuts, and a tealight on the coffee table costs about £3 total and smells precisely like Christmas morning.
 
 ---
 

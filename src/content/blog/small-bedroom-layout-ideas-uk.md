@@ -29,7 +29,7 @@ faqs:
     a: "Yes, but the alcove itself works better as storage. Fit slim shelving or a narrow wardrobe into the recess either side of the chimney breast, and place the bed against the flat wall opposite or beside it, not squeezed into the alcove."
 ---
 
-Most small bedroom advice assumes a rectangular box with the door and window in sensible places. UK flats rarely offer that. Sloped ceilings, box rooms barely wider than the bed itself, L-shaped rooms carved out of bigger conversions, chimney breasts eating into the wall, single tiny windows: these are the actual shapes I've had to work with across three different rented flats. **TL;DR:** start with the longest unbroken wall for the bed head, use floating nightstands to save floor space in every layout, and treat awkward corners (eaves, alcoves, the short leg of an L) as storage zones rather than places to force a bed into.
+Most small bedroom advice assumes a rectangular box with the door and window in sensible places. UK flats rarely offer that. **TL;DR:** start with the longest unbroken wall for the bed head, use floating nightstands to save floor space in every layout, and treat awkward corners (eaves, alcoves, the short leg of an L) as storage zones rather than places to force a bed into.
 
 This guide goes shape by shape. If storage is your bigger problem right now rather than layout, our [small bedroom storage ideas UK](/blog/small-bedroom-storage-uk/) piece covers that separately. If you're planning a full room refresh once the layout is sorted, see our [bedroom makeover UK](/blog/bedroom-makeover-uk/) guide.
 

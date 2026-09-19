@@ -28,7 +28,6 @@ faqs:
     a: "New-build studios in England must be at least 37 square metres under national space standards, but many older converted studios are 20 to 30 square metres, and ex-local-authority bedsits can be smaller. Under about 25 square metres, prioritise a real divider and multi-use furniture hard; above 30, you have room for distinct zones with a bit of space between them."
 ---
 
-The first studio I rented in London was 24 square metres in a converted Victorian house, and for the first few months I treated it like a bedroom that happened to have a hob. The bed was the first thing you saw walking in, the "sofa" was the end of the bed, and I ate standing at the kitchen counter. It felt like halls of residence with a council tax bill.
 
 What changed it wasn't buying anything clever. It was moving the bed to the far corner, putting a cheap open bookcase between it and the rest of the room, and accepting that the room had to be planned as four small rooms stacked into one. After that it read as a proper flat — small, but a flat.
 

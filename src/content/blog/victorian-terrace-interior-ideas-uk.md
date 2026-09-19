@@ -31,7 +31,6 @@ There are approximately 5.5 million Victorian terraced houses in the United King
 
 They are also among the most commonly mishandled interiors in Britain. White walls, grey carpet, recessed spotlights, and modern fitted kitchens in rooms designed for a completely different visual language. The architecture remains spectacular. The interiors often betray it.
 
-I own a mid-Victorian terrace in the north of England. I've spent four years returning it to something that feels appropriate to its bones. Here's what I've learned, in two halves: first what to restore, then how to decorate around it.
 
 *One principle governs everything below: trust the architecture. The rooms were designed with specific proportions, details, and palette in mind — work with them rather than against them, and let the building's character lead.*
 
@@ -57,7 +56,7 @@ What to restore rather than remove:
 - **Dado rails:** Traditionally at chair-back height (around 90cm from floor), these divide the wall into two distinct zones — a design feature, not an arbitrary moulding
 - **Picture rails:** Installed just below the cornice, these allow pictures to be hung without drilling walls — invaluable for renters and picture-changers alike
 
-I removed a dado rail in my dining room during a previous renovation, thinking it looked dated. I spent two years looking at the blank wall before having it reinstated. The room looked better with it in 20 minutes than it had without it for two years.
+The room looked better with it in 20 minutes than it had without it for two years.
 
 Fibrous plaster replacement coving — from ~£8 per metre from specialist suppliers.
 
@@ -71,7 +70,7 @@ A professional encaustic tile clean and seal typically costs £80–£150, and o
 
 If they're in reasonable condition, a regular maintenance clean using a pH-neutral cleaner (avoid acidic or alkaline products that damage the clay body) and an annual application of a suitable sealer is all they need.
 
-I uncovered original encaustic tiles in my hallway from under three layers of flooring: carpet, hardboard, and lino. The tiles were in near-perfect condition. The restoration cost £95 for a professional clean and seal. Estate agents later valued the hallway's contribution to the property at approximately £3,000 in buyer appeal.
+The tiles were in near-perfect condition. The restoration cost £95 for a professional clean and seal. Estate agents later valued the hallway's contribution to the property at approximately £3,000 in buyer appeal.
 
 Professional encaustic tile clean and seal — ~£80–£150.
 

@@ -33,7 +33,6 @@ The spring refresh exists to address this. It's not a renovation — it's a rese
 
 According to the [Royal Horticultural Society](https://www.rhs.org.uk), British gardening activity increases by 340% from February to March as the days lengthen, reflecting a deep seasonal instinct to engage with the world differently. The same instinct applies indoors. We want to open windows, move things around, let light in, and make space.
 
-I do a proper spring refresh every March. Here's the system I've developed — cheap, achievable in stages, and genuinely effective.
 
 **TL;DR:** A spring home refresh has four components: edit and declutter (remove things), lighten the textiles (swap winter for spring alternatives), clean what's been ignored all winter (windows, curtains, behind furniture), and bring spring colour and nature inside through plants and seasonal accents.
 
@@ -47,7 +46,6 @@ Every effective spring refresh starts with removing things, not adding them. Thi
 
 The principle is simple: a room with 20% fewer objects but the same furniture looks larger, lighter, and more considered. That's the spring feeling you're after, and no amount of new spring cushions will create it if the room is already full.
 
-I spend the first weekend of my spring refresh doing nothing but removing. Everything that doesn't earn its place — the ornament that's been there for three years but I've never loved, the stack of unread magazines, the chair that holds clothes rather than people — goes. I do a first pass, live with it for a day, then do a second more ruthless pass.
 
 **The British Red Cross and British Heart Foundation shops** are set up for exactly this. They collect from the door in many areas, or you can drop to a local branch. [British Heart Foundation furniture collection](https://www.bhf.org.uk) for larger items — they'll collect for free.
 
@@ -87,7 +85,7 @@ Swapping a chunky knit throw for a lightweight linen one costs around £25 at Du
 - **Wash and rehang lighter curtains** — or replace thermal-lined curtains with unlined linen
 - **Change bedding to lighter tog** — 7.5 tog or 4.5 tog for spring, rather than 10.5 or 13.5 tog
 
-I store my winter and spring textiles separately — two large vacuum storage bags that swap seasonally. The spring bag contains lighter throws in sage and blush, cotton cushion covers, and the lighter-tog duvet. The winter bag has the velvet, the chunky knits, and the heavyweight duvet. The swap takes an hour and completely changes the feeling of the home.
+The spring bag contains lighter throws in sage and blush, cotton cushion covers, and the lighter-tog duvet. The winter bag has the velvet, the chunky knits, and the heavyweight duvet. The swap takes an hour and completely changes the feeling of the home.
 
 Vacuum storage bags from Amazon UK (~£12 for a set of four) compress winter textiles to a fraction of their normal size.
 

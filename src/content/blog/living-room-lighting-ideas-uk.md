@@ -31,7 +31,7 @@ faqs:
     a: "A £3 warm 2700K bulb swap plus one £25-£30 plug-in floor lamp from IKEA solves the single most common UK rental lighting problem for under £35, and both changes take five minutes."
 ---
 
-Most UK rental living rooms have one thing in common: a single cold, harsh ceiling light and nothing else. After renting three different flats across two cities, I've found that lighting is the fastest, cheapest way to change how a living room feels, and every fix below needs no rewiring, no electrician, and no permission from the landlord.
+Most UK rental living rooms have one thing in common: a single cold, harsh ceiling light and nothing else. After renting three different flats across two cities, lighting is the fastest, cheapest way to change how a living room feels, and every fix below needs no rewiring, no electrician, and no permission from the landlord.
 
 **TL;DR:** Swap every bulb to warm 2700K (from £3, Screwfix) first. Add a plug-in floor or table lamp (£25-£45, IKEA) for a second light source. LED strip lights behind the TV (from £10, Amazon UK) and battery wall sconces (from £18, Screwfix) add layered, mood-friendly light with zero wiring. Smart bulbs (from £13, Philips Hue) let you switch moods without touching a single fitting.
 
@@ -49,7 +49,7 @@ The fix costs almost nothing and takes five minutes.
 
 A 2700K warm white bulb is the standard for UK living rooms, and it's what most professional interior lighting guides recommend for relaxed, sociable rooms (2700K is described as "soft white" by manufacturers like Philips and Osram). Anything above 3000K starts to feel like an office.
 
-Look for "2700K" or "warm white" printed clearly on the box. Screwfix, Wilko, and Amazon UK all stock LED bulbs in this range from around £3 each for a standard bayonet (B22) or screw (E27) fitting. I once bought a "warm white" bulb that turned out to be 3500K because the box didn't state the Kelvin number clearly, and the difference was noticeable the moment I switched it on. Always check for the actual Kelvin figure, not just the marketing phrase.
+Look for "2700K" or "warm white" printed clearly on the box. Screwfix, Wilko, and Amazon UK all stock LED bulbs in this range from around £3 each for a standard bayonet (B22) or screw (E27) fitting. Always check for the actual Kelvin figure, not just the marketing phrase.
 
 ### Quick Bulb-Buying Checklist
 
@@ -84,7 +84,7 @@ Stick strips only to clean, dry surfaces like wood or the back of furniture. Avo
 
 Battery wall sconces are worth it if you want proper wall-height lighting without drilling into wiring or losing your deposit. Screwfix and Amazon UK both stock battery-powered wall lights from around £18-£35, running on AA batteries or USB-rechargeable packs.
 
-They mount with a couple of small screws or strong adhesive strips into plasterboard, not into the electrical circuit, so there's genuinely nothing for a landlord to object to. Brightness is lower than a mains-wired sconce, so treat them as accent lighting rather than the room's main source. Across the battery sconces I've tested in two different flats, a set of two typically lasts three to four months on standard AA batteries with evening use, or considerably longer with rechargeable ones.
+They mount with a couple of small screws or strong adhesive strips into plasterboard, not into the electrical circuit, so there's genuinely nothing for a landlord to object to. Brightness is lower than a mains-wired sconce, so treat them as accent lighting rather than the room's main source.
 
 | Lighting upgrade | Typical cost (£) | Rewiring needed? |
 |---|---|---|

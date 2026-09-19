@@ -30,7 +30,7 @@ faqs:
     a: "Yes — the same light wood, neutral palette, and layered textiles work just as well outside the bedroom. See our [Scandi living room ideas UK](/blog/scandi-living-room-ideas-uk/) guide for how to apply it to the rest of the home."
 ---
 
-Scandinavian bedroom style works especially well in small UK flats because it's built around light, pale colours and minimal clutter, which makes a modest room feel bigger rather than smaller. I've rebuilt this look in two rented flats now, and it holds up well against grey British weather because the warmth comes from texture and lighting, not sunshine.
+Scandinavian bedroom style works especially well in small UK flats because it's built around light, pale colours and minimal clutter, which makes a modest room feel bigger rather than smaller.
 
 **TL;DR:** Start with a light wood bed frame (IKEA MALM, from £129) and layered neutral bedding. Add hygge texture with a chunky knit throw (£25-£35) and a faux sheepskin rug (£15-£20). Keep surfaces decluttered and use two or three warm, low light sources instead of one bright overhead. A full refresh runs £250-£450; a lighter version can be done for under £80.
 
@@ -40,7 +40,7 @@ Scandinavian bedroom style works especially well in small UK flats because it's 
 
 Scandinavian bedroom style is built on four things: light wood tones, a neutral palette, natural texture, and almost nothing on display. Norwegian and Swedish interior traditions favour function over decoration ([IKEA Museum](https://ikeamuseum.com), ongoing archive), and that restraint is the whole point.
 
-When I first tried this look, I made the mistake of buying too many "Scandi" accessories at once. The style actually gets weaker the more objects you add. Fewer, better pieces work far better than a full shopping trolley of matching decor.
+The style actually gets weaker the more objects you add. Fewer, better pieces work far better than a full shopping trolley of matching decor.
 
 The look leans on light, not colour, to do the work. That's a genuine advantage in a UK flat where a bright, well-placed lamp does more for the room than any accent wall.
 
@@ -67,7 +67,7 @@ A Scandi bedroom without texture reads as cold and bare rather than calm and min
 
 Texture comes from natural materials layered together: a chunky knit throw, a faux sheepskin rug underfoot, and linen curtains. None of these need to be expensive. A £25-£35 chunky knit throw from Dunelm or Amazon UK and a £15-£20 faux sheepskin rug do most of the work.
 
-Most people over-invest in wall art for this look and under-invest in floor and bed texture. In my experience, a sheepskin rug next to the bed changes the feel of a room more than any print on the wall, because it's the first thing you touch each morning.
+Most people over-invest in wall art for this look and under-invest in floor and bed texture. A sheepskin rug next to the bed changes the feel of a room more than any print on the wall, because it's the first thing you touch each morning.
 
 ### Where to Add Texture Without Overdoing It
 
@@ -94,7 +94,7 @@ This is a maintenance habit as much as a design choice. A bedside table with one
 
 ## What Kind of Lighting Suits a Scandi Bedroom?
 
-Warm, low-level lighting from two or three small sources beats one bright overhead light in every Scandi bedroom I've built. A single ceiling bulb creates flat, harsh light that works against the calm the style is going for.
+A single ceiling bulb creates flat, harsh light that works against the calm the style is going for.
 
 Scandinavian countries deal with long, dark winters, so their interior lighting traditions favour warm bulbs and multiple low sources rather than one bright fixture ([Nordic Council of Ministers](https://www.norden.org), general design resource). That habit translates directly to a UK bedroom on a dark winter evening.
 

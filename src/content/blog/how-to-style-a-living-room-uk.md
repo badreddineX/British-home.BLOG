@@ -35,7 +35,7 @@ The result is a room that has everything it needs but doesn't quite feel like a 
 
 Styling a living room properly isn't about buying more things — the "vibey" living room look everyone's chasing right now comes from layering, not shopping. It's about understanding the order of layers — what goes first, what responds to what, and where the eye should travel. Once you understand the sequence, it becomes logical rather than overwhelming.
 
-I've styled and restyled my own living room several times, and I've helped friends do the same. Here's the process that works.
+Here's the process that works.
 
 **TL;DR:** Style in this order: focal point, furniture layout, rug, curtains, lighting, textiles, shelves and surfaces, plants. Each layer informs the next. The whole thing can be done in a weekend and doesn't require a single new purchase if you already have the basics.
 

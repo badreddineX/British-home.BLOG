@@ -35,7 +35,7 @@ And genuinely quite cold.
 
 According to [Houzz UK](https://www.houzz.co.uk)'s 2025 State of the Home report, 58% of British homeowners now describe their ideal aesthetic as "warm contemporary" — a category that didn't meaningfully exist five years ago. The shift is real and it's visible: the coolly minimal British interior is giving way to something warmer, more personal, more rooted in actual British character.
 
-I've been watching this shift happen in real time — in the homes I've visited, the interiors I've researched, and my own flat. This is what modern actually looks like in the UK right now.
+This is what modern actually looks like in the UK right now.
 
 **TL;DR:** Modern British interiors in 2026 are warm, earthy, textured, and individual. The defining elements are limewash walls, curved furniture, natural materials, warm brass accents, and a genuine personality — visible books, interesting objects, rooms that look used and loved.
 
@@ -69,7 +69,6 @@ Traditional limewash is a chalk-and-water paint that's been used on British buil
 
 A limewash-effect [hallway](/blog/hallway-decor-ideas-uk) using Rust-Oleum's £14 Chalky Finish paint cost around £30 total for materials, versus £65 per 2.5L for genuine limewash from Bauwerk Colour — proof the look scales to almost any budget.
 
-I tried the limewash technique in my hallway using Rust-Oleum's Chalky Finish paint (~£14 per 750ml from B&Q) applied with a dry brush in circular strokes over a base coat. The result wasn't identical to true limewash, but it was significantly more interesting than flat emulsion and cost about £30 total for a small hallway.
 
 Bauwerk Colour (~£65 per 2.5L) and Little Greene both do genuine limewash paint at a higher price point if you want the real thing.
 
@@ -139,7 +138,6 @@ An IKEA Billy bookshelf costs around £60, and filling it with genuinely mismatc
 
 The styling principle: **books as texture.** Not arranged by colour (too contrived) and not in a single line of identical size (too clinical). Mixed heights, some horizontally stacked, some face-out, interspersed with objects — a small plant, a candle, a ceramic.
 
-My floor-to-ceiling bookshelf, filled with actual books in no particular order, is consistently the thing visitors comment on most. It cost nothing beyond the shelving unit itself — an IKEA *Billy* at ~£60.
 
 ---
 

@@ -35,7 +35,7 @@ This guide is specifically about warmth and mood — lighting temperature, scent
 
 A bedroom's environment matters more to how you sleep than most people give it credit for — the light, the temperature, the amount of visible clutter. Most of the fixes below cost less than a weekend takeaway.
 
-I spent about two years in a bedroom that looked fine in photographs and felt cold in real life. New duvet cover, framed print above the bed, done. But it never felt like a retreat. The change came when I stopped styling it and started thinking about sensation: how it felt to walk in, to sit on the bed, to lie in the dark. That shift changed everything.
+New duvet cover, framed print above the bed, done. But it never felt like a retreat.
 
 Cosiness in a bedroom comes down to seven core elements: lighting, layered bedding, window treatments, rugs, paint colour, scent, and texture. You don't need all fourteen ideas on this list — pick the three or four elements missing from your room right now and start there. Most cost under £50.
 
@@ -151,7 +151,7 @@ Upholstered headboards in boucle, velvet, or linen absorb sound and add warmth. 
 
 A bedroom that contains only a bed is a sleeping room. A bedroom that contains a chair is a retreat. The difference between the two is the existence of somewhere to sit that isn't the bed — a small armchair, a curved accent chair, a cushioned window seat, or even a floor cushion beside a lamp. The reading corner signals that this is a room where you might choose to spend time, not just crash into at the end of the day.
 
-In my own bedroom, the addition of a single curved accent chair in a warm rust boucle changed how I used the room entirely. I started going to bed earlier because the room had become somewhere I wanted to be. That's the effect a reading corner creates — it gives you a reason to be in the room before you're actually tired enough to sleep.
+A reading corner gives you a reason to be in the room before you're actually tired enough to sleep.
 
 IKEA's STRANDMON wing chair costs £195 and has become a staple of UK bedroom styling for good reason. It's well-proportioned, comfortable, and comes in a range of warm fabric options. For smaller rooms, a papasan-style floor chair from Amazon UK costs from £45 and takes up almost no floor space when not in use.
 

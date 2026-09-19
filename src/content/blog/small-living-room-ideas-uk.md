@@ -35,7 +35,7 @@ This guide covers visual tricks — colour, curtains, mirrors, rug size — and 
 
 We're working with less space than almost any other European country. And most advice about "making rooms feel bigger" was written for spaces that are already considerably larger than most British flats.
 
-I live in a 15-square-metre living room in a 1930s semi. Here's what actually works.
+Here's what actually works.
 
 **TL;DR:** The most impactful small-room tricks are ceiling-height curtains, furniture with visible legs, correctly sized rugs, a large mirror opposite the window, and a light-neutral wall colour. Together these can make a small British living room feel genuinely spacious — not just less cramped.
 
@@ -65,7 +65,7 @@ Swapping a skirted sofa for a raised-leg model — such as the IKEA Söderhamn a
 
 This applies to coffee tables and side tables too. A glass or acrylic coffee table top on slim metal legs shows the maximum floor area. A solid wooden cube does the opposite.
 
-I replaced my skirted three-seater with a raised-leg sofa (IKEA Söderhamn, ~£499) and the room felt measurably more open before I changed anything else. The sofa is only slightly smaller in footprint but the visible floor beneath it transformed the room.
+The sofa is only slightly smaller in footprint but the visible floor beneath it transformed the room.
 
 Sofa with visible legs — IKEA Söderhamn from ~£499 at IKEA.
 
@@ -177,7 +177,7 @@ Plug-in pendant light — from ~£22 at Dunelm.
 
 In a small living room, every item either earns its place or makes the room feel smaller. Editing — removing objects that don't actively serve the space — is the final and often most powerful technique.
 
-In my own small living room, removing just seven objects from surfaces and shelves — at zero cost — made the space feel measurably more open. No new purchases were involved; editing is often more effective than any purchase.
+No new purchases were involved; editing is often more effective than any purchase.
 
 The test: does this object make the room better to be in, or does it just exist? Scatter cushions beyond four, decorative objects beyond the rule-of-three groupings, side tables without clear purpose, and floor items that could be shelved — all of these should be considered for removal.
 

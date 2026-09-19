@@ -233,7 +233,7 @@ If your kitchen situation is specifically a [rented flat](/blog/rented-flat-make
 
 ## Where to Start: A Priority Table
 
-Not everyone has the time or money to tackle all fourteen at once. Here's how I'd stack the upgrades by impact per pound if you're working with a limited budget.
+Not everyone has the time or money to tackle all fourteen at once.
 
 | Step | What to Do | Approx Cost |
 |------|-----------|-------------|

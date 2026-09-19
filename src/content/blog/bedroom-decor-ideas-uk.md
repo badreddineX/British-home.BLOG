@@ -52,7 +52,7 @@ The three most reliable bedroom palettes for UK homes:
 - **Soft sage green:** Farrow & Ball Mizzle, Little Greene Aquamarine, or Dulux Sage Salutation
 - **Boutique deep tone:** Little Greene Dark Lead, Farrow & Ball Hague Blue, or Dulux Night Jewels
 
-I painted my bedroom in Crown Autumn Cashmere three years ago. It was the single biggest improvement I made to the room — not the bedding upgrade, not the new curtains. The colour came first and everything else responded to it.
+The colour came first and everything else responded to it.
 
 Bedroom paint — ~£20–£35 per 2.5L from B&Q.
 
@@ -80,7 +80,7 @@ A DIY upholstered headboard panel made from MDF, wadding, and off-cut fabric cos
 
 If budget is tight, a DIY upholstered panel — a piece of MDF cut to size, wrapped in wadding and fabric, and mounted with picture hooks — costs around £40–£60 in materials and takes an afternoon. The result looks considerably more expensive than it is.
 
-I made one for my spare room using off-cut velvet from a fabric warehouse and it genuinely looks like a boutique hotel headboard. Guests always comment on it.
+Guests always comment on it.
 
 Alternatively, IKEA's upholstered headboards start at ~£85 and are excellent quality for the price. Check your tenancy agreement before wall-mounting anything — a floor-standing headboard avoids that question entirely.
 
@@ -108,7 +108,6 @@ Art is the fastest way to make a bedroom look personal rather than showroom-neut
 
 For a single statement piece, the print's width should roughly match two-thirds of the headboard's width, hung so its centre sits at eye level when seated on the bed. A cluster of three frames should keep consistent gaps of 5–8cm between each frame rather than eyeballing the spacing.
 
-I spent a year with a single small print floating awkwardly above my bed before swapping it for a wider botanical print sized to the headboard. The difference in how "finished" the wall looked was immediate, and it cost nothing extra since I already owned the print.
 
 Choose art that echoes one colour already in your palette (the throw, the curtains, a cushion) rather than introducing a fourth unrelated tone. Botanical prints, abstract line art, and framed textiles all work well against the warm neutrals and deep tones recommended above.
 

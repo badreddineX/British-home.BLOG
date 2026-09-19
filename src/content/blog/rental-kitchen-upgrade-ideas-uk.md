@@ -28,7 +28,7 @@ faqs:
 
 According to the [English Housing Survey 2023-24](https://www.gov.uk/government/collections/english-housing-survey) from the Department for Levelling Up, Housing and Communities, 4.6 million households in England now rent privately. A huge share of those live with a kitchen someone else chose, in a colour someone else picked, that they're not allowed to touch.
 
-I've rented three kitchens in the UK. All three had the same tired combination: oak-effect units from another decade, a chipped tile [splashback](/blog/budget-kitchen-splashback-tile-ideas-uk), and a landlord who made it very clear in the inspection report that "no alterations" meant no alterations. What I learned across those three flats is that a rental kitchen can look completely different by moving-out day, provided you never do anything that can't be undone.
+All three had the same tired combination: oak-effect units from another decade, a chipped tile [splashback](/blog/budget-kitchen-splashback-tile-ideas-uk), and a landlord who made it very clear in the inspection report that "no alterations" meant no alterations.
 
 This post covers the specific rental kitchen upgrade ideas UK tenants can actually use: changes that stick to walls without adhesive, sit over floors without glue, and hang on rods without a drill. Every one of them comes off cleanly and leaves your deposit exactly where it started.
 
@@ -48,7 +48,6 @@ Most assured shorthold tenancies (ASTs) require the property returned in the sam
 
 It's not that landlords are being difficult. Standard AST wording, the kind most letting agents use without amendment, treats drilled holes, painted units, and adhesive residue as damage rather than wear and tear. That's why every idea below avoids drilling into tiles or walls, avoids gluing anything to the [worktop](/blog/budget-kitchen-worktop-makeover-uk) or floor itself, and keeps every original part of the kitchen intact and stored.
 
-In my second rental, I lost £40 from my deposit for two small screw holes behind a spice rack I'd fixed to the wall. Since then I've only used adhesive-backed, tension-fit, or freestanding solutions, and I've had every deposit returned in full.
 
 The practical rule is simple: if you can't undo it in under an hour with nothing left behind, don't do it in a rented kitchen.
 
@@ -78,7 +77,6 @@ The film works best on a worktop that's structurally sound but cosmetically tire
 
 It won't withstand a hot pan set directly on it, so a trivet is worth keeping nearby. But for everyday use, a well-applied worktop film convincingly disguises a tired surface and peels away cleanly whenever you're ready to move out.
 
-A single roll (1.5m x 0.9m, around £20–£30 at Dunelm) covers a standard section of worktop and, in my experience, holds its finish for well over a year of normal kitchen use.
 
 ---
 
@@ -126,7 +124,7 @@ Reinstalling the originals at the end takes fifteen minutes and removes any ques
 
 A full rental kitchen refresh using every idea above costs roughly £150–£280, well under a tenth of a professional renovation, and none of it risks a deposit deduction because every element is fully reversible.
 
-Here's the order I'd work through it in, starting with what's free.
+Here's a sensible order to work through it in, starting with what's free.
 
 | Step | What to do | Approx cost | Reversible? |
 |------|-----------|-------------|-------------|

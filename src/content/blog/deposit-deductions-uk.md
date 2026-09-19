@@ -28,7 +28,6 @@ faqs:
     a: "If your deposit is protected in a government-backed scheme (TDS, DPS or mydeposits — check with your landlord which one), you can raise a free dispute directly with that scheme once your landlord proposes a deduction you disagree with. You'll need your check-in inventory, photos, and any evidence the claim is for wear and tear or betterment rather than genuine damage. About 1% of deposits end up in formal adjudication, and the process is free for tenants."
 ---
 
-My first flat share in Leeds cost me £140 out of a £900 deposit for "professional cleaning" I genuinely thought I didn't need — the flat looked fine to me. It turns out "fine to me" and "matches the check-in inventory" are two very different standards, and the gap between them is where most deposit money disappears.
 
 That gap is what this page is about. The UK's three deposit protection schemes — TDS, DPS and mydeposits — each publish dispute data every year, but it's scattered across separate PDF reports nobody reads unless they're already mid-dispute. This page pulls it into one place, and ties every category back to the actual decor and cleaning decisions that cause it — the part a legal or tenant-rights site usually skips.
 

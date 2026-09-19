@@ -54,7 +54,6 @@ The bed occupies roughly 60% of the visual space in a typical British bedroom. T
 
 The specific upgrade that makes the biggest difference isn't just a new duvet cover. It's adding a flat sheet (folded back at the turn-down), two euro square pillows (65x65cm) behind your standard sleeping pillows, and a throw across the lower third of the bed. This layered structure creates the hotel-bed effect that photographs beautifully and feels genuinely different to sleep in.
 
-I changed my bedding from a supermarket polyester set to a cotton percale duvet cover with a linen throw and two euro pillows from Dunelm. The room looked like a different room — and I hadn't touched a single other thing in it yet.
 
 ---
 
@@ -74,7 +73,7 @@ Most British bedrooms have their furniture in the default arrangement it was set
 
 The principle is simple: the bed should ideally face the door, with space on both sides. A bed pushed against two walls (into a corner) looks accidental. A bed with matching space on each side looks intentional. It also makes the room more practical — no more climbing over your partner to get out.
 
-In my experience, rearranging furniture first — before spending a single pound — often reveals that the room has more potential than it appeared. A previously awkward room can become genuinely workable once the bed is in the right position.
+Rearranging furniture first — before spending a single pound — often reveals that the room has more potential than it appeared. A previously awkward room can become genuinely workable once the bed is in the right position.
 
 If the room doesn't allow for equal sides, prioritise having the bed face the door and the wall behind the headboard as the focal point. Symmetry matters more than which wall you choose.
 
@@ -114,7 +113,7 @@ A bigger makeover means looking under the rug question entirely: what condition 
 
 If the floorboards are sound, sanding and sealing them costs roughly £15–£25 per square metre for a DIY hire-sander job, versus £30–£45 per square metre for a professional finish, and gives a bedroom a completely different base to style from. If they're not worth exposing, a budget carpet or vinyl click-flooring from Carpetright or B&Q runs from £12–£20 per square metre.
 
-I skipped this step on my first bedroom makeover and regretted it. I'd already bought a new rug and repositioned the furniture before noticing the vinyl underneath was lifting at the seams. Doing the floor check first would have saved a wasted rug purchase.
+Doing the floor check first would have saved a wasted rug purchase.
 
 Once the base is sorted, choosing the actual rug on top of it is a styling decision. See our [bedroom decor ideas guide](/blog/bedroom-decor-ideas-uk/) for how to size and colour-match one to the room.
 

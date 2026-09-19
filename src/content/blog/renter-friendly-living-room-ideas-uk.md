@@ -41,7 +41,7 @@ The living room is usually the room renters most want to change and are most ner
 
 A change is deposit-safe if it leaves the wall, floor, and fixtures exactly as they were, with no patching or repainting needed. Tenancy deposit schemes assess "damage beyond fair wear and tear", and a change that peels or unscrews cleanly rarely falls into that category ([TDS](https://www.tenancydepositscheme.com/), 2025).
 
-**The three tests I use before trying anything new:**
+**three tests to use before trying anything new:**
 - Does it need a drill, or can it clip, hook, or stick on instead?
 - Can I remove it in under ten minutes with no residue left behind?
 - Would it pass a torch-lit inspection by a fussy letting agent?
@@ -56,7 +56,7 @@ Behind a sofa, a soft sage botanical print from B&Q can transform the whole room
 
 **Where to buy:** B&Q, Wilko, and Amazon UK all stock peel-and-stick ranges from £15 a roll. Choose a matte finish over a textured one; textured surfaces sometimes leave faint marks on removal.
 
-**A few things I've learned the hard way:**
+**A few things to know:**
 - Apply to a clean, dry, painted wall, never over fresh paint (wait at least four weeks after any repaint)
 - Peel off slowly at a low angle, not straight outward
 - Keep offcuts in case a corner lifts and needs re-sticking later

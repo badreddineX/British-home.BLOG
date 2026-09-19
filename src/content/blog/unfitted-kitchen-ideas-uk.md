@@ -26,7 +26,7 @@ faqs:
 
 That’s the vibe at the heart of the 2026 unfitted kitchen trend — less built-in constraints, more flexible, layered personality. Renters especially are prioritising temporary, reversible decor — no building permits or fussy DIY required.  
 
-I’ve renovated three rented flats across the UK, and every single one had (and got) a properly unfitted kitchen: IKEA flatpacks plus a rescued sideboard and a second-hand Aga (yes, really). The key? Choosing pieces that stand proud, work together, and *don’t* require screws in the walls.
+The key? Choosing pieces that stand proud, work together, and *don’t* require screws in the walls.
 
 **TL;DR:**  
 Unfitted kitchens are booming in 2026, especially for those who want style without the permanence. You can build a cohesive look using freestanding cabinets, vintage finds, and peel-and-stick accents — all deposit-safe. Layer textures, use statement lighting, and don’t be afraid to mix eras. The result? A kitchen that feels custom, even if it’s 100% temporary.

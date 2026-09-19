@@ -44,11 +44,11 @@ This guide covers what actually makes a wet room different from a standard showe
 
 ## What Makes a Wet Room Different From a Standard Bathroom?
 
-A wet room has no raised shower tray or enclosure. Instead, the entire floor is waterproofed and laid with a slight fall (usually 1:80) toward a single drain point, so the shower area and the rest of the floor are one continuous, level surface. [ORIGINAL DATA] In the two conversions I've watched through from start to finish, the floor build-up alone took longer than fitting the tiles, wall panels, and fixtures combined.
+A wet room has no raised shower tray or enclosure.
 
 The difference isn't just visual. A standard shower room has a discrete "wet zone", the tray, that carries all the waterproofing responsibility. In a wet room, waterproofing has to cover the entire floor and lower walls, because water isn't contained by a lip or a screen alone. That's a bigger job, and it's the reason costs and lead times run higher than a like-for-like shower enclosure swap.
 
-The upside is proportional. Because there's no tray edge and often no full-height enclosure, sightlines run further and the room reads larger even when the actual square metreage hasn't changed. [PERSONAL EXPERIENCE] In a 2.1m² box room conversion I saw finished last year, the owner said visitors regularly guessed the room was bigger than the old shower-and-bath layout it replaced, despite losing zero floor area on paper.
+The upside is proportional.
 
 Wet rooms also suit awkward shapes better than a standard layout. A sloped loft ceiling, an L-shaped room, or a bathroom with the door in an odd corner can all be worked around when there's no rigid tray or enclosure frame dictating a rectangle. That flexibility is often the real reason people choose a wet room over simply fitting a smaller standard shower.
 

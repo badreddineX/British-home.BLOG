@@ -33,7 +33,7 @@ faqs:
 
 You’re not alone if your home feels like it’s missing a spark. More UK renters are turning to Afrobohemian and global-inspired decor—not just for aesthetics, but for soul. It’s a trend that makes sense: homes shouldn’t feel sterile, they should *breathe*.
 
-I’ve renovated three rented flats across Bristol, Manchester, and Leeds—mostly with second-hand gems, charity shop finds, and peel-and-stick tricks. Every flat had a different story to tell, but each carried the same heartbeat: rich textures, intentional patterns, and a deep respect for craft. The secret? You don’t need to spend a fortune to feel rooted, grounded, and gloriously expressive.
+Every flat had a different story to tell, but each carried the same heartbeat: rich textures, intentional patterns, and a deep respect for craft. The secret? You don’t need to spend a fortune to feel rooted, grounded, and gloriously expressive.
 
 **TL;DR:** Layer handwoven textiles for instant warmth—think kilims, mud cloth, or kente scarves—on neutral surfaces like off-white walls. Use freestanding rattan, bamboo, or wooden furniture from Dunelm or IKEA (no drilling needed). Score vintage brass or ceramic pieces for under £10 at local charity shops. Stick to earth tones and deep greens, with 1-2 bold accents, so your scheme feels cohesive, not chaotic.
 
@@ -79,7 +79,7 @@ Nails are a deposit killer. So are heavy tapestries hung directly on plaster. St
 
 ## 10. Can Storage Furniture Add Crafted Charm to a Room?
 
-Clutter kills the vibe—even a beautiful one. Use woven storage boxes (IKEA’s BRANÄS rattan basket, sized for KALLAX shelving, from ~£19) for magazines, blankets, or toys. Dunelm’s “Duna” seagrass storage basket (medium) is £24. A vintage trunk (I saw one in Oxfam for £18 last week) doubles as coffee table and trunk room. Label bins with handwritten chalkboard tags (B&Q sells mini ones for £2.50) to keep things tidy without feeling clinical. Renter bonus: most of these options can be folded flat and carried through narrow staircases if you move.
+Clutter kills the vibe—even a beautiful one. Use woven storage boxes (IKEA’s BRANÄS rattan basket, sized for KALLAX shelving, from ~£19) for magazines, blankets, or toys. Dunelm’s “Duna” seagrass storage basket (medium) is £24. Label bins with handwritten chalkboard tags (B&Q sells mini ones for £2.50) to keep things tidy without feeling clinical. Renter bonus: most of these options can be folded flat and carried through narrow staircases if you move.
 
 ![Woven storage baskets and a rattan tray styled on a wooden stool](/images/pexels-1090638.jpg)
 
@@ -94,7 +94,7 @@ Phase 1: neutral base + one rug
 Phase 2: layer cushions and a throw  
 Phase 3: add lighting and greenery  
 Phase 4: introduce textural storage and personal finds  
-Each phase costs under £50 if you hunt smart. I built my Manchester flat’s living room over eight months, visiting Oxfam once a week. By month three, it looked like I’d always lived there—warm, layered, and full of life.
+Each phase costs under £50 if you hunt smart.
 
 ## The Afrobohemian & Global Decor Priority Order
 

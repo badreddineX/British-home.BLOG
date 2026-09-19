@@ -35,7 +35,6 @@ This guide is specifically about furniture arrangement and floor plans for awkwa
 
 According to the English Housing Survey 2023, the average UK living room measures just 17.1 square metres — and many properties in London, Manchester, and other major cities are considerably smaller than that. We're not working with the kind of square footage you see in American home tours or Scandinavian design blogs. We're working with real British rooms.
 
-I've lived in three small flats and one narrow Victorian terrace. Each one had a different layout problem, and each one taught me something different about what actually works when space is genuinely tight.
 
 **TL;DR:** The biggest layout mistakes in small British living rooms are pushing every piece of furniture against the wall, choosing a sofa that's too long for the room, and leaving the space without a clear focal point. Fix those three things and most small-room layout problems resolve themselves.
 
@@ -58,7 +57,7 @@ The average UK living room at 17.1 square metres ([English Housing Survey](https
 
 Most furniture sold in UK stores is still sized for rooms larger than the average British lounge. A standard three-seater sofa runs 220-230cm long. In a room that's only 330cm wide, that leaves just 50cm of clearance on each side — which is less than most people realise until the sofa is in the room and the doors won't open properly.
 
-My first flat in Leeds had a living room measuring 3.2m x 4.1m. The previous tenant had somehow fitted a three-seater sofa, two armchairs, a coffee table, and a television unit in there. It looked like a furniture showroom had been dropped from a height. I spent a weekend removing half of it and the room doubled in apparent size without gaining a single centimetre.
+The previous tenant had somehow fitted a three-seater sofa, two armchairs, a coffee table, and a television unit in there. It looked like a furniture showroom had been dropped from a height.
 
 Measure before you buy. Then measure again. Then measure the door frames, the stairwell, and the turning radius from the [hallway](/blog/hallway-decor-ideas-uk).
 
@@ -124,7 +123,7 @@ The chimney breast alcoves in a Victorian or Edwardian terrace are both the room
 
 The most effective approach is to use the alcoves for built-in storage or floating shelving, which keeps the floor clear and gives the room visual structure on the walls flanking the fireplace. Built-in alcove shelving — either bespoke joinery or fitted IKEA BILLY units modified to fit — costs between £200-£800 depending on the approach and adds considerably more to the room's perceived value.
 
-In a Victorian terrace I lived in, both alcoves were 68cm deep — exactly the right depth for a BILLY bookcase (28cm deep) plus a 40cm zone in front for small objects and lamps. Using both alcoves for shelving freed up enough floor space to float the sofa 15cm from the back wall and still leave adequate circulation around it.
+Using both alcoves for shelving freed up enough floor space to float the sofa 15cm from the back wall and still leave adequate circulation around it.
 
 What not to do with alcoves: don't fill them with a single oversized armchair (unless the alcove is genuinely deep enough), don't leave them empty and unaddressed, and don't try to fit a television in one alcove while using the other for something different — the room ends up with two competing focal points and no hierarchy.
 
@@ -235,7 +234,6 @@ Floor lamp in the far corner — from ~£35 at Next Home. This single addition m
 
 Editing is as important as adding when it comes to a small living room layout. The instinct is to solve a small-room problem by buying something — a smarter side table, a better storage unit, a new lamp. Sometimes the actual solution is to take things out.
 
-Removing just one redundant large piece — an unused armchair or a floor-standing bookcase — can reclaim as much as 1.5 square metres of visible floor space in a typical 14-square-metre British lounge, based on my own flat.
 
 The pieces most worth questioning in a small British lounge:
 
@@ -244,7 +242,7 @@ The pieces most worth questioning in a small British lounge:
 - **The bookcase** that could become wall-mounted floating shelves, removing a piece of floor-standing furniture entirely
 - **The side tables** on both ends of the sofa, where one drum table would often do the same job with half the footprint
 
-In my current flat, I removed an armchair and a floor-standing bookcase from a 14-square-metre living room and replaced both with a single set of floating shelves. The room gained back approximately 1.5 square metres of visible floor space. That's a significant percentage of the room's total area.
+The room gained back approximately 1.5 square metres of visible floor space. That's a significant percentage of the room's total area.
 
 Removing one redundant piece of furniture is often more effective than rearranging everything. Evaluate what's there before buying anything new.
 

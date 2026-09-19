@@ -33,7 +33,7 @@ faqs:
 
 If you've been on Pinterest at all in 2026, you've seen FunHaus without knowing its name: a striped rug the colour of a boiled sweet, a lamp shaped like a mushroom, cushions that shouldn't work together but somehow do. **TL;DR:** FunHaus puts every ounce of personality into things you can carry out in a suitcase, rugs, cushions, lamps, curtains, wall art, and leaves the actual flat untouched. That makes it, by accident or design, the most renter-friendly bold-decor trend to come along in years.
 
-I've moved flats three times in the last five years, and every time the walls had to go back to magnolia. What never had to change was the stuff sitting on top of the room. That's FunHaus, before it had a name.
+What never had to change was the stuff sitting on top of the room. That's FunHaus, before it had a name.
 
 ## What Actually Is the FunHaus Decor Trend?
 
@@ -43,7 +43,7 @@ The name has been circulating on Pinterest through 2026 as a shorthand for rooms
 
 Where a lot of "bold" trends assume you own the walls, FunHaus assumes you don't. It works around that constraint instead of ignoring it.
 
-Most [maximalist](/blog/maximalist-living-room-decor-uk) trends get diluted the moment someone tries to apply them to a rental, because half the instructions involve paint or wallpaper. FunHaus is the first version of "bold decor" I've seen that was clearly built with renters in mind from the start, not adapted for them afterwards.
+Most [maximalist](/blog/maximalist-living-room-decor-uk) trends get diluted the moment someone tries to apply them to a rental, because half the instructions involve paint or wallpaper.
 
 ## Why Does FunHaus Suit UK Renters So Well?
 
@@ -51,7 +51,7 @@ FunHaus suits UK renters because every element is movable, so nothing risks a te
 
 Standard UK assured shorthold tenancies almost always ban structural changes, paint colour changes, and drilling without permission. That rules out most bold-decor advice you'll find aimed at homeowners: accent walls, built-in shelving, painted skirting boards. FunHaus sidesteps the entire list.
 
-In my last two flats, the rug and cushions moved with me both times, and the deposit came back in full both times too. The lamp came with me as well. Nothing about the actual property changed at any point, which is the whole appeal when you're renting.
+Nothing about the actual property changed at any point, which is the whole appeal when you're renting.
 
 There's also a practical financial upside. A striped rug or a set of cushion covers is a purchase you keep using for years across multiple flats, unlike a paint job that gets painted straight back over the day you move out.
 
@@ -111,7 +111,7 @@ This isn't a one-weekend spend for most people, and it doesn't need to be. Build
 
 The single biggest mistake with FunHaus is treating every item as its own main event, which reads as chaotic rather than curated. Pick one dominant bold pattern or colour family, usually the rug, and let every other piece support it instead of competing with it.
 
-I tested this the hard way in my own living room: version one had a striped rug, a floral cushion, a spotted lamp shade and a checked cushion all in unrelated colourways, and it looked like a jumble sale. Version two kept the same rug but matched the cushions and lamp shade to two of the rug's actual colours, and the same "bold" room suddenly read as intentional.
+Version two kept the same rug but matched the cushions and lamp shade to two of the rug's actual colours, and the same "bold" room suddenly read as intentional.
 
 A simple rule that works: after the rug is chosen, every other item should contain at least one colour already present in the rug. That single constraint does most of the work of keeping a loud room coherent rather than noisy.
 

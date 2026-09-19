@@ -64,7 +64,6 @@ The Energy Saving Trust estimates that draught-proofing a typical semi-detached 
 - **Chimney balloon** (if your fireplace is decorative or unused) — inflatable device that sits in the flue, ~£20–£25 from Amazon UK
 - **Letterbox brush excluder** — fits inside the letterbox, ~£5–£8
 
-I put a chimney balloon in my [Victorian terrace](/blog/victorian-terrace-interior-ideas-uk)'s living room fireplace three winters ago, combined with a door draught excluder on the front door. The difference in room temperature was immediate and measurable — the room held heat for noticeably longer after the heating went off.
 
 **Renter note:** Check your tenancy agreement before making any fixed changes. Draught excluders placed at doors are fine. Window seal tape is removable and generally safe. A chimney balloon is removable and non-damaging. Ask your landlord about fixed draught-proofing if significant draughts are affecting your comfort — they have a legal obligation to maintain a habitable temperature.
 
@@ -121,7 +120,7 @@ Winter textiles are heavier, denser, and warmer than their spring or summer equi
 - **Extra blanket on the bed** — a folded blanket at the foot of the bed that can be pulled up on cold nights
 - **Slipper socks within reach** — specifically keeping a basket of slippers by the door for people arriving from cold outside
 
-In my own home, the winter textile setup costs me an additional ~£0 per year because I store and rotate seasonally. The outlay happened once; the benefit recurs every year.
+The outlay happened once; the benefit recurs every year.
 
 Next Home consistently does the best chunky throws for the price — from ~£25 in their seasonal range. Dunelm has good options from ~£18.
 
@@ -133,7 +132,6 @@ The concept of a hibernation corner is simple: one specific spot in the house th
 
 An IKEA Poäng armchair costs around £115 and, paired with a lamp, side table, and throw, forms the complete four-element hibernation corner — proof that this winter base doesn't need to be expensive to work.
 
-My hibernation corner is an armchair angled toward the window (though the curtains are closed by 4pm in December). It has a lamp positioned over my shoulder, a side table for tea, and a heavy throw on the arm. I've spent entire winter Saturdays in that chair and it's one of the genuine pleasures of the British winter.
 
 **Building the hibernation corner:**
 

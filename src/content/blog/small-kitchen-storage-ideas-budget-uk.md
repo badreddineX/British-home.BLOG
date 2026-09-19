@@ -27,8 +27,7 @@ faqs:
 ---
 
 Most small kitchen ideas for UK homes are about how it *looks*. In a rented flat or a 1990s [galley kitchen](/blog/galley-kitchen-ideas-uk) with three working cupboards, the real problem is where everything goes. The average British kitchen is around 13 square metres, much of it taken up by units you can't move, according to [Checkatrade](https://www.checkatrade.com)'s UK kitchen size data — so this guide is about making the space you have hold more.
-
-I wrote a separate post on [budget-friendly ways to refresh a kitchen's whole look](/blog/kitchen-on-a-budget-uk/), and another on [styling a kitchen once it's sorted](/blog/kitchen-decor-ideas-uk/). This one is neither of those. This is purely about where things go when you don't have enough space to put them.
+ This is purely about where things go when you don't have enough space to put them.
 
 **TL;DR:** Every idea below costs under £40, works in a [rented flat](/blog/rented-flat-makeover-uk) without drilling into cupboard carcasses, and solves a specific storage problem rather than just adding another basket. Start with the over-door rack and the magnetic strip. Together they cost about £10 and free up a full drawer and a full shelf.
 
@@ -42,7 +41,6 @@ The best spot for one is inside the cupboard under the sink or beside the bin. F
 
 Dunelm and Amazon UK both stock slightly deeper versions (around £8–£12) that fit spray bottles and larger items. Check your door depth before buying. Anything over 5cm deep can catch on the shelf behind it when you close the cupboard.
 
-I fitted one inside my under-sink cupboard about a year ago and it's the single storage change I'd redo first in any new kitchen. It moved eight items off the cupboard floor and onto the door in about ninety seconds.
 
 Over-cupboard door racks cost from £4 at Wilko and add a full extra storage shelf inside any standard UK kitchen cupboard door, without drilling ([Wilko](https://www.wilko.com) retailer pricing, 2026).
 
@@ -96,7 +94,6 @@ Choose square or rectangular containers over round ones. They pack together with
 
 Label the containers, even roughly, with a chalk pen or printed sticker. It sounds like a small thing, but it's the difference between opening a cupboard and instantly finding rice, and opening it to five identical clear boxes and guessing.
 
-Switching my two most-used cupboards to stackable containers took one Sunday afternoon and about £22 in total. I still open those cupboards and feel slightly smug, which tells you how low the bar was before.
 
 Stackable clear containers from Wilko (from £6 for a set) create pantry-style storage in a single small cupboard by using vertical space that loose packaging wastes ([Wilko](https://www.wilko.com) retailer pricing, 2026).
 

@@ -30,9 +30,9 @@ faqs:
     a: "Yes — especially on solid wood or MDF doors. Painting saves thousands versus replacing units and can last 5–7 years with proper prep and the right paint. Avoid painting thermofoil or laminate doors without specialist primer."
 ---
 
-A few months after I painted my own cabinet doors, a friend asked me to help her decide between a respray and a full replacement. Her kitchen units were structurally fine, just dated: orange pine doors from the early 2000s, brass handles, the works. We spent an evening going through every option, and the price differences genuinely surprised her.
+Her kitchen units were structurally fine, just dated: orange pine doors from the early 2000s, brass handles, the works. We spent an evening going through every option, and the price differences genuinely surprised her.
 
-That conversation is the reason this post exists. My [budget kitchen guide](/blog/kitchen-on-a-budget-uk/) covers cabinet painting as one of fourteen tips, but cabinets deserve their own deep dive. If you're weighing up affordable kitchen cabinets UK options, here's exactly what each route costs, how long it lasts, and which one actually suits your situation.
+That conversation is the reason this post exists. If you're weighing up affordable kitchen cabinets UK options, here's exactly what each route costs, how long it lasts, and which one actually suits your situation.
 
 > **Key Takeaways**
 > - DIY paint costs £30–£60 and is the cheapest full transformation, lasting 3–5 years with proper prep.
@@ -48,7 +48,7 @@ That conversation is the reason this post exists. My [budget kitchen guide](/blo
 
 DIY cabinet painting costs £30–£60 in materials for an average UK kitchen and remains the cheapest full transformation available. Rust-Oleum Kitchen Cupboard Paint (around £18 per tin at B&Q and Screwfix) covers roughly 12–15 doors per tin, and most kitchens need two.
 
-I've already covered the full painting method, including prep, priming, and colour choices, in my [budget kitchen guide](/blog/kitchen-on-a-budget-uk/). The short version: remove the doors, clean with sugar soap, sand lightly, prime anything glossy or laminate, then apply two thin coats.
+The short version: remove the doors, clean with sugar soap, sand lightly, prime anything glossy or laminate, then apply two thin coats.
 
 In our experience, the finish holds up well on solid wood and MDF but struggles on thermofoil or high-gloss vinyl doors without a proper adhesion primer. If your doors are that shiny, factory-style laminate, skip straight to vinyl wrap or a professional respray instead.
 
@@ -101,7 +101,7 @@ Vinyl wrap film costs £150–£400 for a full kitchen and works as a genuinely 
 
 Application involves cleaning the doors thoroughly, measuring and cutting the film to size, then applying it with a squeegee to push out air bubbles, working slowly to avoid creases. It's more fiddly than painting but doesn't require any drying time between steps, so a full kitchen can realistically be wrapped in a weekend.
 
-Durability sits between DIY paint and a respray, typically 3–7 years depending on how carefully it's applied and how close doors are to heat sources. I tried a small offcut of vinyl wrap on a cupboard door near my hob two years ago, and while most of it still looks sharp, the edge closest to the heat has started to lift slightly. Leaving a small gap from any hot surface, and choosing a matte rather than gloss film, seems to help it last.
+Durability sits between DIY paint and a respray, typically 3–7 years depending on how carefully it's applied and how close doors are to heat sources. Leaving a small gap from any hot surface, and choosing a matte rather than gloss film, seems to help it last.
 
 Vinyl wrap suits renters, anyone unsure about committing to a colour, or kitchens with laminate doors that paint won't stick to properly without extensive prep.
 
@@ -182,7 +182,6 @@ Yes — especially on solid wood or MDF doors. Painting saves thousands versus r
 
 There's no single right answer here, it genuinely depends on your doors, your budget, and how long you plan to stay in the property. If you're renting or unsure, start with handles or vinyl wrap. If you own and your doors are solid, DIY paint gives you the best pound-for-pound transformation. And if you've got a bit more to invest, a respray or replacement doors will outlast almost anything else on this list.
 
-For the other thirteen ways to refresh a tired kitchen without a full renovation, from lighting to splashbacks to worktops, my [budget kitchen guide](/blog/kitchen-on-a-budget-uk/) covers the full picture.
 
 **Related reading you might find useful:**
 

@@ -28,8 +28,7 @@ faqs:
   - q: "Can I replace the medicine cabinet in a UK rental bathroom?"
     a: "You can swap a surface-mounted medicine cabinet without any damage to walls or plumbing. Surface-mounted units typically have two to four screws. Remove the old cabinet, patch the screw holes with a renter-safe filler when you leave, and install the new one. This is distinct from recessed cabinets (built into the wall), which you should leave untouched in a rental."
 ---
-
-My bathroom in a [rented flat](/blog/rented-flat-makeover-uk) in London was 38 sq ft. That is not a typo. There was a toilet, a pedestal basin with zero storage underneath, a shower cubicle, and about 60cm of floor space between them. When I moved in, my toiletries lived on the cistern and the edge of the basin. Within three months I had figured out a system that actually works — no drilling required, all from UK retailers, under £180 total for the core setup. Here is that system, in the order that makes the most difference.
+ There was a toilet, a pedestal basin with zero storage underneath, a shower cubicle, and about 60cm of floor space between them. Here is that system, in the order that makes the most difference.
 
 **TL;DR:**
 - **First move:** freestanding over-toilet shelves (~£30-£45, Amazon UK) — adds three shelves of [vertical storage](/blog/vertical-storage-ideas-uk-flats) instantly, no drilling

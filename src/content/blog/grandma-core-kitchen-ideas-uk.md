@@ -80,7 +80,6 @@ Scalloped, or "wavy," edges appear on shelf trims, blind hems, and cushion cover
 
 A scalloped shelf edge can be bought as a ready-made trim or made with a length of fabric and basic sewing, and it turns a plain open shelf into something that reads as intentional rather than incomplete.
 
-I added a scalloped trim to a single open shelf above my kettle using leftover gingham fabric and fabric glue. It took under an hour and changed how the whole shelf read, from "unfinished DIY" to "deliberately styled."
 
 - Ready-made scalloped shelf trim: Etsy UK sellers, from ~£12
 - DIY version: offcut fabric + fabric glue, under £5 if using leftover material

@@ -30,13 +30,13 @@ faqs:
     a: "Most UK renters can DIY this safely with proper prep. Clean with sugar soap (~£6 at B&Q), lightly sand, and use a specialist cabinet paint like Dulux Kitchen Cupboard Paint for durability. Two coats typically dry within 24 hours between applications."
 ---
 
-I've renovated three rented flats across the UK — each with dated kitchens and tight deposit limits — and earthy neutrals have become my go-to for timeless, low-stress updates. They’re not just calming, they’re practical: less obvious dirt than white, less cold than pure grey, and they age gracefully as trends shift. Warm, grounded palettes have overtaken stark white as the default choice in most 2026 UK kitchen trend reports — and it’s easy to see why: they work with old and new homes alike.
+They’re not just calming, they’re practical: less obvious dirt than white, less cold than pure grey, and they age gracefully as trends shift. Warm, grounded palettes have overtaken stark white as the default choice in most 2026 UK kitchen trend reports — and it’s easy to see why: they work with old and new homes alike.
 
 **TL;DR:** Earthy neutral kitchen colours are in for 2026 — think oatmeal, warm beige, charcoal, and clay. A two-tone approach (light up, dark down) adds depth without overwhelming the space. You can pull it off for under £500 using DIY paint, peel-and-stick backsplash, and new hardware. All the fixes here are deposit-safe, so no landlord drama.
 
 ## 1. Why Do Earthy Neutrals Fit UK Kitchens So Well?
 
-Earthy neutrals have deep roots in British interiors — think Cotswolds stone, traditional clay roof tiles, and the soft greys of coastal cliffs. They balance warmth with restraint, perfect for UK homes where lighting can be tricky and kitchens often double as living zones. Better still, they’re forgiving: fingerprints, splatters, and worn edges blend in far better than stark white. Search interest in earthy kitchen tiles has been climbing steadily, with a noticeable seasonal peak every spring as people refresh after winter. I’ve found these tones make even small, north-facing kitchens feel cozier — and you don’t need perfect lighting to pull them off.
+Earthy neutrals have deep roots in British interiors — think Cotswolds stone, traditional clay roof tiles, and the soft greys of coastal cliffs. They balance warmth with restraint, perfect for UK homes where lighting can be tricky and kitchens often double as living zones. Better still, they’re forgiving: fingerprints, splatters, and worn edges blend in far better than stark white. Search interest in earthy kitchen tiles has been climbing steadily, with a noticeable seasonal peak every spring as people refresh after winter.
 
 ## 2. What Is the 2026 Earthy Neutral Kitchen Palette?
 
@@ -44,11 +44,11 @@ Stick to three core families: warm beiges (like ‘Natural Linen’), muted clay
 
 ## 3. Two-Tone Logic: Light Up, Dark Down (or Vice Versa)
 
-This is the most budget-friendly and visually balanced approach. Paint upper cabinets in a warm oatmeal like Farrow & Ball ‘String’ (~£35 for 750ml, worth splurging on for small areas) against a soft charcoal lower half (‘Dark Slate’ ~£32 at Dulux) for full-step contrast without repainting the whole kitchen. It adds dimension without making the room feel heavy. I tried this in a Brixton studio: the high cabinets brightened the ceiling, while the darker base units grounded the space. Bonus: use the same shade on your fridge or pantry cabinet to tie it together. Just ensure there’s at least one full step of contrast, not just a shade lighter.
+This is the most budget-friendly and visually balanced approach. Paint upper cabinets in a warm oatmeal like Farrow & Ball ‘String’ (~£35 for 750ml, worth splurging on for small areas) against a soft charcoal lower half (‘Dark Slate’ ~£32 at Dulux) for full-step contrast without repainting the whole kitchen. It adds dimension without making the room feel heavy. Bonus: use the same shade on your fridge or pantry cabinet to tie it together. Just ensure there’s at least one full step of contrast, not just a shade lighter.
 
 ## 4. Why Is Peel-and-Stick Backsplash a Deposit-Safe Hero?
 
-Skip tiling over tiles, it's permanent and usually banned in leases. Instead, use a peel-and-stick tile brand like FloorPops: a stone-look range (30x30cm) costs ~£18 per pack on Amazon UK, and a full 1.8m kitchen run comes to roughly £42 in materials. I installed one myself in 45 minutes with no residue left on removal. Measure your space, clean with sugar soap first (£6 at B&Q), then press and smooth with a squeegee. The texture adds visual depth without the mess, and it’s exactly how I salvaged a landlord’s awful 90s beige tiling.
+Skip tiling over tiles, it's permanent and usually banned in leases. Instead, use a peel-and-stick tile brand like FloorPops: a stone-look range (30x30cm) costs ~£18 per pack on Amazon UK, and a full 1.8m kitchen run comes to roughly £42 in materials. Measure your space, clean with sugar soap first (£6 at B&Q), then press and smooth with a squeegee.
 
 ## 5. How Can £20 of Hardware Swaps Transform a Kitchen?
 
@@ -60,7 +60,7 @@ If you’re replacing or overlaying countertops, choose engineered stone with wa
 
 ## 7. Open Shelves: Keep It Light and Airy
 
-Built-in shelves can feel heavy, especially in small kitchens. Open shelves in a warm walnut effect (IKEA’s ‘JARAS’ shelf, £12.99 per 60cm) keep light moving and show off your favourite mugs and pottery. They’re renter-friendly and can go up damage-free with a £6.99 pack of heavy-duty Command strips (12 per pack, Amazon UK). I’ve used them over the sink in two flats with zero damage claims. Space them irregularly, 30cm, then 40cm, then 25cm, for a relaxed, curated look.
+Built-in shelves can feel heavy, especially in small kitchens. Open shelves in a warm walnut effect (IKEA’s ‘JARAS’ shelf, £12.99 per 60cm) keep light moving and show off your favourite mugs and pottery. They’re renter-friendly and can go up damage-free with a £6.99 pack of heavy-duty Command strips (12 per pack, Amazon UK). Space them irregularly, 30cm, then 40cm, then 25cm, for a relaxed, curated look.
 
 ## 8. How Do You Choose Lighting That Warms Up an Earthy Kitchen?
 
@@ -80,11 +80,11 @@ Bring in texture with jute rugs (Dunelm, £24 for 140x200cm), woven placemats (J
 
 ## 12. What Budget Mistakes Should You Avoid?
 
-First, don’t skimp on paint prep, masking tape and sanding light edges prevents peeling. Second, don’t mix warm and cool earthy tones too freely (e.g., yellow-beige + blue-grey = muddy). Third, skip cheap veneer overlays that warp in humidity, they cost less up front but look cheap fast. Last, resist adding three ‘accent’ colours, stick to one warm and one cool neutral, max. I once used a ‘mustard’ backsplash on a budget job; it dominated the space and cost me £50 to fix later, which is reason enough to keep accents capped.
+First, don’t skimp on paint prep, masking tape and sanding light edges prevents peeling. Second, don’t mix warm and cool earthy tones too freely (e.g., yellow-beige + blue-grey = muddy). Third, skip cheap veneer overlays that warp in humidity, they cost less up front but look cheap fast. Last, resist adding three ‘accent’ colours, stick to one warm and one cool neutral, max.
 
 ## 13. What Are the Best Landlord-Approved Options for Renters?
 
-If you’re renting, focus on non-permanent changes: peel-and-stick tiles, Command hooks, freestanding furniture (like a vintage sideboard for storage), and tension rods for curtain-like backsplash panels. I’ve used linen fabric over a rod with weighted dowels for £12 total, and like peel-and-stick tiles, it leaves no permanent marks for a landlord to notice. Tell your landlord you’re ‘refreshing’ with removable features, most don’t care as long as the paint colour is neutral and you’re not drilling. Always take photos before moving out.
+If you’re renting, focus on non-permanent changes: peel-and-stick tiles, Command hooks, freestanding furniture (like a vintage sideboard for storage), and tension rods for curtain-like backsplash panels. Tell your landlord you’re ‘refreshing’ with removable features, most don’t care as long as the paint colour is neutral and you’re not drilling. Always take photos before moving out.
 
 ## 14. Real Budget Breakdown: Under £500 Total
 

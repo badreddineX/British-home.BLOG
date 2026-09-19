@@ -31,7 +31,7 @@ faqs:
     a: "Not if you stick to reversible options: under-bed bags, hangers, tension rods, over-door organisers, and Command-strip floating shelves all install and remove without tools or wall damage. Anything requiring a drilled fixing — a wall-mounted wardrobe or shelving screwed into the wall — should get landlord sign-off first, since most UK tenancy deposit schemes require the property returned to its original condition."
 ---
 
-The bedroom in a small UK flat has to do double duty: sleep and storage. Most small bedrooms do the sleep part reasonably well and the storage part badly — the result is a room that always feels cluttered and slightly too small. After renting small bedrooms in London and Manchester, the under-bed and wardrobe changes in this list are the ones I'd make first — they cost under £25 combined and the difference is immediate. Here is the complete approach to bedroom storage, in the order that makes the most difference.
+The bedroom in a small UK flat has to do double duty: sleep and storage. Most small bedrooms do the sleep part reasonably well and the storage part badly — the result is a room that always feels cluttered and slightly too small. Here is the complete approach to bedroom storage, in the order that makes the most difference.
 
 **TL;DR:** Start with under-bed storage (IKEA SKUBB bags, ~£6) and slim velvet hangers (~£15, Amazon UK) — together these two changes can transform a small bedroom for under £25. Add a tension rod for double hanging (£12) and an over-door wardrobe organiser (£18-£25). The IKEA NORDLI storage bed (from £350) replaces the chest of drawers entirely and is the most impactful single furniture purchase for a small bedroom.
 

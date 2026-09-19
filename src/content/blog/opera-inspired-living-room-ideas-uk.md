@@ -33,13 +33,13 @@ faqs:
 
 ## 1. Start With Velvet — But Smartly
 
-Velvet is the star of the opera aesthetic, and you don’t need full upholstery to get the look. I’ve covered three vintage dining chairs in IKEA’s £12 Ektorp slipcovers (a deep bordeaux), and they looked like bespoke theatre seats. For renters, slipcovers and peel-and-stick options are your friends — no nails, no damage, and washable to boot. Dunelm stocks velvet cushion inserts from ~£8 each, or grab ready-made ones like their ‘Luxe Velvet’ range (35x35cm, ~£14). Layer with a £19 velvet ottoman from Wayfair UK — roll it under your sofa and instantly add height and texture. Avoid synthetic ‘velvet-look’ fabrics that shimmer too much — real velvet absorbs light, giving that signature rich, quiet opulence.
+Velvet is the star of the opera aesthetic, and you don’t need full upholstery to get the look. For renters, slipcovers and peel-and-stick options are your friends — no nails, no damage, and washable to boot. Dunelm stocks velvet cushion inserts from ~£8 each, or grab ready-made ones like their ‘Luxe Velvet’ range (35x35cm, ~£14). Layer with a £19 velvet ottoman from Wayfair UK — roll it under your sofa and instantly add height and texture. Avoid synthetic ‘velvet-look’ fabrics that shimmer too much — real velvet absorbs light, giving that signature rich, quiet opulence.
 
 ![A beige sofa with vintage-style cushions in emerald green velvet, placed beside a brass floor lamp](/images/pexels-1571459.jpg)
 
 ## 2. Build Your Lighting Layers Like a Stage Manager
 
-Opera interiors use lighting to evoke mood — not just to see by. Start with ambient base light: plug-in LED strips (B&Q, ~£8 for 2m) behind your TV unit or under shelves. Add task lighting with a floor lamp — try Next Home’s ‘Atelier’ swing-arm lamp (~£28) with an Edison-style bulb. For accents, place mini brass or black brass-finish table lamps on console tables (John Lewis has vintage-style ones from ~£45). Dimmers are your best friend — both for realism and flexibility. Bonus: dimmed lights flatter deep-coloured walls and velvet surfaces. My tip? Rotate bulb wattages — use 40W vintage bulbs for ambient, 60W for reading — to keep your eyes happy and the room feeling layered, not flat.
+Opera interiors use lighting to evoke mood — not just to see by. Start with ambient base light: plug-in LED strips (B&Q, ~£8 for 2m) behind your TV unit or under shelves. Add task lighting with a floor lamp — try Next Home’s ‘Atelier’ swing-arm lamp (~£28) with an Edison-style bulb. For accents, place mini brass or black brass-finish table lamps on console tables (John Lewis has vintage-style ones from ~£45). Dimmers are your best friend — both for realism and flexibility. Bonus: dimmed lights flatter deep-coloured walls and velvet surfaces. The tip? Rotate bulb wattages — use 40W vintage bulbs for ambient, 60W for reading — to keep your eyes happy and the room feeling layered, not flat.
 
 ## 3. Feature Walls That Whisper, Not Shout
 
@@ -51,7 +51,7 @@ Don’t just go ‘dark’ — go *deep*. Think not black, but bordeaux, inky te
 
 ## 5. Thrift Those Opera Details (Without the Fuss)
 
-Real opera flair lives in the storytelling — and that’s where charity shops and online marketplaces shine. I once scored a 1950s pair of gold opera binoculars for £3 at a Bristol Oxfam — they sit on my shelf above the fireplace now, with a few vintage opera programmes. Search Etsy UK for ‘vintage theatre brooch’ (from ~£8), or Browse Facebook Marketplace for old picture frames. A £10 gold-plated frame, clean and hung grouped, feels way more like a pro design move than anything from a big box store. Display them on open shelving over a velvet armchair — no drilling, no damage, just character.
+Real opera flair lives in the storytelling — and that’s where charity shops and online marketplaces shine. Search Etsy UK for ‘vintage theatre brooch’ (from ~£8), or Browse Facebook Marketplace for old picture frames. A £10 gold-plated frame, clean and hung grouped, feels way more like a pro design move than anything from a big box store. Display them on open shelving over a velvet armchair — no drilling, no damage, just character.
 
 ![Open wooden shelf with three vintage brass frames, one holding a photo of an old theatre poster](/images/cosy-bedroom-diffuser-lamp.jpg)
 
@@ -65,17 +65,17 @@ Theatre spaces often have plush carpets, heavy drapes, and velvet seats — but 
 
 ## 8. Add Gold or Brass — Without the Gilding
 
-Gold shouldn’t glisten — it should gleam. Pick matte or brushed finishes for sophistication: brass bar handles on a vintage chest (Thriftstore, ~£8 for 4), or a brass-finish plug socket cover (Amazon, £6 for 2). B&Q sells matte black brass-effect downlights (plug-in version, ~£12) — pop one under a shelf for subtle drama. I placed a brass candle lantern (Dunelm, ~£18) on a console with a single pillar candle — no open flame, just warm reflection. Avoid chrome — it clashes with the opera mood. Stick to warm metals only, and limit to three points of contact (one lamp, one handle, one frame).
+Gold shouldn’t glisten — it should gleam. Pick matte or brushed finishes for sophistication: brass bar handles on a vintage chest (Thriftstore, ~£8 for 4), or a brass-finish plug socket cover (Amazon, £6 for 2). B&Q sells matte black brass-effect downlights (plug-in version, ~£12) — pop one under a shelf for subtle drama. Avoid chrome — it clashes with the opera mood. Stick to warm metals only, and limit to three points of contact (one lamp, one handle, one frame).
 
 ![A console table with black matte finish, brass drawer pulls, and a brass candle lantern lit with LED bulb](/images/pexels-1571453.jpg)
 
 ## 9. Keep the Mantel or Shelf Curated
 
-Opera isn’t clutter — it’s curated drama. Stick to odd numbers: three items on a shelf, five on a mantel. I used a grey stone plinth (B&Q, ~£10), a £15 black ceramic candle holder, and two open velvet books — simple, tall, and elegant. Mix textures: a smooth ceramic, a fuzzy throw, a glossy frame. Avoid matching pairs unless it’s intentional — asymmetry reads as more confident. Keep background neutral (white, cream, light grey) so your focal objects pop. Renter pro tip: use removable mounting putty (Command, ~£6) for shelves — just test a patch first.
+Opera isn’t clutter — it’s curated drama. Stick to odd numbers: three items on a shelf, five on a mantel. Mix textures: a smooth ceramic, a fuzzy throw, a glossy frame. Avoid matching pairs unless it’s intentional — asymmetry reads as more confident. Keep background neutral (white, cream, light grey) so your focal objects pop. Renter pro tip: use removable mounting putty (Command, ~£6) for shelves — just test a patch first.
 
 ## 10. Add a Velvet Accent Chair (Even in a Small Room)
 
-This is your big splurge — and worth it. I found a £129 vintage velvet armchair (Wayfair UK) in burnt orange, re-upholstered it myself with a £25 slipcover (Dunelm), and it’s the hero of my living room. Look for slim-arm frames if space is tight — Next Home’s ‘Barcelona’ style chair is ~£169, but often discounted. Renters: go for freestanding, non-permanent options. Place it angled slightly toward a light or mirror. A £9 velvet cushion on top (IKEA, £9) finishes it off. Bonus: remove the slipcover in summer and pop it in the washing machine — very Britishweather-ready.
+This is your big splurge — and worth it. Look for slim-arm frames if space is tight — Next Home’s ‘Barcelona’ style chair is ~£169, but often discounted. Renters: go for freestanding, non-permanent options. Place it angled slightly toward a light or mirror. A £9 velvet cushion on top (IKEA, £9) finishes it off. Bonus: remove the slipcover in summer and pop it in the washing machine — very Britishweather-ready.
 
 ## The Velvet & Lighting Priority Order
 

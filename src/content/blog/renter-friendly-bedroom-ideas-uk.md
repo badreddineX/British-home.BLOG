@@ -34,7 +34,7 @@ faqs:
 
 Most rented bedrooms in the UK come with magnolia walls, a fitted wardrobe you can't stand, and a strict no-drilling clause in the tenancy agreement. **TL;DR:** Peel-and-stick wallpaper on one wall, Command strips for a [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk), freestanding furniture instead of anything fitted, clip-on or plug-in lighting, and a door curtain for draughts. Every change here removes cleanly at check-out and none of it touches the landlord's plaster, paint, or wiring.
 
-I've rented four flats across three UK cities in the last six years, and every single deposit came back in full. The trick isn't decorating less. It's decorating in ways that come apart as easily as they went up. Below is the full list, in the order I'd tackle a bare rented bedroom.
+The trick isn't decorating less. It's decorating in ways that come apart as easily as they went up.
 
 ---
 
@@ -46,7 +46,6 @@ Buy the variety pack (£8-£12, Amazon UK or Wilko) so you have both small and l
 
 Arrange frames on the floor first, tape their outlines to the wall with painter's tape, then stick the actual frames on last. This avoids the classic gallery-wall mistake of committing to a layout you don't like once it's already up.
 
-If you want a fuller walkthrough of layouts and spacing, I've written a dedicated guide to [renter-friendly gallery wall ideas UK](/blog/renter-friendly-gallery-wall-ideas-uk/) that goes deeper than this section can.
 
 
 ## Is Peel-and-Stick Wallpaper Actually Renter-Safe?
@@ -89,7 +88,7 @@ A freestanding wardrobe assembles with an Allen key and stands on its own weight
 | Door curtain | £20-£40 | Yes |
 | Wired wall sconce | £25-£60 | No, requires an electrician |
 
-For more of the visual side, my guide to [bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/) covers colour and layout choices that pair well with freestanding furniture once storage is sorted.
+For more of the visual side, our guide to [bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/) covers colour and layout choices that pair well with freestanding furniture once storage is sorted.
 
 ## Can You Get Wall-Lit Reading Lights Without an Electrician?
 
@@ -106,7 +105,6 @@ A door curtain (£20-£40, Dunelm or Amazon UK) hung from a tension rod inside t
 
 Pair the curtain with a draught excluder (£8-£15) along the base of the door for the gap underneath, which a curtain alone doesn't cover. Together these two fixes handle the two places period doors leak heat: around the frame and along the floor.
 
-My last flat, a Victorian conversion in Bristol, had a bedroom door with a visible gap along the top and sides. A door curtain and a draught excluder together made a noticeable difference to how warm the room felt on cold nights, and neither fix left a mark on the door or frame when I moved out.
 
 ---
 

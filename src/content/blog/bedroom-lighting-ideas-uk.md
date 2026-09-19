@@ -41,7 +41,7 @@ Most UK rental bedrooms come with exactly one lighting option: a single overhead
 
 Standard landlord fittings almost always use a cool white bulb above 4000K, the same temperature you'd find in an office or a supermarket aisle. That colour temperature makes a bedroom feel clinical rather than restful, no matter how nice the rest of the decor is.
 
-The fix costs less than a takeaway. A warm white 2700K-3000K LED bulb (~£4-£6 at B&Q, Wilko, or Amazon UK) drops straight into the existing fitting. I made this swap in my first London flatshare and it's still the single cheapest lighting upgrade I've ever made, the room genuinely felt different by that evening.
+The fix costs less than a takeaway. A warm white 2700K-3000K LED bulb (~£4-£6 at B&Q, Wilko, or Amazon UK) drops straight into the existing fitting.
 
 **Quick check before buying:**
 - Look for "2700K" or "warm white" on the box, not just "soft white"
@@ -116,7 +116,7 @@ Start from the top of this table and work down. A warm bulb and one lamp already
 
 Based on the products and prices referenced throughout this guide, a complete layered setup, warm bulb, floating shelf lamp, dimmer adapter, and an LED strip, comes to roughly £53-£69 total, all fully removable at the end of a tenancy.
 
-That's less than most single furniture pieces, and it changes how the whole room feels far more than most furniture does. Bedroom lighting has one of the best cost-to-impact ratios of any rental-friendly change I've made.
+That's less than most single furniture pieces, and it changes how the whole room feels far more than most furniture does.
 
 ---
 

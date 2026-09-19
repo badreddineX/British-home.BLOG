@@ -31,7 +31,7 @@ Hallway ideas written for big American entryways don't help here. The British ha
 
 According to a 2023 survey by the [Royal Institute of British Architects](https://www.architecture.com), nearly 60% of UK homes built before 1919 have entrance hallways under 1.2 metres wide. That's a very particular design challenge — and most American or Scandinavian hallway inspiration on Pinterest simply doesn't translate.
 
-I've styled three different British hallways across rented flats and a terraced house. The same principles worked every time: commit to the constraints rather than fight them, use vertical space deliberately, and sort the light first.
+The same principles worked every time: commit to the constraints rather than fight them, use vertical space deliberately, and sort the light first.
 
 Here's what actually makes a difference, in the order it matters.
 
@@ -57,7 +57,7 @@ Two strategies work well in British hallways, and they sit at opposite ends of t
 
 **Or own the darkness.** Deep tones like Farrow & Ball Hague Blue, Railings (near-black), or Inchyra Blue look intentional in a corridor with no natural light. They make a feature of the darkness rather than fighting it. Dulux Heritage Midnight Teal or Navy hits the same territory. One 2.5L tin covers most hallways twice at around £22–£28 from B&Q.
 
-After trying warm white in my rented terraced house hallway, I repainted in Dulux Heritage Midnight Teal for the next tenancy. The dark version consistently drew more compliments from visitors. It felt resolved rather than apologetic — as though the darkness was deliberate.
+The dark version consistently drew more compliments from visitors. It felt resolved rather than apologetic — as though the darkness was deliberate.
 
 Avoid: magnolia, stark brilliant white, and any cool grey. They all look slightly grubby under artificial light in a narrow corridor.
 
@@ -80,7 +80,7 @@ The **Argos Home Hallie Console Table** (~£65) is 25cm deep, metal-framed, and 
 
 The **Wayfair UK Vasylchenko Console Table** (~£89) is 28cm deep with a drawer, which keeps the surface clear. That drawer is more useful than it sounds — hallways accumulate objects faster than any other room in the house.
 
-I checked the depth specifications of twelve console tables sold by UK retailers in 2025. Only four were genuinely under 30cm deep. Always verify the depth figure in the product specification rather than judging from photography, which consistently makes tables appear slimmer than they are.
+Only four were genuinely under 30cm deep. Always verify the depth figure in the product specification rather than judging from photography, which consistently makes tables appear slimmer than they are.
 
 If nothing shallow enough is available, a floating shelf at shoulder height achieves the same function — keys, a lamp, a small plant — and takes zero floor space. B&Q Goodhome floating shelves start at £12.
 

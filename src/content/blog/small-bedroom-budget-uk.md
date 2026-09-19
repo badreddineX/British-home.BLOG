@@ -33,7 +33,7 @@ faqs:
 
 The best small bedroom ideas for a UK flat aren't about buying more — they're about spending a small budget in the right order. A small UK bedroom can look and feel completely different for under £150 if you do. **TL;DR:** start with bedding (£25-£35), add warm lighting (£15-£20), then a mirror (£35-£45), a rug (£20-£25), and Command-strip wall art (£15-£20). That sequence, in that order, gets you the most visible change per pound spent, and the full refresh lands at roughly £140-£148.
 
-I've done versions of this refresh in two different rented rooms, one in London, one in Manchester, and the order matters more than the total budget. Buy the wall art first and a tired room still looks tired underneath it. Buy the bedding first and even a half-finished room already feels cared for. Here's the priority order I'd use again, with real UK prices.
+Buy the wall art first and a tired room still looks tired underneath it. Buy the bedding first and even a half-finished room already feels cared for.
 
 ---
 
@@ -41,7 +41,7 @@ I've done versions of this refresh in two different rented rooms, one in London,
 
 Bedding is the highest-impact purchase in a small bedroom refresh, and a full duvet cover set costs £25-£35 at Dunelm or Amazon UK ([Dunelm](https://www.dunelm.com/), 2026 pricing). It's the largest fabric surface in the room, so a colour or pattern change here is the first thing anyone notices when they walk in.
 
-In both rooms I refreshed, swapping tired grey bedding for a warm neutral duvet set was the single change guests actually commented on unprompted. Nothing else on this list got that reaction on its own.
+Nothing else on this list got that reaction on its own.
 
 ### What Should You Actually Buy?
 
@@ -70,7 +70,6 @@ Yes, and a large leaning mirror costs £35-£45 at IKEA or B&M, which is genuine
 
 IKEA's HOVET or NISSEDAL leaning mirrors run £35-£65 depending on size, and B&M regularly stocks similar full-length leaning mirrors from £30-£40. A leaning mirror needs no drilling and no wall fixings, which matters in a [rented flat](/blog/rented-flat-makeover-uk).
 
-Measuring both rooms I refreshed before and after adding a large mirror, the change wasn't in square footage, obviously, but in how long visitors took to comment that the room "felt bigger." In both cases it was within the first minute of walking in, unprompted.
 
 **Cost:** £35-£45.
 

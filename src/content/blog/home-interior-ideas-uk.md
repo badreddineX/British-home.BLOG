@@ -30,13 +30,12 @@ faqs:
 ---
 
 
-I've spent years thinking about what makes British homes feel genuinely good to be in. Not showroom-perfect, not Instagram-styled, but the kind of home you walk into and immediately relax. The homes that feel considered without feeling rigid, warm without being cluttered, personal without being chaotic.
+Not showroom-perfect, not Instagram-styled, but the kind of home you walk into and immediately relax. The homes that feel considered without feeling rigid, warm without being cluttered, personal without being chaotic.
 
 This is the general framework for any British home. If "warm contemporary" is specifically your style direction, see [Modern Home Interior Ideas UK](/blog/modern-home-interior-uk/); if you're stuck on where to actually find good inspiration, see [Home Decor Inspiration UK](/blog/home-decor-inspiration-uk/).
 
 According to [Houzz UK](https://www.houzz.co.uk)'s 2025 Home Renovation Trends Report, 63% of British homeowners say making their home feel more comfortable and personal is their top decorating priority — above aesthetics, above style trends, above resale value. That tells you something important about what British people actually want from their homes.
 
-I've pulled together the four core principles I come back to again and again, plus a room-by-room framework you can use as a starting point.
 
 **TL;DR:** Great British home interiors are built on four things: light that suits our grey climate, colour that works in diffused northern light, texture that creates physical warmth, and personal touches that stop a home feeling like a showroom. This guide covers all four, room by room.
 
@@ -50,7 +49,7 @@ British homes sit in a northern European light that is, for most of the year, di
 
 That means layering warm artificial light rather than relying on daylight to do all the work. A single overhead light makes almost every British room feel clinical or flat. Layer instead: a floor lamp in one corner, a table lamp near the sofa or reading chair, smaller task lights where you need them. Use bulbs rated 2700K — warm white — throughout. You'll notice the difference in the first evening.
 
-I spent three years in a flat with a single overhead pendant in the living room. When I finally bought two floor lamps and a table lamp, the room stopped feeling like a waiting room and started feeling like somewhere I actually wanted to sit. The furniture hadn't changed. The lighting had.
+The furniture hadn't changed. The lighting had.
 
 Two floor lamps and a table lamp, from around £35 each at Dunelm, were enough to turn that overhead-lit living room into somewhere genuinely wanted to sit, without changing a single piece of furniture.
 
@@ -64,7 +63,6 @@ The persistent myth in UK home decoration is that pale, cool colours maximise li
 
 Warm pale colours work much better. Off-whites with a yellow or pink undertone. Soft sage greens. Warm taupe. These tones absorb the grey quality of British light and reflect something warmer back, making rooms feel welcoming rather than washed out.
 
-When I've tested this by painting opposite walls in the same room — one warm neutral, one cool neutral — the warm wall consistently reads as more inviting in photographs taken in afternoon British light, even when the actual light level is identical.
 
 Testing a warm neutral against a cool one costs as little as £3–£5 for a Dulux or Farrow & Ball tester pot, yet the warm wall consistently reads as more inviting in identical British afternoon light.
 
@@ -136,7 +134,6 @@ Often neglected, but it's the first impression every room in your home makes. A 
 
 ## 6. What Are the Most Common British Interior Mistakes?
 
-These are the patterns I see again and again in UK homes that prevent a room from reaching its potential.
 
 A reed diffuser or scented candle costing under £10 does as much to make a room feel welcoming as fixing any of the other mistakes on this list.
 

@@ -28,7 +28,6 @@ faqs:
 
 The average UK kitchen worktop replacement costs between £45 and £120 per run for laminate, and considerably more for solid surface, according to retailer pricing at Wickes and B&Q. That's a lot for a surface that might just be tired-looking rather than actually broken.
 
-I learned this the hard way. My old worktop had a burn ring near the hob, a few chips along the front edge, and a general beige dullness that made the whole kitchen look dated even after I'd painted the cabinets. Replacing it properly would have meant a jigsaw, a trip to Wickes for offcuts, and a Saturday I didn't have. So I looked at what else was out there, and it turns out there are three genuinely cheap fixes worth knowing about before you commit to full replacement.
 
 This post covers worktop wrap film, laminate worktop paint kits, and front edge strip replacement, plus where full replacement still makes sense as a comparison point. All three below-replacement options solve different problems, so the right one depends on what's actually wrong with your worktop.
 
@@ -54,9 +53,8 @@ For the wider kitchen refresh picture beyond worktops alone, [I've covered the f
 
 Worktop wrap film is a self-adhesive vinyl sheet, usually £20–£35 for a roll around 1.5m x 0.9m from Dunelm, Amazon UK, or d-c-fix, that sticks directly onto an existing flat worktop surface. It's the cheapest full-surface option on this list and needs no tools beyond a craft knife.
 
-The finish convinces from a normal viewing distance. Marble-effect, concrete-effect, and wood-effect patterns are the most popular UK options — white oak in particular is having a moment paired with black cabinetry or fittings — and I've genuinely fooled visitors with a marble-effect roll on a small section behind a kettle. Up close, under bright light, you can tell it's vinyl. Most people don't get that close.
-
-I wrapped a 1.2-metre section of my old worktop as a test before doing the whole thing. It took about ninety minutes, most of which was spent smoothing out air bubbles with an old loyalty card. Two years on, the wrapped section still looks fine, though the edge nearest the hob has started lifting slightly from heat exposure.
+The finish convinces from a normal viewing distance. Up close, under bright light, you can tell it's vinyl. Most people don't get that close.
+ Two years on, the wrapped section still looks fine, though the edge nearest the hob has started lifting slightly from heat exposure.
 
 **Worktop wrap film costs £20–£35 per roll from Dunelm or Amazon UK and covers a standard worktop section in under two hours, though it's not heatproof and shouldn't take direct contact from hot pans.**
 

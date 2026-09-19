@@ -31,7 +31,7 @@ The UK private rented sector has grown sharply over the past two decades. Accord
 
 Here's the uncomfortable truth about British renting: the higher rents go, the more it matters to make a flat feel like home. Spending £1,400 a month on a place that feels temporary and impersonal isn't just aesthetically depressing. It actively affects mood, motivation, and wellbeing. When you can't afford to buy, making a rented space genuinely feel like yours becomes more important, not less.
 
-I've rented for nine years across six different properties in the UK. Three of them were furnished. One had a carpet the colour of dried mustard. Every single one, I made feel like mine — without a single deposit deduction on exit. Here's exactly how.
+Three of them were furnished. One had a carpet the colour of dried mustard. Here's exactly how.
 
 **TL;DR:** The most effective rented flat makeover tools, in order of impact: large rugs, plug-in lighting, freestanding furniture, textile layering, Command strips for gallery walls, curtains on tension rods, and plants. None of these require landlord permission. None leave permanent marks. Together they can take a standard British rental from institutional beige to a home you're genuinely glad to come back to.
 
@@ -87,7 +87,7 @@ Most furnished rented flats come with sofas and beds in beige, grey, or brown. N
 
 The sofa: two new cushion covers in one colour (from ~£6 each at Dunelm), two in a complementary texture or pattern, and a throw draped over the armrest or back. Four covers plus one throw runs about £45 total and takes ten minutes — the existing sofa becomes visually unrecognisable.
 
-The bed: a flat sheet folded back over the duvet, two euro square pillows (65x65cm) in pillowcases behind the sleeping pillows, and a throw folded at the foot. I've done this in four furnished rented bedrooms. In every case, guests assumed I'd chosen the bed, not inherited it. The duvet was the landlord's. The pillowcases were mine. Nobody could tell.
+The bed: a flat sheet folded back over the duvet, two euro square pillows (65x65cm) in pillowcases behind the sleeping pillows, and a throw folded at the foot. The duvet was the landlord's. Nobody could tell.
 
 Dunelm's Dorma range covers most of this for under £60: cushion covers from ~£6, euro pillowcases from ~£12 each, throws from ~£18.
 
