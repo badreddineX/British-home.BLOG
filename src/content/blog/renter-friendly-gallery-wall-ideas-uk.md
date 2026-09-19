@@ -17,13 +17,13 @@ tldr:
   - "Mix textures—cork, fabric, wood—so the gallery feels curated, not fussy."
 faqs:
   - q: "Can I use Command strips for a gallery wall in the UK?"
-    a: "Yes—3M Command™ Picture Hanging Strips (Medium, ~£5.99 for 16 at Dunelm) hold up to 1.6kg per strip pair and remove cleanly. I've used them for five years across my Bristol, Glasgow, and Leeds rentals with zero marks."
+    a: "Yes—3M Command™ Picture Hanging Strips (Medium, ~£5.99 for 16 at Dunelm) hold up to 1.6kg per strip pair and remove cleanly. Follow the pack instructions and they leave no marks."
   - q: "What’s the safest way to hang a heavy mirror in a rental?"
     a: "Avoid wall mounts entirely—opt for a freestanding leaning mirror instead. IKEA’s LACK Leaner Mirror is ~£24 and looks sharp against a gallery wall. For smaller mirrors, try self-adhesive mirror panels like those from B&Q’s ‘Adhere’ range (~£12/sheet)."
   - q: "Do peel-and-stick wallpapers damage plasterboard when removed?"
     a: "When applied and removed correctly, most peel-and-stick wallpapers (e.g., Walltopia at Dunelm, ~£25/roll) don’t damage modern plasterboard. Always test a small area first and remove slowly at a 180° angle, not downwards."
   - q: "How do I prevent my gallery from looking cluttered?"
-    a: "Stick to one colour palette and frame style—white or black wood-look MDF frames from Next Home (~£6–£12 each) give instant cohesion. Lay out your layout on the floor first using masking tape to mark spacing, like I do in every flat I stage."
+    a: "Stick to one colour palette and frame style—white or black wood-look MDF frames from Next Home (~£6–£12 each) give instant cohesion. Lay out your layout on the floor first using masking tape to mark spacing."
 ---
 
 Plenty of UK tenants avoid personalised decor entirely because they fear damaging walls—and repair costs on a botched DIY job are enough to put anyone off.

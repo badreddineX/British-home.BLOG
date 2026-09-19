@@ -22,7 +22,7 @@ faqs:
   - q: "Can I use a fold-down desk in a rented flat without damaging walls?"
     a: "Yes — opt for a wall-mounted desk that brackets to the wall with concealed fixings, or a freestanding drop-leaf style like IKEA’s MICKE desk (£45). For renters, B&Q’s £35 stud finder helps locate safe mounting points away from pipes or wires — always double-check your tenancy agreement first."
   - q: "Are sofa beds worth it for UK students or young professionals?"
-    a: "Absolutely — especially for studio flats. Dunelm’s ‘Studio Sofa Bed’ (£179) fits narrow spaces, inflates in minutes, and comes with a machine-washable cover. I’ve used two across three UK cities without damaging walls — just ensure it’s freestanding and doesn’t require drilling."
+    a: "Absolutely — especially for studio flats. Dunelm’s ‘Studio Sofa Bed’ (£179) fits narrow spaces, inflates in minutes, and comes with a machine-washable cover. It works without damaging walls, just ensure it's freestanding and doesn’t require drilling."
   - q: "How do I store a sofa bed when it’s not in use?"
     a: "Most multifunctional sofa beds double as storage — for instance, John Lewis’ ‘Urban Space Storage Sofa Bed’ (£249) has a deep under-seat compartment. Alternatively, fold it flat against the wall and use a slim storage bench (IKEA’s POLSTREDA, ~£15) beside it to hide throw cushions or blankets."
   - q: "What’s the safest way to hang shelves in a rented flat?"

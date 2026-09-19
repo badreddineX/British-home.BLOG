@@ -20,13 +20,13 @@ tldr:
   - "Group 3–4 smaller plants instead of one large one for more greenery without breaking the bank."
 faqs:
   - q: "What low-light plants can I keep in a UK rented flat without risking my deposit?"
-    a: "Snake plant (Sansevieria), ZZ plant (Zamioculcas), and peace lily (Spathiphyllum) are all ideal—they tolerate low light and don’t need frequent repotting. I keep mine in IKEA’s 305-315 series pots (~£4.99–£7.99), which sit neatly on freestanding stands and won’t scratch floors."
+    a: "Snake plant (Sansevieria), ZZ plant (Zamioculcas), and peace lily (Spathiphyllum) are all ideal—they tolerate low light and don’t need frequent repotting. Simple pots (about £5 to £8) on freestanding stands sit neatly and won't scratch floors."
   - q: "Can I hang plants from the ceiling in a rented property?"
     a: "Yes—if you avoid permanent fixings. Tension rods (B&Q, ~£6–£12) mounted across a window bay or between bookshelves hold lightweight trailing plants like english ivy (Hedera helix). No drilling needed, and they’re fully removable."
   - q: "Where’s the best UK retailer for budget planters that look stylish?"
     a: "Dunelm’s ‘Botanical’ range has £8–£15 woven fibreplanters and cement-effect pots. For sleek minimalism, IKEA’s VITASJÖ series (pebble tray + pot, ~£9.99) is excellent for damp bathrooms or hallways."
   - q: "How often should I water plants in a dim living room?"
-    a: "Water only when the top 2–3cm of compost is dry—usually every 10–21 days in winter. Overwatering kills low-light plants faster than under-watering. My ZZ plant sits in a Next Home ceramic saucer (£5.99) to catch excess moisture."
+    a: "Water only when the top 2–3cm of compost is dry—usually every 10–21 days in winter. Overwatering kills low-light plants faster than under-watering. A ceramic saucer under the pot catches excess moisture."
 ---
 
 Loads of private renters live in flats with limited direct sunlight in the main living areas—meaning you need plants that *actually* cope. But here’s the thing: low light doesn’t mean no life. It just means choosing the right species and styling them cleverly.
