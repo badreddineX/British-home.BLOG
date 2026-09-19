@@ -27,11 +27,11 @@ faqs:
 ---
 
 
-The average full kitchen renovation in the UK costs between £8,000 and £25,000, according to Checkatrade's 2024 cost data — nowhere near affordable for most people. Most British homeowners simply don't have that sitting around, so a cheap kitchen makeover that skips the fitter entirely is the realistic option. And yet almost every kitchen I've seen in a terrace, a flat, or a 1990s semi looks tired in exactly the same ways: dated handles, grimy grout, wonky cabinet doors, and that one drawer that's been broken for three years.
+The average full kitchen renovation in the UK costs between £8,000 and £25,000, according to Checkatrade's 2024 cost data — nowhere near affordable for most people. Most British homeowners simply don't have that sitting around, so a cheap kitchen makeover that skips the fitter entirely is the realistic option. And yet almost every kitchen in a terrace, a flat, or a 1990s semi looks tired in exactly the same ways: dated handles, grimy grout, wonky cabinet doors, and that one drawer that's been broken for three years.
 
-I've been there. A couple of years ago, my kitchen was genuinely embarrassing. Oak-effect flatpack units from around 2003, a beige laminate [worktop](/blog/budget-kitchen-worktop-makeover-uk) with a burn mark near the hob, and taps that took five seconds of wiggling before water came out. I had about £180 to spend and absolutely no intention of calling a fitter.
+The usual culprits are dated oak-effect flatpack units, a beige laminate [worktop](/blog/budget-kitchen-worktop-makeover-uk) with a burn mark near the hob, and taps that take five seconds of wiggling before water comes out. All of it is fixable on about £180 with no fitter.
 
-What followed was three weekends and some genuinely satisfying before-and-after results. This post is everything I did and everything I'd add if I were doing it now.
+What followed was three weekends and some genuinely satisfying before-and-after results. This post covers the full list, plus what to add if you have a little more to spend.
 
 You don't need a new kitchen. You need about two weekends and four things:
 
@@ -215,7 +215,7 @@ A small herb plant costs £3–£5, a wooden chopping board £15–£25, and mat
 
 A small potted herb garden in the window costs £3–£5 per plant at most supermarkets and garden centres. Basil, rosemary, and mint are the obvious choices — useful and attractive. A proper wooden chopping board propped against the splashback costs £15–£25 at Dunelm, and a ceramic pot or two from TK Maxx at £4–£8 each adds warmth. This finishing layer — plants, board, small accessories — is what makes a refreshed kitchen look finished rather than half-done.
 
-In my own kitchen refresh, adding a basil plant, a wooden board, and removing all the plastic storage containers from the worktop made a larger difference to the photographed result than any single structural change. Styling is underrated in budget makeovers.
+In a budget refresh, adding a basil plant, a wooden board, and removing all the plastic storage containers from the worktop made a larger difference to the photographed result than any single structural change. Styling is underrated in budget makeovers.
 
 ---
 

@@ -33,7 +33,7 @@ Most living room colour advice on the internet was written for American homes wi
 
 British light is the real reason living room colour is harder here than it looks online: it's cool, grey, and low-angled for most of the year, and a colour that reads warm and inviting in a shop or on a screen can look completely different once it's actually on your wall.
 
-I've painted my living room five times in seven years. Not out of boredom — out of getting it wrong and starting again. The colours that finally worked were nothing like the ones I'd planned. This guide is built on those mistakes.
+Getting a living room colour wrong and starting again is one of the most common and expensive decorating mistakes. The colours that finally work are often nothing like the ones first planned. This guide is built around avoiding those mistakes.
 
 **TL;DR:** UK light is cool, grey, and low-angled for most of the year. That changes everything about which colours work. Warm undertones, off-white trim, and thoughtful textile layering are what separate the schemes that look right from those that just look beige. The 11 combinations below have all been tested in real British homes.
 
@@ -101,7 +101,7 @@ Sage green is the scheme most likely to make a small British living room feel la
 
 **The palette:** Farrow & Ball Mizzle, Little Greene Sage, or Crown's Garden Party (around £28 at B&Q) on walls. Warm white — not bright white — on trim. Natural rattan and cane furniture accents.
 
-I had sage green in my first flat's living room and it was the one colour that worked in every season. In summer with the curtains open it felt fresh. In winter under warm bulbs it felt cosy. It's the most seasonally flexible colour I've used.
+Sage green is the one colour that works in every season. In summer with the curtains open it feels fresh. In winter under warm bulbs it feels cosy. It is the most seasonally flexible colour here.
 
 **Textile and furniture pairings:** A warm white or cream sofa, natural cane side table (IKEA's Kungsbacka range or similar), jute rug, and cream linen curtains. Add terracotta for warmth or blush for softness.
 
@@ -261,7 +261,7 @@ Start with your largest fixed element — usually the sofa or flooring — and b
 
 Choosing a living room colour scheme is one of the decorating decisions that feels high-stakes and turns out to be highly correctable. Paint is not permanent. A tin of paint costs £25–£35. The real risk is not choosing the wrong colour but choosing the right one too slowly and living with magnolia for another three years while you decide.
 
-The one thing I'd change about how I approached colour earlier: I treated it as a standalone decision, picking a wall colour and hoping everything else would work around it. The schemes that actually worked were built from the sofa outward — what's the largest fixed element, and what does it need to feel complete?
+The most common mistake is treating colour as a standalone decision, picking a wall colour and hoping everything else will work around it. The schemes that actually worked were built from the sofa outward — what's the largest fixed element, and what does it need to feel complete?
 
 For next steps, see our [full guide to styling a living room from scratch](/blog/how-to-style-a-living-room-uk/) and our [living room ideas roundup](/blog/small-living-room-ideas-uk/) for inspiration across all budgets and styles. If you're drawn to the darker end of the palette, [Dark Moody Home Decor UK](/blog/dark-moody-home-decor-uk/) covers how to do it without making a small room feel like a cave. And if you're colouring the whole house room by room, [Bathroom Colour Ideas UK](/blog/bathroom-colour-ideas-uk/) covers the same principles adapted for tile constraints and condensation.
 

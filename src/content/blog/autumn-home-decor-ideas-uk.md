@@ -29,11 +29,11 @@ faqs:
 
 There's a specific moment in early September in the UK when the light changes. It's not cold yet — often still warm — but the quality of the afternoon light shifts. It goes golden rather than white. Shadows lengthen. The air smells different.
 
-That's when I start thinking about changing my home for autumn.
+That's when it's time to start thinking about changing your home for autumn.
 
 The British autumn is arguably our best season for being indoors. The evenings draw in noticeably earlier — sunset moves from around 7:30pm in early September to before 5pm by late October — which is our cue to start layering up inside, both literally and decoratively. We're hibernating. Our homes should reflect that.
 
-I've developed a fairly reliable seasonal transition system — mostly cheap, partly foraged, thoroughly British — that takes my home from summer lightness to autumn warmth without a full redecoration.
+A fairly reliable seasonal transition system, mostly cheap, partly foraged and thoroughly British, takes a home from summer lightness to autumn warmth without a full redecoration.
 
 **TL;DR:** Autumn home decor in the UK is about warmth in every form — warm colours, warm light, warm scent, warm textures. Swap out summer softness for heavier, richer versions of the same elements. Most changes cost under £50 total and can be done in a single Saturday afternoon.
 
@@ -56,7 +56,7 @@ Dunelm's autumn textiles range launches with velvet cushions from £8 and faux-f
 - **Plum and burgundy** — deeper, evening-appropriate
 - **Mustard yellow** — adds warmth without the full commitment to orange
 
-I keep a dedicated "autumn box" in my storage that comes out each September — four velvet cushion covers in terracotta and rust that replace my summer linen covers on the same cushion inserts. The swap takes ten minutes and the room looks completely different.
+Keep a dedicated "autumn box" in storage that comes out each September: four velvet cushion covers in terracotta and rust that replace summer linen covers on the same cushion inserts. The swap takes ten minutes and the room looks completely different.
 
 Dunelm typically launches its autumn textiles range in late August — velvet cushions from ~£8, faux-fur throws from ~£18.
 
@@ -91,7 +91,7 @@ The autumn scent palette for a British home:
 - **Sandalwood and cedarwood** — woodsy, grounding
 - **Bonfire and smoke** — not for everyone, but Diptyque's *Feu de Bois* is famous for this
 
-I've found that changing scent has a stronger effect on how autumnal my flat feels than changing cushion colours. The sensory association is that strong — clove and cinnamon genuinely signals "autumn evenings" in a way that a terracotta cushion simply doesn't.
+Changing scent can have a stronger effect on how autumnal a flat feels than changing cushion colours. The sensory association is that strong — clove and cinnamon genuinely signals "autumn evenings" in a way that a terracotta cushion simply doesn't.
 
 Budget options: Primark Home autumn candles (~£4), Dunelm reed diffusers (~£8), Aldi's autumn Specialbuy scented candle range (~£4). All perform well.
 

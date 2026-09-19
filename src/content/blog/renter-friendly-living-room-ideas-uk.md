@@ -33,7 +33,7 @@ faqs:
 
 Renting a UK flat usually means one rule above all others: don't lose the deposit. **TL;DR:** every idea below is fully reversible. Peel-and-stick wallpaper (from £15, B&Q) covers a feature wall without touching the plaster. Picture rail hooks (~£4 for 10) replace nails in period flats. Command strips handle curtain poles, shelves, and wall lights. Freestanding furniture and layered rugs finish the room. None of it needs landlord sign-off, and all of it comes down cleanly on moving day.
 
-I've rented five flats across three UK cities, and the living room is always the room I want to change most and am most nervous about touching. Tenancy deposit schemes exist to protect against damage, not decorating, but "damage" can mean anything from a badly patched nail hole to wallpaper glue on the plaster. The list below is built from what's actually held up at check-out inspections, not just what looks good on Pinterest.
+The living room is usually the room renters most want to change and are most nervous about touching. Tenancy deposit schemes exist to protect against damage, not decorating, but "damage" can mean anything from a badly patched nail hole to wallpaper glue on the plaster. The list below is built from what's actually held up at check-out inspections, not just what looks good on Pinterest.
 
 ---
 
@@ -46,13 +46,13 @@ A change is deposit-safe if it leaves the wall, floor, and fixtures exactly as t
 - Can I remove it in under ten minutes with no residue left behind?
 - Would it pass a torch-lit inspection by a fussy letting agent?
 
-If a change fails any of these, I skip it, no matter how good it looks in a photo.
+If a change fails any of these, skip it, no matter how good it looks in a photo.
 
 ## How Do I Add Colour Without Painting a Rented Wall?
 
 Peel-and-stick wallpaper on a single feature wall gives you a full colour or pattern change for around £15-£40 a roll, and it removes cleanly from sound painted plaster ([B&Q](https://www.diy.com/), 2025). No paint, no primer, no landlord conversation needed.
 
-I did this behind our sofa in a Manchester flat, a soft sage botanical print from B&Q, and it transformed the whole room for about £45 across three rolls. I tested a corner behind the sofa first and left it a week before committing to the full wall, since some plaster takes adhesive better than others.
+Behind a sofa, a soft sage botanical print from B&Q can transform the whole room for about £45 across three rolls. Test a corner behind the sofa first and leave it a week before committing to the full wall, since some plaster takes adhesive better than others.
 
 **Where to buy:** B&Q, Wilko, and Amazon UK all stock peel-and-stick ranges from £15 a roll. Choose a matte finish over a textured one; textured surfaces sometimes leave faint marks on removal.
 
@@ -75,7 +75,7 @@ Victorian and Edwardian flats across the UK were built with a picture rail as st
 
 A tension rod fitted inside the window recess (~£10-£15, Amazon UK) needs no fixings at all and holds standard curtains without any wall contact. For a wider pole outside the recess, Command curtain rod brackets (~£12) use adhesive strips rated to hold several kilograms.
 
-I switched from a drilled curtain pole to Command brackets in my current flat and honestly can't tell the difference day to day. The brackets sit flush against the wall and the pole slots straight into them, same as a fixed bracket would.
+Switching from a drilled curtain pole to Command brackets makes little difference day to day. The brackets sit flush against the wall and the pole slots straight into them, same as a fixed bracket would.
 
 **Weight matters here.** Heavy blackout or lined curtains push close to the limit of what adhesive strips can hold, so check the weight rating on the packaging before committing. Lighter voile or unlined curtains are the safest match for Command-style fixings.
 
@@ -127,7 +127,7 @@ Most UK rentals have carpet that's seen a few tenants before you, and stains, fl
 | Painting a whole wall | £20-£40 | Only with written landlord permission |
 | Drilled shelving | £15-£30 | No, needs permission and repair |
 
-Across the two flats I've fully redecorated this way, the total spend on all the changes above came to roughly £220, compared with an estimated £400+ quote I got for a professional accent wall and curtain pole install in the first flat, and every item came with me to the next tenancy.
+Together, the changes above come to roughly £220, compared with an estimated £400+ for a professional accent wall and curtain pole install, and every item comes with you to the next tenancy.
 
 ## Frequently Asked Questions
 
