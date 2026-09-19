@@ -139,3 +139,5 @@ For the same reversible approach across the rest of a rented home, see [rented f
 A small UK bathroom rewards planning over ambition. Get the door swing right, place the fittings from the door inward, be honest about whether you use the bath, and spend the money on waterproofing and light rather than on a suite that's too big for the room. A tiny bathroom laid out well beats a slightly bigger one laid out badly every time.
 
 → Next: [bathroom storage ideas UK](/blog/bathroom-storage-ideas-uk/) for fitting everything in, and [bathroom colour ideas UK](/blog/bathroom-colour-ideas-uk/) for the paint and tile palette.
+
+**Related reading:** [Small Wet Room Ideas UK: Layout, Cost & Waterproofing Basics](/blog/small-wet-room-ideas-uk/)

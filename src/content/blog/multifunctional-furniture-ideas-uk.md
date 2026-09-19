@@ -105,3 +105,7 @@ Multifunctional furniture is theRenters’ Toolkit — it’s flexible, affordab
 → [How to style a living room UK](/blog/how-to-style-a-living-room-uk/)  
 → [Rented flat makeover UK](/blog/rented-flat-makeover-uk/)  
 → [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) for the room multifunctional furniture doesn't reach
+
+**Related reading:** [Small Home Office Ideas UK: Box Room, Bedroom & Alcove Setups](/blog/small-home-office-ideas-uk/)
+
+**Related reading:** [Studio Flat Ideas UK](/blog/studio-flat-ideas-uk/)

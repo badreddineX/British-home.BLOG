@@ -129,3 +129,5 @@ Getting bedroom lighting right in a rental isn't about spending more, it's about
 - [Small bedroom storage ideas UK](/blog/small-bedroom-storage-uk/) if the room needs a storage refresh alongside the lighting
 - [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same budget-first approach in the kitchen
 - [13 Bedroom Makeover Ideas UK](/blog/bedroom-makeover-uk/) for the full room makeover this lighting fix is part of
+
+**Related reading:** [Small Home Office Ideas UK: Box Room, Bedroom & Alcove Setups](/blog/small-home-office-ideas-uk/)

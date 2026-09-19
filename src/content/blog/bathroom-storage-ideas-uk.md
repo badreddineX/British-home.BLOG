@@ -206,3 +206,5 @@ Running out of floor and cabinet space elsewhere in the flat too? [12 vertical s
 - [Small bedroom storage UK](/blog/small-bedroom-storage-uk/) for bedroom-specific storage using the same no-drill principles
 - [Rented flat makeover UK](/blog/rented-flat-makeover-uk/) for the full deposit-safe room-by-room playbook
 - [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same no-drill, budget-first approach in the kitchen
+
+**Related reading:** [Small Wet Room Ideas UK: Layout, Cost & Waterproofing Basics](/blog/small-wet-room-ideas-uk/)

@@ -110,3 +110,5 @@ This aesthetic isn’t about collecting “exotic” objects—it’s about cult
 → [How to style a living room UK](/blog/how-to-style-a-living-room-uk/)  
 → [Rented flat makeover UK](/blog/rented-flat-makeover-uk/)  
 → [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same layered, budget-first approach in the kitchen
+
+**Related reading:** [FunHaus Decor Ideas UK](/blog/funhaus-decor-ideas-uk/)

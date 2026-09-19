@@ -213,3 +213,7 @@ Read more: [small living room ideas UK](/blog/small-living-room-ideas-uk/)
 → Running out of floor space across the whole flat? [12 vertical storage ideas for small UK flats](/blog/vertical-storage-ideas-uk-flats/) covers wall-mounted, deposit-safe storage for every room, and [Smart Multifunctional Furniture for UK Rented Flats](/blog/multifunctional-furniture-ideas-uk/) covers furniture that does double duty in a small footprint.
 → Building a gallery wall as part of this makeover? [Renter-Friendly Gallery Wall Ideas UK](/blog/renter-friendly-gallery-wall-ideas-uk/) has the full layout guide for step 7.
 → Wondering what a landlord can actually deduct if any of this goes wrong? [Deposit Deductions UK: What Landlords Actually Charge For](/blog/deposit-deductions-uk/) breaks down the real data by category.
+
+**Related reading:** [Small Home Office Ideas UK: Box Room, Bedroom & Alcove Setups](/blog/small-home-office-ideas-uk/)
+
+**Related reading:** [Studio Flat Ideas UK](/blog/studio-flat-ideas-uk/)
