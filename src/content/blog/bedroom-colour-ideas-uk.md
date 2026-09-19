@@ -31,7 +31,7 @@ Bedroom colour advice from American interior blogs and Scandinavian design accou
 
 Most UK bedrooms weren't built with generous south-facing light in mind — a lot of them face north or north-east, the directions that receive the least direct sunlight. Paint that looks fresh and creamy in a Californian sunroom reads flat and cold in a British bedroom. The entire colour decision changes when you account for actual light conditions.
 
-I've painted my bedroom twice in the past four years. The first time, following American advice, I picked a cool grey-white. It looked beautiful on Instagram. In real life, my bedroom felt like a waiting room. This guide reflects what I've actually learned.
+A cool grey-white, the go-to in American advice, looks beautiful on Instagram. In a real British bedroom it often feels like a waiting room. This guide covers what actually works under UK light.
 
 **TL;DR:** The best bedroom colours for UK homes are warm neutrals, muted sage greens, blush pinks, and deep moody tones — never stark white, rarely cool grey. This guide covers 11 colour directions with specific UK paint brands and prices for each.
 
@@ -52,7 +52,7 @@ The specific shades that work:
 - **Crown Country Cream** (~£18 per 2.5L from B&Q) — a yellow-toned cream that looks warm and inviting in low light. An excellent budget option.
 - **Farrow & Ball Elephant's Breath** (~£59 per 2.5L) — the iconic mid-warm grey that reads slightly lilac in cool light and warm taupe in lamplight. Suits both contemporary and period homes.
 
-I repainted my bedroom in Crown Country Cream after the cool grey failure. The difference was immediate and significant — not just aesthetically, but in how the room felt to be in. Warm neutrals have an effect on mood that cooler colours don't.
+Switching from a cool grey to a warm cream such as Crown Country Cream makes an immediate difference, not just aesthetically but in how the room feels to be in. Warm neutrals have an effect on mood that cooler colours don't.
 
 Dulux Goose Down 2.5L — ~£22 from B&Q. Covers approximately 30–35 square metres.
 
@@ -60,7 +60,7 @@ Dulux Goose Down 2.5L — ~£22 from B&Q. Covers approximately 30–35 square me
 
 ## 2. What About Brilliant White — Does It Work in UK Bedrooms?
 
-Stark white almost never works in a British bedroom, and it's the most common colour mistake I see in reader photos. The UK's diffused, cool natural light strips the warmth out of blue-based whites and leaves them looking flat, slightly clinical, and cold.
+Stark white almost never works in a British bedroom, and it is one of the most common colour mistakes in British bedrooms. The UK's diffused, cool natural light strips the warmth out of blue-based whites and leaves them looking flat, slightly clinical, and cold.
 
 If you want a light, airy bedroom, reach for an off-white with warm undertones rather than a true white. The difference in real life is dramatic.
 
@@ -144,7 +144,7 @@ Little Greene Dorchester Pink 2.5L — ~£48 from Little Greene. One of the most
 
 Deep, saturated colours — navy, forest green, charcoal, terracotta — are often dismissed for small UK bedrooms on the assumption they'll make already modest spaces feel oppressive. The opposite is frequently true. Bedrooms are the one room in the house used primarily in low light, and deep colours read richly and beautifully under warm lamplight in a way they simply don't in bright daylight.
 
-The cocooning effect of a deep-toned bedroom — all four walls in a forest green or charcoal — is one of the most successfully restful interiors I've experienced. The room wraps around you in a way pale walls don't. For a bedroom specifically, this is a feature rather than a flaw.
+The cocooning effect of a deep-toned bedroom — all four walls in a forest green or charcoal — is one of the most restful interiors you can create. The room wraps around you in a way pale walls don't. For a bedroom specifically, this is a feature rather than a flaw.
 
 Deep bedroom colours range from about £18 for Crown Forest Bathed in Light to £59 for Farrow & Ball Studio Green, and a friend's 9-square-metre spare room proved a small footprint is no barrier to using them on all four walls.
 
@@ -155,7 +155,7 @@ The deep tones that translate best:
 - **Dulux Night Jewels** (~£22 per 2.5L from B&Q) — a deep teal-navy. More complex than a standard navy. Excellent value for the effect.
 - **Crown Forest Bathed in Light** (~£18 per 2.5L) — a rich forest green. One of Crown's most successful bedroom colours and available at most B&Q stores.
 
-A friend painted her spare bedroom in Farrow & Ball Studio Green on my recommendation. She was nervous — the room is only 9 square metres. The result was the most frequently photographed room in her home for the next two years. Small rooms and deep colours are not enemies.
+A deep colour such as Farrow & Ball Studio Green can work even in a spare room of around 9 square metres. Small rooms and deep colours are not enemies.
 
 Dulux Night Jewels 2.5L — ~£22 from B&Q. Deep teal-navy that reads beautifully under warm lamp light.
 
@@ -208,7 +208,7 @@ The correct method for testing bedroom paint:
 
 Paint A4-sized sample patches on at least three walls — ideally the wall that gets the most morning light, the darkest wall, and the wall behind the bed. Leave them for 48 hours, observing at different times of day and specifically in the evening under your actual [bedroom lighting](/blog/bedroom-lighting-ideas-uk).
 
-I tested seven paint samples for my last bedroom repaint, observing each in morning, afternoon, and evening light. Three shades that looked almost identical on the card read entirely differently on the wall — two looked muddy in morning light, one looked darker in lamplight than expected. The one I chose looked good at all three times of day. The testing process took two weeks and saved me from a £40 mistake.
+Test paint samples by observing each in morning, afternoon and evening light. Three shades that look almost identical on the card can read entirely differently on the wall: two may look muddy in morning light, and one darker in lamplight than expected. Choose the one that looks good at all three times of day. Testing takes about two weeks and can save you a costly mistake.
 
 Dulux, Crown, and B&Q all sell sample pots for ~£3–£5 each. Farrow & Ball sample pots are ~£5–£7. With 2–3 samples to test, the budget for proper testing is £10–£20 — significantly cheaper than repainting a bedroom that isn't working.
 
