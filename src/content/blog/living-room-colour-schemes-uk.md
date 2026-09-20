@@ -26,6 +26,10 @@ faqs:
     a: "Start with your largest fixed element — usually the sofa or flooring — and build the colour scheme around it. Test 3-4 paint samples in A4 patches on different walls. View them at different times of day, especially in the evening under artificial light, before deciding."
   - q: "Are lounge colour schemes different from living room colour schemes?"
     a: "No — lounge and living room mean the same thing in a British home, and every scheme on this page works for either. If your home has a separate front room and lounge, the same warm-neutral and sage-green principles apply to both, just adjust the depth of colour based on how much natural light each room gets."
+  - q: "What are the best cosy living room colours?"
+    a: "Warm, deep colours: forest green with brass and cream, terracotta with cream and dark wood, or warm ochre with white and teak. Warm greige is the softer option. In cool British light, warm undertones matter more than the exact shade."
+  - q: "What colours suit a front room?"
+    a: "For a period front room, the schemes in this guide that suit period properties are forest green with brass, navy with terracotta, terracotta with cream and dark wood, and ochre with teak. Keep the trim off-white."
 ---
 
 
@@ -214,6 +218,18 @@ Paired with warm cream trim, blue-grey is one of the schemes people tend to stay
 Pavilion Gray is the most asked-about Farrow & Ball colour in UK living rooms. It works because the undertone is warm rather than icy blue. Cheaper equivalents include Dulux Steel Symphony and Crown's Pale Slate.
 
 ---
+
+## Quick Answers: Cosy, Bright, Front Room and Feature Wall Colours
+
+Most people arrive here with one specific question, so here is the short version, using the schemes above.
+
+**Cosy living room colours.** Go warm and deep: the forest green + brass + cream scheme, terracotta + cream + dark wood, or warm ochre + white + teak. Warm greige is the gentler option if deep colours feel like too much. In cool British light, warm undertones do most of the work.
+
+**Bright living room colours.** Sage green + warm white + rattan suits small rooms, and warm white + wood + texture suits rooms that already get good natural light. Choose colours with yellow or green undertones rather than blue or grey ones, which look flatter in grey daylight.
+
+**Front room colours.** In a British home a front room is usually the living room at the front of the house, often in a period terrace or semi. The period-property picks in the table are forest green with brass (north-facing rooms with original features), navy with terracotta, terracotta with cream and dark wood (Victorian and Edwardian homes), and ochre with teak.
+
+**Feature wall colours.** Our suggestion: pick one bold colour from the schemes above (forest green, navy, terracotta or ochre) for the wall you look at most, keep the other walls and the trim in the warm off-white, and test a large sample patch first.
 
 ## Which Scheme Is Right for Your Room?
 
