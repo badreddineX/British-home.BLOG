@@ -77,8 +77,6 @@ In simple terms: a waterproof membrane (a liquid-applied coating or a matting sy
 
 This is not a job to attempt without training. A single missed joint, an ungraded fall, or a drain fitted without the right seal can mean water tracking into a subfloor or a ceiling below, and by the time a stain or smell shows up, the fix usually means ripping the floor back out. Always use an installer certified by a recognised tanking system manufacturer (Wedi, Schluter, and Mapei all run installer certification schemes in the UK), and ask to see it before booking the job.
 
-[IMAGE: Tanking membrane being applied to a small bathroom floor before tiling, wet room waterproofing UK]
-
 If you're getting quotes, ask specifically what tanking system they use and whether they're certified for it. A vague answer here is a bigger red flag than the price itself.
 
 ---
@@ -105,7 +103,7 @@ At the budget end (£3,500-£4,500), expect a pre-formed wet room tray system ra
 
 Mid-range jobs (£5,500-£7,500) usually include a fully tanked and tiled floor, a linear drain, and better-quality porcelain tiles, plus fittings like a wall-hung basin and toilet. Premium builds push past £9,000 once you add large-format porcelain slabs, underfloor heating, and a bespoke glass partition.
 
-**For renters:** a full wet room conversion is not realistic within a tenancy. It's structural, needs landlord and often building consent, and isn't reversible in any meaningful sense. What you can reasonably ask a landlord for is smaller: a non-slip mat over an existing shower tray, an accessible grab rail, or a request to fix an already-failing shower seal before it becomes a bigger repair. If the property has a wet room already, focus on renter-safe upkeep (re-sealing silicone, addressing standing water quickly) rather than altering the fixed layout. [INTERNAL-LINK: renter-safe bathroom updates → rented-flat-makeover-uk]
+**For renters:** a full wet room conversion is not realistic within a tenancy. It's structural, needs landlord and often building consent, and isn't reversible in any meaningful sense. What you can reasonably ask a landlord for is smaller: a non-slip mat over an existing shower tray, an accessible grab rail, or a request to fix an already-failing shower seal before it becomes a bigger repair. If the property has a wet room already, focus on renter-safe upkeep (re-sealing silicone, addressing standing water quickly) rather than altering the fixed layout. [renter-safe bathroom updates](/blog/rented-flat-makeover-uk/)
 
 ---
 
@@ -125,4 +123,4 @@ Often, yes, especially on solid-concrete ground floors. Upper-floor timber joist
 
 ---
 
-Get a written quote from at least two certified tanking installers before booking anything. Ask which membrane system they use, whether they're certified for it, and how they handle the drain seal, because that's the part that determines whether the room lasts fifteen years or leaks within two. [INTERNAL-LINK: full small bathroom layout guide → small-bathroom-ideas-uk]
+Get a written quote from at least two certified tanking installers before booking anything. Ask which membrane system they use, whether they're certified for it, and how they handle the drain seal, because that's the part that determines whether the room lasts fifteen years or leaks within two. [full small bathroom layout guide](/blog/small-bathroom-ideas-uk/)
