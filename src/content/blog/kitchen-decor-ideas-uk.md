@@ -41,7 +41,7 @@ Read more: [home interior ideas overview](/blog/home-interior-ideas-uk/)
 
 ## 1. Why Add Under-Cabinet LED Strip Lighting?
 
-Under-cabinet lighting is the single highest-impact kitchen upgrade that doesn't require a builder. A strip of warm-white LEDs underneath your wall cabinets floods the [worktop](/blog/budget-kitchen-worktop-makeover-uk) with functional task light and adds the layered, considered feel that overhead lighting alone can't achieve.
+Under-cabinet lighting is the single highest-impact kitchen upgrade that doesn't require a builder. A strip of warm-white LEDs underneath your wall cabinets floods the [worktop](/blog/budget-kitchen-worktop-makeover-uk/) with functional task light and adds the layered, considered feel that overhead lighting alone can't achieve.
 
 The key is colour temperature. Choose 2700K warm white, not 4000K or "daylight." Daylight LEDs make a kitchen look like a supermarket; warm white makes it look like a home. B&Q's Diall LED strip light starts at ~£18 for a 1-metre self-adhesive strip with a plug-in connector — no electrician required.
 
@@ -77,7 +77,7 @@ Dunelm's Klip glass jar range starts at ~£8 for four 0.5-litre jars — enough 
 
 ## 5. Use a Wooden Chopping Board as a Worktop Display
 
-A large wooden chopping board leaned against the [splashback](/blog/budget-kitchen-splashback-tile-ideas-uk) or laid flat on the worktop as a "station" anchors the kitchen's cooking area and makes it look immediately more styled. The board grounds any objects placed alongside it — a bottle of olive oil, a small jar of salt, a lemon — into a deliberate composition rather than scattered items.
+A large wooden chopping board leaned against the [splashback](/blog/budget-kitchen-splashback-tile-ideas-uk/) or laid flat on the worktop as a "station" anchors the kitchen's cooking area and makes it look immediately more styled. The board grounds any objects placed alongside it — a bottle of olive oil, a small jar of salt, a lemon — into a deliberate composition rather than scattered items.
 
 Oak and acacia boards photograph and look best. A good-sized one (at least 35x25cm) from John Lewis runs ~£18–£30, or Dunelm stocks acacia options from ~£10. The board doesn't even need to be actively used in cooking — it works purely as a styling anchor. Though in practice, having a beautiful board on the worktop means you actually use it more.
 

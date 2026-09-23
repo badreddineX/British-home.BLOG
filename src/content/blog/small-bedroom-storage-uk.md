@@ -171,7 +171,7 @@ British winters require seasonal storage management. Here's the specific winter 
 
 Complete the first five steps of the priority order before considering larger purchases. These five changes alone typically double usable bedroom storage for under £80.
 
-Still short on space once the wardrobe and under-bed storage are maxed out? [12 vertical storage ideas for small UK flats](/blog/vertical-storage-ideas-uk-flats) shows how to use wall height instead of floor space, without drilling.
+Still short on space once the wardrobe and under-bed storage are maxed out? [12 vertical storage ideas for small UK flats](/blog/vertical-storage-ideas-uk-flats/) shows how to use wall height instead of floor space, without drilling.
 
 **Related reading you might find useful:**
 

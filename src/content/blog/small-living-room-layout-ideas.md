@@ -29,7 +29,7 @@ faqs:
 ---
 
 
-British living rooms present a very specific problem. They're not just small — they're small in specific, awkward ways. A chimney breast that juts into the middle of the room. A bay window that takes up an entire wall. A [Victorian terrace](/blog/victorian-terrace-interior-ideas-uk) lounge that's barely wider than the sofa is long. A modern flat where the front door opens directly into the seating area.
+British living rooms present a very specific problem. They're not just small — they're small in specific, awkward ways. A chimney breast that juts into the middle of the room. A bay window that takes up an entire wall. A [Victorian terrace](/blog/victorian-terrace-interior-ideas-uk/) lounge that's barely wider than the sofa is long. A modern flat where the front door opens directly into the seating area.
 
 This guide is specifically about furniture arrangement and floor plans for awkward room shapes. For general styling, see [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/); for small-space visual tricks like colour and curtain height, see [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
 
@@ -58,7 +58,7 @@ Most furniture sold in UK stores is still sized for rooms larger than the averag
 
 The previous tenant had somehow fitted a three-seater sofa, two armchairs, a coffee table, and a television unit in there. It looked like a furniture showroom had been dropped from a height.
 
-Measure before you buy. Then measure again. Then measure the door frames, the stairwell, and the turning radius from the [hallway](/blog/hallway-decor-ideas-uk).
+Measure before you buy. Then measure again. Then measure the door frames, the stairwell, and the turning radius from the [hallway](/blog/hallway-decor-ideas-uk/).
 
 ---
 

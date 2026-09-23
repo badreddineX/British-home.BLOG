@@ -75,7 +75,7 @@ Two lamps, not one. A single lamp creates shadows and asymmetry that makes a bed
 
 A flat duvet on a flat bed looks like a show home that no one lives in. Layering is what creates the hotel-bed effect — the visual and physical sense that the bed is warm and inviting, not just made. The formula is simple: fitted sheet, duvet in a warm-toned cover, flat sheet folded back at the turn-down, throw folded at the foot, and four to six cushions at the head.
 
-Dunelm's Dorma range does brushed cotton duvet covers in terracotta, sage, and dusty pink from £32 for a double. A waffle-weave throw from Next Home costs £28–£40 and adds exactly the right texture without going full [maximalist](/blog/maximalist-living-room-decor-uk) — a full layered set like this runs under £75 total. Euro pillows (65x65cm) behind your standard pillows add depth and make the head of the bed look considered.
+Dunelm's Dorma range does brushed cotton duvet covers in terracotta, sage, and dusty pink from £32 for a double. A waffle-weave throw from Next Home costs £28–£40 and adds exactly the right texture without going full [maximalist](/blog/maximalist-living-room-decor-uk/) — a full layered set like this runs under £75 total. Euro pillows (65x65cm) behind your standard pillows add depth and make the head of the bed look considered.
 
 The layering matters more than the quality of any individual piece. A £25 duvet cover with a well-placed throw will look more inviting than an expensive single duvet cover on its own.
 

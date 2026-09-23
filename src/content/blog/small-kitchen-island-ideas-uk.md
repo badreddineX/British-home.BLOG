@@ -31,7 +31,7 @@ faqs:
 
 A huge number of UK renters live in kitchens under 6m², often sharing space with a dining area or living zone. That’s tighter than a Mancunian pub queue — and plenty of flats have no dedicated pantry either, so every inch counts.
 
-**TL;DR:** You *can* add functional kitchen island space in a [rented flat](/blog/rented-flat-makeover-uk) without breaking your deposit or the rules. Focus on freestanding, adjustable, and reversible solutions — like repurposed furniture, rolling carts, or stackable crates — then add peel-and-stick surfaces, under-sink hooks, and fold-down tops for prep. Most of these ideas cost under £50 and vanish cleanly on move-out.
+**TL;DR:** You *can* add functional kitchen island space in a [rented flat](/blog/rented-flat-makeover-uk/) without breaking your deposit or the rules. Focus on freestanding, adjustable, and reversible solutions — like repurposed furniture, rolling carts, or stackable crates — then add peel-and-stick surfaces, under-sink hooks, and fold-down tops for prep. Most of these ideas cost under £50 and vanish cleanly on move-out.
 
 ## 1. Can You Add a Kitchen Island Without Drilling?
 
@@ -59,7 +59,7 @@ When every cm is precious, a folding leaf is a revelation. IKEA’s MICKE table 
 
 ## 6. Can Stackable Crates Create Tiered Island Storage?
 
-If height is your friend (and floor space isn’t), go vertical with crates. IKEA’s VITTORP drawer unit (£20) stacks neatly, but even wooden apple crates (~£8 each on Facebook Marketplace) work. Line them with peel-and-stick shelf liner (~£4 for 3m at B&Q), and fill with spices, dried pasta, or teabags. Suspend a 3-tier crate system from a tension rod above the [worktop](/blog/budget-kitchen-worktop-makeover-uk), with flour in the bottom tier, sugar in the middle, and a scale on top. No drilling, no mess — and the whole thing lifts away in seconds.
+If height is your friend (and floor space isn’t), go vertical with crates. IKEA’s VITTORP drawer unit (£20) stacks neatly, but even wooden apple crates (~£8 each on Facebook Marketplace) work. Line them with peel-and-stick shelf liner (~£4 for 3m at B&Q), and fill with spices, dried pasta, or teabags. Suspend a 3-tier crate system from a tension rod above the [worktop](/blog/budget-kitchen-worktop-makeover-uk/), with flour in the bottom tier, sugar in the middle, and a scale on top. No drilling, no mess — and the whole thing lifts away in seconds.
 
 ![Stackable wooden crates repurposed as tiered kitchen island storage](/images/kitchen-marble-island-worktop.jpg)
 

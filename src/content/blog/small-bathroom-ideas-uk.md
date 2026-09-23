@@ -34,7 +34,7 @@ relatedPosts:
 
 The UK bathroom is small by default. In a terrace it's often a room carved out of a back bedroom; in a flat it's an internal box with no window; in a lot of 1930s semis it's 1.7 by 2 metres with the bath under the window and no room to swing the door.
 
-This guide covers the small versions specifically: how to lay out a tiny bathroom, when a wet room is the right call, how to fit a downstairs cloakroom into a cupboard, and what's worth changing on a budget or in a [rented flat](/blog/rented-flat-makeover-uk).
+This guide covers the small versions specifically: how to lay out a tiny bathroom, when a wet room is the right call, how to fit a downstairs cloakroom into a cupboard, and what's worth changing on a budget or in a [rented flat](/blog/rented-flat-makeover-uk/).
 
 Read more: [bathroom storage ideas UK](/blog/bathroom-storage-ideas-uk/) for the fittings and clever storage that go into the layout below.
 
@@ -83,7 +83,7 @@ Get the tanking done by someone who'll guarantee it. A wet room that leaks into 
 
 ## How Do You Fit a Downstairs Cloakroom or Small Toilet?
 
-You need roughly 80cm wide by 140cm long, a short-projection or wall-hung toilet, and a compact basin. That's the whole trick — a cloakroom is possible in an under-stairs cupboard or a slice of a [hallway](/blog/hallway-decor-ideas-uk) because the two fittings come in genuinely small versions.
+You need roughly 80cm wide by 140cm long, a short-projection or wall-hung toilet, and a compact basin. That's the whole trick — a cloakroom is possible in an under-stairs cupboard or a slice of a [hallway](/blog/hallway-decor-ideas-uk/) because the two fittings come in genuinely small versions.
 
 The numbers that matter:
 

@@ -1,5 +1,5 @@
 ---
-title: "Small Wet Room Ideas UK: Layout, Cost & Waterproofing Basics"
+title: "Small Wet Room Ideas UK: Layout, Cost & Waterproofing"
 description: "Small wet room ideas for UK flats and period homes: level-access layouts, tanking basics, space-saving fixtures, cost ranges and renter vs owner tips."
 image: "/images/small-wet-room-uk.jpg"
 datePublished: "2026-09-12"

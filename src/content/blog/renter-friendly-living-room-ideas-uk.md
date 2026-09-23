@@ -134,7 +134,7 @@ Together, the changes above come to roughly £220, compared with an estimated £
 **How can I decorate my rented living room without losing my deposit?**
 Stick to reversible changes: peel-and-stick wallpaper (~£15 a roll), picture rail hooks (~£4 for 10) instead of nails, Command strips for curtain poles and shelves, and freestanding furniture instead of anything fixed to the wall.
 
-**Can I put up curtains in a [rented flat](/blog/rented-flat-makeover-uk) without drilling?**
+**Can I put up curtains in a [rented flat](/blog/rented-flat-makeover-uk/) without drilling?**
 Yes. A tension rod (~£10-£15) fits inside most window recesses with no fixings at all, and Command curtain rod brackets (~£12) hold a standard pole using rated adhesive strips.
 
 **What is a picture rail and can I use it to hang things?**

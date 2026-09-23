@@ -28,7 +28,7 @@ faqs:
 
 According to the [English Housing Survey 2023-24](https://www.gov.uk/government/collections/english-housing-survey) from the Department for Levelling Up, Housing and Communities, 4.6 million households in England now rent privately. A huge share of those live with a kitchen someone else chose, in a colour someone else picked, that they're not allowed to touch.
 
-All three had the same tired combination: oak-effect units from another decade, a chipped tile [splashback](/blog/budget-kitchen-splashback-tile-ideas-uk), and a landlord who made it very clear in the inspection report that "no alterations" meant no alterations.
+All three had the same tired combination: oak-effect units from another decade, a chipped tile [splashback](/blog/budget-kitchen-splashback-tile-ideas-uk/), and a landlord who made it very clear in the inspection report that "no alterations" meant no alterations.
 
 This post covers the specific rental kitchen upgrade ideas UK tenants can actually use: changes that stick to walls without adhesive, sit over floors without glue, and hang on rods without a drill. Every one of them comes off cleanly and leaves your deposit exactly where it started.
 
@@ -46,7 +46,7 @@ Read more: [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the equiv
 
 Most assured shorthold tenancies (ASTs) require the property returned in the same condition it was handed over in, fair wear and tear excepted, a standard clause referenced by [Shelter England's tenant rights guidance](https://england.shelter.org.uk/), 2024. That single clause decides which kitchen upgrades are safe.
 
-It's not that landlords are being difficult. Standard AST wording, the kind most letting agents use without amendment, treats drilled holes, painted units, and adhesive residue as damage rather than wear and tear. That's why every idea below avoids drilling into tiles or walls, avoids gluing anything to the [worktop](/blog/budget-kitchen-worktop-makeover-uk) or floor itself, and keeps every original part of the kitchen intact and stored.
+It's not that landlords are being difficult. Standard AST wording, the kind most letting agents use without amendment, treats drilled holes, painted units, and adhesive residue as damage rather than wear and tear. That's why every idea below avoids drilling into tiles or walls, avoids gluing anything to the [worktop](/blog/budget-kitchen-worktop-makeover-uk/) or floor itself, and keeps every original part of the kitchen intact and stored.
 
 
 The practical rule is simple: if you can't undo it in under an hour with nothing left behind, don't do it in a rented kitchen.

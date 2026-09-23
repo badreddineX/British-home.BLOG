@@ -31,7 +31,7 @@ faqs:
  There was a toilet, a pedestal basin with zero storage underneath, a shower cubicle, and about 60cm of floor space between them. Here is that system, in the order that makes the most difference.
 
 **TL;DR:**
-- **First move:** freestanding over-toilet shelves (~£30-£45, Amazon UK) — adds three shelves of [vertical storage](/blog/vertical-storage-ideas-uk-flats) instantly, no drilling
+- **First move:** freestanding over-toilet shelves (~£30-£45, Amazon UK) — adds three shelves of [vertical storage](/blog/vertical-storage-ideas-uk-flats/) instantly, no drilling
 - **Second move:** over-door organiser on the bathroom door (~£15-£25) — holds toiletries, hair tools, cleaning supplies
 - **Under £180 total** covers the five most impactful changes for most UK rental bathrooms
 - All solutions on this list work in London, Manchester, and Birmingham rental flats — no permanent wall changes required
@@ -40,7 +40,7 @@ faqs:
 
 ## 1. Why Is Over-Toilet Shelving the Highest-Value Move?
 
-In a [small bathroom](/blog/small-bathroom-ideas-uk), the wall above the toilet is the only large open vertical zone. Most small rental bathrooms waste it entirely.
+In a [small bathroom](/blog/small-bathroom-ideas-uk/), the wall above the toilet is the only large open vertical zone. Most small rental bathrooms waste it entirely.
 
 A freestanding over-toilet shelf unit sits around the cistern and adds three full shelves of vertical space without touching the walls. A Songmics-style 3-tier unit on Amazon UK runs ~£30-£45 and fits standard UK toilet dimensions. Three shelves hold toiletries, spare toilet roll, small baskets, and hand towels with room to spare.
 
@@ -197,7 +197,7 @@ Two people sharing a small flat bathroom doubles the product count and the frict
 
 Complete steps 1 through 3 of the priority order before purchasing anything else. The over-toilet shelf alone typically solves much of the clutter problem in a small UK flat bathroom.
 
-Running out of floor and cabinet space elsewhere in the flat too? [12 vertical storage ideas for small UK flats](/blog/vertical-storage-ideas-uk-flats) covers the same wall-mounted, no-drill approach for every other room.
+Running out of floor and cabinet space elsewhere in the flat too? [12 vertical storage ideas for small UK flats](/blog/vertical-storage-ideas-uk-flats/) covers the same wall-mounted, no-drill approach for every other room.
 
 **Related reading you might find useful:**
 

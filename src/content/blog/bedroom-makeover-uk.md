@@ -175,7 +175,7 @@ Setting a hard total budget before buying anything also protects against the mos
 
 ## 13. What Makes a Bedroom Feel Personal, Not Like a Show Room?
 
-The final step separates a bedroom that looks like a show room from one that feels like it belongs to a specific person. One piece of art, a [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk) of three framed photographs, a piece of textile hung as a wall piece, a vintage mirror — something that is yours and not easily replicated.
+The final step separates a bedroom that looks like a show room from one that feels like it belongs to a specific person. One piece of art, a [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk/) of three framed photographs, a piece of textile hung as a wall piece, a vintage mirror — something that is yours and not easily replicated.
 
 A single strong personal element on the main wall consistently does more for how "finished" a bedroom feels than any amount of matched, purchased styling — the rooms that read as generic or "like a hotel" are almost always the ones with nothing personal on display.
 
@@ -207,7 +207,7 @@ The first four changes on this list cost between nothing and £80 and produce th
 
 ---
 
-For a deeper guide to [bedroom colour](/blog/bedroom-colour-ideas-uk), headboards, and styling decisions, see the full [Bedroom Decor Ideas UK](/blog/bedroom-decor-ideas-uk/) guide.
+For a deeper guide to [bedroom colour](/blog/bedroom-colour-ideas-uk/), headboards, and styling decisions, see the full [Bedroom Decor Ideas UK](/blog/bedroom-decor-ideas-uk/) guide.
 
 For everything that makes a bedroom feel genuinely cosy rather than just tidy, see [Cosy Bedroom Decor Ideas UK](/blog/cosy-bedroom-ideas-uk/).
 

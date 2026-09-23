@@ -206,7 +206,7 @@ Testing seven paint samples over two weeks — at roughly £3–£7 per pot — 
 
 The correct method for testing bedroom paint:
 
-Paint A4-sized sample patches on at least three walls — ideally the wall that gets the most morning light, the darkest wall, and the wall behind the bed. Leave them for 48 hours, observing at different times of day and specifically in the evening under your actual [bedroom lighting](/blog/bedroom-lighting-ideas-uk).
+Paint A4-sized sample patches on at least three walls — ideally the wall that gets the most morning light, the darkest wall, and the wall behind the bed. Leave them for 48 hours, observing at different times of day and specifically in the evening under your actual [bedroom lighting](/blog/bedroom-lighting-ideas-uk/).
 
 Test paint samples by observing each in morning, afternoon and evening light. Three shades that look almost identical on the card can read entirely differently on the wall: two may look muddy in morning light, and one darker in lamplight than expected. Choose the one that looks good at all three times of day. Testing takes about two weeks and can save you a costly mistake.
 

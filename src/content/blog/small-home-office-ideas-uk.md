@@ -1,5 +1,5 @@
 ---
-title: "Small Home Office Ideas UK: Box Room, Bedroom & Alcove Setups"
+title: "Small Home Office Ideas UK: Box Room & Alcove Setups"
 description: "Small home office ideas for UK homes: how to fit a proper desk into a box room, bedroom, alcove or hallway, with layouts, lighting and renter-safe storage."
 image: "/images/small-home-office-uk.jpg"
 datePublished: "2026-09-18"

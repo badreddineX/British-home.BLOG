@@ -41,7 +41,7 @@ Three of them were furnished. One had a carpet the colour of dried mustard. Here
 
 This is the highest-impact change in any rented flat and it costs under £20. Most British rentals come fitted with either bare bulbs or 4000K-6500K "cool white" or "daylight" bulbs. These make every room feel like a waiting room.
 
-Replace every bulb in the flat — kitchen, bathroom, [hallway](/blog/hallway-decor-ideas-uk), bedroom, living room — with 2700K warm white LEDs, using 4-packs from ~£8 on Amazon UK. A full-flat swap typically runs £15-£25 total, making it the cheapest, highest-impact change available in any British rental. The difference is immediate and dramatic: the flat stops feeling like a rental and starts feeling like a home, even before anything else changes.
+Replace every bulb in the flat — kitchen, bathroom, [hallway](/blog/hallway-decor-ideas-uk/), bedroom, living room — with 2700K warm white LEDs, using 4-packs from ~£8 on Amazon UK. A full-flat swap typically runs £15-£25 total, making it the cheapest, highest-impact change available in any British rental. The difference is immediate and dramatic: the flat stops feeling like a rental and starts feeling like a home, even before anything else changes.
 
 Keep the original bulbs in a bag and reinstall them when you leave. Your tenancy agreement requires the property to be returned as found. Bulbs back in, no issue.
 
@@ -105,7 +105,7 @@ Dunelm's curtain range starts at ~£22 per pair, with blackout lining from ~£35
 
 ## 7. How Do You Build a Gallery Wall With Command Strips?
 
-A [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk) built with Command Picture Hanging Strips is fully deposit-safe, takes an afternoon, and does more to make a rented space feel personally yours than almost any other single intervention. Command strips hold up to 3.6kg per pair, apply to plaster and painted walls cleanly, and remove without damage by pulling the release tab slowly downward.
+A [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk/) built with Command Picture Hanging Strips is fully deposit-safe, takes an afternoon, and does more to make a rented space feel personally yours than almost any other single intervention. Command strips hold up to 3.6kg per pair, apply to plaster and painted walls cleanly, and remove without damage by pulling the release tab slowly downward.
 
 The process: collect frames in two or three sizes (IKEA Ribba from £3.50 each, all in white or all in black — never mixed). Fill them with personal photographs, printed-at-home art, or free downloads from the Rijksmuseum's online collection. Lay the whole arrangement on the floor first. Then mount it. A full gallery wall built this way typically costs under £40 in total.
 

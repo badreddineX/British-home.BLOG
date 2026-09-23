@@ -100,7 +100,7 @@ Total: ~£73. A bedroom that feels like a retreat rather than a place to sleep.
 
 ## Hallway Budget Makeover — Under £60
 
-The [hallway](/blog/hallway-decor-ideas-uk) is the most-seen space in your home and the one most people spend the least time decorating. It takes 30 seconds to form a first impression. Making it count costs less than almost any other room.
+The [hallway](/blog/hallway-decor-ideas-uk/) is the most-seen space in your home and the one most people spend the least time decorating. It takes 30 seconds to form a first impression. Making it count costs less than almost any other room.
 
 Three changes — paint, a coat rack, and a mirror — cost between £57 and £90 total, yet the hallway is the single fastest-formed impression in any UK home.
 

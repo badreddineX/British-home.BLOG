@@ -33,7 +33,7 @@ But the most interesting thing about British cottagecore is that we already had 
 
 Pulling this aesthetic together means sourcing from charity shops, car boots and a handful of independent UK makers. Here's how to do it authentically.
 
-This guide covers every room, from living room to [hallway](/blog/hallway-decor-ideas-uk), with specific sourcing advice and UK retailer picks.
+This guide covers every room, from living room to [hallway](/blog/hallway-decor-ideas-uk/), with specific sourcing advice and UK retailer picks.
 
 ---
 
@@ -134,7 +134,7 @@ Vintage-style coat rack — from ~£25 at Wayfair UK.
 
 ## 7. Which British-Native Plants Suit a Cottagecore Home?
 
-Most cottagecore content features tropical [houseplants](/blog/plant-styling-ideas-uk) — monstera, fiddle leaf figs — which are visually beautiful but not authentically British. For a genuinely British cottagecore look, choose plants native or naturalised to our climate.
+Most cottagecore content features tropical [houseplants](/blog/plant-styling-ideas-uk/) — monstera, fiddle leaf figs — which are visually beautiful but not authentically British. For a genuinely British cottagecore look, choose plants native or naturalised to our climate.
 
 A native fern from a garden centre costs from around £4, making it one of the cheapest ways to bring an authentically British, rather than tropical, plant into a cottagecore room.
 
