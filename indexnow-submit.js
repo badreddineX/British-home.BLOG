@@ -61,6 +61,7 @@ const urlList = [
   "https://britishhomeinterior.co.uk/blog/small-bedroom-budget-uk/",
   "https://britishhomeinterior.co.uk/blog/small-bedroom-layout-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/small-bedroom-storage-uk/",
+  "https://britishhomeinterior.co.uk/blog/small-home-office-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/small-kitchen-island-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/small-kitchen-storage-ideas-budget-uk/",
   "https://britishhomeinterior.co.uk/blog/small-living-room-budget-uk/",
