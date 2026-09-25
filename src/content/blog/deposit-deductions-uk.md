@@ -1,7 +1,7 @@
 ---
 title: "Deposit Deductions UK: What Landlords Really Charge (2026)"
 description: "Guide to UK tenancy deposit deductions: what landlords commonly claim for, how disputes work and which decor choices can trigger them."
-image: "/images/pexels-1643383.jpg"
+image: "/images/pexels-7641991.jpg"
 datePublished: "2026-09-05"
 dateModified: "2026-09-05"
 author: "Badreddine"
