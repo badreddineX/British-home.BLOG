@@ -1,0 +1,522 @@
+[
+  {
+    "slug": "afrobohemian-decor-ideas-uk",
+    "template": "B",
+    "kicker": "Bold Meets Heritage",
+    "headline": "How to Bring <em>Afrobohemian</em> Style Home",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/hero-poster.jpg"
+  },
+  {
+    "slug": "autumn-home-decor-ideas-uk",
+    "template": "B",
+    "kicker": "Ready for October",
+    "headline": "Make Your Home Feel Like <em>Autumn</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-5825578.jpg"
+  },
+  {
+    "slug": "bathroom-colour-ideas-uk",
+    "template": "B",
+    "kicker": "Beyond White",
+    "headline": "Bathroom Colours That Make a Small Space <em>Feel</em> Bigger",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/bathroom-storage-baskets-shelf.jpg"
+  },
+  {
+    "slug": "bathroom-storage-ideas-uk",
+    "template": "B",
+    "kicker": "No Drilling",
+    "headline": "Bathroom Storage That Actually <em>Fits</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/hallway-geometric-tiles.jpg"
+  },
+  {
+    "slug": "bedroom-colour-ideas-uk",
+    "template": "B",
+    "kicker": "Tester Pot First",
+    "headline": "Bedroom Colours That Work in UK <em>Light</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1454806.jpg"
+  },
+  {
+    "slug": "bedroom-decor-ideas-uk",
+    "template": "B",
+    "kicker": "Weekend Refresh",
+    "headline": "12 Bedroom Decor Changes Under <em>£100</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1743229.jpg"
+  },
+  {
+    "slug": "bedroom-lighting-ideas-uk",
+    "template": "B",
+    "kicker": "Plug In · No Rewire",
+    "headline": "Bedroom Lighting That Sets the <em>Mood</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/cosy-bedroom-diffuser-lamp.jpg"
+  },
+  {
+    "slug": "bedroom-makeover-uk",
+    "template": "B",
+    "kicker": "One Weekend",
+    "headline": "13 Ways to Transform a <em>Tired</em> Bedroom",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/scandi-bedroom-natural-light.jpg"
+  },
+  {
+    "slug": "budget-home-makeover-uk",
+    "template": "B",
+    "kicker": "One Room · £150",
+    "headline": "A Whole Room Makeover for Under <em>£150</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1571459.jpg"
+  },
+  {
+    "slug": "budget-kitchen-cabinet-makeover-uk",
+    "template": "B",
+    "kicker": "Skip the Fitter",
+    "headline": "Transform Kitchen Cabinets for Under <em>£80</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/kitchen-white-cabinets.jpg"
+  },
+  {
+    "slug": "budget-kitchen-flooring-ideas-uk",
+    "template": "B",
+    "kicker": "Fit It Yourself",
+    "headline": "New Kitchen Floor in One <em>Weekend</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/kitchen-wood-floor-open-plan.jpg"
+  },
+  {
+    "slug": "budget-kitchen-splashback-tile-ideas-uk",
+    "template": "B",
+    "kicker": "Peel · Stick · Done",
+    "headline": "Splashback Ideas That Protect AND <em>Style</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/kitchen-subway-tile-splashback.jpg"
+  },
+  {
+    "slug": "budget-kitchen-worktop-makeover-uk",
+    "template": "B",
+    "kicker": "No New Worktop",
+    "headline": "Rescue a Tired Worktop for Under <em>£50</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/hallway-console-table-mirror.jpg"
+  },
+  {
+    "slug": "christmas-home-decor-ideas-uk",
+    "template": "B",
+    "kicker": "Not Just a Tree",
+    "headline": "Christmas Decor That Makes a Home Feel <em>Magic</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1708601.jpg"
+  },
+  {
+    "slug": "cosy-bedroom-ideas-uk",
+    "template": "B",
+    "kicker": "Layers · Textures",
+    "headline": "A Cosy Bedroom You Won't Want to <em>Leave</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-271624.jpg"
+  },
+  {
+    "slug": "cosy-home-decor-ideas-uk",
+    "template": "B",
+    "kicker": "Warmth · Everywhere",
+    "headline": "Make Every Room Feel <em>Cosy</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1866149.jpg"
+  },
+  {
+    "slug": "cottagecore-bedroom-ideas-uk",
+    "template": "B",
+    "kicker": "Soft · Floral · Calm",
+    "headline": "A Cottagecore Bedroom in a UK <em>Flat</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-2079249.jpg"
+  },
+  {
+    "slug": "cottagecore-home-decor-uk",
+    "template": "B",
+    "kicker": "Country Charm",
+    "headline": "Bring Cottagecore Into a <em>Modern</em> Home",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-4273433.jpg"
+  },
+  {
+    "slug": "dark-moody-home-decor-uk",
+    "template": "B",
+    "kicker": "Drama Without Damage",
+    "headline": "Dark Decor That Works in <em>Rentals</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-3356416.jpg"
+  },
+  {
+    "slug": "deposit-deductions-uk",
+    "template": "B",
+    "kicker": "Protect Your Money",
+    "headline": "What Landlords Really <em>Charge</em> For",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1643383.jpg"
+  },
+  {
+    "slug": "earthy-neutral-kitchen-colour-trends-uk",
+    "template": "B",
+    "kicker": "Two-Tone Done Right",
+    "headline": "Earthy Kitchen Colours Under <em>£500</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/earthy-neutral-kitchen-cover.jpg"
+  },
+  {
+    "slug": "funhaus-decor-ideas-uk",
+    "template": "B",
+    "kicker": "Playful · Curated",
+    "headline": "FunHaus Decor for Homes That Need <em>Fun</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/patchwork-armchair-gallery-wall.jpg"
+  },
+  {
+    "slug": "galley-kitchen-ideas-uk",
+    "template": "B",
+    "kicker": "Narrow · Smart",
+    "headline": "Make a Galley Kitchen Feel <em>Twice</em> the Size",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/galley-kitchen-narrow-uk.jpg"
+  },
+  {
+    "slug": "grandma-core-kitchen-ideas-uk",
+    "template": "B",
+    "kicker": "Vintage Is Back",
+    "headline": "Grandma Core Kitchen Styling for <em>2026</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/vintage-china-kitchen-shelf.jpg"
+  },
+  {
+    "slug": "hallway-decor-ideas-uk",
+    "template": "B",
+    "kicker": "First Impression",
+    "headline": "Hallway Ideas for Small & Narrow <em>Spaces</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1090638.jpg"
+  },
+  {
+    "slug": "hidden-pantry-ideas-uk",
+    "template": "B",
+    "kicker": "Even in Tiny Kitchens",
+    "headline": "Pantry Storage You Can't <em>See</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-8580763.jpg"
+  },
+  {
+    "slug": "home-decor-inspiration-uk",
+    "template": "B",
+    "kicker": "Room by Room",
+    "headline": "Home Decor Ideas That Work in UK <em>Homes</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1648768.jpg"
+  },
+  {
+    "slug": "home-interior-ideas-uk",
+    "template": "B",
+    "kicker": "British Style",
+    "headline": "Interior Ideas for Every <em>Room</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1571460.jpg"
+  },
+  {
+    "slug": "how-to-style-a-living-room-uk",
+    "template": "B",
+    "kicker": "Sofa to Shelf",
+    "headline": "Style a Living Room Like a <em>Pro</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-2082087.jpg"
+  },
+  {
+    "slug": "kitchen-decor-ideas-uk",
+    "template": "B",
+    "kicker": "Beyond Paint",
+    "headline": "12 Kitchen Decor Ideas Under <em>£100</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-2062426.jpg"
+  },
+  {
+    "slug": "kitchen-on-a-budget-uk",
+    "template": "B",
+    "kicker": "No Full Refit",
+    "headline": "14 Kitchen Upgrades on a Real <em>Budget</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1080721.jpg"
+  },
+  {
+    "slug": "living-room-colour-schemes-uk",
+    "template": "B",
+    "kicker": "With Paint Names",
+    "headline": "11 Colour Schemes That Actually <em>Work</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1457842.jpg"
+  },
+  {
+    "slug": "living-room-lighting-ideas-uk",
+    "template": "B",
+    "kicker": "Plug & Play",
+    "headline": "Living Room Lighting Without <em>Rewiring</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/armchair-task-lighting-corner.jpg"
+  },
+  {
+    "slug": "maximalist-living-room-decor-uk",
+    "template": "B",
+    "kicker": "Curated Chaos",
+    "headline": "A Maximalist Living Room That <em>Works</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1648776.jpg"
+  },
+  {
+    "slug": "modern-home-interior-uk",
+    "template": "B",
+    "kicker": "Simple · Warm",
+    "headline": "Modern Interior Ideas for UK <em>Homes</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1571468.jpg"
+  },
+  {
+    "slug": "multifunctional-furniture-ideas-uk",
+    "template": "B",
+    "kicker": "One Piece · Two Jobs",
+    "headline": "Furniture That Does <em>More</em> in Less Space",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/sofa-bed-built-in-wardrobes.jpg"
+  },
+  {
+    "slug": "opera-inspired-living-room-ideas-uk",
+    "template": "B",
+    "kicker": "Velvet · Drama",
+    "headline": "An Opera-Inspired Living Room on a <em>Budget</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/dramatic-velvet-living-room.jpg"
+  },
+  {
+    "slug": "plant-styling-ideas-uk",
+    "template": "B",
+    "kicker": "Even North-Facing",
+    "headline": "5 Plants That Thrive in UK <em>Flats</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/kitchen-plants-dim-lighting.jpg"
+  },
+  {
+    "slug": "rental-kitchen-upgrade-ideas-uk",
+    "template": "B",
+    "kicker": "No Landlord Drama",
+    "headline": "Kitchen Upgrades You Can <em>Undo</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/kitchen-worktop-wood.jpg"
+  },
+  {
+    "slug": "rented-flat-makeover-uk",
+    "template": "B",
+    "kicker": "Damage-Free",
+    "headline": "Transform a Rented Flat Without Losing Your <em>Deposit</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1643383.jpg"
+  },
+  {
+    "slug": "renter-friendly-bedroom-ideas-uk",
+    "template": "B",
+    "kicker": "Deposit-Safe",
+    "headline": "Bedroom Ideas Your Landlord Will <em>Approve</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-90317.jpg"
+  },
+  {
+    "slug": "renter-friendly-gallery-wall-ideas-uk",
+    "template": "B",
+    "kicker": "Zero Holes",
+    "headline": "A Gallery Wall Without a Single <em>Nail</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/bedroom-makeover-gallery-wall.jpg"
+  },
+  {
+    "slug": "renter-friendly-living-room-ideas-uk",
+    "template": "B",
+    "kicker": "No Holes · Full Style",
+    "headline": "A Living Room Makeover Without <em>Permission</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-1571453.jpg"
+  },
+  {
+    "slug": "scandi-bedroom-ideas-uk",
+    "template": "B",
+    "kicker": "Calm · Clean · Warm",
+    "headline": "A Scandi Bedroom That Works in the <em>UK</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/scandinavian-bedroom-wooden-accents.jpg"
+  },
+  {
+    "slug": "scandi-living-room-ideas-uk",
+    "template": "B",
+    "kicker": "Light · Wood · Simple",
+    "headline": "Scandi Style for a British <em>Living Room</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/scandinavian-living-room-wood.jpg"
+  },
+  {
+    "slug": "small-bathroom-ideas-uk",
+    "template": "B",
+    "kicker": "Every Layout",
+    "headline": "Small Bathroom Ideas That Gain <em>Space</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/small-bathroom-modern-uk.jpg"
+  },
+  {
+    "slug": "small-bedroom-budget-uk",
+    "template": "B",
+    "kicker": "Under £150",
+    "headline": "A Small Bedroom Refresh for <em>Less</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/minimalist-bedroom-single-bed.jpg"
+  },
+  {
+    "slug": "small-bedroom-layout-ideas-uk",
+    "template": "B",
+    "kicker": "Odd Shapes Solved",
+    "headline": "Layouts for Awkward UK <em>Bedrooms</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/bedroom-bedside-tables-neutral.jpg"
+  },
+  {
+    "slug": "small-bedroom-storage-uk",
+    "template": "B",
+    "kicker": "Hidden Storage",
+    "headline": "Small Bedroom Storage That Actually <em>Works</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/organized-wardrobe-hanging-clothes.jpg"
+  },
+  {
+    "slug": "small-home-office-ideas-uk",
+    "template": "B",
+    "kicker": "Box Room · Alcove",
+    "headline": "A Home Office in Any <em>Corner</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/small-home-office-uk.jpg"
+  },
+  {
+    "slug": "small-kitchen-island-ideas-uk",
+    "template": "B",
+    "kicker": "Even in a Flat",
+    "headline": "A Kitchen Island That Fits a <em>Small</em> Kitchen",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/kitchen-marble-island-worktop.jpg"
+  },
+  {
+    "slug": "small-kitchen-storage-ideas-budget-uk",
+    "template": "B",
+    "kicker": "Budget Solutions",
+    "headline": "Small Kitchen Storage for Under <em>£50</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/kitchen-open-shelving.jpg"
+  },
+  {
+    "slug": "small-living-room-budget-uk",
+    "template": "B",
+    "kicker": "Under £150",
+    "headline": "Refresh a Small Living Room for <em>Less</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/minimalist-couch-coffee-tray.jpg"
+  },
+  {
+    "slug": "small-living-room-ideas-uk",
+    "template": "B",
+    "kicker": "11 Tested Ideas",
+    "headline": "Small Living Room Ideas That <em>Work</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-276583.jpg"
+  },
+  {
+    "slug": "small-living-room-layout-ideas",
+    "template": "B",
+    "kicker": "Before You Buy",
+    "headline": "Small Living Room Layouts That <em>Fit</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-6538933.jpg"
+  },
+  {
+    "slug": "small-living-room-storage-ideas-uk",
+    "template": "B",
+    "kicker": "No Fitted Furniture",
+    "headline": "Living Room Storage You Can <em>Take</em> With You",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/cosy-home-library-bookshelves.jpg"
+  },
+  {
+    "slug": "small-wet-room-ideas-uk",
+    "template": "B",
+    "kicker": "Full Guide",
+    "headline": "Small Wet Room Ideas for UK <em>Homes</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/small-wet-room-uk.jpg"
+  },
+  {
+    "slug": "soft-minimalism-living-room-ideas-uk",
+    "template": "B",
+    "kicker": "Less But Warmer",
+    "headline": "Soft Minimalism for a Calmer <em>Room</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-4846097.jpg"
+  },
+  {
+    "slug": "spring-home-refresh-ideas-uk",
+    "template": "B",
+    "kicker": "New Season",
+    "headline": "A Spring Refresh for Every <em>Room</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/orange-tulips-glass-vase.jpg"
+  },
+  {
+    "slug": "studio-flat-ideas-uk",
+    "template": "B",
+    "kicker": "One Room · Done Right",
+    "headline": "Studio Flat Ideas That Create <em>Zones</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/studio-flat-zoned-uk.jpg"
+  },
+  {
+    "slug": "unfitted-kitchen-ideas-uk",
+    "template": "B",
+    "kicker": "Freestanding · Flexible",
+    "headline": "Unfitted Kitchen Ideas for <em>Renters</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/sunlit-farmhouse-kitchen-wood.jpg"
+  },
+  {
+    "slug": "utility-room-ideas-uk",
+    "template": "B",
+    "kicker": "Small But Smart",
+    "headline": "Utility Room Ideas for Tiny <em>Spaces</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/utility-room-uk.jpg"
+  },
+  {
+    "slug": "vertical-storage-ideas-uk-flats",
+    "template": "B",
+    "kicker": "Walls Not Floor",
+    "headline": "Vertical Storage for UK <em>Flats</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/hallway-coat-rack-mirror.jpg"
+  },
+  {
+    "slug": "victorian-terrace-interior-ideas-uk",
+    "template": "B",
+    "kicker": "Old Bones · New Style",
+    "headline": "Victorian Terrace Ideas That <em>Honour</em> the House",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-3757055.jpg"
+  },
+  {
+    "slug": "winter-cosy-home-ideas-uk",
+    "template": "B",
+    "kicker": "Wrap Up Indoors",
+    "headline": "Winter Ideas for a Cosier <em>Home</em>",
+    "domain": "britishhomeinterior.co.uk",
+    "photo": "./public/images/pexels-2082090.jpg"
+  }
+]
