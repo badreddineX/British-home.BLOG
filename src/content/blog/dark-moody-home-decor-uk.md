@@ -3,7 +3,7 @@ title: "Dark and Moody Home Decor Ideas UK"
 description: "How to use dark, moody colours in a British home — walls, lighting, textiles, and the rules that stop dark rooms feeling oppressive."
 image: "/images/pexels-3356416.jpg"
 datePublished: "2026-04-01"
-dateModified: "2026-05-15"
+dateModified: "2026-09-25"
 author: "Badreddine"
 tags: ["dark moody home decor UK", "moody home decor ideas", "dark academia home decor", "dark interior design UK", "dark walls UK", "moody living room", "dark paint colours UK"]
 featured: false

@@ -1,5 +1,6 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
+import rehypeAffiliateLinks from './src/plugins/rehype-affiliate-links.mjs';
 import { readFileSync, readdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 
@@ -28,6 +29,9 @@ export default defineConfig({
   // render-blocking <link> requests (PSI flagged ~650ms wasted across two
   // small CSS files) -- total CSS is only a few KB, cheap to inline.
   build: { inlineStylesheets: 'always' },
+  markdown: {
+    hastPlugins: [rehypeAffiliateLinks],
+  },
   integrations: [
     sitemap({
       filter: (page) =>

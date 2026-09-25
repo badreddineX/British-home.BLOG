@@ -3,7 +3,7 @@ title: "Cosy Autumn Home Decor Ideas UK"
 description: "How to make your UK home feel autumnal — warm textiles, amber lighting, seasonal scents, and nature-inspired accents. All from UK shops, with prices."
 image: "/images/pexels-5825578.jpg"
 datePublished: "2025-10-02"
-dateModified: "2025-10-02"
+dateModified: "2026-09-25"
 author: "Badreddine"
 tags: ["cosy autumn home decor ideas", "autumn decorating ideas", "fall home decor uk", "autumn home decor UK", "autumn interior ideas UK", "autumnal home decor", "autumn living room UK"]
 featured: false
