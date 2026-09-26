@@ -161,7 +161,7 @@ This scheme relies almost entirely on lighting. Under harsh overhead light it re
 
 ## 8. Warm Ochre + White + Mid-Century Teak
 
-Ochre is not yellow, and the distinction matters. Yellow living rooms are a challenging proposition in UK light. Ochre — the warm, earthy, slightly muted version — is an entirely different character. It adds warmth to even the most north-facing room and works particularly well in Victorian and Edwardian properties where the original architectural detail benefits from a stronger colour.
+Ochre is not yellow, and the distinction matters. Yellow living rooms are a challenging proposition in UK light. Ochre — the warm, earthy, slightly muted version — is an entirely different character. It adds warmth to even the most north-facing room and works particularly well in [Victorian and Edwardian properties](/blog/victorian-terrace-interior-ideas-uk/) where the original architectural detail benefits from a stronger colour.
 
 **The palette:** Farrow & Ball Sudbury Yellow (one of their most liveable yellows, around £55), Little Greene Pale Gold, or Dulux Gold Digger on walls. Warm white trim. Mid-century teak or walnut furniture.
 

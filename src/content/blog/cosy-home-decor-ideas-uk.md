@@ -155,7 +155,7 @@ This is the element of cosy British interiors that is most specific to our clima
 
 Heavy, properly lined curtains do three things at once: they reduce heat loss from windows, they block out street light and noise, and they create a visual barrier between you and the outside world that makes the inside feel more enclosed, more private, more sheltering.
 
-Adding velvet curtains to a living room makes it feel immediately warmer, and it is warmer, because single-glazed Victorian windows lose significant heat through unlined curtains. The psychological warmth is just as real: the room feels like a room with an inside and an outside.
+Adding velvet curtains to a living room makes it feel immediately warmer, and it is warmer, because single-glazed [Victorian windows](/blog/victorian-terrace-interior-ideas-uk/) lose significant heat through unlined curtains. The psychological warmth is just as real: the room feels like a room with an inside and an outside.
 
 Single-glazed Victorian windows lose significant heat through unlined curtains, so heavy lined options from ~£35/pair at Dunelm or ~£45/pair at Next Home pay for themselves in both warmth and atmosphere.
 

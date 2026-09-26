@@ -128,7 +128,7 @@ A large statement mirror from Wayfair UK runs from around £45–£120. Charity 
 
 ## 6. Dark Rooms and Period Properties
 
-If you have a Victorian or Edwardian home, dark moody colours are genuinely coming home. These houses were built with this aesthetic in mind — high ceilings, large skirting boards, ornate coving, and original fireplaces all exist in a tradition of rich, warm, dark interior spaces.
+If you have a [Victorian or Edwardian home](/blog/victorian-terrace-interior-ideas-uk/), dark moody colours are genuinely coming home. These houses were built with this aesthetic in mind — high ceilings, large skirting boards, ornate coving, and original fireplaces all exist in a tradition of rich, warm, dark interior spaces.
 
 Paint your chimney breast in something dramatic — *Railings* or *Pitch Black* from Farrow & Ball, or *Midnight Teal* from Dulux — and the room's architectural bones do the rest. Add a large gilt mirror above the fireplace, a pair of matching table lamps with amber shades, and a velvet sofa in a jewel tone.
 
