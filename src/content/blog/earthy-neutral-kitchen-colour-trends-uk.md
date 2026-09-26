@@ -3,7 +3,7 @@ title: "Earthy Neutral Kitchen Colours: Two-Tone Under £500"
 description: "Explore earthy neutral kitchen colour trends for 2026 with budget-friendly two-tone ideas, UK retailers and renter-friendly tips."
 image: "/images/earthy-neutral-kitchen-cover.jpg"
 datePublished: "2026-07-15"
-dateModified: "2026-07-30"
+dateModified: "2026-09-26"
 author: "Badreddine"
 tags: ["earthy neutral kitchen", "kitchen colour trends uk", "neutral kitchen ideas", "kitchen trends UK 2026", "budget", "two-tone kitchen", "renter-friendly decor"]
 featured: false

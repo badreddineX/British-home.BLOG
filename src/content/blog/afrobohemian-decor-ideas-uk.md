@@ -3,7 +3,7 @@ title: "Afrobohemian Decor Ideas for UK Homes"
 description: "Affordable Afrobohemian and global-inspired decor ideas for UK renters and homeowners, using budget-friendly UK retailers."
 image: "/images/hero-poster.jpg"
 datePublished: "2026-07-30"
-dateModified: "2026-07-30"
+dateModified: "2026-09-26"
 author: "Badreddine"
 tags: ["Afrobohemian decor UK", "global decor ideas uk", "eclectic decor uk", "global-inspired decor", "budget home decor", "renter-friendly"]
 featured: false

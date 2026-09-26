@@ -3,7 +3,7 @@ title: "Winter Cosy Home Ideas UK"
 description: "How to make your UK home feel warm and cosy through winter — draught-proofing, layered lighting, heavy curtains, warm scents, and hibernation corners."
 image: "/images/pexels-2082090.jpg"
 datePublished: "2025-10-06"
-dateModified: "2026-07-25"
+dateModified: "2026-09-26"
 author: "Badreddine"
 tags: ["winter cosy home ideas UK", "winter home decor uk", "cosy winter living room", "cosy home UK winter", "British winter home decor", "warm home UK", "winter living room UK"]
 featured: false

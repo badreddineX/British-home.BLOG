@@ -3,7 +3,7 @@ title: "Home Decor Inspiration UK"
 description: "Where to find genuine UK home decor inspiration — not American Pinterest boards — and how to adapt trends for British homes, light, and budgets."
 image: "/images/pexels-1648768.jpg"
 datePublished: "2025-11-23"
-dateModified: "2026-07-25"
+dateModified: "2026-09-26"
 author: "Badreddine"
 tags: ["home decor inspiration UK", "home decor ideas uk", "interior design inspiration uk", "UK interior design ideas", "British home decor", "interior inspiration UK", "home styling UK"]
 featured: false
