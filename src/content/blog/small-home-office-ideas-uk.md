@@ -23,7 +23,7 @@ faqs:
   - q: "How do you set up a home office in a small bedroom?"
     a: "Place the desk so you sit with your back to the bed, or use a folding desk, a wall-mounted fold-down desk or a slim console that can be cleared away at night. Keeping work and sleep visually separate helps you switch off. A rug, a screen or a bookcase used as a divider all create a boundary without building anything."
   - q: "What is the best lighting for a small home office?"
-    a: "Use daylight where you can, with the desk placed side-on to a window rather than facing it, which cuts screen glare. Add an adjustable [desk lamp](https://www.amazon.co.uk/s?k=desk+lamp&tag=outdoorcoasta-21) with a neutral-white bulb (around 3,500 to 4,000K) for working hours and switch to a warmer bulb (around 2,700K) in the evening so the room still feels comfortable."
+    a: "Use daylight where you can, with the desk placed side-on to a window rather than facing it, which cuts screen glare. Add an adjustable [desk lamp](https://link.amazon/B0anMQSBp) with a neutral-white bulb (around 3,500 to 4,000K) for working hours and switch to a warmer bulb (around 2,700K) in the evening so the room still feels comfortable."
   - q: "Can renters set up a home office without damaging the walls?"
     a: "Yes. Use freestanding shelving, a folding or drop-leaf desk, a tension rod with baskets, and adhesive cable clips or a cable tray under the desk. Avoid drilling unless your landlord agrees in writing. Everything above can be lifted out and taken with you when the tenancy ends."
 relatedPosts:
@@ -112,7 +112,7 @@ Clutter is what makes a small office feel cramped. Small fixes help a lot:
 
 - **Go vertical.** A shelf above the desk or a tall, narrow bookcase beside it uses height instead of floor.
 - **Use a tension rod and baskets.** A tension rod fitted between two walls or inside an alcove holds lightweight baskets or a small pegboard, with no drilling.
-- **Get cables off the floor.** A [desk organiser](https://www.amazon.co.uk/s?k=desk+organiser&tag=outdoorcoasta-21) or cable tray under the desk or adhesive cable clips along the back edge keeps wires out of sight and stops them tangling around the chair.
+- **Get cables off the floor.** A [desk organiser](https://link.amazon/B04qhh7rf) or cable tray under the desk or adhesive cable clips along the back edge keeps wires out of sight and stops them tangling around the chair.
 - **Keep a single "inbox".** One tray for paper stops it spreading across the desk.
 
 ## What Will a Small Home Office Cost?
@@ -124,9 +124,9 @@ These are typical UK price ranges for the main pieces. Prices vary by retailer, 
 | Compact desk (100 to 120cm) | £40 to £150 |
 | Wall-mounted fold-down or drop-leaf desk | £40 to £120 |
 | Adjustable office chair | £80 to £250 |
-| [Task lamp](https://www.amazon.co.uk/s?k=desk+lamp&tag=outdoorcoasta-21) | £15 to £40 |
+| [Task lamp](https://link.amazon/B0anMQSBp) | £15 to £40 |
 | Freestanding shelving | £25 to £80 |
-| [Monitor stand](https://www.amazon.co.uk/s?k=monitor+stand&tag=outdoorcoasta-21) / cable tray or clips | £5 to £15 |
+| [Monitor stand](https://link.amazon/B0aZ1CtPE) / cable tray or clips | £5 to £15 |
 
 A workable setup sits at the lower end of these ranges, and the chair is the item most worth spending on.
 

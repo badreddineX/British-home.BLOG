@@ -61,10 +61,10 @@ The living room priority order, ranked by visual return per pound:
 This four-step sequence — bulbs, cushions, rug, and one plant — totals around £91, yet most visitors can't tell the results apart from a professionally styled £500 refresh.
 
 **Step 1: Replace bulbs — ~£8**
-All lamps to 2700K warm white. The room looks warm in the evening instead of clinical. This is the cheapest dramatic improvement available. (Amazon UK, 4-pack [Philips 2700K LEDs](https://www.amazon.co.uk/s?k=philips+2700k+led+bulbs&tag=outdoorcoasta-21).)
+All lamps to 2700K warm white. The room looks warm in the evening instead of clinical. This is the cheapest dramatic improvement available. (Amazon UK, 4-pack [Philips 2700K LEDs](https://link.amazon/B0bCBgcZZ).)
 
 **Step 2: New cushion covers — ~£30**
-Four new [cushion covers](https://www.amazon.co.uk/s?k=cushion+covers&tag=outdoorcoasta-21) for the sofa, keeping existing inserts. Two in one colour/texture, two in a complementary pattern. Dunelm from ~£6–£8 each. The sofa looks entirely different.
+Four new [cushion covers](https://link.amazon/B0gvyiiw5) for the sofa, keeping existing inserts. Two in one colour/texture, two in a complementary pattern. Dunelm from ~£6–£8 each. The sofa looks entirely different.
 
 **Step 3: Correctly sized rug — ~£45**
 A jute or natural-weave rug in the right size — at least 160x230cm for a typical UK living room. Dunelm from ~£45. The seating area coheres; the room feels designed rather than furnished by accident.
@@ -89,7 +89,7 @@ Bedside lamps to 2700K. Ceiling light off after 8pm. Same principle as the livin
 A flat sheet folded back over the existing duvet, two euro square pillows (65x65cm) behind your sleeping pillows, and a throw folded at the foot. Full setup from Dunelm's Dorma range for ~£40 if you need all three. If you have a throw already, just add the flat sheet and euro pillows for ~£20.
 
 **Step 3: Blackout curtain lining — ~£15**
-If your bedroom curtains don't block morning light, clip-on [blackout lining](https://www.amazon.co.uk/s?k=blackout+curtain+lining&tag=outdoorcoasta-21) from Amazon UK costs ~£15 and requires no sewing. It clips onto the existing curtain header tape and dramatically improves both sleep quality and the morning atmosphere of the room.
+If your bedroom curtains don't block morning light, clip-on [blackout lining](https://link.amazon/B0hp5kyjR) from Amazon UK costs ~£15 and requires no sewing. It clips onto the existing curtain header tape and dramatically improves both sleep quality and the morning atmosphere of the room.
 
 **Step 4: Bedside styling — ~£10**
 Clear the bedside table to: one lamp, one book, one glass of water. Add one small decorative object — a ceramic dish, a small plant, a candle. Total cost for the object: ~£5–£10.

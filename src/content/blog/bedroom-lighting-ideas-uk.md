@@ -41,7 +41,7 @@ Most UK rental bedrooms come with exactly one lighting option: a single overhead
 
 Standard landlord fittings almost always use a cool white bulb above 4000K, the same temperature you'd find in an office or a supermarket aisle. That colour temperature makes a bedroom feel clinical rather than restful, no matter how nice the rest of the decor is.
 
-The fix costs less than a takeaway. A [warm white 2700K-3000K LED bulb](https://www.amazon.co.uk/s?k=warm+white+led+bulb&tag=outdoorcoasta-21) (~£4-£6 at B&Q, Wilko, or Amazon UK) drops straight into the existing fitting.
+The fix costs less than a takeaway. A [warm white 2700K-3000K LED bulb](https://link.amazon/B082o95o3) (~£4-£6 at B&Q, Wilko, or Amazon UK) drops straight into the existing fitting.
 
 **Quick check before buying:**
 - Look for "2700K" or "warm white" on the box, not just "soft white"
@@ -53,7 +53,7 @@ The fix costs less than a takeaway. A [warm white 2700K-3000K LED bulb](https://
 A bedside lamp adds a second, softer light source, but a small bedroom often can't spare the floor space a nightstand needs. A floating shelf with a lamp on top (IKEA LACK shelf ~£9, plus a small lamp ~£12-£20) gives the same function with zero floor footprint.
 
 
-A traditional [bedside lamp](https://www.amazon.co.uk/s?k=bedside+lamp&tag=outdoorcoasta-21) still works well if there's room for a small table. Charity shops and Dunelm both stock simple ceramic or fabric-shade lamps from around £12-£18, and a warm bulb inside makes even a plain lamp look considerably more expensive than it is.
+A traditional [bedside lamp](https://link.amazon/B0bSFUy0y) still works well if there's room for a small table. Charity shops and Dunelm both stock simple ceramic or fabric-shade lamps from around £12-£18, and a warm bulb inside makes even a plain lamp look considerably more expensive than it is.
 
 **Where a floating shelf lamp wins:** rooms under 10 square metres, box rooms, or any bedroom where the bed takes up most of the floor space. Two shelves, one either side of the bed, cost roughly £18-£20 for the shelves alone before lamps.
 
@@ -61,7 +61,7 @@ A traditional [bedside lamp](https://www.amazon.co.uk/s?k=bedside+lamp&tag=outdo
 
 ## How Do Fairy Lights and LED Strips Add Cosiness Without Rewiring?
 
-[Fairy lights](https://www.amazon.co.uk/s?k=fairy+lights&tag=outdoorcoasta-21) and battery or USB LED strips are the cheapest way to add real atmosphere to a rental bedroom, typically £8-£18 for a set that runs the length of a headboard or picture rail. They plug in or run on batteries, so nothing touches the existing wiring.
+[Fairy lights](https://link.amazon/B0gRXyDvG) and battery or USB LED strips are the cheapest way to add real atmosphere to a rental bedroom, typically £8-£18 for a set that runs the length of a headboard or picture rail. They plug in or run on batteries, so nothing touches the existing wiring.
 
 Run a warm white LED strip (not the multicoloured kind, unless that's genuinely your taste) behind the headboard or along a picture rail using Command strips rather than tape that pulls off paint. A 5-metre USB-powered strip with a remote costs around £12-£15 at Amazon UK or Argos.
 

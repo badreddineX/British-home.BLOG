@@ -70,7 +70,7 @@ Replace it with:
 
 Every single bulb must be 2700K warm white. No cool white, no daylight bulbs. In a dark room, cool light looks clinical and grey; warm light looks amber and rich.
 
-A Dunelm floor lamp in warm brass starts at around £45. A three-pack of [warm white LED bulbs](https://www.amazon.co.uk/s?k=2700K+warm+white+LED+bulb&tag=outdoorcoasta-21) costs less than £8 from Amazon UK. The investment is minimal; the effect is transformative.
+A Dunelm floor lamp in warm brass starts at around £45. A three-pack of [warm white LED bulbs](https://link.amazon/B0gQ3a2Rt) costs less than £8 from Amazon UK. The investment is minimal; the effect is transformative.
 
 ---
 
@@ -108,7 +108,7 @@ Instead, choose:
 
 What to avoid: **Cool greys, stark whites, and light blues** against dark walls. They create a harsh contrast and make the room feel clinical.
 
-Velvet cushions are the obvious choice — they absorb light beautifully and create a matte richness against dark walls. Dunelm's [velvet cushion](https://www.amazon.co.uk/s?k=velvet+cushion+covers&tag=outdoorcoasta-21) range runs from around £8–£14 each and the quality is genuinely good.
+Velvet cushions are the obvious choice — they absorb light beautifully and create a matte richness against dark walls. Dunelm's [velvet cushion](https://link.amazon/B02aHRtqF) range runs from around £8–£14 each and the quality is genuinely good.
 
 ---
 
@@ -122,7 +122,7 @@ A large statement mirror from Wayfair UK, priced from around £45 to £120, does
 
 **What doesn't work:** Many small mirrors scattered around the room. They create a busy, fractured effect that fights the enveloping calm that dark rooms are meant to create.
 
-A large [statement mirror](https://www.amazon.co.uk/s?k=large+gold+frame+mirror&tag=outdoorcoasta-21) from Wayfair UK runs from around £45–£120. Charity shops and car boot sales often have ornate-framed mirrors at a fraction of retail — it's worth being patient and finding something with character rather than buying new.
+A large [statement mirror](https://link.amazon/B0bOURClD) from Wayfair UK runs from around £45–£120. Charity shops and car boot sales often have ornate-framed mirrors at a fraction of retail — it's worth being patient and finding something with character rather than buying new.
 
 ---
 
@@ -143,7 +143,7 @@ If you're renting and can't paint, you can still create a genuinely moody, atmos
 Dark velvet curtains from Next Home or Dunelm, at around £40–£80 a pair, are the single most impactful and fully reversible thing a renter can buy to change the character of a room.
 
 **The renter's toolkit:**
-- **[Dark velvet curtains](https://www.amazon.co.uk/s?k=dark+velvet+curtains&tag=outdoorcoasta-21)** from Next Home or Dunelm (~£40–£80 a pair): the single most impactful thing a renter can do. Dark curtains change the character of a room completely.
+- **[Dark velvet curtains](https://link.amazon/B00aCfGoe)** from Next Home or Dunelm (~£40–£80 a pair): the single most impactful thing a renter can do. Dark curtains change the character of a room completely.
 - **A dark rug** in forest green, navy, or charcoal over existing carpet or flooring
 - **Dark cushions and throws** in jewel tones and warm ambers
 - **A large dark bookcase** against one wall — fills the space with a dark anchor without painting

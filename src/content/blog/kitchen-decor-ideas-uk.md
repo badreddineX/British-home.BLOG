@@ -53,7 +53,7 @@ Total cost: £36. Total time: 90 minutes.
 
 This is the cheapest and most underrated kitchen styling idea. A matching set of tea towels, a coordinating oven glove, and a washing-up brush in a consistent colour family transform a kitchen from cluttered to curated without changing a single fixture. Mismatched textiles make even a beautiful kitchen look chaotic; a matched set makes even an ordinary kitchen feel considered.
 
-Pick one colour to coordinate around — sage green, navy, terracotta, or classic stripe are the most popular in British kitchens. Then buy a set of three matching [tea towels](https://www.amazon.co.uk/s?k=tea+towels+set&tag=outdoorcoasta-21) (~£8–£12 from Dunelm or H&M Home) and replace any visually jarring accessories — that fluorescent washing-up brush, the plastic-handled oven glove — with ones in your chosen colour.
+Pick one colour to coordinate around — sage green, navy, terracotta, or classic stripe are the most popular in British kitchens. Then buy a set of three matching [tea towels](https://link.amazon/B02FviLq6) (~£8–£12 from Dunelm or H&M Home) and replace any visually jarring accessories — that fluorescent washing-up brush, the plastic-handled oven glove — with ones in your chosen colour.
 
 ---
 
@@ -61,7 +61,7 @@ Pick one colour to coordinate around — sage green, navy, terracotta, or classi
 
 A row of three ceramic herb pots on the kitchen windowsill serves two purposes at once: it looks intentional and styled, and it actually provides fresh herbs for cooking. This is the only kitchen decor idea where the decor genuinely earns its place. The display works best with an odd number of pots — three is ideal — all in the same style and colour.
 
-IKEA's Plastis pot in white is the most popular choice for good reason: it's clean, inexpensive (~£1.50 each), and works in every kitchen. For something more textured, Dunelm sells ribbed ceramic [herb pots](https://www.amazon.co.uk/s?k=herb+pots+kitchen&tag=outdoorcoasta-21) in sets of three from ~£12. Plant with rosemary, basil, and thyme — the three herbs that look good at the window, tolerate kitchen conditions, and get used often enough to stay healthy.
+IKEA's Plastis pot in white is the most popular choice for good reason: it's clean, inexpensive (~£1.50 each), and works in every kitchen. For something more textured, Dunelm sells ribbed ceramic [herb pots](https://link.amazon/B08QeaJft) in sets of three from ~£12. Plant with rosemary, basil, and thyme — the three herbs that look good at the window, tolerate kitchen conditions, and get used often enough to stay healthy.
 
 The herb display signals something about the kitchen that no other single element does: it says the person who cooks here cares about what they eat. That's a form of personality. Most kitchen decor is neutral and aspirational; a genuine herb display is specific and personal.
 
@@ -79,7 +79,7 @@ Dunelm's Klip glass jar range starts at ~£8 for four 0.5-litre jars — enough 
 
 A large wooden chopping board leaned against the [splashback](/blog/budget-kitchen-splashback-tile-ideas-uk/) or laid flat on the worktop as a "station" anchors the kitchen's cooking area and makes it look immediately more styled. The board grounds any objects placed alongside it — a bottle of olive oil, a small jar of salt, a lemon — into a deliberate composition rather than scattered items.
 
-Oak and acacia [wooden chopping boards](https://www.amazon.co.uk/s?k=wooden+chopping+board&tag=outdoorcoasta-21) photograph and look best. A good-sized one (at least 35x25cm) from John Lewis runs ~£18–£30, or Dunelm stocks acacia options from ~£10. The board doesn't even need to be actively used in cooking — it works purely as a styling anchor. Though in practice, having a beautiful board on the worktop means you actually use it more.
+Oak and acacia [wooden chopping boards](https://link.amazon/B061fOaps) photograph and look best. A good-sized one (at least 35x25cm) from John Lewis runs ~£18–£30, or Dunelm stocks acacia options from ~£10. The board doesn't even need to be actively used in cooking — it works purely as a styling anchor. Though in practice, having a beautiful board on the worktop means you actually use it more.
 
 ---
 

@@ -23,7 +23,7 @@ faqs:
   - q: "What colours make a small bathroom look bigger in the UK?"
     a: "Light warm neutrals and soft off-whites make a small bathroom feel larger, especially in the north-facing bathrooms common in British terraces and flats. Avoid stark brilliant white, which reads cold and clinical under UK light — a warm white with a hint of yellow or grey undertone performs better than a true white in almost every UK bathroom we've tested."
   - q: "Can I paint over bathroom tiles in a UK rental?"
-    a: "[Tile paint](https://www.amazon.co.uk/s?k=tile+paint&tag=outdoorcoasta-21) exists (Rust-Oleum and Ronseal both do bathroom-specific versions from around £20) and can refresh dated tiles without a full retile, but check your tenancy agreement first — most landlords won't allow it, and it's a difficult job to reverse cleanly. For renters, changing the wall colour above the tile line and swapping textiles (bath mat, towels, shower curtain) delivers most of the visual change without touching the tiles at all."
+    a: "[Tile paint](https://link.amazon/B0hTc0Og2) exists (Rust-Oleum and Ronseal both do bathroom-specific versions from around £20) and can refresh dated tiles without a full retile, but check your tenancy agreement first — most landlords won't allow it, and it's a difficult job to reverse cleanly. For renters, changing the wall colour above the tile line and swapping textiles (bath mat, towels, shower curtain) delivers most of the visual change without touching the tiles at all."
   - q: "Should bathroom walls match the tile colour or contrast with it?"
     a: "Both work, but contrast is more forgiving in a UK bathroom with existing tiles you can't change. If your tiles are a cool white or grey, a warm neutral or sage green wall colour above them balances the coolness. If your tiles already have colour or pattern, keep the wall colour neutral and let the tiles be the feature."
 ---
@@ -58,8 +58,8 @@ Sage green (Farrow & Ball Mizzle, Dulux Sage Wisdom) has become the standout bat
 
 This is the step most colour guides skip. UK bathrooms generate real condensation — poor extraction, older windows, and shorter, less powerful showers than a lot of the world means moisture sits in the room longer. Standard emulsion will bubble, flake, or grow mould within a year above the tile line.
 
-- **[Dulux Bathroom+](https://www.amazon.co.uk/s?k=bathroom+paint&tag=outdoorcoasta-21)** (from £22, B&Q, Wickes) — widely available, moisture and mould resistant, comes in most standard Dulux colours
-- **[Crown Bathroom](https://www.amazon.co.uk/s?k=bathroom+paint&tag=outdoorcoasta-21)** (from £19, B&Q) — a cheaper equivalent with a similar resistance rating
+- **[Dulux Bathroom+](https://link.amazon/B0ivcIiic)** (from £22, B&Q, Wickes) — widely available, moisture and mould resistant, comes in most standard Dulux colours
+- **[Crown Bathroom](https://link.amazon/B0ivcIiic)** (from £19, B&Q) — a cheaper equivalent with a similar resistance rating
 - Both brands can colour-match a Farrow & Ball or other premium shade into their bathroom-specific formula, so you don't have to give up a specific colour to get the moisture resistance
 
 ## 4. What If I'm Renting and Can't Retile?

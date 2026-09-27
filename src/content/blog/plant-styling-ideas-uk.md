@@ -20,7 +20,7 @@ tldr:
   - "Group 3–4 smaller plants instead of one large one for more greenery without breaking the bank."
 faqs:
   - q: "What low-light plants can I keep in a UK rented flat without risking my deposit?"
-    a: "Snake plant (Sansevieria), ZZ plant (Zamioculcas), and peace lily (Spathiphyllum) are all ideal—they tolerate low light and don’t need frequent repotting. Simple [plant pots](https://www.amazon.co.uk/s?k=plant+pot&tag=outdoorcoasta-21) (about £5 to £8) on freestanding stands sit neatly and won't scratch floors."
+    a: "Snake plant (Sansevieria), ZZ plant (Zamioculcas), and peace lily (Spathiphyllum) are all ideal—they tolerate low light and don’t need frequent repotting. Simple [plant pots](https://link.amazon/B00VjPkNr) (about £5 to £8) on freestanding stands sit neatly and won't scratch floors."
   - q: "Can I hang plants from the ceiling in a rented property?"
     a: "Yes—if you avoid permanent fixings. Tension rods (B&Q, ~£6–£12) mounted across a window bay or between bookshelves hold lightweight trailing plants like english ivy (Hedera helix). No drilling needed, and they’re fully removable."
   - q: "Where’s the best UK retailer for budget planters that look stylish?"
@@ -41,7 +41,7 @@ Snake plant (Sansevieria trifasciata) is the gold standard. It thrives under flu
 
 ## 2. Freestanding plant stands: the ultimate no-drill solution
 
-Dunelm’s oak-effect freestanding [plant stand](https://www.amazon.co.uk/s?k=plant+stand&tag=outdoorcoasta-21) (currently £19.99 on sale) works beautifully with 12–15cm pots. IKEA’s LACK side table (£9.99), turned sideways, also doubles as a plant tier for a grouping of three small pots. For a narrower space, the B&Q Adjustable Wooden Plant Stand (~£14.50) extends from 55–80cm tall. The key is weight: avoid tall, narrow stands that tip in high-traffic areas. Put them on smooth flooring (no rugs underneath) and choose solid wood over metal if you’re on the move.
+Dunelm’s oak-effect freestanding [plant stand](https://link.amazon/B0hg9g9Yk) (currently £19.99 on sale) works beautifully with 12–15cm pots. IKEA’s LACK side table (£9.99), turned sideways, also doubles as a plant tier for a grouping of three small pots. For a narrower space, the B&Q Adjustable Wooden Plant Stand (~£14.50) extends from 55–80cm tall. The key is weight: avoid tall, narrow stands that tip in high-traffic areas. Put them on smooth flooring (no rugs underneath) and choose solid wood over metal if you’re on the move.
 
 ## 3. Peel-and-stick shelves for vertical planting
 
@@ -65,11 +65,11 @@ A plain white wall behind plants can make them look even duller. Stick peel-and-
 
 ## 7. Light-boosting hacks that don’t cost much
 
-Move your plants closer to the window—even 30cm makes a difference. Rotate them 180° every month so growth stays even. Reflect natural light with a cheap mirror (Next Home, £15–£25) angled behind the plant group. If you’re desperate, a £20 [LED grow light](https://www.amazon.co.uk/s?k=LED+grow+light&tag=outdoorcoasta-21) (Amazon UK, Kingplus 12W) on a timer (set to 8am–6pm) works for low-light species in true gloom. But most UK flats need less light than you think—over-lighting (e.g., artificial 24/7) often harms them more than helps.
+Move your plants closer to the window—even 30cm makes a difference. Rotate them 180° every month so growth stays even. Reflect natural light with a cheap mirror (Next Home, £15–£25) angled behind the plant group. If you’re desperate, a £20 [LED grow light](https://link.amazon/B02nDe4Bv) (Amazon UK, Kingplus 12W) on a timer (set to 8am–6pm) works for low-light species in true gloom. But most UK flats need less light than you think—over-lighting (e.g., artificial 24/7) often harms them more than helps.
 
 ## 8. Renter-proof watering systems
 
-Low-light plants rot from excess moisture, not drought. Use pots with drainage holes (IKEA’s 305 series, ~£4.99) inside decorativeOuter pots without holes. Place a 1cm layer of pebbles at the base of the outer pot to lift the inner pot out of any seepage. For forgetful waterers, self-watering spikes (Dunelm, ~£3.99) or a £5.99 [mister spray bottle](https://www.amazon.co.uk/s?k=plant+mister+spray+bottle&tag=outdoorcoasta-21) and watering globe (John Lewis) release moisture slowly.
+Low-light plants rot from excess moisture, not drought. Use pots with drainage holes (IKEA’s 305 series, ~£4.99) inside decorativeOuter pots without holes. Place a 1cm layer of pebbles at the base of the outer pot to lift the inner pot out of any seepage. For forgetful waterers, self-watering spikes (Dunelm, ~£3.99) or a £5.99 [mister spray bottle](https://link.amazon/B01DpEe1M) and watering globe (John Lewis) release moisture slowly.
 
 ## 9. Style with secondhand and charity finds
 

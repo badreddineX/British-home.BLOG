@@ -109,7 +109,7 @@ Art is the fastest way to make a bedroom look personal rather than showroom-neut
 For a single statement piece, the print's width should roughly match two-thirds of the headboard's width, hung so its centre sits at eye level when seated on the bed. A cluster of three frames should keep consistent gaps of 5–8cm between each frame rather than eyeballing the spacing.
 
 
-Choose art that echoes one colour already in your palette (the throw, the curtains, a cushion) rather than introducing a fourth unrelated tone. Botanical [wall prints](https://www.amazon.co.uk/s?k=wall+art+prints+bedroom&tag=outdoorcoasta-21), abstract line art, and framed textiles all work well against the warm neutrals and deep tones recommended above.
+Choose art that echoes one colour already in your palette (the throw, the curtains, a cushion) rather than introducing a fourth unrelated tone. Botanical [wall prints](https://link.amazon/B06s6eWZk), abstract line art, and framed textiles all work well against the warm neutrals and deep tones recommended above.
 
 Framed art print sized to headboard width — from ~£25 for prints plus ~£15–£30 per frame at IKEA or Dunelm.
 
@@ -135,7 +135,7 @@ A wall-mounted mirror above a chest of drawers plus a small tray for perfume and
 
 In small UK bedrooms, a wall-mounted mirror above a chest of drawers creates a dressing table area without occupying additional floor space. Add a small tray for perfume bottles, a candle, and a few favourite objects. The chest of drawers already exists; the mirror and tray cost ~£20–£40 total.
 
-[Round wall mirror](https://www.amazon.co.uk/s?k=round+wall+mirror&tag=outdoorcoasta-21) for dressing area — from ~£25 at Dunelm.
+[Round wall mirror](https://link.amazon/B09KKhYNo) for dressing area — from ~£25 at Dunelm.
 
 ---
 
@@ -185,7 +185,7 @@ A bed with cushions in five unrelated colours looks assembled rather than styled
 
 Most bedroom styling guides tell you to "layer cushions" without saying how many colours to use. In practice, three tones maximum (your wall colour, one accent, and a neutral) reads as styled; four or more starts to look cluttered regardless of quality.
 
-A set of two to four [cushion covers](https://www.amazon.co.uk/s?k=cushion+covers+set&tag=outdoorcoasta-21) from Dunelm or Next Home in linen, boucle, or velvet costs roughly £8–£18 each, and mixing textures within the same colour family (a linen square with a velvet rectangle in the same sage tone) adds depth without adding visual noise.
+A set of two to four [cushion covers](https://link.amazon/B0ew50j3C) from Dunelm or Next Home in linen, boucle, or velvet costs roughly £8–£18 each, and mixing textures within the same colour family (a linen square with a velvet rectangle in the same sage tone) adds depth without adding visual noise.
 
 Coordinated cushion set (2–4 covers) — from ~£8–£18 each at Dunelm or Next Home.
 

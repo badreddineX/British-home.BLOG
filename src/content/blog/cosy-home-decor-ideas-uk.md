@@ -77,9 +77,9 @@ A £25 chunky knit throw draped across the sofa, paired with a £45 wool rug und
 
 **What to buy and where:**
 
-- **[Chunky knit throw](https://www.amazon.co.uk/s?k=chunky+knit+throw+blanket&tag=outdoorcoasta-21)** — Next Home from ~£25. Drape, don't fold.
-- **[Large wool or jute rug](https://www.amazon.co.uk/s?k=wool+rug+large&tag=outdoorcoasta-21)** — Dunelm from ~£45. One large rug beats several small ones.
-- **[Velvet cushions](https://www.amazon.co.uk/s?k=velvet+cushion+covers&tag=outdoorcoasta-21)** — Dunelm from ~£8 each. Cluster in warm tones.
+- **[Chunky knit throw](https://link.amazon/B09v5M6EW)** — Next Home from ~£25. Drape, don't fold.
+- **[Large wool or jute rug](https://link.amazon/B03GULyhU)** — Dunelm from ~£45. One large rug beats several small ones.
+- **[Velvet cushions](https://link.amazon/B02aHRtqF)** — Dunelm from ~£8 each. Cluster in warm tones.
 - **Linen curtains, lined** — IKEA from ~£35/pair. Full-length, hung from ceiling level.
 
 **Renter note:** All of the above are portable and reversible — no tenancy agreement considerations at all.
@@ -100,7 +100,7 @@ The scents that signal warmth and cosiness in a British domestic context tend to
 - **Clove and cinnamon** — seasonal but very effective
 - **Beeswax candles** — the most authentic 'warm home' scent there is
 
-You don't need to spend a lot. Primark Home's candle range starts at ~£4. Dunelm's [reed diffusers](https://www.amazon.co.uk/s?k=reed+diffuser+set&tag=outdoorcoasta-21) from ~£8. Even a beeswax tealight from a farmers' market for 50p creates the effect.
+You don't need to spend a lot. Primark Home's candle range starts at ~£4. Dunelm's [reed diffusers](https://link.amazon/B02WjUYBa) from ~£8. Even a beeswax tealight from a farmers' market for 50p creates the effect.
 
 If you want to invest: Neom Organics and Diptyque are the premium UK recommendations, but neither is necessary for a genuinely cosy home.
 

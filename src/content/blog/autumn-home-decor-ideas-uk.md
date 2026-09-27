@@ -119,7 +119,7 @@ There's a psychological benefit to using foraged elements that bought decoration
 
 Autumn is when the lightweight linen throw gets retired and the heavy alternatives come out. This is as much practical as aesthetic — the evenings are cooling and you actually want the weight.
 
-A chunky [knitted throw](https://www.amazon.co.uk/s?k=knitted+throw&tag=outdoorcoasta-21) from Next Home costs around £30, while Dunelm's velvet cushion covers run from £8 and thermal curtain lining adds about £15 per metre — a full textile upgrade for under £60.
+A chunky [knitted throw](https://link.amazon/B0c6LKW86) from Next Home costs around £30, while Dunelm's velvet cushion covers run from £8 and thermal curtain lining adds about £15 per metre — a full textile upgrade for under £60.
 
 **The autumn textile upgrade list:**
 
@@ -140,10 +140,10 @@ Beyond foraging, you can introduce autumn's palette and materials through bought
 Dried pampas grass in a tall vase costs around £12 from florists or Amazon UK, and pairing it with a bowl of British apples and beeswax candles keeps the nature-inspired look grounded rather than costume-y.
 
 **What works:**
-- **Dried pampas grass** in a tall vase (available from florists and [Amazon UK](https://www.amazon.co.uk/s?k=autumn+wreath&tag=outdoorcoasta-21) from ~£12)
+- **Dried pampas grass** in a tall vase (available from florists and [Amazon UK](https://link.amazon/B0iGll2F3) from ~£12)
 - **Preserved eucalyptus** — lasts for months and smells lightly of the countryside
 - **A bowl of apples** — decorative and edible. British apple varieties in late September are extraordinary.
-- **[Beeswax candles](https://www.amazon.co.uk/s?k=beeswax+candle&tag=outdoorcoasta-21)** — honey-yellow and honey-scented, they are autumn in physical form
+- **[Beeswax candles](https://link.amazon/B0bqJY5yH)** — honey-yellow and honey-scented, they are autumn in physical form
 - **Small pumpkins and squashes** — for October specifically, these are beautiful in a kitchen or on a dining table. Buy from farmers' markets or farm shops for British-grown varieties.
 
 **What to avoid:** Orange plastic pumpkins, polyester "autumn leaf" garlands, and anything that looks like it's been bought from a Halloween aisle. These read as seasonal costume rather than seasonal living.

@@ -191,8 +191,8 @@ The minimum comfortable gap between sofa and coffee table is 40-45cm — enough 
 
 The most practical alternatives for small British living rooms:
 
-- **[Nesting tables](https://www.amazon.co.uk/s?k=nesting+tables&tag=outdoorcoasta-21):** Take the footprint of one small table when stacked, spread out when needed. Dunelm stocks these from ~£35 per set
-- **[Slim console table](https://www.amazon.co.uk/s?k=slim+console+table&tag=outdoorcoasta-21):** One on each end of the sofa instead of a central coffee table — keeps the central floor area clear
+- **[Nesting tables](https://link.amazon/B0aNKJgvE):** Take the footprint of one small table when stacked, spread out when needed. Dunelm stocks these from ~£35 per set
+- **[Slim console table](https://link.amazon/B0f0SBOWN):** One on each end of the sofa instead of a central coffee table — keeps the central floor area clear
 - **Ottoman coffee table:** Softer edge than a hard table, serves double duty as storage, works in very tight spaces
 
 Nesting tables as coffee table alternative — from ~£35 at Dunelm. They're the most flexible solution in rooms where a fixed table won't clear the 40cm gap from the sofa.
@@ -205,7 +205,7 @@ The rug is a layout tool as much as a decorative one. It defines the boundary of
 
 The minimum rug size for a small UK living room seating arrangement is 160x230cm. At this size, the front legs of all seating pieces sit on the rug and the arrangement reads as unified. A rug smaller than this — the very common 120x170cm — sits under the coffee table and floats in the middle of the arrangement without grounding anything.
 
-Dunelm's [rug](https://www.amazon.co.uk/s?k=large+living+room+rug&tag=outdoorcoasta-21) range includes excellent 160x230cm options from ~£45. This is almost always worth spending on rather than buying a smaller, cheaper rug — the size difference has a much larger visual impact than the price difference would suggest.
+Dunelm's [rug](https://link.amazon/B06CeIfAU) range includes excellent 160x230cm options from ~£45. This is almost always worth spending on rather than buying a smaller, cheaper rug — the size difference has a much larger visual impact than the price difference would suggest.
 
 One correctly sized rug (160x230cm minimum) — from ~£45 at Dunelm. The rug is the foundation of the layout.
 

@@ -45,7 +45,7 @@ A living room with one central bulb and nothing else feels flat in the evening. 
 
 **What to buy:**
 - **Warm white LED bulbs** (2700K, not 4000K or "daylight") — ~£8 for a 4-pack at Wilko or Amazon UK
-- **One [floor lamp](https://www.amazon.co.uk/s?k=floor+lamp&tag=outdoorcoasta-21) or table lamp** — IKEA has options from £15, Dunelm from £18-£25
+- **One [floor lamp](https://link.amazon/B02djLfnP) or table lamp** — IKEA has options from £15, Dunelm from £18-£25
 - **A plug-in timer socket** (optional, ~£8 at B&M) if you want the lamp on a schedule without a smart bulb
 
 Skip cool white and "daylight" bulbs entirely in a living room. They read as clinical, not cosy, and they make a small space feel smaller, not bigger.
@@ -71,10 +71,10 @@ A lot of small-room advice says "go big with your rug," which is true, but in a 
 
 Cushions and a throw for £20-£30 total add the colour and texture that make a room feel finished, without committing to anything you can't take with you when you move ([Dunelm](https://www.dunelm.com)). This is the safest spend on the whole list for renters.
 
-Three or four cushions in a mix of two coordinating colours, plus one textured [throw](https://www.amazon.co.uk/s?k=throw+blanket&tag=outdoorcoasta-21) over the sofa arm, is enough. You don't need more than that in a small room, more cushions than seats just clutters the sofa.
+Three or four cushions in a mix of two coordinating colours, plus one textured [throw](https://link.amazon/B0553ZaX3) over the sofa arm, is enough. You don't need more than that in a small room, more cushions than seats just clutters the sofa.
 
 **Where to buy:**
-- **Dunelm** [cushion covers](https://www.amazon.co.uk/s?k=cushion+covers&tag=outdoorcoasta-21) from £6-£10 each
+- **Dunelm** [cushion covers](https://link.amazon/B0gvyiiw5) from £6-£10 each
 - **IKEA** cushion covers from £3-£8 each
 - **Primark Home** (in larger stores) often has similar prices with more seasonal patterns
 

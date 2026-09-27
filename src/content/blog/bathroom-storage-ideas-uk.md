@@ -42,13 +42,13 @@ faqs:
 
 In a [small bathroom](/blog/small-bathroom-ideas-uk/), the wall above the toilet is the only large open vertical zone. Most small rental bathrooms waste it entirely.
 
-A freestanding [over-toilet shelf unit](https://www.amazon.co.uk/s?k=over+toilet+storage+unit&tag=outdoorcoasta-21) sits around the cistern and adds three full shelves of vertical space without touching the walls. A Songmics-style 3-tier unit on Amazon UK runs ~£30-£45 and fits standard UK toilet dimensions. Three shelves hold toiletries, spare toilet roll, small baskets, and hand towels with room to spare.
+A freestanding [over-toilet shelf unit](https://link.amazon/B0ftEucSj) sits around the cistern and adds three full shelves of vertical space without touching the walls. A Songmics-style 3-tier unit on Amazon UK runs ~£30-£45 and fits standard UK toilet dimensions. Three shelves hold toiletries, spare toilet roll, small baskets, and hand towels with room to spare.
 
 **Why this is first:** It's the single largest storage gain per pound available in a small bathroom. Three shelves of vertical space for ~£35, installed in 10 minutes, removed in 5.
 
 **Options:**
 - **Songmics-style 3-tier over-toilet shelf** (~£30-£45, Amazon UK) — bamboo or metal, adjustable height
-- **IKEA [VESKEN corner shelf unit](https://www.amazon.co.uk/s?k=corner+shelf+unit&tag=outdoorcoasta-21)** (~£15) — compact, works beside or behind a toilet in corner configurations
+- **IKEA [VESKEN corner shelf unit](https://link.amazon/B0ewuuL3N)** (~£15) — compact, works beside or behind a toilet in corner configurations
 - **HomeSense over-toilet unit** (~£30-£55) — check the home storage section, stock varies by store
 
 **What to put on the shelves:** Decorative baskets on the top shelf (they hide clutter and look intentional), rolled towels on the middle shelf, daily toiletries on the bottom shelf within easy reach.
@@ -57,7 +57,7 @@ A freestanding [over-toilet shelf unit](https://www.amazon.co.uk/s?k=over+toilet
 
 The back of the bathroom door is typically empty in UK rental bathrooms. An over-door organiser converts that vertical surface into usable storage with zero wall damage.
 
-A clear pocket [over-door organiser](https://www.amazon.co.uk/s?k=over+door+organiser&tag=outdoorcoasta-21) (24 pockets, ~£15-£22 on Amazon UK) holds shampoo, conditioner, shower gel, razors, cotton wool, and small accessories in full view. You can see everything without opening a drawer.
+A clear pocket [over-door organiser](https://link.amazon/B0hnv3jPh) (24 pockets, ~£15-£22 on Amazon UK) holds shampoo, conditioner, shower gel, razors, cotton wool, and small accessories in full view. You can see everything without opening a drawer.
 
 **Options by category:**
 
@@ -113,7 +113,7 @@ Shower storage in a small UK rental bathroom almost always means a tension showe
 **Why tension over suction cups:** Suction cup caddies fall off ceramic tile, especially in humid conditions common to UK bathrooms without extractor fans. Tension caddies don't. They hold 10-15kg, adjust to any ceiling height, and leave no marks when removed.
 
 **Options:**
-- **[Tension shower caddy](https://www.amazon.co.uk/s?k=tension+shower+caddy&tag=outdoorcoasta-21), 4-tier** (~£35-£50, Amazon UK) — adjustable, chrome or matte black finish
+- **[Tension shower caddy](https://link.amazon/B02AZZQo2), 4-tier** (~£35-£50, Amazon UK) — adjustable, chrome or matte black finish
 - **3-tier tension caddy** (~£28-£40, Amazon UK or Wilko) — good for a single person's products
 - **IKEA BROGRUND-style** (~£12) — basic hanging caddy for the shower head rail, works if you have limited products
 

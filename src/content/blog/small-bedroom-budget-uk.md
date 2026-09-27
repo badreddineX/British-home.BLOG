@@ -45,7 +45,7 @@ Nothing else on this list got that reaction on its own.
 
 ### What Should You Actually Buy?
 
-A plain [duvet cover set](https://www.amazon.co.uk/s?k=duvet+cover+set+cotton+double&tag=outdoorcoasta-21) in a warm neutral (oatmeal, soft clay, sage) reads calmer in a small room than a bold print. Dunelm's own-brand cotton sets run £22-£32 for a double. Amazon UK has similar quality from brands like Bianca or Catherine Lansfield in the same price band. Add a £6-£8 set of pillowcases if the existing ones look worn.
+A plain [duvet cover set](https://link.amazon/B08fDMT4C) in a warm neutral (oatmeal, soft clay, sage) reads calmer in a small room than a bold print. Dunelm's own-brand cotton sets run £22-£32 for a double. Amazon UK has similar quality from brands like Bianca or Catherine Lansfield in the same price band. Add a £6-£8 set of pillowcases if the existing ones look worn.
 
 **Cost:** £25-£35 total.
 
@@ -54,7 +54,7 @@ If you're also rethinking wall colour alongside bedding, our guide to [bedroom c
 
 ## What's the Best Way to Fix Bad Lighting Without an Electrician?
 
-Overhead lighting is the biggest atmosphere problem in most small UK bedrooms, and warm bulbs plus one plug-in lamp cost £15-£20 total. [Warm white (2700K) bulbs](https://www.amazon.co.uk/s?k=2700K+warm+white+bulb+E27&tag=outdoorcoasta-21) from Amazon UK or Wilko run £6-£10 for a pack of two, and a basic plug-in table lamp is £9-£15 at IKEA or Dunelm.
+Overhead lighting is the biggest atmosphere problem in most small UK bedrooms, and warm bulbs plus one plug-in lamp cost £15-£20 total. [Warm white (2700K) bulbs](https://link.amazon/B013dYyZG) from Amazon UK or Wilko run £6-£10 for a pack of two, and a basic plug-in table lamp is £9-£15 at IKEA or Dunelm.
 
 Most people blame a small bedroom's flatness on the wall colour or the furniture, but it's usually the bulb. A standard ceiling bulb is typically 4000K daylight white, which makes a small room feel clinical rather than cosy. Swapping to 2700K warm white changes the entire mood for under a tenner.
 
@@ -91,7 +91,7 @@ Placement is straightforward: centre it under the foot of the bed, or run it alo
 
 Command strips hold framed prints or canvases without a single nail hole, and a full set of wall art costs £15-£20 for two or three pieces. This is the step that finishes the room, and it's the one most renters skip out of fear of losing their deposit.
 
-Amazon UK, B&M, and IKEA all stock A4 or A3 framed prints in the £5-£10 range. [Command picture-hanging strips](https://www.amazon.co.uk/s?k=Command+picture+hanging+strips&tag=outdoorcoasta-21) cost £6-£9 for a multi-pack at most UK supermarkets, Wilko, or Amazon UK, and they remove cleanly without marking paint.
+Amazon UK, B&M, and IKEA all stock A4 or A3 framed prints in the £5-£10 range. [Command picture-hanging strips](https://link.amazon/B0irdulUH) cost £6-£9 for a multi-pack at most UK supermarkets, Wilko, or Amazon UK, and they remove cleanly without marking paint.
 
 **Cost:** £15-£20.
 

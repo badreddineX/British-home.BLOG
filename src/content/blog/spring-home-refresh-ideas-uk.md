@@ -80,14 +80,14 @@ Swapping a chunky knit throw for a lightweight linen one costs around £25 at Du
 
 **The spring textile swap:**
 
-- **Replace chunky knit throw with [lightweight linen throw](https://www.amazon.co.uk/s?k=lightweight+linen+throw&tag=outdoorcoasta-21)** — Dunelm from ~£25
+- **Replace chunky knit throw with [lightweight linen throw](https://link.amazon/B0hRhxmGg)** — Dunelm from ~£25
 - **Swap velvet cushion covers for cotton or linen alternatives** — Next Home from ~£12/cover
 - **Wash and rehang lighter curtains** — or replace thermal-lined curtains with unlined linen
 - **Change bedding to lighter tog** — 7.5 tog or 4.5 tog for spring, rather than 10.5 or 13.5 tog
 
 The spring bag contains lighter throws in sage and blush, cotton cushion covers, and the lighter-tog duvet. The winter bag has the velvet, the chunky knits, and the heavyweight duvet. The swap takes an hour and completely changes the feeling of the home.
 
-[Vacuum storage bags](https://www.amazon.co.uk/s?k=vacuum+storage+bags&tag=outdoorcoasta-21) from Amazon UK (~£12 for a set of four) compress winter textiles to a fraction of their normal size.
+[Vacuum storage bags](https://link.amazon/B0drJE8QP) from Amazon UK (~£12 for a set of four) compress winter textiles to a fraction of their normal size.
 
 ---
 
@@ -105,7 +105,7 @@ New cushion covers and a bunch of spring flowers together cost under £20 and ch
 - **Sky blue** — the specific pale blue of a British spring sky when it does appear. Very good as an accent.
 - **Warm white** — switching from winter's warm amber tones to a fresher warm white reads as spring without being startling.
 
-The easiest way to introduce spring colour is through a few new [cushion covers](https://www.amazon.co.uk/s?k=spring+cushion+covers&tag=outdoorcoasta-21) and a bunch of spring flowers — both cost under £20 and can change the feeling of a room entirely.
+The easiest way to introduce spring colour is through a few new [cushion covers](https://link.amazon/B0hRLmiMZ) and a bunch of spring flowers — both cost under £20 and can change the feeling of a room entirely.
 
 ---
 
@@ -119,7 +119,7 @@ Forced hyacinth bulbs cost just £3-£5 and daffodil bunches around £1.50 — a
 
 - **Forced hyacinth bulbs** — buy kits from garden centres in January for February-March flowers (~£3–£5 per bulb). The scent is extraordinary. One hyacinth in a small pot on a windowsill is worth more to a spring refresh than a whole bag of new cushions.
 - **Daffodils** — cut flower bunches from supermarkets from ~£1.50. Change the water every two days and they last a week. Put them everywhere: kitchen, bathroom, desk, dining table.
-- **Tulips** — British tulip season runs from March to May. Parrot tulips and fringed varieties in warm terracotta, peach, and deep plum look beautiful in simple [glass vases](https://www.amazon.co.uk/s?k=glass+flower+vase&tag=outdoorcoasta-21).
+- **Tulips** — British tulip season runs from March to May. Parrot tulips and fringed varieties in warm terracotta, peach, and deep plum look beautiful in simple [glass vases](https://link.amazon/B06L6Vgef).
 - **Lily of the valley** — if you have garden access, bring a small bunch inside. One of the finest scents in the natural world.
 - **Pothos or trailing ivy** — fresh green for the window or bookshelf. Easy to care for, grows quickly in spring warmth.
 
@@ -160,7 +160,7 @@ A spring-appropriate reed diffuser costs around £8 at Dunelm — one of the che
 
 Swap out the amber and clove of winter for these lighter alternatives in late February. The olfactory cue to your brain that the season is changing is powerful.
 
-**Budget option:** Dunelm's [reed diffuser](https://www.amazon.co.uk/s?k=spring+reed+diffuser&tag=outdoorcoasta-21) range includes spring-appropriate scents from ~£8. Swap in early March.
+**Budget option:** Dunelm's [reed diffuser](https://link.amazon/B04qu9b1D) range includes spring-appropriate scents from ~£8. Swap in early March.
 
 ---
 

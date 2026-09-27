@@ -21,3 +21,4 @@ out-uk/
 # by any site source or public/, not served live; kept on disk, not in git
 # history (5-14MB each, was driving .git to 703MB)
 dig prod/pdf/*.pdf
+src/content/audit_out.json

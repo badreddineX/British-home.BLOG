@@ -51,7 +51,7 @@ For the wider kitchen refresh picture beyond worktops alone, [I've covered the f
 
 ## What Is Worktop Wrap Film and Does It Actually Work?
 
-[Worktop wrap film](https://www.amazon.co.uk/s?k=kitchen+worktop+wrap+film&tag=outdoorcoasta-21) is a self-adhesive vinyl sheet, usually £20–£35 for a roll around 1.5m x 0.9m from Dunelm, Amazon UK, or d-c-fix, that sticks directly onto an existing flat worktop surface. It's the cheapest full-surface option on this list and needs no tools beyond a craft knife.
+[Worktop wrap film](https://link.amazon/B06PS76up) is a self-adhesive vinyl sheet, usually £20–£35 for a roll around 1.5m x 0.9m from Dunelm, Amazon UK, or d-c-fix, that sticks directly onto an existing flat worktop surface. It's the cheapest full-surface option on this list and needs no tools beyond a craft knife.
 
 The finish convinces from a normal viewing distance. Up close, under bright light, you can tell it's vinyl. Most people don't get that close.
  Two years on, the wrapped section still looks fine, though the edge nearest the hob has started lifting slightly from heat exposure.
@@ -64,7 +64,7 @@ The main limitations: it's not heat resistant, so always use a trivet or board, 
 
 ## Can You Paint a Laminate Kitchen Worktop?
 
-Yes, using a specialist laminate worktop paint kit rather than standard emulsion, which won't bond to a laminate surface and will chip within weeks. [Rust-Oleum Worktop Transformation Kit](https://www.amazon.co.uk/s?k=Rust-Oleum+Worktop+Transformation+Kit&tag=outdoorcoasta-21) costs around £40 and includes primer, base coat, and a protective topcoat.
+Yes, using a specialist laminate worktop paint kit rather than standard emulsion, which won't bond to a laminate surface and will chip within weeks. [Rust-Oleum Worktop Transformation Kit](https://link.amazon/B09kpzbrs) costs around £40 and includes primer, base coat, and a protective topcoat.
 
 These kits are two-part or three-part systems specifically formulated to grip non-porous laminate. The process involves a thorough clean and light sanding, one or two coats of primer, then the coloured base coat, then a clear protective topcoat that cures over several days. Full cure time before normal use is usually five to seven days, which is longer than most people expect.
 
@@ -80,7 +80,7 @@ Curing time is the real cost here, not money. You'll need to keep the worktop mo
 
 If the front edge strip, the narrow band along the worktop's front lip, is the only chipped or peeling part, replacing just that strip costs £8–£20 rather than the full surface. This is worth checking before assuming the whole worktop needs attention.
 
-The front edge is where most damage happens first. It takes constant knocks from cutlery drawers, chairs, and general kitchen traffic, while the flat top surface often stays in reasonable condition underneath. [Self-adhesive edge strip](https://www.amazon.co.uk/s?k=worktop+edge+strip+self+adhesive&tag=outdoorcoasta-21) in matching or contrasting laminate is sold by the metre at Wickes and on Amazon UK, typically £4–£8 per metre depending on finish.
+The front edge is where most damage happens first. It takes constant knocks from cutlery drawers, chairs, and general kitchen traffic, while the flat top surface often stays in reasonable condition underneath. [Self-adhesive edge strip](https://link.amazon/B0dpiaXyT) in matching or contrasting laminate is sold by the metre at Wickes and on Amazon UK, typically £4–£8 per metre depending on finish.
 
 Fitting it is genuinely simple. Peel off the damaged strip if it's already lifting, clean the exposed edge, and press the new strip on using a household iron on a low, dry setting to activate the adhesive. Trim the ends flush with a craft knife. Most standard runs take under an hour.
 

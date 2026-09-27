@@ -13,7 +13,7 @@ excerpt: "Most UK utility rooms aren't rooms — they're a cupboard, a bit of th
 tldr:
   - "A functional utility zone needs four things in order: a worktop over the machine, a hanging rail for drying, closed storage for cleaning kit, and a bin. Everything else is optional."
   - "A 60cm laminate worktop offcut (from £25 at B&Q) laid over a freestanding washing machine turns dead space into a folding surface and hides the machine's top."
-  - "A [retractable drying rail](https://www.amazon.co.uk/s?k=retractable+drying+rail&tag=outdoorcoasta-21) (Minky, LAKELAND, IKEA — £12–£30) dries a full load without a floor-standing airer taking up the whole room."
+  - "A [retractable drying rail](https://link.amazon/B0dNQjLIi) (Minky, LAKELAND, IKEA — £12–£30) dries a full load without a floor-standing airer taking up the whole room."
   - "Renters: everything here works freestanding or tension-fit. A slimline shelving unit, an over-door rail, and a lidded basket cover 80% of it with no drilling."
 faqs:
   - q: "What is the minimum size for a utility room UK?"
@@ -90,10 +90,10 @@ Everything above has a freestanding version. A slimline shelving unit beside the
 
 The renter kit, with real UK prices:
 
-- **[Slimline shelving unit](https://www.amazon.co.uk/s?k=slimline+shelving+unit+kitchen&tag=outdoorcoasta-21)**, 30–40cm deep, from £20 at IKEA (the JOSTEIN or IVAR frames) or Wilko — holds detergent, spare bedding, and cleaning kit.
+- **[Slimline shelving unit](https://link.amazon/B0fRt4dKP)**, 30–40cm deep, from £20 at IKEA (the JOSTEIN or IVAR frames) or Wilko — holds detergent, spare bedding, and cleaning kit.
 - **Worktop offcut or a chopping-board-style top**, £15–£30, laid across the machine for folding.
 - **Over-the-door drying rail**, £12–£20 (Minky, Addis) — hangs a full load on the back of any door.
-- **[Lidded storage baskets](https://www.amazon.co.uk/s?k=lidded+storage+baskets&tag=outdoorcoasta-21)**, £6–£12 each (Dunelm, B&M) — closed storage so it doesn't look like a jumble.
+- **[Lidded storage baskets](https://link.amazon/B0imtehX9)**, £6–£12 each (Dunelm, B&M) — closed storage so it doesn't look like a jumble.
 - **A tension rod** across a narrow alcove, £8, to corral the ironing board and mop.
 
 Total: £70–£110 for a working utility zone that comes apart in ten minutes on moving day. See [rental kitchen upgrade ideas UK](/blog/rental-kitchen-upgrade-ideas-uk/) for the same reversible approach across the rest of the kitchen.

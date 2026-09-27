@@ -104,9 +104,9 @@ Linen curtains start at £45 a pair from IKEA, and pairing them with a £35 jute
 
 **How to use natural materials in practice:**
 
-- **[Linen curtains](https://www.amazon.co.uk/s?k=linen+curtains&tag=outdoorcoasta-21)** — IKEA's *Dytåg* range from ~£45/pair is a genuine bargain
-- **[Jute or sisal rugs](https://www.amazon.co.uk/s?k=jute+rug&tag=outdoorcoasta-21)** — Dunelm has a good selection from ~£35
-- **[Rattan or seagrass storage baskets](https://www.amazon.co.uk/s?k=rattan+storage+baskets&tag=outdoorcoasta-21)** — functional and textural, from ~£12
+- **[Linen curtains](https://link.amazon/B0eGFjxPr)** — IKEA's *Dytåg* range from ~£45/pair is a genuine bargain
+- **[Jute or sisal rugs](https://link.amazon/B03MhGvB5)** — Dunelm has a good selection from ~£35
+- **[Rattan or seagrass storage baskets](https://link.amazon/B01LGrp99)** — functional and textural, from ~£12
 - **Unglazed ceramic vases** — Next Home does good versions from ~£18
 - **Wooden chopping boards and trays displayed on kitchen shelves** — purely decorative use of something functional
 
@@ -124,7 +124,7 @@ Swapping door handles costs from just £4 each at B&Q, while a full hardware ref
 
 Switching hardware is one of the most effective ways to modernise a home without a full renovation. New door handles (from ~£4 each at B&Q), a new kitchen tap (from ~£80), new light fittings — these feel minor individually but collectively shift the tone of a room significantly.
 
-[Aged brass light fittings](https://www.amazon.co.uk/s?k=aged+brass+light+fitting&tag=outdoorcoasta-21) from ~£35 at Dunelm. For something more considered, John Lewis carries better quality options from ~£65.
+[Aged brass light fittings](https://link.amazon/B0hsootNP) from ~£35 at Dunelm. For something more considered, John Lewis carries better quality options from ~£65.
 
 ---
 

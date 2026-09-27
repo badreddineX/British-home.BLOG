@@ -21,7 +21,7 @@ faqs:
   - q: "What can tenants do to improve their flat UK?"
     a: "Replace the light bulbs (keep the originals), add rugs, bring in freestanding furniture, use Command strips for pictures and mirrors, add curtains on tension rods, and style with plants and textiles. None of these require landlord permission."
   - q: "Can I put pictures up in a rented flat UK?"
-    a: "Most tenancy agreements allow small picture hooks, but check yours. [Command Picture Hanging Strips](https://www.amazon.co.uk/s?k=removable+hooks&tag=outdoorcoasta-21) are a safer option — they hold up to 3.6kg per strip pair and remove cleanly without damaging plaster or paint."
+    a: "Most tenancy agreements allow small picture hooks, but check yours. [Command Picture Hanging Strips](https://link.amazon/B044BUtBI) are a safer option — they hold up to 3.6kg per strip pair and remove cleanly without damaging plaster or paint."
   - q: "How do I make a rented flat feel like home UK?"
     a: "Layer familiar textiles (your own bedding, throws, cushions), add warm lighting rather than relying on overhead bulbs, bring in plants, and create dedicated zones with rugs. These are the same principles interior designers use — none require fixing anything permanently."
 ---
@@ -139,7 +139,7 @@ A plant on a shelf, a plant in a corner, and a small herb pot on the kitchen win
 
 This is the rental equivalent of changing cushion covers: small, reversible, and dramatically effective. Most rented flats have builder-standard chrome or brushed steel handles throughout the kitchen and bathroom. Swapping these for a more contemporary finish — brushed brass, matte black, or antique bronze — completely changes the character of existing cabinetry.
 
-New handles cost £2-£4 each from B&Q, or from ~£18 for a coordinated set of 10 on [Amazon UK](https://www.amazon.co.uk/s?k=contact+paper&tag=outdoorcoasta-21), and the whole swap takes about 20 minutes with a screwdriver. Keep the original handles in a bag and reinstall them when you leave.
+New handles cost £2-£4 each from B&Q, or from ~£18 for a coordinated set of 10 on [Amazon UK](https://link.amazon/B0boTgVvf), and the whole swap takes about 20 minutes with a screwdriver. Keep the original handles in a bag and reinstall them when you leave.
 
 This also works on interior doors if your rented flat has builder-standard white lever handles. A set of matte black door handles from B&Q (~£6-£8 each) changes the entire feel of the hallway and every room it leads to. Store the originals carefully. Reinstall on exit. No deposit impact. For more kitchen-specific upgrades in the same range, see [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/).
 
@@ -161,7 +161,7 @@ Zone definition using furniture placement and rugs costs nothing beyond the rug 
 
 Removable peel-and-stick wallpaper has improved significantly in quality over the past three years. Applied correctly to a clean, flat, painted surface, it creates a feature wall that reads as properly hung wallpaper and is genuinely striking in photographs.
 
-[Amazon UK stocks a wide range](https://www.amazon.co.uk/s?k=peel+and+stick+tiles&tag=outdoorcoasta-21) from ~£18 per roll, and a typical chimney breast or alcove feature wall needs two to three rolls, keeping a full feature wall well under £60 in most cases. Botanical prints, textural faux finishes (linen, plaster, concrete), and soft geometric patterns all suit the proportions of a typical UK rented flat.
+[Amazon UK stocks a wide range](https://link.amazon/B01c93DuJ) from ~£18 per roll, and a typical chimney breast or alcove feature wall needs two to three rolls, keeping a full feature wall well under £60 in most cases. Botanical prints, textural faux finishes (linen, plaster, concrete), and soft geometric patterns all suit the proportions of a typical UK rented flat.
 
 Removal is done by warming the adhesive with a hairdryer on medium heat and peeling slowly from the top corner. On most standard plaster and emulsion finishes, this leaves no mark. It's worth testing a small patch in an inconspicuous spot first — some older plaster finishes can be vulnerable, and it's better to find out before committing a full wall. Always inform your letting agent and get permission in writing before applying — most landlords agree readily because they know it causes no damage.
 

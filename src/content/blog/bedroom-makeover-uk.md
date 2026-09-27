@@ -50,7 +50,7 @@ Read more: [bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/)
 
 ## 1. Start With New Bedding
 
-The bed is the largest visual element in a typical British bedroom. This means the single fastest way to transform how a room looks is to change what's on the bed. New [bedding in a linen or cotton weave](https://www.amazon.co.uk/s?k=linen+bedding+set&tag=outdoorcoasta-21), from £35 at Dunelm, shifts the entire character of the room before you've touched anything else. A full layered set — duvet cover, flat sheet, euro pillows, and a throw — runs £55–£80.
+The bed is the largest visual element in a typical British bedroom. This means the single fastest way to transform how a room looks is to change what's on the bed. New [bedding in a linen or cotton weave](https://link.amazon/B0c7157mG), from £35 at Dunelm, shifts the entire character of the room before you've touched anything else. A full layered set — duvet cover, flat sheet, euro pillows, and a throw — runs £55–£80.
 
 The specific upgrade that makes the biggest difference isn't just a new duvet cover. It's adding a flat sheet (folded back at the turn-down), two euro square pillows (65x65cm) behind your standard sleeping pillows, and a throw across the lower third of the bed. This layered structure creates the hotel-bed effect that photographs beautifully and feels genuinely different to sleep in.
 
@@ -93,7 +93,7 @@ The position of curtains matters as much as the curtains themselves. Curtains hu
 
 Hang the curtain pole 10–15cm below the ceiling (not at window-frame height) and extend it 30–40cm past the window frame on each side. This makes the window look significantly larger, the ceiling feel higher, and the room feel more generous than it actually is. In a standard UK bedroom with 2.4m ceilings, this one change is visually dramatic.
 
-For British bedrooms specifically: blackout lining is non-negotiable. UK summers mean light before 5am in many parts of the country. Without blackout lining, the best bedding and lighting in the world won't help you sleep properly. Dunelm's made-to-measure [blackout curtains](https://www.amazon.co.uk/s?k=blackout+curtains+bedroom&tag=outdoorcoasta-21) start from approximately £35 per pair.
+For British bedrooms specifically: blackout lining is non-negotiable. UK summers mean light before 5am in many parts of the country. Without blackout lining, the best bedding and lighting in the world won't help you sleep properly. Dunelm's made-to-measure [blackout curtains](https://link.amazon/B02Dl6ETC) start from approximately £35 per pair.
 
 ---
 
@@ -157,7 +157,7 @@ Step 3's furniture rearrange is the ideal moment to sort storage, because the be
 
 Clear stackable under-bed boxes from Dunelm cost £8–£15 each and typically fit two to three per side of a UK double bed, giving you extra storage for out-of-season bedding or clothes without adding a single piece of visible furniture.
 
-If your bed frame doesn't clear enough height for boxes, [bed risers](https://www.amazon.co.uk/s?k=bed+risers&tag=outdoorcoasta-21) (from £12 for a set of four at Amazon UK) add 10–15cm of clearance without needing a new frame. This is a genuinely load-bearing step in a makeover: it's the point where you decide whether storage is handled invisibly or ends up back on visible surfaces later.
+If your bed frame doesn't clear enough height for boxes, [bed risers](https://link.amazon/B0amzL8QQ) (from £12 for a set of four at Amazon UK) add 10–15cm of clearance without needing a new frame. This is a genuinely load-bearing step in a makeover: it's the point where you decide whether storage is handled invisibly or ends up back on visible surfaces later.
 
 ---
 

@@ -46,7 +46,7 @@ That conversation is the reason this post exists. If you're weighing up affordab
 
 ## How Much Does DIY Cabinet Painting Cost?
 
-DIY cabinet painting costs £30–£60 in materials for an average UK kitchen and remains the cheapest full transformation available. [Rust-Oleum Kitchen Cupboard Paint](https://www.amazon.co.uk/s?k=Rust-Oleum+Kitchen+Cupboard+Paint&tag=outdoorcoasta-21) (around £18 per tin at B&Q and Screwfix) covers roughly 12–15 doors per tin, and most kitchens need two.
+DIY cabinet painting costs £30–£60 in materials for an average UK kitchen and remains the cheapest full transformation available. [Rust-Oleum Kitchen Cupboard Paint](https://link.amazon/B07LGWx9t) (around £18 per tin at B&Q and Screwfix) covers roughly 12–15 doors per tin, and most kitchens need two.
 
 The short version: remove the doors, clean with sugar soap, sand lightly, prime anything glossy or laminate, then apply two thin coats.
 
@@ -97,7 +97,7 @@ A professional kitchen cabinet respray costs £1,200–£3,500 for a UK kitchen,
 
 ## Is Vinyl Wrap a Good Alternative to Respraying Cabinets?
 
-Vinyl wrap film costs £150–£400 for a full kitchen and works as a genuinely solid middle-ground alternative to respraying. Self-adhesive wraps from suppliers like [Fablon](https://www.amazon.co.uk/s?k=Fablon+vinyl+wrap+kitchen&tag=outdoorcoasta-21) and Cover Styl' come in woodgrain, matte, and solid colour finishes that mimic painted or laminate doors closely.
+Vinyl wrap film costs £150–£400 for a full kitchen and works as a genuinely solid middle-ground alternative to respraying. Self-adhesive wraps from suppliers like [Fablon](https://link.amazon/B06Vyhv9p) and Cover Styl' come in woodgrain, matte, and solid colour finishes that mimic painted or laminate doors closely.
 
 Application involves cleaning the doors thoroughly, measuring and cutting the film to size, then applying it with a squeegee to push out air bubbles, working slowly to avoid creases. It's more fiddly than painting but doesn't require any drying time between steps, so a full kitchen can realistically be wrapped in a weekend.
 

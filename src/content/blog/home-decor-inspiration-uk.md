@@ -83,7 +83,7 @@ Instagram is arguably better than Pinterest for UK home inspiration because you 
 - **@livingetc** — contemporary UK interiors
 - **@realhomesmag** — achievable real homes
 
-For practical purchases, [photo frames](https://www.amazon.co.uk/s?k=photo+frames+set&tag=outdoorcoasta-21) in matching styles (from ~£8, Dunelm), [cushion covers](https://www.amazon.co.uk/s?k=cushion+covers+set&tag=outdoorcoasta-21) in your accent colour (from ~£8, Next Home), and an [indoor plant pot](https://www.amazon.co.uk/s?k=indoor+plant+pot+ceramic&tag=outdoorcoasta-21) in ceramic (from ~£6) are the three easiest starting purchases to turn inspiration into reality.
+For practical purchases, [photo frames](https://link.amazon/B0fuwq5mP) in matching styles (from ~£8, Dunelm), [cushion covers](https://link.amazon/B0ew50j3C) in your accent colour (from ~£8, Next Home), and an [indoor plant pot](https://link.amazon/B0gvEGcck) in ceramic (from ~£6) are the three easiest starting purchases to turn inspiration into reality.
 - **@dunnandcompany** — British interior designer with excellent project content
 - **@farrow_and_ball** — useful for seeing paint colours in real British rooms
 

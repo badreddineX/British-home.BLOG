@@ -23,7 +23,7 @@ faqs:
   - q: "What colours make a bedroom look bigger UK?"
     a: "Light warm neutrals, pale sage green, and soft off-whites make rooms feel larger — especially in north-facing rooms with limited natural light. Avoid stark white (which reads cold in UK light) and very dark colours in rooms under 10 square metres."
   - q: "How much does it cost to paint a bedroom in the UK?"
-    a: "A 2.5L tin of quality emulsion covers approximately 30–35 square metres — enough for a standard bedroom for £18–£60 depending on the brand. Budget around £25–£40 for a standard double bedroom, plus £8–£12 for [brushes and rollers](https://www.amazon.co.uk/s?k=paint+roller+set&tag=outdoorcoasta-21) if needed."
+    a: "A 2.5L tin of quality emulsion covers approximately 30–35 square metres — enough for a standard bedroom for £18–£60 depending on the brand. Budget around £25–£40 for a standard double bedroom, plus £8–£12 for [brushes and rollers](https://link.amazon/B0iWF6Ta5) if needed."
 ---
 
 
@@ -210,7 +210,7 @@ Paint A4-sized sample patches on at least three walls — ideally the wall that 
 
 Test paint samples by observing each in morning, afternoon and evening light. Three shades that look almost identical on the card can read entirely differently on the wall: two may look muddy in morning light, and one darker in lamplight than expected. Choose the one that looks good at all three times of day. Testing takes about two weeks and can save you a costly mistake.
 
-Dulux, Crown, and B&Q all sell [paint sample pots](https://www.amazon.co.uk/s?k=paint+tester+pots&tag=outdoorcoasta-21) for ~£3–£5 each. Farrow & Ball sample pots are ~£5–£7. With 2–3 samples to test, the budget for proper testing is £10–£20 — significantly cheaper than repainting a bedroom that isn't working.
+Dulux, Crown, and B&Q all sell [paint sample pots](https://link.amazon/B0bfKQFtI) for ~£3–£5 each. Farrow & Ball sample pots are ~£5–£7. With 2–3 samples to test, the budget for proper testing is £10–£20 — significantly cheaper than repainting a bedroom that isn't working.
 
 Farrow & Ball sample pots — ~£5–£7 each from Farrow & Ball. Always test in multiple spots.
 
@@ -259,7 +259,7 @@ Free orientation check — look up your postcode on Google Maps satellite view. 
 
 A tenancy agreement that bans repainting doesn't have to mean a bedroom stuck in magnolia. Most of the colour psychology above still applies — you just get there through textiles and removable materials instead of a tin of paint.
 
-- **[Removable wallpaper](https://www.amazon.co.uk/s?k=peel+and+stick+wallpaper&tag=outdoorcoasta-21)** (£15–£30 a roll from B&Q or Amazon UK) — peel-and-stick designs in sage, terracotta, or deep navy give you the same tonal effect as a feature wall, and lift off clean at the end of a tenancy. Best applied to just the wall behind the bed, matching the feature-wall logic above.
+- **[Removable wallpaper](https://link.amazon/B0htyOtH1)** (£15–£30 a roll from B&Q or Amazon UK) — peel-and-stick designs in sage, terracotta, or deep navy give you the same tonal effect as a feature wall, and lift off clean at the end of a tenancy. Best applied to just the wall behind the bed, matching the feature-wall logic above.
 - **Bedding and throws in your target colour** — a deep-toned duvet cover (£25–£45) does a surprising amount of the "warm neutral" or "moody deep tone" work discussed above, without touching a single wall.
 - **Curtains over blinds** — a floor-length curtain in sage or terracotta introduces colour and softness at the window, one of the few large surfaces a renter fully controls.
 - **A large piece of framed art or a tapestry** — hung from a Command picture hook rather than a nail, this can visually anchor a colour scheme the way a feature wall would, with zero wall damage.

@@ -57,7 +57,7 @@ Layered bedding matters more than the frame itself. Use a white or oatmeal duvet
 **Shopping notes:**
 - IKEA MALM bed frame, white stain oak veneer, from £129 (single) to £249 (double)
 - Waffle-weave cotton throw, H&M Home, around £30
-- [Linen-look duvet cover set](https://www.amazon.co.uk/s?k=white+linen+duvet+cover+set&tag=outdoorcoasta-21), IKEA ÄNGSLILJA or similar, £35-£45
+- [Linen-look duvet cover set](https://link.amazon/B09V17GXe), IKEA ÄNGSLILJA or similar, £35-£45
 
 ![A Scandinavian-style bedroom with a light wood bed frame and layered neutral bedding](/images/hero-poster.jpg)
 
@@ -65,7 +65,7 @@ Layered bedding matters more than the frame itself. Use a white or oatmeal duvet
 
 A Scandi bedroom without texture reads as cold and bare rather than calm and minimal. The word hygge, Danish for cosy contentment, is the missing ingredient that stops pale, minimal rooms feeling clinical ([Visit Denmark](https://www.visitdenmark.com), ongoing tourism resource).
 
-Texture comes from natural materials layered together: a chunky knit throw, a faux sheepskin rug underfoot, and linen curtains. None of these need to be expensive. A £25-£35 [chunky knit throw](https://www.amazon.co.uk/s?k=chunky+knit+throw+blanket&tag=outdoorcoasta-21) from Dunelm or Amazon UK and a £15-£20 [faux sheepskin rug](https://www.amazon.co.uk/s?k=faux+sheepskin+rug&tag=outdoorcoasta-21) do most of the work.
+Texture comes from natural materials layered together: a chunky knit throw, a faux sheepskin rug underfoot, and linen curtains. None of these need to be expensive. A £25-£35 [chunky knit throw](https://link.amazon/B09v5M6EW) from Dunelm or Amazon UK and a £15-£20 [faux sheepskin rug](https://link.amazon/B0fm3nk6f) do most of the work.
 
 Most people over-invest in wall art for this look and under-invest in floor and bed texture. A sheepskin rug next to the bed changes the feel of a room more than any print on the wall, because it's the first thing you touch each morning.
 

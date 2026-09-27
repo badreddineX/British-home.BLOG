@@ -24,7 +24,7 @@ faqs:
   - q: "Can I install vertical storage in a rented UK flat without damaging the walls?"
     a: "Absolutely — use peel-and-stick hooks (Command, ~£5 for 12), tension rods (B&Q, ~£4–£8), or freestanding furniture. Avoid nails or screws unless you have landlord permission. Brackets that clamp around door frames leave no marks behind."
   - q: "What's the cheapest way to add vertical storage?"
-    a: "Start with underused vertical zones like above doors or behind doors. IKEA's KALLAX [wall mounted shelves](https://www.amazon.co.uk/s?k=wall+mounted+shelves&tag=outdoorcoasta-21) + a used shelf (£12 total) or Dunelm's foldable metal rack (~£15) offer serious bang for buck. Amazon UK also sells 3-tier hanging shoe organisers for ~£8."
+    a: "Start with underused vertical zones like above doors or behind doors. IKEA's KALLAX [wall mounted shelves](https://link.amazon/B09z2Ahrk) + a used shelf (£12 total) or Dunelm's foldable metal rack (~£15) offer serious bang for buck. Amazon UK also sells 3-tier hanging shoe organisers for ~£8."
   - q: "Are tall bookshelves renter-friendly?"
     a: "Freestanding tall shelves (e.g., IKEA Billy, ~£30) are great — just place them away from sockets and check floor load limits. For extra stability, use anti-tip brackets (£3 on Amazon UK) that attach to the back of the unit, not the wall. Never glue or screw to the wall unless agreed."
   - q: "Do vertical solutions work in low-ceilinged Victorian flats?"
@@ -38,7 +38,7 @@ Vertical storage is your secret weapon for small UK flats — especially if you'
 
 ## 1. Can Over-Door Storage Really Work in a UK Rental?
 
-A strong hack for small hallways? A tall over-door storage unit. A basic [over door organiser](https://www.amazon.co.uk/s?k=over+door+organiser&tag=outdoorcoasta-21) (~£8-£12 at Dunelm or Amazon UK) slots neatly over a standard door (up to 4.5cm thick) and holds shoes, brooms, or even laundry detergent bottles. It's perfect for rented bathrooms where wall units are a no-go. Dunelm's fabric over-door organiser (~£9) works great — it slots over a closet or bedroom door and has eight clear pockets for folded jumpers, hats, or pet supplies. Zero damage, easy to move, and installs in under 2 minutes. Bonus: it looks neat, not cluttered. It also works behind a bedroom door for hair tools — the flat profile means it never sticks out or gets knocked.
+A strong hack for small hallways? A tall over-door storage unit. A basic [over door organiser](https://link.amazon/B0hnv3jPh) (~£8-£12 at Dunelm or Amazon UK) slots neatly over a standard door (up to 4.5cm thick) and holds shoes, brooms, or even laundry detergent bottles. It's perfect for rented bathrooms where wall units are a no-go. Dunelm's fabric over-door organiser (~£9) works great — it slots over a closet or bedroom door and has eight clear pockets for folded jumpers, hats, or pet supplies. Zero damage, easy to move, and installs in under 2 minutes. Bonus: it looks neat, not cluttered. It also works behind a bedroom door for hair tools — the flat profile means it never sticks out or gets knocked.
 
 ![Over-door storage unit holding folded towels, cleaning sprays and a broom in a small hallway](/images/hallway-console-table-mirror.jpg)
 
@@ -52,7 +52,7 @@ A simple tiered shelf rack turns dead vertical space into functional real estate
 
 ## 4. Can a Tension Rod and Pegboard Combo Replace Wall Storage?
 
-Pegboards often require wall mounting, but there's a renter-approved hack: tension rods + a lightweight pegboard. Attach two sturdy tension rods (B&Q, ~£7 for 80cm) side by side, 30–40cm apart, then hang a small [pegboard](https://www.amazon.co.uk/s?k=pegboard&tag=outdoorcoasta-21) (IKEA VITTSJÖ, ~£12) over the rods — it slots in and stays put. It holds kitchen utensils well and is easy to move between flats. For a gentler option, use foam tape on the rod ends to prevent scuffing. This gives you a customisable, movable wall organiser — perfect for kitchens, home offices, or craft corners.
+Pegboards often require wall mounting, but there's a renter-approved hack: tension rods + a lightweight pegboard. Attach two sturdy tension rods (B&Q, ~£7 for 80cm) side by side, 30–40cm apart, then hang a small [pegboard](https://link.amazon/B05rU0NKS) (IKEA VITTSJÖ, ~£12) over the rods — it slots in and stays put. It holds kitchen utensils well and is easy to move between flats. For a gentler option, use foam tape on the rod ends to prevent scuffing. This gives you a customisable, movable wall organiser — perfect for kitchens, home offices, or craft corners.
 
 ![Tension rod and pegboard combo holding measuring spoons, scissors and a roll of tape in a kitchen](/images/kitchen-open-shelving.jpg)
 

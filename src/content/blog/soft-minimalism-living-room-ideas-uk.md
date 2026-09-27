@@ -63,9 +63,9 @@ You don't need to replace every piece of furniture to get the look. Choose one o
 
 ### Boucle and Linen Textures to Layer In
 
-[Boucle cushions](https://www.amazon.co.uk/s?k=linen+cushion+covers&tag=outdoorcoasta-21) (£12-£22 each, IKEA or Dunelm) and a linen throw (£25-£40, Amazon UK) add tactile softness without adding clutter. The texture does more work than colour here: a cream boucle cushion on a cream sofa still reads as "soft" rather than "flat" because your eye picks up the texture change even when the colour is nearly identical.
+[Boucle cushions](https://link.amazon/B0gEyqjnd) (£12-£22 each, IKEA or Dunelm) and a linen throw (£25-£40, Amazon UK) add tactile softness without adding clutter. The texture does more work than colour here: a cream boucle cushion on a cream sofa still reads as "soft" rather than "flat" because your eye picks up the texture change even when the colour is nearly identical.
 
-A [jute or wool rug](https://www.amazon.co.uk/s?k=neutral+rug+living+room&tag=outdoorcoasta-21) (£60-£150, Dunelm or Wayfair UK) grounds the room and adds warmth underfoot, which matters in flats with wood or laminate flooring where a bare floor can feel cold both visually and literally.
+A [jute or wool rug](https://link.amazon/B0fpQESLo) (£60-£150, Dunelm or Wayfair UK) grounds the room and adds warmth underfoot, which matters in flats with wood or laminate flooring where a bare floor can feel cold both visually and literally.
 
 ![A neutral living room corner with a curved armchair, a woven rug, and soft natural light through linen curtains](/images/pexels-1571468.jpg)
 
@@ -87,7 +87,7 @@ For a small UK flat specifically, soft minimalism has an edge: it's less severe-
 
 ## What Should Actually Stay on Display in a Soft Minimalist Living Room?
 
-Decluttered surfaces are non-negotiable in soft minimalism, but that doesn't mean bare. The rule is one or two considered objects per surface, chosen deliberately, rather than nothing at all or a crowded shelf. A [ceramic vase](https://www.amazon.co.uk/s?k=ceramic+vase+neutral&tag=outdoorcoasta-21) and a small stack of books works. Six ornaments on the same shelf doesn't.
+Decluttered surfaces are non-negotiable in soft minimalism, but that doesn't mean bare. The rule is one or two considered objects per surface, chosen deliberately, rather than nothing at all or a crowded shelf. A [ceramic vase](https://link.amazon/B0gAHIBsa) and a small stack of books works. Six ornaments on the same shelf doesn't.
 
 Storage does the heavy lifting here. A closed cabinet or a set of woven baskets (£15-£25 each, IKEA or Amazon UK) hides everyday clutter, remotes, chargers, post, so surfaces stay visually calm without you having to actually own less.
 

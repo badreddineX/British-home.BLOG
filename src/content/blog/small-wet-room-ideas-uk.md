@@ -60,7 +60,7 @@ Position the drain and the fall direction first, everything else follows from th
 
 A few layout patterns work consistently well in tight UK bathrooms and box rooms:
 
-1. **[Linear drain cover](https://www.amazon.co.uk/s?k=linear+drain+cover&tag=outdoorcoasta-21) along one wall** rather than a centre-point drain. It needs less fall distance to work, which matters when the room is under 2m wide, and it reads as a cleaner, more modern line.
+1. **[Linear drain cover](https://link.amazon/B0j4tYYYQ) along one wall** rather than a centre-point drain. It needs less fall distance to work, which matters when the room is under 2m wide, and it reads as a cleaner, more modern line.
 2. **Glass partition instead of a full shower door.** A single fixed glass panel (roughly 80-100cm wide) keeps splash off the toilet or basin without boxing in the shower area the way a full enclosure would.
 3. **Basin and toilet against the same wall**, keeping the wet zone as one uninterrupted L-shape rather than splitting the room into pockets.
 4. **Step-free threshold.** This is the entire point of a level-access wet room and it's also why they're popular for accessible bathrooms, not just small ones.
@@ -89,7 +89,7 @@ A wall-hung basin (from around £70 at Wickes or B&Q, up to £150-£200 for a de
 
 Recessed shelving, built into a stud wall as a tiled niche during the tanking stage, avoids fitting external caddies or shelf units that stick out into the shower zone. It has to be planned before tiling starts, so it's worth deciding early, not as an afterthought once the room's finished.
 
-For screens, a single fixed [wet room shower screen](https://www.amazon.co.uk/s?k=wet+room+shower+screen&tag=outdoorcoasta-21) (roughly £150-£350 depending on size and glass thickness) does most of what a full shower door does in terms of splash control, without the frame and hinge hardware eating into the room. Full-height enclosures make sense in larger wet rooms, but in anything under 3m² a partial screen nearly always looks and functions better.
+For screens, a single fixed [wet room shower screen](https://link.amazon/B0bJsdZAQ) (roughly £150-£350 depending on size and glass thickness) does most of what a full shower door does in terms of splash control, without the frame and hinge hardware eating into the room. Full-height enclosures make sense in larger wet rooms, but in anything under 3m² a partial screen nearly always looks and functions better.
 
 [CHART: Bar chart - typical UK small wet room fixture costs (wall-hung basin, wall-hung toilet, linear drain, glass partition, recessed niche tiling) - source: retailer pricing (B&Q, Wickes, Dunelm), 2026]
 
@@ -103,7 +103,7 @@ At the budget end (£3,500-£4,500), expect a pre-formed wet room tray system ra
 
 Mid-range jobs (£5,500-£7,500) usually include a fully tanked and tiled floor, a linear drain, and better-quality porcelain tiles, plus fittings like a wall-hung basin and toilet. Premium builds push past £9,000 once you add large-format porcelain slabs, underfloor heating, and a bespoke glass partition.
 
-**For renters:** a full wet room conversion is not realistic within a tenancy. It's structural, needs landlord and often building consent, and isn't reversible in any meaningful sense. What you can reasonably ask a landlord for is smaller: an [anti slip mat](https://www.amazon.co.uk/s?k=anti+slip+mat&tag=outdoorcoasta-21) over an existing shower tray, an accessible grab rail, or a request to fix an already-failing shower seal before it becomes a bigger repair. If the property has a wet room already, focus on renter-safe upkeep (re-sealing silicone, addressing standing water quickly) rather than altering the fixed layout. [renter-safe bathroom updates](/blog/rented-flat-makeover-uk/)
+**For renters:** a full wet room conversion is not realistic within a tenancy. It's structural, needs landlord and often building consent, and isn't reversible in any meaningful sense. What you can reasonably ask a landlord for is smaller: an [anti slip mat](https://link.amazon/B0iSJgamh) over an existing shower tray, an accessible grab rail, or a request to fix an already-failing shower seal before it becomes a bigger repair. If the property has a wet room already, focus on renter-safe upkeep (re-sealing silicone, addressing standing water quickly) rather than altering the fixed layout. [renter-safe bathroom updates](/blog/rented-flat-makeover-uk/)
 
 ---
 

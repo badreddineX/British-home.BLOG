@@ -75,7 +75,7 @@ Of twelve UK console tables checked for hallway suitability, only four measured 
 
 These options sit under that threshold and are available now from UK retailers.
 
-The **[Argos Home Hallie Console Table](https://www.amazon.co.uk/s?k=console+table&tag=outdoorcoasta-21)** (~£65) is 25cm deep, metal-framed, and comes in black and white. It holds keys, post, and a small lamp without protruding into the walkway. The lower shelf takes a small basket for the overflow.
+The **[Argos Home Hallie Console Table](https://link.amazon/B0hLIzOL2)** (~£65) is 25cm deep, metal-framed, and comes in black and white. It holds keys, post, and a small lamp without protruding into the walkway. The lower shelf takes a small basket for the overflow.
 
 The **Wayfair UK Vasylchenko Console Table** (~£89) is 28cm deep with a drawer, which keeps the surface clear. That drawer is more useful than it sounds — hallways accumulate objects faster than any other room in the house.
 
@@ -95,7 +95,7 @@ Coat storage is the practical heart of a British hallway, and it's where most ha
 
 With the average UK household cycling through 4.2 coats per person, a two-hook hallway can never keep pace — which is why a peg rail (~£18–£25) or a secondhand Victorian hallstand (£20–£60) solves the clutter problem that two hooks never could.
 
-A **[peg rail](https://www.amazon.co.uk/s?k=coat+hooks&tag=outdoorcoasta-21) at a consistent height** looks more deliberate than scattered individual hooks. The classic Shaker-style peg rail — a long strip of wood with evenly spaced pegs — suits both Victorian and contemporary British interiors. IKEA's Hemnes version costs around £25. Dunelm stocks a similar painted wood version for ~£18. Fix it at 160–170cm from the floor so coats clear the skirting cleanly.
+A **[peg rail](https://link.amazon/B07kf019f) at a consistent height** looks more deliberate than scattered individual hooks. The classic Shaker-style peg rail — a long strip of wood with evenly spaced pegs — suits both Victorian and contemporary British interiors. IKEA's Hemnes version costs around £25. Dunelm stocks a similar painted wood version for ~£18. Fix it at 160–170cm from the floor so coats clear the skirting cleanly.
 
 **Victorian hallstands** are the traditional solution and still the most functional one. A good secondhand hallstand from eBay or a local charity shop (£20–£60) provides hooks, a mirror, an umbrella stand, and sometimes a seat — all in one freestanding unit. They suit period properties perfectly and take up surprisingly little floor space given how much they do.
 
@@ -113,7 +113,7 @@ Placement matters. A mirror hung or leaned directly opposite the front door refl
 
 Size matters more than style. A round mirror under 50cm wide looks decorative but doesn't actually expand the perception of the space. Go for at least 60cm in any dimension, and ideally larger.
 
-**Floor-to-ceiling leaned mirror.** The most dramatic option and fully renter-friendly. Next Home and John Lewis both stock [full-length mirrors](https://www.amazon.co.uk/s?k=hallway+mirror&tag=outdoorcoasta-21) from ~£45. Leaning them against the wall rather than fixing them gives a more relaxed, layered look.
+**Floor-to-ceiling leaned mirror.** The most dramatic option and fully renter-friendly. Next Home and John Lewis both stock [full-length mirrors](https://link.amazon/B0iOC1Ymr) from ~£45. Leaning them against the wall rather than fixing them gives a more relaxed, layered look.
 
 **Large round statement mirror.** Currently the most popular choice in British interiors. John Lewis has options from ~£55. Wayfair UK frequently stocks oversized round mirrors (80–100cm diameter) from ~£45 during sale periods.
 

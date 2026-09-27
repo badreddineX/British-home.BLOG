@@ -121,7 +121,7 @@ Layer your lighting in three types:
 
 All bulbs should be 2700K warm white — this is non-negotiable. Cool white bulbs (4000K or above) make even warm paint colours look grey and cold.
 
-A good [floor lamp](https://www.amazon.co.uk/s?k=floor+lamp+living+room&tag=outdoorcoasta-21) from Dunelm starts at around £35–£45, and a pair of matching table lamps can be found for under £30 each — enough to replace a single overhead light with the layered warm sources that make the single highest-impact lighting change you can make to a living room.
+A good [floor lamp](https://link.amazon/B03n9wNzq) from Dunelm starts at around £35–£45, and a pair of matching table lamps can be found for under £30 each — enough to replace a single overhead light with the layered warm sources that make the single highest-impact lighting change you can make to a living room.
 
 ---
 
@@ -135,7 +135,7 @@ Textiles are where a room gets its character. A sofa with nothing on it looks li
 
 **Colour discipline:** Textiles should share your room's palette — not match perfectly, but sit within the same colour family. Two or three tones, in different materials and textures: velvet, cotton, wool, linen.
 
-Dunelm's [cushion](https://www.amazon.co.uk/s?k=sofa+cushion+covers&tag=outdoorcoasta-21) and [throw](https://www.amazon.co.uk/s?k=sofa+throw+blanket&tag=outdoorcoasta-21) range is the best value in the UK for this. You can build a complete textile layer for under £60.
+Dunelm's [cushion](https://link.amazon/B084dR3PG) and [throw](https://link.amazon/B0fXcJg5q) range is the best value in the UK for this. You can build a complete textile layer for under £60.
 
 ---
 
