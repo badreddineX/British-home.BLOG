@@ -31,7 +31,7 @@ The bedroom is the one room that should always be yours. Not a spare office. Not
 
 And yet. Walk into most British bedrooms and something feels off. The ceiling light is too bright. The bed looks flat. The curtains let in a blade of orange streetlight at 2am. It's a functional room, but it doesn't feel cosy. It doesn't feel like anywhere you'd actually want to spend time.
 
-This guide is specifically about warmth and mood — lighting temperature, scent, texture, sound. For general styling elements, see [Bedroom Decor Ideas UK](/blog/bedroom-decor-ideas-uk/); for a full sequenced renovation project, see [Bedroom Makeover UK](/blog/bedroom-makeover-uk/).
+This guide is specifically about warmth and mood — lighting temperature, scent, texture, sound. For general styling elements, see [Bedroom Decor Ideas UK](/blog/bedroom-decor-ideas-uk/); for a clean, light-filled take on bedroom calm, see [Scandi Bedroom Ideas UK](/blog/scandi-bedroom-ideas-uk/); for a full sequenced renovation project, see [Bedroom Makeover UK](/blog/bedroom-makeover-uk/).
 
 A bedroom's environment matters more to how you sleep than most people give it credit for — the light, the temperature, the amount of visible clutter. Most of the fixes below cost less than a weekend takeaway.
 
@@ -75,7 +75,7 @@ Two lamps, not one. A single lamp creates shadows and asymmetry that makes a bed
 
 A flat duvet on a flat bed looks like a show home that no one lives in. Layering is what creates the hotel-bed effect — the visual and physical sense that the bed is warm and inviting, not just made. The formula is simple: fitted sheet, duvet in a warm-toned cover, flat sheet folded back at the turn-down, throw folded at the foot, and four to six cushions at the head.
 
-Dunelm's Dorma range does brushed cotton duvet covers in terracotta, sage, and dusty pink from £32 for a double. A waffle-weave throw from Next Home costs £28–£40 and adds exactly the right texture without going full [maximalist](/blog/maximalist-living-room-decor-uk/) — a full layered set like this runs under £75 total. Euro pillows (65x65cm) behind your standard pillows add depth and make the head of the bed look considered.
+Dunelm's Dorma range does brushed cotton duvet covers in terracotta, sage, and dusty pink from £32 for a double. A [waffle-weave throw](https://www.amazon.co.uk/s?k=waffle+weave+throw+blanket&tag=outdoorcoasta-21) from Next Home costs £28–£40 and adds exactly the right texture without going full [maximalist](/blog/maximalist-living-room-decor-uk/) — a full layered set like this runs under £75 total. Euro pillows (65x65cm) behind your standard pillows add depth and make the head of the bed look considered.
 
 The layering matters more than the quality of any individual piece. A £25 duvet cover with a well-placed throw will look more inviting than an expensive single duvet cover on its own.
 
@@ -117,7 +117,7 @@ Don't paint one wall a different colour and leave the rest white. That's an acce
 
 A weighted blanket does something that a regular throw can't replicate. The deep pressure stimulation from the added weight triggers a parasympathetic nervous response — the same mechanism that makes a firm hug feel calming. Plenty of people find them genuinely useful for winding down before sleep, particularly with anxiety.
 
-Dunelm sells weighted blankets from £35 for a single/double option at 6.8kg, which is the recommended weight for most adults (roughly 10% of body weight). John Lewis stocks the more premium Silentnight and Mela ranges from £55–£90. The blanket can sit on top of the duvet in winter or replace it entirely in summer. It doesn't need to be decorative — most people fold it at the foot of the bed and pull it up at night.
+Dunelm sells [weighted blankets](https://www.amazon.co.uk/s?k=weighted+blanket+adult&tag=outdoorcoasta-21) from £35 for a single/double option at 6.8kg, which is the recommended weight for most adults (roughly 10% of body weight). John Lewis stocks the more premium Silentnight and Mela ranges from £55–£90. The blanket can sit on top of the duvet in winter or replace it entirely in summer. It doesn't need to be decorative — most people fold it at the foot of the bed and pull it up at night.
 
 Choose a weight that's roughly 10% of your body weight. Too light and you lose the effect. Too heavy and it becomes uncomfortable. The 6.8kg options at Dunelm cover most adults up to 70kg.
 
@@ -127,7 +127,7 @@ Choose a weight that's roughly 10% of your body weight. Too light and you lose t
 
 Scent is the most underused tool in bedroom cosiness. It's also one of the fastest to act — the olfactory nerve connects directly to the limbic system, the part of the brain that processes emotion and memory. A familiar, calming scent in a bedroom signals safety and relaxation in a way that paint colours and cushions can't quite replicate.
 
-Lavender is one of the most popular scents for a bedroom for exactly this reason. This Works Deep Sleep Pillow Spray (£19 at John Lewis) is one of the most effective delivery methods because it goes directly onto the pillowcase. A reed diffuser with lavender or cedarwood at the bedside achieves a similar effect.
+Lavender is one of the most popular scents for a bedroom for exactly this reason. [This Works Deep Sleep Pillow Spray](https://www.amazon.co.uk/s?k=This+Works+Deep+Sleep+Pillow+Spray&tag=outdoorcoasta-21) (£19 at John Lewis) is one of the most effective delivery methods because it goes directly onto the pillowcase. A reed diffuser with lavender or cedarwood at the bedside achieves a similar effect.
 
 Avoid plug-in air fresheners. They tend to smell synthetic and cycle in a way that becomes background noise rather than a deliberate signal. A candle lit for twenty minutes before bed, then snuffed out before you get in, is a more considered approach. Neom and P.F. Candle Co. both do excellent sleep-focused options from £15–£28 at John Lewis.
 
@@ -199,7 +199,7 @@ Change the bedside table setup seasonally. A small pumpkin in autumn, a pine con
 
 The final idea is about understanding that a cosy bedroom needs two separate lighting modes: evening (dim, warm, calming) and morning (bright enough to wake up without being unpleasant). Most UK bedrooms have one mode — the overhead ceiling light — which is neither warm enough for evenings nor bright enough for gloomy January mornings.
 
-A smart bulb in a bedside lamp solves this elegantly. Philips Hue E27 bulbs cost around £13 each at John Lewis and can be set to a warm 2700K in the evening and a brighter 4000K in the morning. A smart plug (from £8 at Amazon UK) with a timer on a standard warm-white lamp achieves roughly the same effect at a fraction of the cost. Waking to a lamp that gradually brightens is meaningfully different to being jolted awake by an alarm in a dark room.
+A smart bulb in a bedside lamp solves this elegantly. [Philips Hue E27 bulbs](https://www.amazon.co.uk/s?k=Philips+Hue+E27+smart+bulb&tag=outdoorcoasta-21) cost around £13 each at John Lewis and can be set to a warm 2700K in the evening and a brighter 4000K in the morning. A smart plug (from £8 at Amazon UK) with a timer on a standard warm-white lamp achieves roughly the same effect at a fraction of the cost. Waking to a lamp that gradually brightens is meaningfully different to being jolted awake by an alarm in a dark room.
 
 Blackout curtains handle the evening side. But in summer, they also make it harder to wake naturally with the light. A secondary sheer blind behind the blackout curtain — left down while the blackouts are open in the morning — gives you control of both functions without sacrificing either.
 

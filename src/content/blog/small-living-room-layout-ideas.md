@@ -263,8 +263,6 @@ The bay window, if you have one, is a secondary feature rather than a focal poin
 
 Victorian terraces are a very common house type in Britain, so the layout challenges they present are shared by a huge number of British households.
 
-In a Victorian terrace, the chimney breast is always the focal point. Arrange everything to face it and the room's layout logic resolves itself.
-
 ---
 
 ## 13. What Are the Most Common Small Living Room Layout Mistakes?

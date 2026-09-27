@@ -198,7 +198,8 @@ Cost: nothing. Set aside an hour to edit without adding anything.
 | 7 | Add floating shelves to replace floor units | ~£8–£25 |
 
 → For more living room styling advice see [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/).
-→ For budget-specific ideas see [Living Room on a Budget UK](/blog/budget-home-makeover-uk/).
+→ For budget-specific ideas see [Small Living Room on a Budget UK](/blog/small-living-room-budget-uk/).
+→ For clever storage solutions see [Small Living Room Storage Ideas UK](/blog/small-living-room-storage-ideas-uk/).
 → Want a softer, romantic look instead? [Cottagecore home decor ideas](/blog/cottagecore-home-decor-uk/) covers that style direction.
 → Prefer bold and layered over minimal? [Maximalist living room decor](/blog/maximalist-living-room-decor-uk/) is the opposite approach, done properly.
 → Ready for the kitchen? [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) is the most-read guide on the site.

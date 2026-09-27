@@ -50,7 +50,7 @@ Read more: [budget home transformation framework](/blog/budget-home-makeover-uk/
 
 ## Start With the Cabinet Doors
 
-Painting cabinet doors is the single highest-impact change you can make to a tired kitchen. Two tins of Rust-Oleum Kitchen Cupboard Paint (around £36 total) cover a full standard UK kitchen — the best spend-per-impact ratio of any change on this list.
+Painting cabinet doors is the single highest-impact change you can make to a tired kitchen. Two tins of [Rust-Oleum Kitchen Cupboard Paint](https://www.amazon.co.uk/s?k=Rust-Oleum+Kitchen+Cupboard+Paint&tag=outdoorcoasta-21) (around £36 total) cover a full standard UK kitchen — the best spend-per-impact ratio of any change on this list.
 
 Painting is only one of four ways to update tired cabinets, though — respray, vinyl wrap, and replacement doors each suit different budgets and door types. Full prep steps, colour choices, a cost comparison, and which route fits your situation: [Budget Kitchen Cabinet Makeover UK](/blog/budget-kitchen-cabinet-makeover-uk/).
 
@@ -137,7 +137,7 @@ Full breakdown of both options, product picks, and step-by-step application: [Bu
 
 ## How Do You Upgrade the Lighting?
 
-Most UK kitchens suffer from one central ceiling light and permanent shadows on the worktop. Under-cabinet LED strip lights fix this immediately — one of the cheapest fixes for a kitchen's most common lighting problem. Luminoodle and LE make USB-powered or plug-in strips available on Amazon for £12–£25 for a 2–3 metre run; B&Q's own-brand kits are around £18 and come with a simple adhesive backing.
+Most UK kitchens suffer from one central ceiling light and permanent shadows on the worktop. [Under-cabinet LED strip lights](https://www.amazon.co.uk/s?k=under+cabinet+LED+strip+lights+kitchen&tag=outdoorcoasta-21) fix this immediately — one of the cheapest fixes for a kitchen's most common lighting problem. Luminoodle and LE make USB-powered or plug-in strips available on Amazon for £12–£25 for a 2–3 metre run; B&Q's own-brand kits are around £18 and come with a simple adhesive backing.
 
 Under-cabinet lighting eliminates the shadow that a ceiling pendant casts over worktop areas, making food prep easier and the kitchen look significantly better in photos. It's also one of the easiest upgrades on this list — peel, stick, and plug in.
 
@@ -182,7 +182,7 @@ Colour-wise, a neutral runner (jute, oatmeal, stone) works in nearly every kitch
 
 This is free, and it makes more difference than people are willing to admit. A worktop with a kettle, toaster, knife block, fruit bowl, coffee machine, bread bin, and a random pile of post looks cluttered regardless of how nice the units are. Editing the worktop down to three or four items changes the entire perceived quality of the space.
 
-Decant dry goods into matching storage jars. Smeg, Kilner, and IKEA's 365+ range all work well. A set of four matching glass jars from Dunelm costs around £12–£18. They make pasta, rice, and coffee look intentional rather than random. Matching tea, coffee, and sugar canisters from Amazon cost around £15–£20 for a set of three.
+Decant dry goods into matching storage jars. Smeg, Kilner, and IKEA's 365+ range all work well. A set of four matching glass jars from Dunelm costs around £12–£18. They make pasta, rice, and coffee look intentional rather than random. [Matching tea, coffee, and sugar canisters](https://www.amazon.co.uk/s?k=tea+coffee+sugar+canisters+set&tag=outdoorcoasta-21) from Amazon cost around £15–£20 for a set of three.
 
 Move the things you use daily within easy reach and relocate everything else to a cupboard. If you reach for the panini press twice a year, it doesn't need to live on the worktop.
 

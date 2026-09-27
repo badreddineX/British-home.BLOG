@@ -53,7 +53,7 @@ For the styling layer once your floor's sorted, see [Kitchen on a Budget UK](/bl
 
 Peel-and-stick vinyl tiles are the cheapest kitchen flooring option in the UK, costing £1.50–£2.50 per tile at B&Q, Wilko, and Amazon UK. A standard 3m x 3m kitchen needs roughly 30–35 tiles, bringing the total materials cost to around £50–£90.
 
-These self-adhesive tiles need no glue, grout, or specialist tools. You peel the backing off and press each tile into place, working from the centre of the room outwards. Brands like ClickFix and Plank and Mill sell realistic wood, stone, and marble-effect designs that look far better in person than the price suggests.
+These self-adhesive tiles need no glue, grout, or specialist tools. You peel the backing off and press each tile into place, working from the centre of the room outwards. Brands like [ClickFix](https://www.amazon.co.uk/s?k=peel+and+stick+vinyl+floor+tiles&tag=outdoorcoasta-21) and Plank and Mill sell realistic wood, stone, and marble-effect designs that look far better in person than the price suggests.
 
 They're not indestructible. Peel-and-stick tiles can lift at the edges in high-moisture spots near the sink or dishwasher if the subfloor wasn't properly cleaned first. Wipe the existing floor with sugar soap and let it dry fully before you start, and press every edge down firmly with a roller or the back of a spoon.
 
@@ -63,7 +63,7 @@ Peel-and-stick vinyl floor tiles cost £1.50–£2.50 per tile at UK retailers i
 
 ## How Do You Lay Click Vinyl Flooring Over an Existing Kitchen Floor?
 
-Click-lock vinyl plank clips together edge to edge and floats over the existing floor without any adhesive, which is why it's the go-to choice for laying over old lino or tile. Wickes and B&Q sell click vinyl from around £15–£25 per square metre, and a 10m² kitchen typically costs £150–£250 in materials.
+[Click-lock vinyl plank](https://www.amazon.co.uk/s?k=click+lock+vinyl+plank+flooring&tag=outdoorcoasta-21) clips together edge to edge and floats over the existing floor without any adhesive, which is why it's the go-to choice for laying over old lino or tile. Wickes and B&Q sell click vinyl from around £15–£25 per square metre, and a 10m² kitchen typically costs £150–£250 in materials.
 
 The floor underneath needs to be flat, clean, and firmly stuck down. Sweep and mop first, then check for loose lino edges or hollow-sounding tiles by walking the whole floor slowly in socks. Stick down any lifting lino edges with double-sided flooring tape before you start, since click vinyl will telegraph small bumps but won't survive over a genuinely moving surface.
 
@@ -77,7 +77,7 @@ For fully reversible options if you're renting, see our [rental kitchen upgrade 
 
 ## Do I Need Self-Levelling Compound for an Old Kitchen Floor?
 
-You need self-levelling compound if your existing kitchen floor has dips, humps, or uneven patches greater than about 3mm across a metre, which will telegraph through most click vinyl and cause premature wear at the high points. A 20kg bag of Ardex or Bostik self-levelling compound costs around £12–£20 at Screwfix or Wickes and covers roughly 3–5m² at a standard depth.
+You need self-levelling compound if your existing kitchen floor has dips, humps, or uneven patches greater than about 3mm across a metre, which will telegraph through most click vinyl and cause premature wear at the high points. A 20kg bag of [self-levelling compound](https://www.amazon.co.uk/s?k=self+levelling+compound+floor&tag=outdoorcoasta-21) costs around £12–£20 at Screwfix or Wickes and covers roughly 3–5m² at a standard depth.
 
 Old kitchen floors are rarely perfectly flat. Decades of foot traffic, appliance weight, and settling can leave dips near the sink, hob, or doorway that aren't obvious until you check with a spirit level or a long straight edge laid across the room. It's worth doing this check before you buy any new flooring, not after.
 

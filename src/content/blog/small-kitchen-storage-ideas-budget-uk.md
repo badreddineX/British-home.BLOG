@@ -48,7 +48,7 @@ Over-cupboard door racks cost from £4 at Wilko and add a full extra storage she
 
 ## How can magnetic knife strips and spice racks save drawer space?
 
-A magnetic knife strip mounted on the wall removes an entire knife block or drawer's worth of blades, and IKEA's Kungsfors rail costs just £6. That's one drawer freed up entirely, which in a small kitchen is often the difference between a tidy drawer and one that won't shut properly.
+A [magnetic knife strip](https://www.amazon.co.uk/s?k=magnetic+knife+strip&tag=outdoorcoasta-21) mounted on the wall removes an entire knife block or drawer's worth of blades, and IKEA's Kungsfors rail costs just £6. That's one drawer freed up entirely, which in a small kitchen is often the difference between a tidy drawer and one that won't shut properly.
 
 Mount the strip at a height that's out of easy reach for children, ideally above the [worktop](/blog/budget-kitchen-worktop-makeover-uk/)'s usual clutter zone. Two small screws or a strong adhesive strip (for renters who can't drill) will hold most home knife sets without any sagging.
 
@@ -62,7 +62,7 @@ A magnetic knife strip from IKEA (£6) or a magnetic spice rack set from Amazon 
 
 ## What's the best way to organise an awkward corner cupboard?
 
-A pull-out carousel or wire basket unit reclaims the dead corner space that most British kitchens waste, and basic versions on Amazon UK start at £18. Standard corner cupboards lose up to a third of their storage capacity to the blind corner that a hinged door simply can't reach.
+A [pull-out carousel](https://www.amazon.co.uk/s?k=kitchen+corner+cupboard+carousel&tag=outdoorcoasta-21) or wire basket unit reclaims the dead corner space that most British kitchens waste, and basic versions on Amazon UK start at £18. Standard corner cupboards lose up to a third of their storage capacity to the blind corner that a hinged door simply can't reach.
 
 Measure the cupboard opening before ordering. Most UK carousel units are designed for 300mm to 900mm cupboard widths, and the wrong size won't rotate cleanly. A half-moon or kidney-shaped carousel is the easiest retrofit because it doesn't need the door removed.
 
@@ -101,7 +101,7 @@ Stackable clear containers from Wilko (from £6 for a set) create pantry-style s
 
 ## How do I stop the space under the sink turning into a black hole?
 
-An under-sink organiser with a sliding tray or tiered shelf reclaims the cupboard most UK kitchens use as a dumping ground, and basic versions start at £12 on Amazon UK. The pipework under most sinks creates an awkward, uneven space that loose bottles and sprays just get lost in.
+An [under-sink organiser](https://www.amazon.co.uk/s?k=under+sink+organiser+kitchen&tag=outdoorcoasta-21) with a sliding tray or tiered shelf reclaims the cupboard most UK kitchens use as a dumping ground, and basic versions start at £12 on Amazon UK. The pipework under most sinks creates an awkward, uneven space that loose bottles and sprays just get lost in.
 
 A two-tier sliding basket lifts cleaning products up and off the cupboard floor, so nothing sits directly under a potential leak. Look for adjustable-width versions, since UK pipe layouts vary a lot between older and newer properties.
 
@@ -115,7 +115,7 @@ An under-sink sliding organiser from £12 on Amazon UK lifts cleaning products o
 
 Drawer dividers work by giving every item a fixed spot, which stops loose utensils sliding into a single messy pile, and adjustable trays from Wilko start at £5. Every kitchen has one junk drawer. Dividers don't eliminate it, but they stop it spreading.
 
-Bamboo expandable dividers adjust to fit most standard UK drawer widths (30cm to 50cm) and separate cutlery from odd items like elastic bands and takeaway menus. IKEA's Kungsfors and Uppdatera ranges both offer configurable inserts from around £8 to £15 depending on the number of compartments.
+[Bamboo expandable dividers](https://www.amazon.co.uk/s?k=bamboo+drawer+dividers+kitchen&tag=outdoorcoasta-21) adjust to fit most standard UK drawer widths (30cm to 50cm) and separate cutlery from odd items like elastic bands and takeaway menus. IKEA's Kungsfors and Uppdatera ranges both offer configurable inserts from around £8 to £15 depending on the number of compartments.
 
 For deeper drawers, stack a shallow tray on top of a taller one to double the usable layers. It's a small trick that works particularly well in older kitchens with unusually deep drawers.
 

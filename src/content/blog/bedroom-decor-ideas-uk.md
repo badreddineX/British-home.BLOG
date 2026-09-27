@@ -217,6 +217,7 @@ Storage baskets to hide clutter — from ~£8 each at Dunelm. For the full wardr
 | 8 | Coordinate cushions and declutter visible surfaces | ~£20–£60 |
 
 → For a deeper guide to bedroom cosiness see [Cosy Bedroom Decor Ideas UK](/blog/cosy-bedroom-ideas-uk/).
+→ For a pared-back, light-filled approach see [Scandi Bedroom Ideas UK](/blog/scandi-bedroom-ideas-uk/).
 → For renter-safe bedroom changes see [Rented Home Decor Ideas UK](/blog/rented-flat-makeover-uk/).
 → Doing the whole room at once? [Bedroom makeover UK](/blog/bedroom-makeover-uk/) walks through the full transformation start to finish.
 → Ready to move to the kitchen? [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) is the most-read guide on the site.

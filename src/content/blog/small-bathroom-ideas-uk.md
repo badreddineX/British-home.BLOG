@@ -115,11 +115,11 @@ A dated but sound bathroom refreshes for under £80 with no structural work: a p
 
 The renter and budget kit, with real UK prices:
 
-- **Grout pen**, £6 (B&Q, Wilko) — re-whitens tired grout in an afternoon and makes old tiles look ten years younger.
+- **[Grout pen](https://www.amazon.co.uk/s?k=grout+pen+white&tag=outdoorcoasta-21)**, £6 (B&Q, Wilko) — re-whitens tired grout in an afternoon and makes old tiles look ten years younger.
 - **Peel-and-stick vinyl floor tiles**, £15–£30 for a small bathroom (B&Q, Dunelm) — lay over the existing floor, lift on move-out.
-- **Rail-hung or tension shower caddy**, £8–£15 — no drilling into tiles.
-- **Over-toilet storage unit**, £30–£50 (Argos, Dunelm) — freestanding, holds towels and spares.
-- **New shower head on the existing hose**, £15–£25 — instant upgrade, takes two minutes, keep the old one for move-out.
+- **[Shower caddy](https://www.amazon.co.uk/s?k=tension+shower+caddy&tag=outdoorcoasta-21)**, £8–£15 — no drilling into tiles.
+- **[Over-toilet storage unit](https://www.amazon.co.uk/s?k=over+toilet+storage+unit&tag=outdoorcoasta-21)**, £30–£50 (Argos, Dunelm) — freestanding, holds towels and spares.
+- **[New shower head](https://www.amazon.co.uk/s?k=replacement+shower+head&tag=outdoorcoasta-21) on the existing hose**, £15–£25 — instant upgrade, takes two minutes, keep the old one for move-out.
 - **Sealant refresh**, £5 for a tube plus a £2 removal tool — new white silicone around the bath and basin is the biggest single visual improvement for the money.
 
 For the same reversible approach across the rest of a rented home, see [rented flat makeover ideas UK](/blog/rented-flat-makeover-uk/).
