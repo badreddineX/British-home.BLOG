@@ -41,7 +41,7 @@ Here's what actually works, what to buy, and what to make.
 
 Dried flowers are the signature cottagecore element — and they're one of the most accessible, because they genuinely improve with time rather than dying on you. A bunch of dried pampas, lunaria (honesty), lavender, or wheat sits in a simple vase and the room shifts immediately.
 
-Dried flower bunches from Etsy UK sellers typically cost £10–£18 delivered, making them one of the cheapest single changes that visibly shifts a British bedroom's look.
+[Dried flower](https://www.amazon.co.uk/s?k=dried+flowers&tag=outdoorcoasta-21) bunches from Etsy UK sellers typically cost £10–£18 delivered, making them one of the cheapest single changes that visibly shifts a British bedroom's look.
 
 **Where to buy:** Etsy UK sellers offer excellent dried flower bunches, often foraged or grown in Britain, from around £10–£18 delivered. Local florists are also worth asking — many stock dried bunches alongside fresh flowers.
 
@@ -57,7 +57,7 @@ The lavender doubles as a sleep aid, which feels very appropriately cottagecore.
 
 If dried flowers are the fastest win, linen bedding is the most important investment. Nothing defines the cottagecore bedroom aesthetic more than the soft, slightly rumpled texture of linen — it looks like it belongs in a farmhouse even in a modern flat.
 
-True flax linen bedding runs £100–£200 for a duvet and pillowcase set, while linen-look cotton alternatives from Dunelm start at around £35 — a price gap wide enough to shape which route most renters choose.
+True flax linen bedding runs £100–£200 for a duvet and pillowcase set, while [linen-look cotton alternatives](https://www.amazon.co.uk/s?k=linen+bedding&tag=outdoorcoasta-21) from Dunelm start at around £35 — a price gap wide enough to shape which route most renters choose.
 
 **True linen** (flax-based linen) is expensive — expect to pay £100–£200 for a good duvet cover and pillowcase set from Bedfolk or Piglet in Bed. It's worth it if you can afford it, because linen genuinely improves with every wash and lasts for years.
 
@@ -108,7 +108,7 @@ A wicker or rattan headboard from Wayfair UK starts around £80, while budget pi
 
 **What to look for:**
 - A wicker or rattan headboard (Wayfair UK has good options from ~£80)
-- Wicker bedside baskets instead of bedside tables for a renter-friendly option
+- [Wicker bedside baskets](https://www.amazon.co.uk/s?k=wicker+basket&tag=outdoorcoasta-21) instead of bedside tables for a renter-friendly option
 - A wooden ladder shelf for throws and extra pillows
 - Iron hooks on the back of the door for hanging clothes and bags
 - Ceramic or stoneware pots for plants

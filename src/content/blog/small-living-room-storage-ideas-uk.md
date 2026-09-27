@@ -42,7 +42,7 @@ Small living room storage in a UK flat comes down to picking furniture that alre
 A storage ottoman replaces a coffee table and a blanket box in one piece, which matters when floor space is under 15 square metres. It typically holds 4-6 folded blankets or a full box of remotes, chargers, and coasters, and doubles as extra seating when guests visit.
 
 **Options:**
-- **Dunelm faux-leather storage ottoman** (~£60-£90) — lift-top lid, holds a good amount of blankets and throws
+- **Dunelm faux-leather [storage ottoman](https://www.amazon.co.uk/s?k=storage+ottoman&tag=outdoorcoasta-21)** (~£60-£90) — lift-top lid, holds a good amount of blankets and throws
 - **Wayfair UK upholstered ottoman bench** (~£100-£150) — wider, works as a bench at the end of a sofa too
 - **Argos Home fabric ottoman** (~£45-£70) — the budget option, still lifts fully open
 
@@ -51,7 +51,7 @@ A storage ottoman replaces a coffee table and a blanket box in one piece, which 
 
 Most Victorian and Edwardian terrace flats have alcoves either side of the chimney breast, and freestanding shelving fills them without any structural work. This matters in rentals, where fitted alcove carpentry is rarely something a landlord will approve or pay for.
 
-The IKEA IVAR shelving system (from £45) comes in widths that fit most standard alcoves and can be adjusted or dismantled entirely when you move. Cube storage units from Argos (from £35) are the other common option, and they stack to whatever height the alcove allows.
+The IKEA IVAR [shelving system](https://www.amazon.co.uk/s?k=cube+shelving+unit&tag=outdoorcoasta-21) (from £45) comes in widths that fit most standard alcoves and can be adjusted or dismantled entirely when you move. Cube storage units from Argos (from £35) are the other common option, and they stack to whatever height the alcove allows.
 
 **Cost:** IKEA IVAR from ~£45, Argos cube storage from ~£35 per unit.
 
@@ -96,7 +96,7 @@ Command hooks and strips (Argos, Amazon UK, from £5) hold coats, bags, and smal
 
 ## 7. Do Wicker Baskets Actually Help an Open-Plan Living Room?
 
-Wicker or woven baskets hide loose items on open shelves while staying easy to grab, which suits open-plan living-diner flats where clutter is more visible than in a closed room. One basket per category, throws, children's toys, dog toys, keeps categories from mixing.
+[Wicker or woven baskets](https://www.amazon.co.uk/s?k=basket+storage&tag=outdoorcoasta-21) hide loose items on open shelves while staying easy to grab, which suits open-plan living-diner flats where clutter is more visible than in a closed room. One basket per category, throws, children's toys, dog toys, keeps categories from mixing.
 
 **Cost:** Dunelm, IKEA, or Amazon UK wicker baskets, ~£10-£25 each depending on size.
 

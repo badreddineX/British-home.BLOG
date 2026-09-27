@@ -52,8 +52,8 @@ But the real case for restoration isn't financial — it's aesthetic. These deta
 What to restore rather than remove:
 - **Cornicing:** If cracked or missing sections, original-style plaster coving can be matched by a specialist plasterer. Replacement sections typically cost ~£150–£300 per room including labour
 - **Ceiling roses:** The decorative centrepiece from which the original gas fitting hung. Fibrous plaster reproduction roses that match Victorian originals cost ~£25–£80 from specialist suppliers
-- **Dado rails:** Traditionally at chair-back height (around 90cm from floor), these divide the wall into two distinct zones — a design feature, not an arbitrary moulding
-- **Picture rails:** Installed just below the cornice, these allow pictures to be hung without drilling walls — invaluable for renters and picture-changers alike
+- **[Dado rail](https://www.amazon.co.uk/s?k=dado+rail&tag=outdoorcoasta-21):** Traditionally at chair-back height (around 90cm from floor), these divide the wall into two distinct zones — a design feature, not an arbitrary moulding
+- **Picture rails:** Installed just below the cornice, these allow pictures to be hung with [picture rail hooks](https://www.amazon.co.uk/s?k=picture+rail+hooks&tag=outdoorcoasta-21) without drilling walls — invaluable for renters and picture-changers alike
 
 The room looked better with it in 20 minutes than it had without it for two years.
 
@@ -79,7 +79,7 @@ In a Victorian terrace, the fireplace is not a feature — it's the room's struc
 
 Reproduction cast iron Victorian fireplaces start at around £150, while original restored pieces from salvage yards run £100–£400 depending on condition — both far cheaper than most people assume before pricing it out.
 
-A blocked or boarded-up Victorian fireplace is always worth opening. Even if the chimney is no longer functional, a restored cast iron fireplace with a decorative element (a stack of logs, a plant, candles) gives the room the focal point it was designed to have. Cast iron Victorian reproduction fireplaces start at ~£150 from specialist suppliers; original restored pieces are available from salvage yards for ~£100–£400 depending on condition and style.
+A blocked or boarded-up Victorian fireplace is always worth opening. Even if the chimney is no longer functional, a restored cast iron fireplace with a decorative element (a stack of logs, a plant, candles) gives the room the focal point it was designed to have. Cast iron Victorian reproduction fireplaces start at ~£150 from specialist suppliers; original restored pieces (or [period door handles](https://www.amazon.co.uk/s?k=period+door+handles&tag=outdoorcoasta-21) for a quick update) are available from salvage yards for ~£100–£400 depending on condition and style.
 
 Never replace an original Victorian fireplace surround with a modern gas or electric insert unless the original surround is genuinely beyond restoration. Modern inserts can be fitted within original surrounds while preserving the period character.
 

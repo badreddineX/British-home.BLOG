@@ -40,7 +40,7 @@ The trick isn't decorating less. It's decorating in ways that come apart as easi
 
 ## Can You Do a Gallery Wall Without Drilling in a Rented Bedroom?
 
-Yes, and Command strips are rated to hold frames up to 2.5kg without any filler or drilling ([3M UK](https://www.command.com/3M/en_GB/command/), 2026). A gallery wall built entirely from Command strips looks identical to a drilled one but leaves zero marks when you peel it off at the end of your tenancy.
+Yes, and [Command strips](https://www.amazon.co.uk/s?k=command+strips+picture+hanging&tag=outdoorcoasta-21) are rated to hold frames up to 2.5kg without any filler or drilling ([3M UK](https://www.command.com/3M/en_GB/command/), 2026). A gallery wall built entirely from Command strips looks identical to a drilled one but leaves zero marks when you peel it off at the end of your tenancy.
 
 Buy the variety pack (£8-£12, Amazon UK or Wilko) so you have both small and large strip sizes on hand. Small strips suit postcards and light prints. The large picture-hanging strips handle framed prints up to A3 size.
 
@@ -50,7 +50,7 @@ Arrange frames on the floor first, tape their outlines to the wall with painter'
 
 ## Is Peel-and-Stick Wallpaper Actually Renter-Safe?
 
-Peel-and-stick wallpaper on one accent wall is the highest-impact change on this list, and it removes cleanly from most painted plaster when peeled slowly at a low angle. A single roll costs £15-£35 at B&Q, Wayfair, or NuWallpaper, and one wall in a standard bedroom typically needs two to three rolls.
+[Peel-and-stick wallpaper](https://www.amazon.co.uk/s?k=peel+and+stick+wallpaper&tag=outdoorcoasta-21) on one accent wall is the highest-impact change on this list, and it removes cleanly from most painted plaster when peeled slowly at a low angle. A single roll costs £15-£35 at B&Q, Wayfair, or NuWallpaper, and one wall in a standard bedroom typically needs two to three rolls.
 
 Choose one wall, usually the headboard wall, rather than the whole room. This limits the surface area if removal goes imperfectly, and it reads as a deliberate design choice rather than an attempt to disguise a full wallpaper job.
 
@@ -92,12 +92,12 @@ For more of the visual side, our guide to [bedroom decor ideas UK](/blog/bedroom
 
 ## Can You Get Wall-Lit Reading Lights Without an Electrician?
 
-Clip-on and plug-in reading lights (£12-£25, IKEA or Amazon UK) give the same bedside look as a hardwired wall sconce without chasing a cable into the wall or hiring an electrician. A clip-on light attaches to a headboard, shelf edge, or bedframe with a simple clamp.
+[Clip-on and plug-in reading lights](https://www.amazon.co.uk/s?k=clip+on+reading+light&tag=outdoorcoasta-21) (£12-£25, IKEA or Amazon UK) give the same bedside look as a hardwired wall sconce without chasing a cable into the wall or hiring an electrician. A clip-on light attaches to a headboard, shelf edge, or bedframe with a simple clamp.
 
 Plug-in wall sconces are the closer visual match if you want the exact sconce look. They mount with two small screws or Command strips and plug into a nearby socket, with the cable run along the skirting board using cable clips rather than tucked inside the wall.
 
 
-**Battery LED puck lights** (£10-£15 for a pack, Amazon UK) are the simplest option if you don't want any cable at all. They stick on with adhesive pads, run on batteries, and give soft ambient light rather than task lighting, which suits a bedroom better than a kitchen anyway.
+**[Battery LED puck lights](https://www.amazon.co.uk/s?k=battery+LED+puck+lights&tag=outdoorcoasta-21)** (£10-£15 for a pack, Amazon UK) are the simplest option if you don't want any cable at all. They stick on with adhesive pads, run on batteries, and give soft ambient light rather than task lighting, which suits a bedroom better than a kitchen anyway.
 
 ## How Do You Stop Draughts From a Period Bedroom Door Without Drilling?
 

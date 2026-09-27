@@ -41,7 +41,7 @@ The bedroom in a small UK flat has to do double duty: sleep and storage. Most sm
 
 The area under the bed is the largest storage zone in most bedrooms, and it is almost always underused.
 
-IKEA SKUBB under-bed bags cost just £6 for two and, alongside £18 bed risers to add clearance, turn the largest underused storage zone in most bedrooms into functional space in minutes.
+IKEA [SKUBB under-bed bags](https://www.amazon.co.uk/s?k=under+bed+storage+boxes&tag=outdoorcoasta-21) cost just £6 for two and, alongside £18 bed risers to add clearance, turn the largest underused storage zone in most bedrooms into functional space in minutes.
 
 **Options:**
 - **IKEA SKUBB under-bed bags** (~£6 for 2) — flat, zippable, dust-resistant. Ideal for off-season clothes and extra bedding. Available at IKEA UK
@@ -66,13 +66,13 @@ A second tension rod installed below the main wardrobe rail creates a full secon
 
 The back of the bedroom wardrobe door is typically empty. A 24-pocket over-door organiser holds shoes, accessories, belts, scarves, and socks cleanly.
 
-A 24-pocket over-door organiser costs around £18-£25 and converts an entirely empty door into storage for shoes, belts, scarves, and socks.
+A 24-pocket [over-door organiser](https://www.amazon.co.uk/s?k=over+door+organiser&tag=outdoorcoasta-21) costs around £18-£25 and converts an entirely empty door into storage for shoes, belts, scarves, and socks.
 
 **Cost:** Amazon UK, ~£18-£25.
 
 ## 5. Is a Storage Bed Frame Worth Buying?
 
-IKEA NORDLI bed frame with built-in drawers (~£350-£600, single to double) has large drawers on each side — enough to replace a full chest of drawers in most small bedrooms. Removing the chest of drawers frees significant floor space and makes the room feel larger.
+IKEA [NORDLI bed frame with built-in drawers](https://www.amazon.co.uk/s?k=storage+bed&tag=outdoorcoasta-21) (~£350-£600, single to double) has large drawers on each side — enough to replace a full chest of drawers in most small bedrooms. Removing the chest of drawers frees significant floor space and makes the room feel larger.
 
 This is the most impactful single furniture purchase for a small bedroom.
 

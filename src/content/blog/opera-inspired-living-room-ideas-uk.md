@@ -43,7 +43,7 @@ Opera interiors use lighting to evoke mood — not just to see by. Start with am
 
 ## 3. Feature Walls That Whisper, Not Shout
 
-A full opera house wall needs a bit of restraint in a UK living room. Peel-and-stick wallpaper is renter gold — B&Q’s 'Morannis' collection (Emperor’s Crimson, £22/roll) mimics rich theatre drapes. Apply it behind a sofa or headboard, no glue, no gunk. Dunelm’s 'Lincrusta-effect' paper (~£25) gives that 19th-century relief texture without real gesso. If wallpaper feels like a leap, try a single £30 framed fabric panel (Amazon UK) — stretch velvet over board and frame it yourself. Even better: hang a large, ornate mirror above your fireplace (or freestanding console). The reflection doubles light and makes the room feel twice as grand — no drilling needed if you use a tension rod or heavy-duty Command strips (Amazon, ~£12 for a kit).
+A full opera house wall needs a bit of restraint in a UK living room. Peel-and-stick wallpaper is renter gold — B&Q’s 'Morannis' collection (Emperor’s Crimson, £22/roll) mimics rich theatre drapes. Apply it behind a sofa or headboard, no glue, no gunk. Dunelm’s 'Lincrusta-effect' paper (~£25) gives that 19th-century relief texture without real gesso. If wallpaper feels like a leap, try a single £30 framed fabric panel (Amazon UK) — stretch velvet over board and frame it yourself. Even better: hang a large, ornate [gold accent mirror](https://www.amazon.co.uk/s?k=gold+accent+mirror&tag=outdoorcoasta-21) above your fireplace (or freestanding console). The reflection doubles light and makes the room feel twice as grand — no drilling needed if you use a tension rod or heavy-duty Command strips (Amazon, ~£12 for a kit).
 
 ## 4. Embrace Rich, Depthful Colours
 
@@ -61,7 +61,7 @@ No built-ins here — opera drama lives in arrangement, not architecture. Angle 
 
 ## 7. Use Textiles to Soften Sharp Edges
 
-Theatre spaces often have plush carpets, heavy drapes, and velvet seats — but in UK rentals, you can’t do full installations. Instead, layer texture strategically: a £29 velvet pouffe under a window, a £15 faux-fur throw draped over a chair, and layered cushions in different pile heights. Dunelm’s ‘Plush Pillow’ collection has 50x50cm velvet cushions in ‘Sable’ and ‘Plum’ for ~£14 each. For curtains, go for floor-length, half-draped linen in charcoal or wine — Next Home’s ‘Linus’ curtains (288cm drop, ~£38/pair) work in most standard UK windows. Tie them back with simple tassels or repurposed curtain rings.
+Theatre spaces often have plush carpets, heavy drapes, and velvet seats — but in UK rentals, you can’t do full installations. Instead, layer texture strategically: a £29 velvet pouffe under a window, a £15 faux-fur throw draped over a chair, and layered cushions in different pile heights. Dunelm’s ‘Plush Pillow’ collection has 50x50cm [velvet cushions](https://www.amazon.co.uk/s?k=velvet+cushions&tag=outdoorcoasta-21) in ‘Sable’ and ‘Plum’ for ~£14 each. For [heavy curtains](https://www.amazon.co.uk/s?k=heavy+curtains&tag=outdoorcoasta-21), go for floor-length, half-draped linen in charcoal or wine — Next Home’s ‘Linus’ curtains (288cm drop, ~£38/pair) work in most standard UK windows. Tie them back with simple tassels or repurposed curtain rings.
 
 ## 8. Add Gold or Brass — Without the Gilding
 

@@ -117,7 +117,7 @@ Start here: [living room ideas UK](/blog/small-living-room-ideas-uk/). The prior
 
 **Primary:** Rest and sleep. **Secondary:** A space that feels like a private retreat rather than just a storage room for your clothes.
 
-Invest in bedding before furniture. A quality duvet and good pillows, properly layered, matter more than a statement headboard. See our [cosy bedroom ideas guide](/blog/cosy-bedroom-ideas-uk/).
+Invest in bedding before furniture. A quality duvet and good pillows, properly layered, matter more than a statement headboard. A [wall mirror](https://www.amazon.co.uk/s?k=wall+mirror+large&tag=outdoorcoasta-21) opposite a window doubles the sense of light. See our [cosy bedroom ideas guide](/blog/cosy-bedroom-ideas-uk/).
 
 ### Kitchen
 
@@ -161,6 +161,8 @@ A realistic starting budget ranges from under £50 for bulbs and a candle to £1
 - One large floor lamp (~£35–£65, Dunelm)
 - A new rug in the living room or bedroom (~£45–£80, Wayfair UK)
 - Two velvet cushions in a warm tone (~£20–£30, Next Home)
+- A [ceramic plant pot](https://www.amazon.co.uk/s?k=indoor+plant+pot+ceramic&tag=outdoorcoasta-21) for an indoor plant (~£8-£15)
+- A [ceramic plant pot](https://www.amazon.co.uk/s?k=indoor+plant+pot+ceramic&tag=outdoorcoasta-21) for an indoor plant (~£8-£15)
 
 ### £150–£300
 

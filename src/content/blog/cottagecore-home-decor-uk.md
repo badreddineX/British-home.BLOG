@@ -74,9 +74,10 @@ The cottagecore living room centres on the fireplace (original, if you have one)
 A woven jute or natural wool rug from Dunelm starts at around £35, and dried botanical bundles for earthenware vases cost from £8–£10, together forming the textural base most cottagecore living rooms build the rest of the room around.
 
 Key elements:
-- **Dried botanicals in earthenware vases** — dried lunaria, pampas, ruscus, or poppy heads. From ~£10 at Dunelm or foraged from the garden
-- **Linen or cotton cushion covers** in warm cream or dusty rose — from ~£12 at Next Home
+- **[Dried flowers](https://www.amazon.co.uk/s?k=dried+flowers+bouquet&tag=outdoorcoasta-21) in earthenware vases** — dried lunaria, pampas, ruscus, or poppy heads. From ~£10 at Dunelm or foraged from the garden
+- **[Floral cushion covers](https://www.amazon.co.uk/s?k=floral+cushion+covers&tag=outdoorcoasta-21)** in warm cream or dusty rose — from ~£12 at Next Home
 - **A woven jute or natural wool rug** — from ~£35 at Dunelm
+- **[Wicker basket](https://www.amazon.co.uk/s?k=wicker+basket+storage&tag=outdoorcoasta-21)** — for displaying dried flowers or storing throws, from ~£10
 - **A stack of old books** — charity shop, ~£1 each — displayed spine-out or as a riser for a ceramic object
 - **One oversized earthenware jug or vase** — from ~£12 at Dunelm or ~£5 at a car boot sale
 

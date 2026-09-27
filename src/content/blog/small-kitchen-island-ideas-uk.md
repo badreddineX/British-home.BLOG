@@ -17,7 +17,7 @@ tldr:
   - "Use freestanding furniture (like a console table or bookcase) as a kitchen island — no drilling required."
   - "Peel-and-stick wallpaper or contact paper can instantly refresh existing surfaces — great for tenants."
   - "Tension rods + hooks under the island create hidden storage for utensils or aprons."
-  - "IKEA’s MICKE table (~£25) or Dunelm’s rolling kitchen trolley (~£45) are solid, deposit-safe bases."
+  - "IKEA’s [MICKE table](https://www.amazon.co.uk/s?k=compact+kitchen+island&tag=outdoorcoasta-21) (~£25) or Dunelm’s rolling kitchen trolley (~£45) are solid, deposit-safe bases."
 faqs:
   - q: "Can I put a kitchen island in a rented flat without damaging the floor or walls?"
     a: "Absolutely — opt for freestanding units like rolling trolleys, stackable crates, or custom-built carts on castors. Avoid anything bolted down or glued. IKEA’s LACK side table with castors (~£10) works well when dressed up, and won’t void your deposit."
@@ -65,7 +65,7 @@ If height is your friend (and floor space isn’t), go vertical with crates. IKE
 
 ## 7. Can a Bar Cart Double as a Mini Kitchen Island?
 
-Don’t discount the humble bar cart — it’s the original kitchen island for 1950s UK homes. Wayfair UK’s Scandinavian-style rolling cart (~£45) has adjustable shelves and a pull-out tray perfect for morning coffee. Swap the trays for wire baskets (~£6 at Dunelm) and you’ve got grab-and-go fruit or cereal. My favourite tweak? A fold-down drop-leaf (sold separately, ~£12) — it opens to hold two mugs and a toaster, then snaps flat against the side. Works a treat in a 3x2m kitchen and fits through any standard door.
+Don’t discount the humble bar cart — it’s the original kitchen island for 1950s UK homes. Wayfair UK’s Scandinavian-style [rolling cart](https://www.amazon.co.uk/s?k=kitchen+trolley&tag=outdoorcoasta-21) (~£45) has adjustable shelves and a pull-out tray perfect for morning coffee. Swap the trays for wire baskets (~£6 at Dunelm) and you’ve got grab-and-go fruit or cereal. My favourite tweak? A fold-down drop-leaf (sold separately, ~£12) — it opens to hold two mugs and a toaster, then snaps flat against the side. Works a treat in a 3x2m kitchen and fits through any standard door.
 
 ## 8. Can a Repurposed Sideboard Work as a Kitchen Island?
 
@@ -73,7 +73,7 @@ A narrow sideboard (~£50–£80 on Vinted for secondhand) tucked into a corner 
 
 ## 9. Should You Add Foldable Stools or a Drop-Leaf Bar?
 
-A kitchen island without seating is just a shelf. For renter-ready seating, go fold-down or fold-up. Wayfair UK’s wall-mounted bar stools (~£35/pair) screw into the wall only — no damage if done right, and they tuck away flat. Alternatively, a compact stool like IKEA’s VÄXER (£12) stacks two high and stores under the island when not in use. For a true breakfast bar, attach a slim drop-leaf to the front of your island using butterfly hinges (B&Q, ~£6 for 2) and a single bolt — reversible and sturdy for one person.
+A kitchen island without seating is just a shelf. For renter-ready seating, go fold-down or fold-up. Wayfair UK’s wall-mounted [bar stools](https://www.amazon.co.uk/s?k=bar+stools&tag=outdoorcoasta-21) (~£35/pair) screw into the wall only — no damage if done right, and they tuck away flat. Alternatively, a compact stool like IKEA’s VÄXER (£12) stacks two high and stores under the island when not in use. For a true breakfast bar, attach a slim drop-leaf to the front of your island using butterfly hinges (B&Q, ~£6 for 2) and a single bolt — reversible and sturdy for one person.
 
 ![Fold-down stool mounted on the wall beside a minimalist kitchen island](/images/kitchen-white-cabinets.jpg)
 

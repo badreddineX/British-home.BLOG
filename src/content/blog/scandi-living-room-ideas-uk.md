@@ -75,7 +75,7 @@ The POÄNG has been in continuous production since the 1970s for a reason. Its b
 
 ### Storage and Side Tables
 
-Light wood storage does double duty in a small flat: it holds things and it reinforces the palette. The IKEA LACK side table (£15) and the HEMNES range of light-stained oak media units (from £95) both fit naturally.
+Light wood storage does double duty in a small flat: it holds things and it reinforces the palette. The IKEA [LACK side table](https://www.amazon.co.uk/s?k=wooden+coffee+table&tag=outdoorcoasta-21) (£15) and the HEMNES range of light-stained oak media units (from £95) both fit naturally.
 
 | Piece | Price | Role |
 |------|-------|------|
@@ -87,7 +87,7 @@ Light wood storage does double duty in a small flat: it holds things and it rein
 
 Hygge textiles, chunky knit throws, faux sheepskin, and a wool or wool-blend rug, are what stop a Scandi room from reading as cold or sparse. Adding a single chunky throw over the arm of a plain grey sofa was the one change that made visitors comment on the room, more than the furniture itself.
 
-A chunky knit throw (£25-£40, Dunelm or IKEA's OFELIA range) draped over a sofa arm or armchair back adds instant texture. A faux sheepskin (£15-£20, IKEA's TEJN or a similar Dunelm alternative) works well on an armchair seat or as a small floor accent near a reading corner.
+A [chunky knit throw](https://www.amazon.co.uk/s?k=chunky+knit+throw&tag=outdoorcoasta-21) (£25-£40, Dunelm or IKEA's OFELIA range) draped over a sofa arm or armchair back adds instant texture. A [faux sheepskin](https://www.amazon.co.uk/s?k=faux+sheepskin+throw&tag=outdoorcoasta-21) (£15-£20, IKEA's TEJN or a similar Dunelm alternative) works well on an armchair seat or as a small floor accent near a reading corner.
 
 For the floor, a wool or wool-blend rug in a natural, undyed tone (£90-£150 for a small living room size from IKEA's TÅNUM range or Dunelm) grounds the space and adds warmth underfoot, which matters more than people expect in an older, less insulated UK flat.
 

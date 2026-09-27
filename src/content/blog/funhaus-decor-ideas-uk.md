@@ -98,10 +98,10 @@ If full curtains feel like too big a commitment, a bold blind liner or a printed
 | Item | Retailer | Price |
 |------|----------|-------|
 | Statement striped or patterned rug | Dunelm / IKEA | ~£40-£90 |
-| Cushion covers (2-3 patterns) | Habitat / Dunelm / Amazon UK | ~£12-£25 each |
-| Playful table lamp | IKEA / Amazon UK / Habitat | ~£20-£70 |
+| [Colourful cushion covers](https://www.amazon.co.uk/s?k=colourful+cushion+covers&tag=outdoorcoasta-21) (2-3 patterns) | Habitat / Dunelm / Amazon UK | ~£12-£25 each |
+| Playful table lamp / [neon sign](https://www.amazon.co.uk/s?k=neon+sign&tag=outdoorcoasta-21) | IKEA / Amazon UK / Habitat | ~£20-£70 |
 | Command picture-hanging strips | Amazon UK | ~£6-£10 |
-| Bold wall art print (framed) | Amazon UK / Dunelm | ~£15-£35 |
+| [Bold art print](https://www.amazon.co.uk/s?k=bold+art+print&tag=outdoorcoasta-21) (framed) | Amazon UK / Dunelm | ~£15-£35 |
 | Bold printed curtain pair | Dunelm / Amazon UK | ~£30-£60 |
 | **Total starter setup** | | **~£150-£300** |
 

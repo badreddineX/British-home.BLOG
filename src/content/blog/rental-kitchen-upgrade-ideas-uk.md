@@ -55,7 +55,7 @@ The practical rule is simple: if you can't undo it in under an hour with nothing
 
 ## How Do Self-Adhesive Splashback Tiles Work in a Rental?
 
-Self-adhesive splashback tile sheets update a rental kitchen's least-loved feature for £20–£45, with no tools and no adhesive touching the wall's actual surface, just a removable backing film. Brands like Vinyltiles and Crearreda sell A3-sized sheets in metro tile, marble, and geometric patterns from most UK retailers, including Dunelm and Amazon UK.
+[Peel and stick backsplash](https://www.amazon.co.uk/s?k=peel+and+stick+backsplash&tag=outdoorcoasta-21) tile sheets update a rental kitchen's least-loved feature for £20–£45, with no tools and no adhesive touching the wall's actual surface, just a removable backing film. Brands like Vinyltiles and Crearreda sell A3-sized sheets in metro tile, marble, and geometric patterns from most UK retailers, including Dunelm and Amazon UK.
 
 The application itself takes an afternoon rather than a weekend. Clean the existing tile or wall thoroughly, degrease it if it's near the hob, then apply each sheet from the top down, smoothing air bubbles out with a credit card as you go. On a properly cleaned, flat surface, they sit securely for well over a year.
 
@@ -71,7 +71,7 @@ For permanent-change equivalents if you own your kitchen or have full landlord s
 
 ## Can You Cover a Dated Worktop Without Replacing It?
 
-Yes. Self-adhesive worktop film covers a dated or damaged laminate worktop for £20–£30 and lifts off completely at the end of a tenancy, unlike a replaced or painted worktop which can't be reversed. Rolls from Dunelm and Amazon UK come in marble, concrete, and wood-effect finishes designed specifically for flat surfaces.
+Yes. Self-adhesive [contact paper](https://www.amazon.co.uk/s?k=contact+paper&tag=outdoorcoasta-21) or worktop film covers a dated or damaged laminate worktop for £20–£30 and lifts off completely at the end of a tenancy, unlike a replaced or painted worktop which can't be reversed. Rolls from Dunelm and Amazon UK come in marble, concrete, and wood-effect finishes designed specifically for flat surfaces.
 
 The film works best on a worktop that's structurally sound but cosmetically tired, think burn marks, faded laminate, or a colour you simply can't live with for another year. Wipe the surface down, apply the film in one continuous pull working from one end, and smooth out bubbles with the same credit-card technique used for splashback tiles.
 
@@ -132,8 +132,8 @@ Here's a sensible order to work through it in, starting with what's free.
 | 2 | Swap bulbs to 2700K warm white | £8–£15 | Yes, keep originals |
 | 3 | Swap cabinet handles, store originals | £15–£40 | Yes |
 | 4 | Add tension-rod or freestanding shelving | £15–£50 | Yes |
-| 5 | Apply self-adhesive splashback tiles | £20–£45 | Yes |
-| 6 | Apply worktop film | £20–£30 | Yes |
+| 5 | Apply self-adhesive [splashback tiles](https://www.amazon.co.uk/s?k=peel+and+stick+backsplash&tag=outdoorcoasta-21) | £20–£45 | Yes |
+| 6 | Apply [drawer liners](https://www.amazon.co.uk/s?k=drawer+liners&tag=outdoorcoasta-21) and worktop film | £20–£30 | Yes |
 | 7 | Add peel-and-stick flooring | £50–£90 | Yes |
 
 Start with steps one to three if your budget or your patience is limited. They cost under £60 combined and take a single weekend. If you complete only that much, the kitchen will already feel noticeably more yours.

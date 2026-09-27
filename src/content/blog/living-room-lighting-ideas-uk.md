@@ -59,7 +59,7 @@ Look for "2700K" or "warm white" printed clearly on the box. Screwfix, Wilko, an
 
 ## How Do You Add a Second Light Source Without an Electrician?
 
-A plug-in floor or table lamp is the single most effective upgrade after the bulb swap, and it needs nothing more than a nearby socket. IKEA sells plug-in floor lamps from around £25-£45, and a warm bulb in each one immediately gives the room layered light instead of one flat source.
+A plug-in floor or table lamp is the single most effective upgrade after the bulb swap, and it needs nothing more than a nearby socket. IKEA sells plug-in [floor lamps](https://www.amazon.co.uk/s?k=floor+lamp+living+room&tag=outdoorcoasta-21) from around £25-£45, and a warm bulb in each one immediately gives the room layered light instead of one flat source.
 
 The goal is at least two light sources at different heights: one from the ceiling, one from a lamp at seating height. This is the layout most interior lighting advice comes back to, because it mimics how light naturally falls in a well-designed room. If you're also reworking the rest of the room's look, our guide on [how to style a living room UK](/blog/how-to-style-a-living-room-uk/) covers layout and furniture placement alongside lighting.
 
@@ -68,7 +68,7 @@ The goal is at least two light sources at different heights: one from the ceilin
 
 ## Can LED Strip Lights Really Add Mood Lighting Without Rewiring?
 
-Yes. Self-adhesive LED strip lights run off a USB or plug adapter, stick behind furniture with 3M tape, and add ambient glow with no electrician needed. A basic 5-metre strip costs from around £10-£20 at Amazon UK, and most come with a remote for colour and brightness.
+Yes. Self-adhesive [LED strip lights](https://www.amazon.co.uk/s?k=LED+strip+lights&tag=outdoorcoasta-21) run off a USB or plug adapter, stick behind furniture with 3M tape, and add ambient glow with no electrician needed. A basic 5-metre strip costs from around £10-£20 at Amazon UK, and most come with a remote for colour and brightness.
 
 The most common placement is behind the TV or media unit, which lights the wall behind the screen and reduces eye strain in the evening. It also works well along the top of a bookshelf or under a floating console table.
 
@@ -82,7 +82,7 @@ Stick strips only to clean, dry surfaces like wood or the back of furniture. Avo
 
 ## Are Battery-Operated Wall Sconces Worth Buying for a Rental?
 
-Battery wall sconces are worth it if you want proper wall-height lighting without drilling into wiring or losing your deposit. Screwfix and Amazon UK both stock battery-powered wall lights from around £18-£35, running on AA batteries or USB-rechargeable packs.
+Battery wall sconces are worth it if you want proper wall-height lighting without drilling into wiring or losing your deposit. Screwfix and Amazon UK both stock [battery-powered wall lights](https://www.amazon.co.uk/s?k=battery+wall+sconce+light&tag=outdoorcoasta-21) from around £18-£35, running on AA batteries or USB-rechargeable packs.
 
 They mount with a couple of small screws or strong adhesive strips into plasterboard, not into the electrical circuit, so there's genuinely nothing for a landlord to object to. Brightness is lower than a mains-wired sconce, so treat them as accent lighting rather than the room's main source.
 

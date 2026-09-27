@@ -48,11 +48,11 @@ This is the most budget-friendly and visually balanced approach. Paint upper cab
 
 ## 4. Why Is Peel-and-Stick Backsplash a Deposit-Safe Hero?
 
-Skip tiling over tiles, it's permanent and usually banned in leases. Instead, use a peel-and-stick tile brand like FloorPops: a stone-look range (30x30cm) costs ~£18 per pack on Amazon UK, and a full 1.8m kitchen run comes to roughly £42 in materials. Measure your space, clean with sugar soap first (£6 at B&Q), then press and smooth with a squeegee.
+Skip tiling over tiles, it's permanent and usually banned in leases. Instead, use a peel-and-stick tile brand like FloorPops: a [stone-look range](https://www.amazon.co.uk/s?k=peel+and+stick+backsplash+tiles&tag=outdoorcoasta-21) (30x30cm) costs ~£18 per pack on Amazon UK, and a full 1.8m kitchen run comes to roughly £42 in materials. Measure your space, clean with sugar soap first (£6 at B&Q), then press and smooth with a squeegee.
 
 ## 5. How Can £20 of Hardware Swaps Transform a Kitchen?
 
-New handles or knobs make outdated cabinets look intentional and contemporary. Try brushed brass knobs (Next Home, ~£1.50/pair) or matte black pulls (IKEA MÖJLIG, £3.99 for 4). A full kitchen of 12 doors and 8 drawers can be re-handled for under £35 in about 20 minutes, with no drilling needed if you use reversible screw types. Just match the drill holes if replacing old ones. Bonus tip: mix sizes, larger pulls on drawers, small knobs on doors, to add rhythm.
+New handles or knobs make outdated cabinets look intentional and contemporary. Try [brushed brass knobs](https://www.amazon.co.uk/s?k=cabinet+handles&tag=outdoorcoasta-21) (Next Home, ~£1.50/pair) or matte black pulls (IKEA MÖJLIG, £3.99 for 4). A full kitchen of 12 doors and 8 drawers can be re-handled for under £35 in about 20 minutes, with no drilling needed if you use reversible screw types. Just match the drill holes if replacing old ones. Bonus tip: mix sizes, larger pulls on drawers, small knobs on doors, to add rhythm.
 
 ## 6. Which Countertops and Surfaces Keep It Natural?
 
@@ -68,7 +68,7 @@ Avoid cold white LED strips, they kill the earthy vibe. Instead, use warm dimmab
 
 ## 9. Tiles or Panels: Which Backsplash Alternative Works Best?
 
-If peel-and-stick isn’t enough, consider lightweight wall panels. Marmoleum’s ‘Cork Look’ panels (Dunelm, £28 for a 60x60cm tile) are easy to cut and stick with solvent-free adhesive, and they’re genuinely warm to the touch with no chipping like tile grout. Or try a painted backsplash: a water-based eggshell in ‘Clay’ (Dulux ‘Desert Dusk’, ~£32) covers one to two square metres with a tiny foam roller for a smooth finish. Just mask off nearby surfaces, you’re only doing 1-2 square metres.
+If peel-and-stick isn’t enough, consider lightweight wall panels. Marmoleum’s ‘Cork Look’ panels (Dunelm, £28 for a 60x60cm tile) are easy to cut and stick with solvent-free adhesive, and they’re genuinely warm to the touch with no chipping like tile grout. Or try a painted backsplash: a water-based eggshell in ‘Clay’ ([Dulux ‘Desert Dusk’](https://www.amazon.co.uk/s?k=kitchen+paint&tag=outdoorcoasta-21), ~£32) covers one to two square metres with a tiny foam roller for a smooth finish. Just mask off nearby surfaces, you’re only doing 1-2 square metres.
 
 ## 10. Flooring: Tile vs. LVT That Works
 

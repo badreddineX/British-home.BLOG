@@ -61,7 +61,7 @@ Warm greige is the most universally successful living room colour scheme in UK h
 
 The reason this works is the undertone. Greige sits between grey and beige, pulling yellow and brown warmth into a colour that still reads as neutral. Cool greys go flat and cold after 3pm in a north-facing room. Greige stays warm all day.
 
-**Accent colour suggestions:** Dusty terracotta cushions (H&M Home does excellent ones for £8–£12 each), a natural jute rug (Dunelm's Arlo range from £45), and a single dark piece — a black or charcoal floor lamp — to stop the scheme reading too soft.
+**Accent colour suggestions:** Dusty terracotta [cushions](https://www.amazon.co.uk/s?k=terracotta+cushion+covers&tag=outdoorcoasta-21) (H&M Home does excellent ones for £8–£12 each), a natural [jute rug](https://www.amazon.co.uk/s?k=jute+rug+living+room&tag=outdoorcoasta-21) (Dunelm's Arlo range from £45), and a single dark piece — a black or charcoal floor lamp — to stop the scheme reading too soft.
 
 Test Dulux Goose Down alongside three other greiges before committing. They all look identical in the tin and entirely different on your wall at 7pm.
 
@@ -91,7 +91,7 @@ Navy blue works better in British living rooms than most people expect. The comm
 
 The key shift that makes navy work is pairing it with warm accent colours rather than cool ones — a navy room styled with grey and chrome reads cold, while the same walls styled with terracotta and brass read rich and warm.
 
-**Textile and furniture pairings:** A natural linen sofa in oat or stone, burnt orange or rust velvet cushions (Next Home has excellent options from £12), and a warm-toned wooden coffee table in walnut or medium oak.
+**Textile and furniture pairings:** A natural linen sofa in oat or stone, burnt orange or rust [velvet cushions](https://www.amazon.co.uk/s?k=rust+velvet+cushion+covers&tag=outdoorcoasta-21) (Next Home has excellent options from £12), and a warm-toned wooden coffee table in walnut or medium oak.
 
 **Accent colour suggestions:** Aged brass, terracotta plant pots, and warm amber glass. A single large-scale botanical print in a warm timber frame anchors the scheme without overcrowding it.
 

@@ -70,7 +70,7 @@ The room looked warmer, more old-fashioned, and — honestly — more magical. T
 Warm white fairy lights start at £8 for Dunelm's copper-wire sets, and layering in £8 beeswax candles from John Lewis and a £25 candelabra from Next Home covers a full warm-lighting refresh for around £40.
 
 **What to buy:**
-- **Copper-wire warm white fairy lights** — Dunelm from ~£8/set. Flexible and shape-holding.
+- **[Copper-wire warm white fairy lights](https://www.amazon.co.uk/s?k=christmas+fairy+lights&tag=outdoorcoasta-21)** — Dunelm from ~£8/set. Flexible and shape-holding.
 - **Warm white string lights for the tree** — Amazon UK has Govee and other brands from ~£12 for smart sets
 - **Candles everywhere** — beeswax pillar candles on the mantelpiece and dining table. John Lewis from ~£8 each.
 - **Candelabras** — Next Home has good versions from ~£25
@@ -176,14 +176,14 @@ All of the above, plus:
 - A real Nordmann fir 5ft tree (~£35)
 - Additional ornaments from Next Home (~£25)
 - A mantelpiece garland from a florist or Waitrose (~£20)
-- Beeswax pillar candles from John Lewis (~£16)
+- [Beeswax pillar candles](https://www.amazon.co.uk/s?k=christmas+candles&tag=outdoorcoasta-21) from John Lewis (~£16)
 
 ### Investment Christmas (~£150+)
 
 All of the above, plus:
 - A 6–7ft real Nordmann fir (~£55–£70)
 - Quality ornaments from John Lewis or a Christmas market (~£40–£60)
-- A wreath for the front door (~£25–£45)
+- A [wreath](https://www.amazon.co.uk/s?k=christmas+wreath&tag=outdoorcoasta-21) for the front door (~£25–£45)
 - Fresh floral arrangement for dining table (~£30)
 
 ---

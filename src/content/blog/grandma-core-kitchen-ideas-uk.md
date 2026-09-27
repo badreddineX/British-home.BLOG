@@ -26,7 +26,7 @@ faqs:
   - q: "How much does it cost to decorate a kitchen in grandma core style UK?"
     a: "A full grandma core refresh, gingham textiles, a plate rack, brass handles, and a few vintage accessories, typically costs £100-£180 using Dunelm, IKEA, and charity shop or Vinted finds. Swapping cabinet handles alone starts from around £15 for a set of six from IKEA."
   - q: "Where can I buy vintage crockery for a plate wall in the UK?"
-    a: "Charity shops, Vinted, and local car boot sales are the cheapest sources, with mismatched plates typically £1-£4 each. Homesense and Dunelm also stock new vintage-style patterned plates from around £4-£8 each if you want a faster, more curated result."
+    a: "Charity shops, Vinted, and local car boot sales are the cheapest sources, with mismatched plates typically £1-£4 each. Homesense and Dunelm also stock new [vintage style mugs](https://www.amazon.co.uk/s?k=vintage+style+mugs&tag=outdoorcoasta-21) and patterned plates from around £4-£8 each if you want a faster, more curated result."
 ---
 
 "Grandma core" kitchens have been one of the fastest-rising home-decor searches on Pinterest heading into 2026. It's not the same look as [cottagecore](/blog/cottagecore-home-decor-uk/), and it isn't the earthy-neutral trend either. Grandma core is warmer, more decorative, and unashamedly pattern-heavy.
@@ -69,7 +69,7 @@ Red-and-white or blue-and-white gingham are the most classic choices, though sag
 Don't stop at one item and call it done. A tablecloth, a set of tea towels, and a blind in the same or a coordinating gingham creates the layered, "collected" feel the trend is built on, rather than one token check pattern in an otherwise plain room.
 
 - Gingham curtains: Dunelm, from ~£16 a pair
-- Gingham tablecloth: IKEA, ~£10
+- [Floral tablecloth](https://www.amazon.co.uk/s?k=floral+tablecloth&tag=outdoorcoasta-21) or gingham tablecloth: IKEA, ~£10
 - Gingham tea towels (set of 3): Dunelm, ~£8
 
 ---
@@ -109,6 +109,7 @@ Beyond handles, brass shows up well in light fittings, a kettle, small hooks for
 
 - Brass cabinet handles: IKEA, from ~£3 each
 - Brass mug hooks (set of 6): Amazon UK, ~£9
+- [Ceramic butter dish](https://www.amazon.co.uk/s?k=ceramic+butter+dish&tag=outdoorcoasta-21): Amazon UK, ~£10–£15
 - Brass pendant light shade: Dunelm, ~£35
 
 ---

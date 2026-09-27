@@ -77,7 +77,7 @@ In a small room, a large mirror does two things: it bounces natural light deeper
 
 The mirror should be statement-sized — at least 60–80cm wide — to have real impact. Position it opposite or at a 45-degree angle to the main window. Leaning it against the wall rather than hanging it creates a more casual look and avoids renter complications.
 
-Round mirrors are particularly good in small rooms because they avoid competing with the room's angular architecture. Dunelm's mirror range starts at ~£25 and includes excellent large-format options.
+Round mirrors are particularly good in small rooms because they avoid competing with the room's angular architecture. Dunelm's [round mirror](https://www.amazon.co.uk/s?k=round+mirror+wall&tag=outdoorcoasta-21) range starts at ~£25 and includes excellent large-format options.
 
 Large round mirror — from ~£25 at Dunelm.
 
@@ -115,7 +115,7 @@ Bookshelves and storage units that sit on the floor add to the visual mass of a 
 
 Floating shelves start at around £8 per shelf for IKEA's LACK range, with wider B&Q options from £15, giving a small room storage and visual interest without occupying any floor space.
 
-In a small living room, a grid of floating shelves on one wall — styled with books, plants, and objects — creates significant storage and visual interest without occupying any floor space at all. IKEA's LACK shelves are the most reliable budget option at ~£8 per shelf. B&Q has wider and deeper floating shelf options from ~£15.
+In a small living room, a grid of floating shelves on one wall — styled with books, plants, and objects — creates significant storage and visual interest without occupying any floor space at all. IKEA's LACK [floating shelves](https://www.amazon.co.uk/s?k=floating+shelf+wall&tag=outdoorcoasta-21) are the most reliable budget option at ~£8 per shelf. B&Q has wider and deeper floating shelf options from ~£15.
 
 Renters: floating shelves require wall fixings. Check your tenancy agreement — some landlords permit shelving with written approval, especially if you agree to fill the holes on exit.
 
@@ -129,7 +129,7 @@ In a small living room, sofa scale matters more than almost any other furniture 
 
 A compact sofa under 90cm deep, such as options from Next Home starting around £299, lets a small living room breathe in a way a standard-depth three-seater can't.
 
-Standard UK sofas are often too deep for small living rooms. Look for sofas described as "apartment" or "compact" sizes — Dunelm and Next Home both label these clearly. Pair with a single armchair for flexibility without bulk.
+Standard UK sofas are often too deep for small living rooms. Look for sofas described as "apartment" or "compact" sizes — Dunelm and Next Home both label these clearly. A [slim side table](https://www.amazon.co.uk/s?k=slim+side+table&tag=outdoorcoasta-21) (~£25-£40) pairs well beside a compact sofa. Pair with a single armchair for flexibility without bulk.
 
 Compact two-seater sofa — from ~£299 at Next Home.
 

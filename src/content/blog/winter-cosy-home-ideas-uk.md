@@ -59,7 +59,7 @@ The Energy Saving Trust estimates that draught-proofing a typical semi-detached 
 - **Loft hatches** — often completely unsealed
 
 **What to buy:**
-- **Door draught excluders** — fabric or foam brush type, from ~£8–£15 at B&Q or Amazon UK
+- **[Door draught excluders](https://www.amazon.co.uk/s?k=draught+excluder&tag=outdoorcoasta-21)** — fabric or foam brush type, from ~£8–£15 at B&Q or Amazon UK
 - **Window self-adhesive seal tape** — V-strip or foam, a roll covers several windows, ~£6 from B&Q
 - **Chimney balloon** (if your fireplace is decorative or unused) — inflatable device that sits in the flue, ~£20–£25 from Amazon UK
 - **Letterbox brush excluder** — fits inside the letterbox, ~£5–£8
@@ -122,7 +122,7 @@ Winter textiles are heavier, denser, and warmer than their spring or summer equi
 
 The outlay happened once; the benefit recurs every year.
 
-Next Home consistently does the best chunky throws for the price — from ~£25 in their seasonal range. Dunelm has good options from ~£18.
+Next Home consistently does the best [chunky throws](https://www.amazon.co.uk/s?k=chunky+knit+throw&tag=outdoorcoasta-21) for the price — from ~£25 in their seasonal range. Dunelm has good options from ~£18.
 
 ---
 
@@ -155,7 +155,7 @@ Winter has the most obvious and powerful scent associations of any season. Our b
 - **Clove and orange** — classic British winter. A bowl of clove-studded clementines is decorative and scented simultaneously.
 - **Cedarwood and vetiver** — deep, woody, forest-like. Very winter-appropriate.
 - **Ginger and warm spices** — energising warmth rather than relaxing warmth
-- **Woodsmoke** — if you have a log burner or real fire, this is your winter scent sorted. A Diptyque *Feu de Bois* candle (~£45) recreates it if you don't.
+- **Woodsmoke** — if you have a log burner or real fire, this is your winter scent sorted. A Diptyque *Feu de Bois* [candle](https://www.amazon.co.uk/s?k=scented+candle&tag=outdoorcoasta-21) (~£45) recreates it if you don't.
 
 Baking bread, simmering a slow casserole, or even just boiling mulled wine on the hob fills a house with warmth in a way no candle can replicate. The scent of food cooking is one of the most powerful cosy-home signals there is — and it costs nothing beyond the ingredients.
 

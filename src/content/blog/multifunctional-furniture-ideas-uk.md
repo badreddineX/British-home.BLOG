@@ -49,11 +49,11 @@ If WFH means your kitchen table doubles as your office, a fold-down desk is your
 
 ## 4. Can a Storage Ottoman Replace a Coffee Table?
 
-Storage ottomans are the multitaskers of the budget decor world — sit on them for guests, lift the lid for blankets, or use the flat top as a coffee table. IKEA’s ‘KALLAX Ottomani’ (£35) is a classic — the fabric lid lifts easily and reveals 30L of space, perfect for DVD cases or pet bowls. For something more stylish, Dunelm’s ‘Velvet Storage Footstool’ (£49) doubles as a footrest or extra seating, and the deep plum colour adds a pop against neutral walls. No glue or nails are needed, and it survives a DIY move because it is hollow and lightweight.
+Storage ottomans are the multitaskers of the budget decor world — sit on them for guests, lift the lid for blankets, or use the flat top as a coffee table. IKEA’s ‘KALLAX [Ottoman](https://www.amazon.co.uk/s?k=ottoman+bed+storage&tag=outdoorcoasta-21)’ (£35) is a classic — the fabric lid lifts easily and reveals 30L of space, perfect for DVD cases or pet bowls. For something more stylish, Dunelm’s ‘Velvet Storage Footstool’ (£49) doubles as a footrest or extra seating, and the deep plum colour adds a pop against neutral walls. No glue or nails are needed, and it survives a DIY move because it is hollow and lightweight.
 
 ## 5. Can Nesting Tables Create Flexible Seating Zones?
 
-A single small table is fine, but nesting tables (like Russian dolls for your living room) give you options: pull one out for morning coffee, tuck the rest away for evening movie time. IKEA’s ‘NORRSKEN’ nesting set (£25 for two) stacks neatly in a corner and slides apart in seconds. The tempered glass top resists scratches — handy when you’ve got kids or pets. Use the larger table under a wall shelf and keep the smaller one beside the sofa for laptops. Best part? They cost less than a big bottle of wine — and they’re renter-safe (no mounting required).
+A single small table is fine, but nesting tables (like Russian dolls for your living room) give you options: pull one out for morning coffee, tuck the rest away for evening movie time. IKEA’s ‘NORRSKEN’ [folding table](https://www.amazon.co.uk/s?k=folding+table+small&tag=outdoorcoasta-21) nesting set (£25 for two) stacks neatly in a corner and slides apart in seconds. The tempered glass top resists scratches — handy when you’ve got kids or pets. Use the larger table under a wall shelf and keep the smaller one beside the sofa for laptops. Best part? They cost less than a big bottle of wine — and they’re renter-safe (no mounting required).
 
 ## 6. Do Loft-Style Storage Bunk Units Work in UK Flats?
 
@@ -69,7 +69,7 @@ Renter living means your space will evolve — maybe you start with a desk, then
 
 ## 9. Can a Storage Bench Organise a Small Entryway?
 
-Your hallway is a choke point for coats, shoes, and keys — and a simple bench with storage fixes it all. Dunelm’s ‘Hastings Storage Bench’ (£42) has a lift-up seat revealing 22L of space, and the cushioned top doubles as a place to sit while tying your laces. Keep one in a hallway alongside a slim coat stand: no glue, no nails. For renters: look for units with non-marking feet and check the depth (45cm is the max that fits under most stairways).
+Your hallway is a choke point for coats, shoes, and keys — and a simple bench with storage fixes it all. Dunelm’s ‘Hastings [Storage Bench](https://www.amazon.co.uk/s?k=storage+bench&tag=outdoorcoasta-21)’ (£42) has a lift-up seat revealing 22L of space, and the cushioned top doubles as a place to sit while tying your laces. Keep one in a hallway alongside a slim coat stand: no glue, no nails. For renters: look for units with non-marking feet and check the depth (45cm is the max that fits under most stairways).
 
 ## 10. Do Over-Door Organisers Work in Small Bathrooms and Closets?
 

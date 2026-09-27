@@ -49,17 +49,17 @@ The most powerful, budget-conscious tools in your toolbox are textiles. A £12 k
 
 ## 3. Why Does Freestanding Furniture Work Best for Renters?
 
-Avoid the “decorator’s dilemma”: you love rattan or carved wooden storage, but your deposit depends on no wall damage. Rattan sideboards, bamboo chairs, and carved oak trays make fantastic statement pieces—and they’re all fully movable. Dunelm’s “Soleil” rattan storage stool is ~£49. IKEA’s AGEN hand-woven rattan chair retails from ~£129. Next Home’s “Malia” teak console table is £149 (often on sale for ~£119). Keep your footprint light: two focal pieces in a room—say, a rattan chair and a woven basket unit—feel luxurious without overwhelming the space.
+Avoid the “decorator’s dilemma”: you love rattan or carved wooden storage, but your deposit depends on no wall damage. Rattan sideboards, bamboo chairs, and carved oak trays make fantastic statement pieces—and they’re all fully movable. Dunelm’s “Soleil” rattan storage stool is ~£49. IKEA’s AGEN hand-woven [rattan chair](https://www.amazon.co.uk/s?k=rattan+chair&tag=outdoorcoasta-21) retails from ~£129. Next Home’s “Malia” teak console table is £149 (often on sale for ~£119). Keep your footprint light: two focal pieces in a room—say, a rattan chair and a woven basket unit—feel luxurious without overwhelming the space.
 
 ## 4. Can Vintage Brass and Ceramics Add Heirloom Warmth?
 
-There’s magic in finding a piece with history. UK charity shops (especially Oxfam, British Red Cross, and independent local ones) often have vintage brass candle holders, ceramic bowls, and beaded ceremonial items for £3–£10. Look out for specific pieces like Moroccan-style brass tea trays, hand-carved wooden Ashanti stools (a genuine Ghanaian design element, not just "African furniture"), and Ethiopian coffee pots (jebena), which turn up regularly in UK secondhand shops and on Vinted. Try mixing brass with handmade clay: a simple copper tray on a reclaimed wood stand (B&Q sells unfinished pine planks from ~£7) feels rich and layered. Always polish brass with a little lemon oil (Dunelm’s natural option is ~£3) to bring out its glow.
+There’s magic in finding a piece with history. UK charity shops (especially Oxfam, British Red Cross, and independent local ones) often have vintage [brass candle holders](https://www.amazon.co.uk/s?k=brass+candle+holders&tag=outdoorcoasta-21), ceramic bowls, and beaded ceremonial items for £3–£10. Look out for specific pieces like Moroccan-style brass tea trays, hand-carved wooden Ashanti stools (a genuine Ghanaian design element, not just "African furniture"), and Ethiopian coffee pots (jebena), which turn up regularly in UK secondhand shops and on Vinted. Try mixing brass with handmade clay: a simple copper tray on a reclaimed wood stand (B&Q sells unfinished pine planks from ~£7) feels rich and layered. Always polish brass with a little lemon oil (Dunelm’s natural option is ~£3) to bring out its glow.
 
 ![Brass candle holders and a clay bowl displayed on a woven rug](/images/pexels-2079249.jpg)
 
 ## 5. How Do Floor Rugs Anchor an Afrobohemian Scheme?
 
-A rug is the foundation of an Afrobohemian space. Go for flat-weave rugs with tribal or geometric motifs—no fussy fringes or modern minimalism. Dunelm’s “Bali” jute rug (6’x9’) is £79; next-size up (8’x10’) is £99. For something softer, IKEA’s “Stoense” wool blend rug (75x120cm) is £59. Look for natural fibres: jute, sisal, or wool. These hold up well in UK homes, dry fast if damp, and look stunning layered over neutral flooring. Renter tip: use non-slip rug pads (Amazon UK, ~£12 for 3x5ft) to stop slipping—and to protect your floor if you move.
+A rug is the foundation of an Afrobohemian space. Go for flat-weave rugs with tribal or geometric motifs—no fussy fringes or modern minimalism. Dunelm’s “Bali” [jute rug](https://www.amazon.co.uk/s?k=jute+rug&tag=outdoorcoasta-21) (6’x9’) is £79; next-size up (8’x10’) is £99. For something softer, IKEA’s “Stoense” wool blend rug (75x120cm) is £59. Look for natural fibres: jute, sisal, or wool. These hold up well in UK homes, dry fast if damp, and look stunning layered over neutral flooring. Renter tip: use non-slip rug pads (Amazon UK, ~£12 for 3x5ft) to stop slipping—and to protect your floor if you move.
 
 ## 6. What Greenery Fits a Global-Inspired Decor Scheme?
 
@@ -79,7 +79,7 @@ Nails are a deposit killer. So are heavy tapestries hung directly on plaster. St
 
 ## 10. Can Storage Furniture Add Crafted Charm to a Room?
 
-Clutter kills the vibe—even a beautiful one. Use woven storage boxes (IKEA’s BRANÄS rattan basket, sized for KALLAX shelving, from ~£19) for magazines, blankets, or toys. Dunelm’s “Duna” seagrass storage basket (medium) is £24. Label bins with handwritten chalkboard tags (B&Q sells mini ones for £2.50) to keep things tidy without feeling clinical. Renter bonus: most of these options can be folded flat and carried through narrow staircases if you move.
+Clutter kills the vibe—even a beautiful one. Use woven storage boxes (IKEA’s BRANÄS [rattan basket](https://www.amazon.co.uk/s?k=rattan+basket&tag=outdoorcoasta-21), sized for KALLAX shelving, from ~£19) for magazines, blankets, or toys. Dunelm’s “Duna” seagrass storage basket (medium) is £24. Label bins with handwritten chalkboard tags (B&Q sells mini ones for £2.50) to keep things tidy without feeling clinical. Renter bonus: most of these options can be folded flat and carried through narrow staircases if you move.
 
 ![Woven storage baskets and a rattan tray styled on a wooden stool](/images/pexels-1090638.jpg)
 

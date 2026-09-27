@@ -48,7 +48,7 @@ Every other colour choice — the terracotta cushions, the warm mustard curtains
 
 Next Home and Dunelm both stock sofas in the bold, saturated tones that maximalism requires. Look specifically at velvet finishes — they hold colour with a depth that other materials don't achieve.
 
-Velvet anchor sofa in a maximalist colour — from ~£449 at Next Home.
+[Velvet anchor sofa](https://www.amazon.co.uk/s?k=velvet+sofa&tag=outdoorcoasta-21) in a maximalist colour — from ~£449 at Next Home.
 
 ---
 
@@ -66,7 +66,7 @@ Sticking to a maximum of three patterns per zone, with every pattern sharing at 
 
 The pattern-mixing confidence level that separates novice maximalists from experienced ones is this: the novice stays in the same pattern family (all florals, or all geometrics). The experienced maximalist mixes families — a floral with a stripe with a solid texture — and the variety is precisely what makes it work.
 
-Patterned cushion cover selection — from ~£8 each at Dunelm.
+[Patterned cushion cover](https://www.amazon.co.uk/s?k=patterned+cushions&tag=outdoorcoasta-21) selection — from ~£8 each at Dunelm.
 
 ---
 
@@ -86,7 +86,7 @@ The most reliable gallery wall formula for a British maximalist living room:
 - Leave 5–8cm between frames
 - Hang the largest piece first, then arrange others around it
 
-IKEA Ribba frames in multiple sizes — from £3.50 each at IKEA.
+IKEA [Ribba frames](https://www.amazon.co.uk/s?k=gallery+wall+frames&tag=outdoorcoasta-21) in multiple sizes — from £3.50 each at IKEA.
 
 ---
 
