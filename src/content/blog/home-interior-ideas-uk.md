@@ -162,7 +162,6 @@ A realistic starting budget ranges from under £50 for bulbs and a candle to £1
 - A new rug in the living room or bedroom (~£45–£80, Wayfair UK)
 - Two velvet cushions in a warm tone (~£20–£30, Next Home)
 - A [ceramic plant pot](https://link.amazon/B0gvEGcck) for an indoor plant (~£8-£15)
-- A [ceramic plant pot](https://link.amazon/B0gvEGcck) for an indoor plant (~£8-£15)
 
 ### £150–£300
 
