@@ -111,22 +111,6 @@ If you're renting or simply not ready to commit, start with peel-and-stick tile 
 
 ---
 
-## Frequently Asked Questions
-
-**What is the cheapest way to do a kitchen splashback in the UK?**
-Peel-and-stick tile sheets are the cheapest genuine splashback option, from £25–£45 for a standard area at Dunelm, Wilko, or Amazon UK. Tile paint on existing tiles costs even less, from £15, but only works if the tiles underneath are sound.
-
-**Do peel and stick tiles work in a UK kitchen?**
-Yes, provided the wall is clean, flat, and grease-free before application. They handle everyday cooking splashes well but can lift near direct hob heat over time, so leave a small gap and avoid placing them right against the hob edge.
-
-**Can you tile over old kitchen tiles cheaply?**
-You can paint over sound old tiles with a two-part tile paint kit (from £25 at B&Q or Screwfix) rather than retiling. This works only if tiles are firmly stuck and not cracked or hollow-sounding when tapped.
-
-**How much does an acrylic splashback cost in the UK?**
-A cut-to-size acrylic splashback typically costs £60–£150 depending on size and finish, versus £300 or more for toughened glass. Both are fitted with adhesive and silicone rather than tiled, so there's no grout to maintain.
-
----
-
 None of these options need a tradesperson, and most can be finished in a single afternoon. Start with the cheapest reversible option, peel-and-stick sheets, if you're renting or unsure about committing. Move up to tile paint or acrylic sheets once you know the look you actually want to keep.
 
 For the rest of the kitchen refresh, from cabinet paint to new handles, see the full [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) guide for the complete room-by-room breakdown.

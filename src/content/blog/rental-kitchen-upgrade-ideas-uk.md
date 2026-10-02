@@ -142,22 +142,6 @@ The full list still comes in well under £300, and for renters who move every ye
 
 ---
 
-## Frequently Asked Questions
-
-**Can I change my kitchen if I'm renting UK?**
-Yes, as long as every change is reversible. Peel-and-stick splashback tiles, worktop film, swappable handles, and freestanding shelving all update a rented kitchen without breaching a standard AST's original-condition clause.
-
-**Do I need landlord permission to change kitchen handles UK?**
-Technically most tenancy agreements cover this under "no alterations," but swapping handles and keeping the originals is low-risk and widely tolerated. Ask first if you want to be certain, and always keep the original set to reinstall on exit.
-
-**What flooring can renters put over lino UK?**
-Peel-and-stick luxury vinyl tiles go directly over existing smooth lino or vinyl with no adhesive to the subfloor. They lift cleanly at move-out and cost roughly £50–£90 for an average kitchen floor.
-
-**How do I make a rental kitchen look better without spending much UK?**
-Start with the free changes: declutter the worktop, swap in warm white bulbs, and use tension-rod shelving. Add a peel-and-stick splashback (from £25) and new handles (from £15) once budget allows. For whole-flat renter-safe ideas beyond the kitchen, see our [rented flat makeover guide](/blog/rented-flat-makeover-uk/).
-
----
-
 None of this needs a landlord's sign-off, and none of it puts your deposit at risk. Start with the free worktop declutter this weekend, add the handles and shelving next payday, and save the splashback and flooring for when the budget stretches. A rented kitchen doesn't have to feel borrowed for the entire length of your tenancy.
 
 **Related reading you might find useful:**

@@ -234,22 +234,6 @@ Start with rows 1 and 2. They cost almost nothing and change the room immediatel
 
 ## Frequently Asked Questions
 
-**How do I make my bedroom more cosy UK?**
-
-Switch your overhead light for bedside lamps at 2700K, layer the bed with a throw and extra cushions, add a rug if you have hard floors, and choose warm paint colours over stark white. These four changes cost under £100 and transform the feeling of almost any bedroom.
-
-**What makes a bedroom feel cosy UK?**
-
-Warm lighting, soft layered textures (multiple cushions, a throw, textured rug), blackout curtains that make the room feel enclosed, and a warm neutral or deep paint colour. Cosiness is mostly about sensory signals — warmth, softness, low light — rather than specific products.
-
-**What bedding makes a bedroom feel most cosy UK?**
-
-A brushed cotton or flannel duvet cover in a warm neutral or deep tone, layered with a chunky knit or waffle-weave throw. John Lewis, Dunelm, and Next Home all do excellent options from £25–£60 per duvet cover.
-
-**Is hygge relevant to UK bedroom design?**
-
-Very much so. The principles of hygge (warmth, soft textures, candlelight, coziness without fussiness) translate directly into British bedroom design. The UK's grey light and cold winters make these principles arguably more important here than in Scandinavia.
-
 **How much does it cost to make a bedroom feel cosy in the UK?**
 
 The most impactful changes cost under £50: a warm-toned throw (£25–£40), 2700K bulbs (£8–£16), and a bedside tray (£8–£12). A full cosiness overhaul including curtains, rug, and new bedside lamps runs to £200–£400. Most people see the biggest difference from the first £50 spent.

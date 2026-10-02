@@ -129,23 +129,6 @@ Most UK rentals have carpet that's seen a few tenants before you, and stains, fl
 
 Together, the changes above come to roughly £220, compared with an estimated £400+ for a professional accent wall and curtain pole install, and every item comes with you to the next tenancy.
 
-## Frequently Asked Questions
-
-**How can I decorate my rented living room without losing my deposit?**
-Stick to reversible changes: peel-and-stick wallpaper (~£15 a roll), picture rail hooks (~£4 for 10) instead of nails, Command strips for curtain poles and shelves, and freestanding furniture instead of anything fixed to the wall.
-
-**Can I put up curtains in a [rented flat](/blog/rented-flat-makeover-uk/) without drilling?**
-Yes. A tension rod (~£10-£15) fits inside most window recesses with no fixings at all, and Command curtain rod brackets (~£12) hold a standard pole using rated adhesive strips.
-
-**What is a picture rail and can I use it to hang things?**
-A picture rail is a moulded wooden strip near the ceiling, common in Victorian and Edwardian UK flats. Rail hooks (~£4 for 10) clip over it and hang pictures on cord, with zero holes in the wall.
-
-**Do peel-and-stick wallpapers actually come off cleanly when you move out?**
-Good quality peel-and-stick wallpaper, applied to sound painted plaster, removes cleanly in most cases if peeled slowly at a low angle. Test a small corner behind furniture first.
-
-**How do I cover a worn or stained rental carpet cheaply?**
-Layer a large budget rug (£30-£50) over the worn area, then add a smaller textured rug on top. This costs under £80 and hides stains without touching the landlord's flooring.
-
 ---
 
 Every change on this list shares the same test: does it come off clean, and does it come with you? Start with whichever bothers you most, the bare wall, the flat lighting, or the tired carpet, and work through the rest as your budget allows. None of it needs a conversation with your landlord, and all of it travels to your next flat.

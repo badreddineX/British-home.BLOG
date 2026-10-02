@@ -3,7 +3,7 @@ title: "Best Living Room Colours UK: 11 Schemes With Paint Names"
 description: "The best living room colours for British homes: 11 schemes from warm greige to sage and navy, with specific paint names and UK retailer picks."
 image: "/images/pexels-1457842.jpg"
 datePublished: "2026-04-13"
-dateModified: "2026-09-05"
+dateModified: "2026-09-30"
 author: "Badreddine"
 tags: ["living room colour schemes UK", "living room paint ideas uk", "lounge colour schemes", "colour schemes for living rooms", "living room colours UK", "best living room colours UK", "colour schemes UK homes"]
 featured: false
@@ -253,34 +253,14 @@ Read more: [choosing the right living room layout and style](/blog/small-living-
 
 ---
 
-## Frequently Asked Questions
-
-**What is the most popular living room colour scheme in the UK?**
-
-Warm neutrals — greige, off-white, and warm grey — remain the most popular living room colour choices in UK homes, typically paired with natural wood furniture and textured textiles in earthy tones. Dulux Goose Down and its equivalents consistently top UK paint sales charts for living rooms.
-
-**What colours make a living room look bigger UK?**
-
-Light warm neutrals, pale sage green, and off-white make living rooms feel larger in UK light. The key is choosing colours with yellow or green undertones rather than blue or grey undertones, which read cold and can make rooms feel smaller and less welcoming.
-
-**Should living room walls be lighter or darker than the sofa?**
-
-As a general rule, lighter walls with a slightly darker sofa feels more grounded and is easier to live with long-term. Deep wall colours with a lighter sofa create a more dramatic, considered effect — particularly successful with velvet or bouclé upholstery in cream or oatmeal.
-
-**How do I choose a living room colour scheme UK?**
-
-Start with your largest fixed element — usually the sofa or flooring — and build the colour scheme around it. Test 3-4 paint samples in A4 patches on different walls. View them at different times of day, especially in the evening under artificial light, before committing.
-
----
-
 ## Final Thoughts
 
 Choosing a living room colour scheme is one of the decorating decisions that feels high-stakes and turns out to be highly correctable. Paint is not permanent. A tin of paint costs £25–£35. The real risk is not choosing the wrong colour but choosing the right one too slowly and living with magnolia for another three years while you decide.
 
 The most common mistake is treating colour as a standalone decision, picking a wall colour and hoping everything else will work around it. The schemes that actually worked were built from the sofa outward — what's the largest fixed element, and what does it need to feel complete?
 
-For next steps, see our [full guide to styling a living room from scratch](/blog/how-to-style-a-living-room-uk/) and our [living room ideas roundup](/blog/small-living-room-ideas-uk/) for inspiration across all budgets and styles. If you're drawn to the darker end of the palette, [Dark Moody Home Decor UK](/blog/dark-moody-home-decor-uk/) covers how to do it without making a small room feel like a cave. And if you're colouring the whole house room by room, [Bathroom Colour Ideas UK](/blog/bathroom-colour-ideas-uk/) covers the same principles adapted for tile constraints and condensation.
+For next steps, see our [full guide to styling a living room from scratch](/blog/how-to-style-a-living-room-uk/) and our [living room ideas roundup](/blog/small-living-room-ideas-uk/) for inspiration across all budgets and styles. If you're drawn to the darker end of the palette, [Dark Moody Home Decor UK](/blog/dark-moody-home-decor-uk/) covers how to do it without making a small room feel like a cave. If you're taking the same approach into the bedroom, [Bedroom Colour Ideas UK](/blog/bedroom-colour-ideas-uk/) covers which shades actually help you sleep in British light. And if you're colouring the whole house room by room, [Bathroom Colour Ideas UK](/blog/bathroom-colour-ideas-uk/) covers the same principles adapted for tile constraints and condensation.
 
 Pick the scheme that scares you slightly less than the others. Sample it. Live with the samples for a week. Then buy the paint.
 
-→ Colouring the kitchen too? [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) covers the full room, not just the palette.
+→ Colouring the kitchen too? [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) covers the full room, and [Earthy Neutral Kitchen Colour Trends UK](/blog/earthy-neutral-kitchen-colour-trends-uk/) covers the specific two-tone palette direction.

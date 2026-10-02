@@ -74,7 +74,7 @@
  {
   "slug": "budget-kitchen-cabinet-makeover-uk",
   "template": "S",
-  "headline": "Budget Kitchen Cabinet <em>Makeover</em>",
+  "headline": "Kitchen Cabinet <em>Makeover</em>",
   "domain": "britishhomeinterior.co.uk",
   "number": "10",
   "photo": "./public/images/kitchen-white-cabinets.jpg"
@@ -82,7 +82,7 @@
  {
   "slug": "budget-kitchen-flooring-ideas-uk",
   "template": "S",
-  "headline": "Budget Kitchen <em>Flooring</em>",
+  "headline": "Cheap Kitchen <em>Flooring</em> Ideas UK You Can",
   "domain": "britishhomeinterior.co.uk",
   "number": "11",
   "photo": "./public/images/kitchen-wood-floor-open-plan.jpg"
@@ -98,7 +98,7 @@
  {
   "slug": "budget-kitchen-worktop-makeover-uk",
   "template": "S",
-  "headline": "Budget Kitchen Worktop <em>Makeover</em>",
+  "headline": "Cheap Kitchen Worktop <em>Makeover</em>",
   "domain": "britishhomeinterior.co.uk",
   "number": "13",
   "photo": "./public/images/hallway-console-table-mirror.jpg"
@@ -152,11 +152,19 @@
   "photo": "./public/images/pexels-3356416.jpg"
  },
  {
+  "slug": "deposit-deductions-uk",
+  "template": "S",
+  "headline": "Deposit <em>Deductions</em>",
+  "domain": "britishhomeinterior.co.uk",
+  "number": "20",
+  "photo": "./public/images/pexels-7641991.jpg"
+ },
+ {
   "slug": "earthy-neutral-kitchen-colour-trends-uk",
   "template": "S",
   "headline": "Earthy Neutral Kitchen <em>Colours</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "20",
+  "number": "21",
   "photo": "./public/images/earthy-neutral-kitchen-cover.jpg"
  },
  {
@@ -164,7 +172,7 @@
   "template": "S",
   "headline": "FunHaus <em>Decor</em> Ideas",
   "domain": "britishhomeinterior.co.uk",
-  "number": "21",
+  "number": "22",
   "photo": "./public/images/patchwork-armchair-gallery-wall.jpg"
  },
  {
@@ -172,7 +180,7 @@
   "template": "S",
   "headline": "Galley <em>Kitchen</em> Ideas",
   "domain": "britishhomeinterior.co.uk",
-  "number": "22",
+  "number": "23",
   "photo": "./public/images/galley-kitchen-narrow-uk.jpg"
  },
  {
@@ -180,7 +188,7 @@
   "template": "S",
   "headline": "Grandmillennial Kitchen <em>Ideas</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "23",
+  "number": "24",
   "photo": "./public/images/vintage-china-kitchen-shelf.jpg"
  },
  {
@@ -188,7 +196,7 @@
   "template": "S",
   "headline": "<em>Hallway</em> Ideas",
   "domain": "britishhomeinterior.co.uk",
-  "number": "24",
+  "number": "25",
   "photo": "./public/images/pexels-1090638.jpg"
  },
  {
@@ -196,7 +204,7 @@
   "template": "S",
   "headline": "Hidden <em>Pantry</em> Ideas",
   "domain": "britishhomeinterior.co.uk",
-  "number": "25",
+  "number": "26",
   "photo": "./public/images/pexels-8580763.jpg"
  },
  {
@@ -204,7 +212,7 @@
   "template": "S",
   "headline": "Home Decor <em>Inspiration</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "26",
+  "number": "27",
   "photo": "./public/images/pexels-1648768.jpg"
  },
  {
@@ -212,7 +220,7 @@
   "template": "S",
   "headline": "Home <em>Interior</em> Ideas",
   "domain": "britishhomeinterior.co.uk",
-  "number": "27",
+  "number": "28",
   "photo": "./public/images/pexels-1571460.jpg"
  },
  {
@@ -220,7 +228,7 @@
   "template": "S",
   "headline": "How to Style a Living <em>Room</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "28",
+  "number": "29",
   "photo": "./public/images/pexels-2082087.jpg"
  },
  {
@@ -228,7 +236,7 @@
   "template": "S",
   "headline": "Kitchen <em>Decor</em> Ideas",
   "domain": "britishhomeinterior.co.uk",
-  "number": "29",
+  "number": "30",
   "photo": "./public/images/pexels-2062426.jpg"
  },
  {
@@ -236,15 +244,15 @@
   "template": "S",
   "headline": "Cheap Kitchen <em>Makeover</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "30",
+  "number": "31",
   "photo": "./public/images/pexels-1080721.jpg"
  },
  {
   "slug": "living-room-colour-schemes-uk",
   "template": "S",
-  "headline": "Living Room Colour <em>Schemes</em>",
+  "headline": "Best Living Room <em>Colours</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "31",
+  "number": "32",
   "photo": "./public/images/pexels-1457842.jpg"
  },
  {
@@ -252,7 +260,7 @@
   "template": "S",
   "headline": "Living Room <em>Lighting</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "32",
+  "number": "33",
   "photo": "./public/images/armchair-task-lighting-corner.jpg"
  },
  {
@@ -260,7 +268,7 @@
   "template": "S",
   "headline": "Maximalist Living <em>Room</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "33",
+  "number": "34",
   "photo": "./public/images/pexels-1648776.jpg"
  },
  {
@@ -268,7 +276,7 @@
   "template": "S",
   "headline": "Modern Home <em>Interior</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "34",
+  "number": "35",
   "photo": "./public/images/pexels-1571468.jpg"
  },
  {
@@ -276,7 +284,7 @@
   "template": "S",
   "headline": "Multifunctional Furniture for Small <em>Flats</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "35",
+  "number": "36",
   "photo": "./public/images/sofa-bed-built-in-wardrobes.jpg"
  },
  {
@@ -284,7 +292,7 @@
   "template": "S",
   "headline": "Opera-Inspired Living <em>Room</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "36",
+  "number": "37",
   "photo": "./public/images/dramatic-velvet-living-room.jpg"
  },
  {
@@ -292,7 +300,7 @@
   "template": "S",
   "headline": "Plants for a Low-Light <em>Flat</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "37",
+  "number": "38",
   "photo": "./public/images/kitchen-plants-dim-lighting.jpg"
  },
  {
@@ -300,7 +308,7 @@
   "template": "S",
   "headline": "Rental Kitchen <em>Upgrade</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "38",
+  "number": "39",
   "photo": "./public/images/kitchen-worktop-wood.jpg"
  },
  {
@@ -308,7 +316,7 @@
   "template": "S",
   "headline": "Rented Flat <em>Makeover</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "39",
+  "number": "40",
   "photo": "./public/images/pexels-1643383.jpg"
  },
  {
@@ -316,7 +324,7 @@
   "template": "S",
   "headline": "Renter-Friendly <em>Bedroom</em> Ideas",
   "domain": "britishhomeinterior.co.uk",
-  "number": "40",
+  "number": "41",
   "photo": "./public/images/pexels-90317.jpg"
  },
  {
@@ -324,7 +332,7 @@
   "template": "S",
   "headline": "Renter-Friendly Gallery <em>Wall</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "41",
+  "number": "42",
   "photo": "./public/images/bedroom-makeover-gallery-wall.jpg"
  },
  {
@@ -332,7 +340,7 @@
   "template": "S",
   "headline": "Renter-Friendly Living <em>Room</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "42",
+  "number": "43",
   "photo": "./public/images/pexels-1571453.jpg"
  },
  {
@@ -340,7 +348,7 @@
   "template": "S",
   "headline": "Scandi <em>Bedroom</em> Ideas",
   "domain": "britishhomeinterior.co.uk",
-  "number": "43",
+  "number": "44",
   "photo": "./public/images/scandinavian-bedroom-wooden-accents.jpg"
  },
  {
@@ -348,7 +356,7 @@
   "template": "S",
   "headline": "Scandi Living <em>Room</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "44",
+  "number": "45",
   "photo": "./public/images/scandinavian-living-room-wood.jpg"
  },
  {
@@ -356,7 +364,7 @@
   "template": "S",
   "headline": "Small <em>Bathroom</em> Ideas",
   "domain": "britishhomeinterior.co.uk",
-  "number": "45",
+  "number": "46",
   "photo": "./public/images/small-bathroom-modern-uk.jpg"
  },
  {
@@ -364,7 +372,7 @@
   "template": "S",
   "headline": "Small <em>Bedroom</em> Ideas",
   "domain": "britishhomeinterior.co.uk",
-  "number": "46",
+  "number": "47",
   "photo": "./public/images/minimalist-bedroom-single-bed.jpg"
  },
  {
@@ -372,7 +380,7 @@
   "template": "S",
   "headline": "Small Bedroom <em>Layout</em> Ideas",
   "domain": "britishhomeinterior.co.uk",
-  "number": "47",
+  "number": "48",
   "photo": "./public/images/bedroom-bedside-tables-neutral.jpg"
  },
  {
@@ -380,15 +388,23 @@
   "template": "S",
   "headline": "Small Bedroom <em>Storage</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "48",
+  "number": "49",
   "photo": "./public/images/organized-wardrobe-hanging-clothes.jpg"
+ },
+ {
+  "slug": "small-home-office-ideas-uk",
+  "template": "S",
+  "headline": "Small Home <em>Office</em>",
+  "domain": "britishhomeinterior.co.uk",
+  "number": "50",
+  "photo": "./public/images/small-home-office-uk.jpg"
  },
  {
   "slug": "small-kitchen-island-ideas-uk",
   "template": "S",
   "headline": "Small Kitchen <em>Island</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "49",
+  "number": "51",
   "photo": "./public/images/kitchen-marble-island-worktop.jpg"
  },
  {
@@ -396,7 +412,7 @@
   "template": "S",
   "headline": "Small Kitchen <em>Ideas</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "50",
+  "number": "52",
   "photo": "./public/images/kitchen-open-shelving.jpg"
  },
  {
@@ -404,7 +420,7 @@
   "template": "S",
   "headline": "Small Living Room on a <em>Budget</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "51",
+  "number": "53",
   "photo": "./public/images/minimalist-couch-coffee-tray.jpg"
  },
  {
@@ -412,7 +428,7 @@
   "template": "S",
   "headline": "Small Living <em>Room</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "52",
+  "number": "54",
   "photo": "./public/images/pexels-276583.jpg"
  },
  {
@@ -420,7 +436,7 @@
   "template": "S",
   "headline": "Small Living Room <em>Layout</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "53",
+  "number": "55",
   "photo": "./public/images/pexels-6538933.jpg"
  },
  {
@@ -428,15 +444,23 @@
   "template": "S",
   "headline": "Small Living Room <em>Storage</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "54",
+  "number": "56",
   "photo": "./public/images/cosy-home-library-bookshelves.jpg"
+ },
+ {
+  "slug": "small-wet-room-ideas-uk",
+  "template": "S",
+  "headline": "Small Wet <em>Room</em>",
+  "domain": "britishhomeinterior.co.uk",
+  "number": "57",
+  "photo": "./public/images/small-wet-room-uk.jpg"
  },
  {
   "slug": "soft-minimalism-living-room-ideas-uk",
   "template": "S",
   "headline": "Soft Minimalism Living <em>Room</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "55",
+  "number": "58",
   "photo": "./public/images/pexels-4846097.jpg"
  },
  {
@@ -444,7 +468,7 @@
   "template": "S",
   "headline": "Spring Home <em>Refresh</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "56",
+  "number": "59",
   "photo": "./public/images/orange-tulips-glass-vase.jpg"
  },
  {
@@ -452,7 +476,7 @@
   "template": "S",
   "headline": "Studio <em>Flat</em> Ideas",
   "domain": "britishhomeinterior.co.uk",
-  "number": "57",
+  "number": "60",
   "photo": "./public/images/studio-flat-zoned-uk.jpg"
  },
  {
@@ -460,7 +484,7 @@
   "template": "S",
   "headline": "Unfitted <em>Kitchen</em> Ideas",
   "domain": "britishhomeinterior.co.uk",
-  "number": "58",
+  "number": "61",
   "photo": "./public/images/sunlit-farmhouse-kitchen-wood.jpg"
  },
  {
@@ -468,7 +492,7 @@
   "template": "S",
   "headline": "Small Utility <em>Room</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "59",
+  "number": "62",
   "photo": "./public/images/utility-room-uk.jpg"
  },
  {
@@ -476,7 +500,7 @@
   "template": "S",
   "headline": "Vertical <em>Storage</em> Ideas",
   "domain": "britishhomeinterior.co.uk",
-  "number": "60",
+  "number": "63",
   "photo": "./public/images/hallway-coat-rack-mirror.jpg"
  },
  {
@@ -484,7 +508,7 @@
   "template": "S",
   "headline": "Victorian Terrace <em>Interior</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "61",
+  "number": "64",
   "photo": "./public/images/pexels-3757055.jpg"
  },
  {
@@ -492,7 +516,7 @@
   "template": "S",
   "headline": "Cosy Up for <em>Winter</em>",
   "domain": "britishhomeinterior.co.uk",
-  "number": "62",
+  "number": "65",
   "photo": "./public/images/pexels-2082090.jpg"
  }
 ]

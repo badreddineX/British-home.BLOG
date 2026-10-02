@@ -105,22 +105,6 @@ If you're tackling the worktop as part of a wider refresh, it pairs naturally wi
 
 ---
 
-## Frequently Asked Questions
-
-**What is the cheapest way to update a kitchen worktop UK?**
-Adhesive worktop wrap film is the cheapest option at £20–£35 per roll from Dunelm or Amazon UK. It covers the visible surface in an afternoon without any tools beyond a craft knife and a squeegee.
-
-**Can you paint over a laminate worktop?**
-Yes, using a specialist laminate worktop paint kit such as Rust-Oleum Worktop Transformation Kit (around £40). Standard emulsion or furniture paint won't bond properly and will chip within weeks.
-
-**How long does worktop wrap film last?**
-Good quality wrap film lasts 2–4 years with careful use. It's not heatproof, so always use a trivet or board rather than placing hot pans directly on it.
-
-**Is it cheaper to replace or resurface a kitchen worktop?**
-Resurfacing with wrap film or paint is almost always cheaper short-term, from £20–£45 versus £45–£120+ for new laminate. Replacement makes more sense if the worktop is damaged, swollen from water, or you want a genuinely different material.
-
----
-
 None of these fixes require a fitter, and all three cost less than a single evening's takeaway budget for a family of four in most UK cities. Start with an honest look at what's actually damaged. If it's just the edge, fix the edge. If the whole surface has gone dull, wrap or paint it before you price up full replacement.
 
 The worktop is rarely the first thing people notice in a kitchen, but it's the surface you touch every single day, and a tired one drags down every other upgrade around it. Fix it properly and everything else, from new handles to a fresh coat of cabinet paint, reads as intentional rather than patchy.

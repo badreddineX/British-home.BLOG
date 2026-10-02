@@ -115,25 +115,6 @@ This works especially well on the standard white plastic "builder's basic" shade
 
 **When you move out:** keep the original bulb, shade, and any battery fittings' fixings in a labelled bag. Every upgrade in this article reverses in minutes, which is exactly why none of it risks your deposit.
 
-## Frequently Asked Questions
-
-**How do I improve living room lighting in a rented UK flat without rewiring?**
-Start with warm 2700K bulbs (from £3, Screwfix) in every fitting, then add a plug-in floor lamp (£25-£45, IKEA) for a second light source. Both changes need no tools, no electrician, and no landlord permission.
-
-**Are battery-operated wall lights any good?**
-Yes for renters. Screwfix and Amazon UK battery wall sconces (from £18) run on AA or rechargeable batteries and stick or screw to plasterboard without touching the electrics. Brightness is lower than mains fittings, so use them for accent light, not the main source.
-
-**Do smart bulbs work in standard UK bayonet fittings?**
-Most UK living room fittings use bayonet (B22) or screw (E27) fittings, and Philips Hue and similar smart bulbs come in both. A Hue starter kit costs around £60-£80 for two bulbs and a bridge, or from £13 per bulb using the Hue Bluetooth-only bulbs with no bridge needed.
-
-**Will LED strip lights damage rented walls or furniture?**
-No, if you use the 3M adhesive backing on clean, dry surfaces like the back of a TV unit or under a shelf. It peels off cleanly. Avoid painted plaster walls directly, since some paint finishes can lift when the adhesive is removed.
-
-**What's the cheapest way to fix a living room that only has one overhead ceiling light?**
-A £3 warm 2700K bulb swap plus one £25-£30 plug-in floor lamp from IKEA solves the single most common UK rental lighting problem for under £35, and both changes take five minutes.
-
----
-
 Lighting is the cheapest, fastest way to change how a rented living room feels, and none of it needs to touch a single wire. Start with the bulb swap today, add a lamp this week, and build up to LED strips, battery sconces, and smart bulbs as your budget allows. Every step here reverses cleanly when you move out.
 
 

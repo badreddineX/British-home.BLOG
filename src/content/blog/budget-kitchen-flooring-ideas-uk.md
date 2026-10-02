@@ -36,8 +36,6 @@ Click-lock vinyl plank went straight over it in an afternoon, and eighteen month
 > - Uneven floors need self-levelling compound first, or the new floor will crack or gap.
 > - Skip laying over the top if the subfloor is soft, damp, or blocks appliance and door clearance.
 
-For the styling layer once your floor's sorted, see [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) for cabinet paint, handles, and lighting ideas that finish the room off.
-
 ## Quick Comparison: Which Budget Flooring Option?
 
 | Option | Cost (3m x 3m kitchen) | Goes Over Old Lino? | Best For |
@@ -56,8 +54,6 @@ Peel-and-stick vinyl tiles are the cheapest kitchen flooring option in the UK, c
 These self-adhesive tiles need no glue, grout, or specialist tools. You peel the backing off and press each tile into place, working from the centre of the room outwards. Brands like [ClickFix](https://link.amazon/B0dziwzC5) and Plank and Mill sell realistic wood, stone, and marble-effect designs that look far better in person than the price suggests.
 
 They're not indestructible. Peel-and-stick tiles can lift at the edges in high-moisture spots near the sink or dishwasher if the subfloor wasn't properly cleaned first. Wipe the existing floor with sugar soap and let it dry fully before you start, and press every edge down firmly with a roller or the back of a spoon.
-
-Peel-and-stick vinyl floor tiles cost £1.50–£2.50 per tile at UK retailers including B&Q and Amazon UK, making a full 3m x 3m kitchen floor achievable for £50–£90 in materials with no tools required.
 
 ---
 
@@ -97,8 +93,6 @@ Height clearance is the other big one. Adding even one layer of click vinyl (typ
 
 Measuring first would have saved an afternoon of taking the appliance back out to trim the floor around it. If in doubt, measure twice and buy the thinnest suitable product rather than the thickest.
 
-New flooring shouldn't go over an existing kitchen floor if the subfloor is soft, damp, or if the added thickness (commonly 4-6mm for click vinyl) blocks appliance doors or the kitchen door from closing.
-
 ---
 
 ## FAQ
@@ -120,10 +114,6 @@ A DIY click vinyl or peel-and-stick floor for an average UK kitchen costs £50�
 Whichever route you choose, the same rule applies: check the existing floor is flat, dry, and structurally sound before you buy a single plank or tile. That five-minute check is what decides whether your new floor lasts two years or ten.
 
 For the rest of the room, [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) covers cabinet paint, handles, and lighting swaps that pair well with a fresh floor and cost under £200 combined.
-
-**Related reading you might find useful:**
-
-- [Kitchen on a Budget UK: 14 Ideas](/blog/kitchen-on-a-budget-uk/)
 
 **The budget kitchen series** — each part in depth:
 

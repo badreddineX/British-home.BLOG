@@ -17,10 +17,10 @@ tldr:
   - "New bedding (£25-£35 at Dunelm or Amazon UK) changes a bedroom's whole feel more than any other single purchase under £150."
   - "Warm bulbs and a plug-in lamp (£15-£20 total) do more for atmosphere than any overhead light ever will."
   - "A large leaning mirror (£35-£45 at IKEA or B&M) bounces light around the room and makes it feel noticeably bigger."
-  - "The full five-step refresh, bedding, lighting, a mirror, a rug, and Command-strip wall art, comes to roughly £140-£148."
+  - "The full five-step refresh, bedding, lighting, a mirror, a rug, and Command-strip wall art, comes to roughly £110-£145."
 faqs:
   - q: "How can I refresh a small bedroom in the UK for under £150?"
-    a: "Spend in this order: bedding (£25-£35, Dunelm or Amazon UK), warm lighting (£15-£20), a leaning mirror (£35-£45, IKEA or B&M), a bedside rug (£20-£25, Wilko or IKEA), and Command-strip wall art (£15-£20). The full set totals roughly £140-£148."
+    a: "Spend in this order: bedding (£25-£35, Dunelm or Amazon UK), warm lighting (£15-£20), a leaning mirror (£35-£45, IKEA or B&M), a bedside rug (£20-£25, Wilko or IKEA), and Command-strip wall art (£15-£20). The full set totals roughly £110-£145."
   - q: "What's the single best budget upgrade for a small bedroom?"
     a: "New bedding. A £25-£35 duvet cover set from Dunelm or Amazon UK changes the whole feel of the room in minutes, with no drilling, no tools, and no risk to a rental deposit."
   - q: "Does a mirror really make a small bedroom look bigger?"
@@ -31,7 +31,7 @@ faqs:
     a: "Wilko and B&M tend to be cheapest for rugs and small decor. Dunelm and Amazon UK are strongest for bedding. IKEA is usually the best value for mirrors and lamps. Comparing all four before buying typically saves £10-£20 across a full refresh."
 ---
 
-The best small bedroom ideas for a UK flat aren't about buying more — they're about spending a small budget in the right order. A small UK bedroom can look and feel completely different for under £150 if you do. **TL;DR:** start with bedding (£25-£35), add warm lighting (£15-£20), then a mirror (£35-£45), a rug (£20-£25), and Command-strip wall art (£15-£20). That sequence, in that order, gets you the most visible change per pound spent, and the full refresh lands at roughly £140-£148.
+The best small bedroom ideas for a UK flat aren't about buying more — they're about spending a small budget in the right order. A small UK bedroom can look and feel completely different for under £150 if you do. **TL;DR:** start with bedding (£25-£35), add warm lighting (£15-£20), then a mirror (£35-£45), a rug (£20-£25), and Command-strip wall art (£15-£20). That sequence, in that order, gets you the most visible change per pound spent, and the full refresh lands at roughly £110-£145.
 
 Buy the wall art first and a tired room still looks tired underneath it. Buy the bedding first and even a half-finished room already feels cared for.
 
@@ -120,25 +120,6 @@ That leaves £5-£40 of headroom inside the £150 budget for extras like a scent
 No single retailer wins every category. Dunelm and Amazon UK are strongest for bedding quality per pound. IKEA and B&M tend to be cheapest for mirrors, lamps, and rugs. Wilko is worth checking for basics like bulbs and Command strips before paying more elsewhere.
 
 Comparing prices across all four before buying typically saves £10-£20 across the full refresh, which is worth the extra ten minutes of browsing.
-
----
-
-## Frequently Asked Questions
-
-**How can I refresh a small bedroom in the UK for under £150?**
-Spend in this order: bedding (£25-£35, Dunelm or Amazon UK), warm lighting (£15-£20), a leaning mirror (£35-£45, IKEA or B&M), a bedside rug (£20-£25, Wilko or IKEA), and Command-strip wall art (£15-£20). The full set totals roughly £140-£148.
-
-**What's the single best budget upgrade for a small bedroom?**
-New bedding. A £25-£35 duvet cover set from Dunelm or Amazon UK changes the whole feel of the room in minutes, with no drilling, no tools, and no risk to a rental deposit.
-
-**Does a mirror really make a small bedroom look bigger?**
-Yes. A large mirror placed opposite or near a window bounces natural light back into the room and adds visual depth, which reads as more space even though the room's actual size hasn't changed.
-
-**Can I decorate a rented bedroom without losing my deposit?**
-Yes. Command strips hold wall art and mirrors without screws or nail holes, and they remove cleanly. Rugs, bedding, and lamps involve no wall damage at all, so a full £150 refresh can be entirely deposit-safe.
-
-**Where's the cheapest place to buy bedroom refresh items in the UK?**
-Wilko and B&M tend to be cheapest for rugs and small decor. Dunelm and Amazon UK are strongest for bedding. IKEA is usually the best value for mirrors and lamps. Comparing all four before buying typically saves £10-£20 across a full refresh.
 
 ---
 

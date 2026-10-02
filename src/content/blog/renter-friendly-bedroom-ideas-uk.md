@@ -108,25 +108,6 @@ Pair the curtain with a draught excluder (£8-£15) along the base of the door f
 
 ---
 
-## FAQ
-
-**Can I decorate a rented bedroom in the UK without losing my deposit?**
-Yes. Command strips, peel-and-stick wallpaper, and freestanding furniture leave no permanent marks when removed correctly. Most letting agents only deduct for damage beyond fair wear and tear.
-
-**Does peel-and-stick wallpaper damage walls when you remove it?**
-Good quality peel-and-stick wallpaper removes cleanly from most painted plaster if you peel slowly at a low angle. Always test a small hidden corner first.
-
-**What can I use instead of wall lights in a rented bedroom?**
-Plug-in wall sconces and clip-on reading lights give the same look without an electrician or a chased-in cable, typically from £15.
-
-**How do I stop draughts from a bedroom door in an old UK flat without drilling?**
-A door curtain on a tension rod plus a draught excluder at the base together handle the two main draught points on a period door.
-
-**Are Command strips strong enough for mirrors and shelves?**
-The large picture-hanging strips hold up to 7.3kg per set, and standard strips hold 2.5kg, according to 3M's product specifications. Always check the weight rating on the pack first.
-
----
-
 None of these changes need a landlord's permission or a drill. Start with Command strips and one roll of peel-and-stick wallpaper. Together they cost under £50 and change the whole feel of a rented bedroom by the weekend.
 
 **Related reading you might find useful:**

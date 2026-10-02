@@ -9,7 +9,13 @@
     { "source": "/blog/living-room-budget-ideas-uk", "destination": "/blog/budget-home-makeover-uk", "permanent": true },
     { "source": "/blog/living-room-ideas-uk", "destination": "/blog/how-to-style-a-living-room-uk", "permanent": true },
     { "source": "/blog/small-flat-storage-ideas-uk", "destination": "/blog/small-bedroom-storage-uk", "permanent": true },
-    { "source": "/blog/maximalist-home-decor-uk", "destination": "/blog/maximalist-living-room-decor-uk", "permanent": true }
+    { "source": "/blog/maximalist-home-decor-uk", "destination": "/blog/maximalist-living-room-decor-uk", "permanent": true },
+    { "source": "/blog/bedroom-makeover-ideas-uk", "destination": "/blog/bedroom-makeover-uk", "permanent": true },
+    { "source": "/blog/kitchen-colour-trends-uk-2026", "destination": "/blog/earthy-neutral-kitchen-colour-trends-uk", "permanent": true },
+    { "source": "/blog/living-room-makeover-under-200", "destination": "/blog/budget-home-makeover-uk", "permanent": true },
+    { "source": "/blog/small-bedroom-storage-ideas-uk", "destination": "/blog/small-bedroom-storage-uk", "permanent": true },
+    { "source": "/blog/small-kitchen-ideas-uk", "destination": "/blog/small-kitchen-storage-ideas-budget-uk", "permanent": true },
+    { "source": "/blog/victorian-terrace-makeover-uk", "destination": "/blog/victorian-terrace-interior-ideas-uk", "permanent": true }
   ],
   "headers": [
     {

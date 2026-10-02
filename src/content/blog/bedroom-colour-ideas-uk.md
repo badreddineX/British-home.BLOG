@@ -3,7 +3,7 @@ title: "Bedroom Colour Ideas UK 2026"
 description: "The best paint colours for British bedrooms in 2026 — warm neutrals, muted blues, and bold tones, with picks from Dulux and Farrow & Ball."
 image: "/images/pexels-1454806.jpg"
 datePublished: "2026-02-27"
-dateModified: "2026-09-05"
+dateModified: "2026-09-30"
 author: "Badreddine"
 tags: ["bedroom colour ideas UK", "bedroom paint colours", "bedroom colour ideas", "bedroom color ideas", "paint colours for bedroom", "bedroom paint colours UK", "best bedroom colours UK", "bedroom paint ideas UK"]
 featured: false
@@ -282,5 +282,6 @@ If your landlord allows sample-pot testing but not a full repaint, some letting 
 
 → For bedroom styling and decor see [Bedroom Decor Ideas UK](/blog/bedroom-decor-ideas-uk/).
 → For a full bedroom refresh see [Bedroom Makeover UK](/blog/bedroom-makeover-uk/).
+→ Carrying the palette into the living room? See [Living Room Colour Schemes UK](/blog/living-room-colour-schemes-uk/) for 11 schemes built for British light.
 → Applying the same warm-neutral and sage-green logic to the smallest room in the house? See [Bathroom Colour Ideas UK](/blog/bathroom-colour-ideas-uk/).
 → Tackling the kitchen too? See [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) for the same room-by-room approach.

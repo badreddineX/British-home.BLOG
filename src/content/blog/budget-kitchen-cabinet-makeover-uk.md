@@ -54,8 +54,6 @@ The finish holds up well on solid wood and MDF but struggles on thermofoil or hi
 
 DIY paint suits anyone with a free weekend, solid wood or MDF doors, and a budget under £100. It won't match a sprayed finish for smoothness, but at roughly a tenth of the price, that's rarely a dealbreaker.
 
-DIY cabinet painting costs £30–£60 in materials using products like Rust-Oleum Kitchen Cupboard Paint (around £18 per 750ml tin, B&Q/Screwfix pricing, 2026), covering 12–15 doors per tin and lasting 3–5 years with proper preparation.
-
 ---
 
 ## What Does a Professional Kitchen Cabinet Respray Cost?
@@ -67,8 +65,6 @@ Respraying is done with a spray gun rather than a brush or roller, which elimina
 This route makes sense if your doors are in good structural condition but the surface is scratched, chipped, or an outdated colour, and you want a finish that will last. Most people assume respraying is only for high-end kitchens, but in our experience the cost per door often works out cheaper than replacing doors individually once you factor in a decent respray quote against flat-pack door pricing.
 
 Expect the process to take three to five days, since doors need to cure fully between coats. A respray typically comes with a workmanship guarantee of one to two years, and the finish itself can last 8–10 years if maintained.
-
-A professional kitchen cabinet respray costs £1,200–£3,500 for a UK kitchen, with specialist sprayers typically charging £25–£45 per door (Kitchen Makeover Company and independent trade sprayer quotes, 2026), producing a factory-smooth finish that lasts 8–10 years.
 
 <figure>
   <svg viewBox="0 0 560 300" style="max-width: 100%; height: auto; font-family: 'Inter', system-ui, sans-serif" role="img" aria-label="Bar chart comparing typical low-end cost of 4 kitchen cabinet makeover options">
@@ -105,8 +101,6 @@ Durability sits between DIY paint and a respray, typically 3–7 years depending
 
 Vinyl wrap suits renters, anyone unsure about committing to a colour, or kitchens with laminate doors that paint won't stick to properly without extensive prep.
 
-Vinyl wrap film for kitchen cabinets costs £150–£400 for a full UK kitchen using products like Fablon or Cover Styl' (retailer pricing, 2026), lasting 3–7 years and working well on laminate doors that resist standard paint adhesion.
-
 ---
 
 ## Are Replacement Cabinet Doors Cheaper Than a New Kitchen?
@@ -118,8 +112,6 @@ The principle is straightforward: your existing cabinet boxes (the carcasses) st
 A full new fitted kitchen with carcasses, doors, and worktop typically starts around £4,000–£6,000 for a modest UK kitchen and climbs well beyond that for larger spaces or premium finishes. Replacement doors alone land at £800–£2,500 for the same footprint, which is why this option appeals to anyone whose layout still works but whose doors look dated or damaged.
 
 Measure carefully before ordering. Standard UK cabinet widths run in increments (300mm, 400mm, 500mm, 600mm), but older kitchens sometimes deviate slightly, so a made-to-measure quote is safer than assuming standard sizing.
-
-Replacement cabinet doors on an existing carcass cost £800–£2,500 for a UK kitchen (Kitchen Door Workshop and B&Q made-to-measure pricing, 2026), roughly a third of the £4,000–£6,000 typically needed for a full new fitted kitchen.
 
 ---
 

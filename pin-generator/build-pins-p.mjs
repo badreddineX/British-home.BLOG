@@ -13,9 +13,11 @@
 // Variants per post: p1 = overlay layout + post title; p2 = split layout + first FAQ question;
 // p3 = badge layout + second FAQ question. Only the scheduled ones are rendered.
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync } from 'node:fs';
-import { resolve, dirname } from 'node:path';
+import { resolve, dirname, extname } from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { chromium } from 'playwright';
+const MIME = { '.jpg': 'image/jpeg', '.jpeg': 'image/jpeg', '.png': 'image/png', '.webp': 'image/webp', '.avif': 'image/avif' };
+const imgB64 = (root, n) => { const p = resolve(root, 'public/images', n); const b = readFileSync(p); const m = MIME[extname(n).toLowerCase()] || 'image/jpeg'; return `data:${m};base64,${b.toString('base64')}`; };
 
 const ED = 'UK';
 const DOMAIN = 'britishhomeinterior.co.uk';
@@ -205,7 +207,7 @@ for (let i = 0; i < picked.length; i++) {
   const { post, k } = picked[i];
   const layout = k; // 1 overlay, 2 split, 3 badge
   const photoName = post.photos[(k - 1) % post.photos.length];
-  const photo = pathToFileURL(resolve(ROOT, 'public/images', photoName)).href;
+  const photo = imgB64(ROOT, photoName);
   const html = `<!doctype html><html><head><meta charset="utf-8">${FONTS}</head><body>${tmpl({ ...post, k, photo, label: labelFor(post.fmRaw, post.pill) }, layout)}</body></html>`;
   if (!CSV_ONLY) {
     const tmpHtml = resolve(OUT_DIR, '_pin.html');

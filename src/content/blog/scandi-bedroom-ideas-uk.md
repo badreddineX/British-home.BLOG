@@ -123,28 +123,6 @@ A light refresh using bedding, a throw, and a rug costs under £80, while a full
 
 Do the light refresh first if budget is tight. It covers most of the visual change for a fraction of the cost, and you can add the bed frame later once you've confirmed you like the look.
 
-## Frequently Asked Questions
-
-### What makes a bedroom Scandinavian style?
-
-Light wood tones, a neutral colour palette, layered natural textiles, decluttered surfaces, and warm low-level lighting instead of one bright overhead. IKEA's MALM and HEMNES ranges (from £129 and £95) are the easiest starting point in the UK.
-
-### Is Scandi style good for a small bedroom?
-
-Yes. The pale colour palette and light wood tones reflect available light, which makes a small UK bedroom feel larger than it is. Decluttered surfaces also matter more in a small room, since visible mess reads as smaller space.
-
-### How much does a Scandi bedroom makeover cost in the UK?
-
-A full refresh with a new bed frame, bedding, throw, rug, and lighting typically runs £250-£450 using IKEA and Amazon UK pricing. A lighter refresh using just bedding, a throw, and a rug can be done for under £80.
-
-### What's the difference between Scandi and cottagecore bedroom style?
-
-Scandi favours pared-back neutrals, light wood, and minimal clutter, while [cottagecore](/blog/cottagecore-home-decor-uk/) leans into florals, vintage furniture, and a busier, more layered look. See our [cottagecore bedroom decor ideas UK](/blog/cottagecore-bedroom-ideas-uk/) guide if that's closer to your taste.
-
-### Do I need to paint my bedroom white for a Scandi look?
-
-No. Soft grey, warm white, or pale oatmeal all work as well as bright white, and they're often more forgiving in UK flats with less natural light. Our [bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk/) guide covers the full range of Scandi-friendly shades.
-
 ---
 
 Scandi bedroom style suits small UK flats because it works with light rather than fighting for space. Start with the bed frame and bedding, layer in hygge texture with a throw and rug, keep surfaces clear, and swap harsh overhead light for two or three warm sources. Do the light refresh first if you're not ready to commit to new furniture, it covers most of the visual change on its own.
