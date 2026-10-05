@@ -1,6 +1,6 @@
 ---
-title: "Deposit Deductions UK: What Landlords Really Charge (2026)"
-description: "Guide to UK tenancy deposit deductions: what landlords commonly claim for, how disputes work and which decor choices can trigger them."
+title: "Deposit Deductions UK: Average £250 — What Landlords Claim (2026)"
+description: "UK deposit deductions average £250 and 29% of renters lose over £500. What landlords actually claim for, how to dispute, and which decor choices trigger it."
 image: "/images/pexels-7641991.jpg"
 datePublished: "2026-09-05"
 dateModified: "2026-09-05"

@@ -1,6 +1,6 @@
 ---
-title: "Cheap Kitchen Flooring Ideas UK You Can Fit in a Weekend"
-description: "Cheap UK kitchen flooring ideas you can fit in a weekend — click vinyl over lino, peel-and-stick tiles, and when to avoid laying over old floors."
+title: "Cheap Kitchen Flooring Ideas UK: From £15/m² (Weekend DIY)"
+description: "Cheap kitchen flooring ideas for UK homes from £15/m² — click vinyl over lino, peel-and-stick tiles, B&Q vs Wickes prices, and what to avoid."
 image: "/images/kitchen-wood-floor-open-plan.jpg"
 datePublished: "2026-06-01"
 dateModified: "2026-08-27"
