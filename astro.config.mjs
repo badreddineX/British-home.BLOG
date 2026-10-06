@@ -1,6 +1,8 @@
 import { defineConfig } from 'astro/config';
 import sitemap from '@astrojs/sitemap';
+import { satteri } from '@astrojs/markdown-satteri';
 import rehypeAffiliateLinks from './src/plugins/rehype-affiliate-links.mjs';
+import rehypeImageDimensions from './src/plugins/rehype-image-dimensions.mjs';
 import { readFileSync, readdirSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 
@@ -30,7 +32,9 @@ export default defineConfig({
   // small CSS files) -- total CSS is only a few KB, cheap to inline.
   build: { inlineStylesheets: 'always' },
   markdown: {
-    hastPlugins: [rehypeAffiliateLinks],
+    processor: satteri({
+      hastPlugins: [rehypeAffiliateLinks, rehypeImageDimensions],
+    }),
   },
   integrations: [
     sitemap({
