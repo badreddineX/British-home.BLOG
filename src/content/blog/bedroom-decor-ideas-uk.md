@@ -121,7 +121,7 @@ A rug is one of the largest single blocks of colour or pattern in a bedroom, so 
 
 Against a warm neutral wall, a rug with a subtle geometric or muted stripe pattern adds visual interest without competing with the paint colour. Against a deep boutique tone (Hague Blue or Dark Lead), a plain textured rug in a lighter warm tone stops the room feeling too enclosed.
 
-The rug should extend at least 60cm beyond the sides and foot of the bed so it registers as a deliberate frame for the bed rather than a leftover mat. Match its undertone (warm or cool) to your paint choice from section 1, not just its colour name.
+When the rug frames the bed generously on three sides, it reads as a deliberate design choice rather than a leftover mat. Match its undertone (warm or cool) to your paint choice from section 1, not just its colour name.
 
 Bedroom rug 160x230cm — from ~£45 at Dunelm.
 

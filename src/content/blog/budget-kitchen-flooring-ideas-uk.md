@@ -101,7 +101,7 @@ Measuring first would have saved an afternoon of taking the appliance back out t
 Yes, as long as the lino is flat, firmly stuck down, and not damaged. Click-lock vinyl plank and peel-and-stick tiles are both designed to go directly over sound lino, saving the cost and mess of ripping up the old floor.
 
 ### What is the cheapest flooring for a UK kitchen?
-Peel-and-stick vinyl floor tiles are the cheapest option, from around £1.50–£2.50 per tile at B&Q, Wilko, and Amazon UK. A standard 3m x 3m kitchen costs roughly £50–£90 in tiles, with no adhesive or tools needed.
+Peel-and-stick vinyl floor tiles — see the full cost breakdown in Section 1 above.
 
 ### Do I need to remove old flooring before laying vinyl?
 Not usually. If the existing floor is flat, dry, and structurally sound, most click vinyl and peel-and-stick products can be laid straight on top. Removal is only necessary if the old floor is damaged, uneven, or damp.

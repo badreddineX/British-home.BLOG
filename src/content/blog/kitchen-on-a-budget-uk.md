@@ -62,7 +62,7 @@ Cabinet handles are one of those things you stop noticing — until you see a ki
 
 A full kitchen of twenty handles costs between £30 and £80, whether you choose IKEA's BLANKETT range from ~£2–£3 each or Etsy cup pulls from £1.50–£4 each, and the whole swap takes about thirty minutes with a screwdriver.
 
-IKEA sells simple brushed nickel bar pulls (the BLANKETT range) for around £2–£3 per handle. For a more premium feel, check Dunelm's hardware section or Etsy UK sellers — cup pulls in antique brass or matte black run from £1.50 to £4 each. A full kitchen of twenty handles costs between £30 and £80 depending on your source.
+IKEA sells simple brushed nickel bar pulls (the BLANKETT range) for around £2–£3 per handle. For a more premium feel, check Dunelm's hardware section or Etsy UK sellers — cup pulls in antique brass or matte black run from £1.50 to £4 each.
 
 The one catch: check your existing hole spacing (the distance between the two screw holes, called the "bore"). The most common UK bore is 128mm. Measure before you order, or you'll spend an afternoon drilling new holes.
 

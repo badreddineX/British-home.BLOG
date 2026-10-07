@@ -74,7 +74,7 @@ A 24-pocket [over-door organiser](https://link.amazon/B0hnv3jPh) costs around £
 
 IKEA [NORDLI bed frame with built-in drawers](https://link.amazon/B0aBeFypE) (~£350-£600, single to double) has large drawers on each side — enough to replace a full chest of drawers in most small bedrooms. Removing the chest of drawers frees significant floor space and makes the room feel larger.
 
-This is the most impactful single furniture purchase for a small bedroom.
+No other single piece of furniture frees as much floor space in a small bedroom.
 
 ## 6. Can Floating Shelves Work as a Nightstand?
 

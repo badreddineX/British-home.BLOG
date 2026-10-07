@@ -75,7 +75,7 @@ The Victorians were obsessed with botanical illustration — scientific drawings
 
 Original Victorian botanical prints from eBay UK and Etsy can be found from £5–£30 depending on size and condition, meaning genuine 19th-century illustrations are often cheaper than a framed reproduction.
 
-**Original prints:** Search eBay UK and Etsy for "antique botanical print" — original Victorian illustrations from scientific journals can be found from £5–£30 depending on size and condition. These are not reproductions; they're actual pages from 19th-century natural history publications.
+**Original prints:** Search eBay UK and Etsy for "antique botanical print" — these are actual pages from 19th-century natural history publications, often cheaper than modern reproductions. These are not reproductions; they're actual pages from 19th-century natural history publications.
 
 **Reproductions:** Download free public domain botanical illustrations from the Biodiversity Heritage Library (biodiversitylibrary.org) — a vast archive of scanned historical natural history books with beautiful illustrations. Print them at your local Rymans or at home, frame in simple wooden frames, and you have a [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk/) for the cost of the frames.
 
