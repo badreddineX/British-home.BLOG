@@ -37,7 +37,7 @@
         { "key": "X-Frame-Options", "value": "SAMEORIGIN" },
         { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
         { "key": "Permissions-Policy", "value": "camera=(), microphone=(), geolocation=(), interest-cohort=()" },
-        { "key": "Content-Security-Policy", "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.clarity.ms https://*.clarity.ms; connect-src 'self' https://www.google-analytics.com https://*.google-analytics.com https://*.analytics.google.com https://*.clarity.ms https://vitals.vercel-insights.com; img-src 'self' data: https://www.google-analytics.com https://*.clarity.ms; style-src 'self' 'unsafe-inline'; font-src 'self'; frame-src https://www.googletagmanager.com; base-uri 'self'; form-action 'self'" }
+        { "key": "Content-Security-Policy", "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://www.clarity.ms https://*.clarity.ms https://s.skimresources.com; connect-src 'self' https://www.google-analytics.com https://*.google-analytics.com https://*.analytics.google.com https://*.clarity.ms https://vitals.vercel-insights.com https://s.skimresources.com https://t.skimresources.com; img-src 'self' data: https://www.google-analytics.com https://*.clarity.ms https://t.skimresources.com; style-src 'self' 'unsafe-inline'; font-src 'self'; frame-src https://www.googletagmanager.com; base-uri 'self'; form-action 'self'" }
       ]
     }
   ]
