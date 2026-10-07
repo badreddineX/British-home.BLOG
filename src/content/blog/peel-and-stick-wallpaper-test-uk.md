@@ -1,7 +1,7 @@
 ---
-title: "Peel-and-Stick Wallpaper in UK Rentals: 6 Products Tested on 5 Wall Surfaces"
-description: "A hands-on comparison of 6 peel-and-stick wallpapers tested on 5 common UK wall surfaces, with honest results on adhesion, removal, and value for money."
-image: "/images/peel-stick-wallpaper-accent-wall.jpg"
+title: "Peel-and-Stick Wallpaper UK: 6 Products Tested"
+description: "6 peel-and-stick wallpapers tested on magnolia, woodchip, lining paper, new plaster, and gloss paint. Honest adhesion, removal, and value results."
+image: "/images/dramatic-velvet-living-room.jpg"
 datePublished: "2026-10-07"
 dateModified: "2026-10-07"
 author: "Badreddine"

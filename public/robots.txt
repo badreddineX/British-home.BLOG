@@ -52,4 +52,7 @@ Allow: /
 User-agent: YouBot
 Allow: /
 
+Disallow: /api/
+Disallow: /thank-you/
+
 Sitemap: https://britishhomeinterior.co.uk/sitemap-index.xml

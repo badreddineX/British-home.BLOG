@@ -1,7 +1,7 @@
 ---
-title: "How Much Does It Cost to Style a Rented Flat in the UK? Room-by-Room, 3 Budget Tiers"
-description: "A room-by-room cost breakdown for styling a rented flat in the UK, covering three budget tiers from under £100 to £500+ per room, with renter-friendly product recommendations."
-image: "/images/styled-uk-rented-living-room.jpg"
+title: "Cost to Style a UK Rented Flat: 3 Budget Tiers"
+description: "Room-by-room cost breakdown for styling a rented UK flat. Three budget tiers from £50 to £700 per room, all renter-friendly and deposit-safe."
+image: "/images/scandinavian-living-room-wood.jpg"
 datePublished: "2026-10-07"
 dateModified: "2026-10-07"
 author: "Badreddine"
