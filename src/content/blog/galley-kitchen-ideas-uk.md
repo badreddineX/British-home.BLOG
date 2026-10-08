@@ -3,7 +3,7 @@ title: "Galley Kitchen Ideas UK: Layouts, Storage & Renter Fixes"
 description: "Galley kitchen ideas for UK flats and terraces: how to lay out two runs, the gap you actually need, wall-height storage and renter-safe updates with no reno."
 image: "/images/galley-kitchen-narrow-uk.jpg"
 datePublished: "2026-09-02"
-dateModified: "2026-09-19"
+dateModified: "2026-10-08"
 author: "Badreddine"
 tags: ["galley kitchen ideas uk", "galley kitchen ideas", "small galley kitchen uk", "galley kitchen layout uk", "narrow kitchen ideas uk", "galley kitchen renter"]
 featured: false
@@ -169,6 +169,18 @@ This is a renter-safe refresh of an existing galley — no new units, nothing th
 | **Total** | **£140–£365** |
 
 Do the lighting and the paint first — between them they fix the two things that make a galley feel grim. The handles and splashback are the finish that makes it look deliberate rather than patched.
+
+## How Do You Deal With Cooking Smells in a Galley?
+
+A galley kitchen is enclosed on two sides and often has no window or only a small one at the end. Cooking smells and steam have nowhere to go, and in a rented flat with no extractor fan, grease settles on every surface within weeks.
+
+- **If you have an extractor fan, use it.** Sounds obvious, but many renters never switch it on because it's noisy. Run it for 10 minutes after cooking, not just during. If the filters are clogged, a replacement charcoal filter from Amazon UK or Screwfix costs £8–£15 and takes five minutes to swap.
+- **If you don't have one,** open the end window and put a small desk fan on the worktop near the hob, aimed toward the window. This creates a cross-draft that pulls steam and cooking smells out rather than letting them coat the cabinets.
+- **A splatter guard** ($6–$10) over the pan while frying reduces both airborne grease and cleanup time — a small thing that compounds over months in a narrow kitchen.
+
+In winter, when opening the window means losing all your heat, cook with lids on and wipe down the splashback and cabinets near the hob weekly. Grease buildup in a galley happens faster than in an open kitchen because the volume of air is so much smaller.
+
+If your galley has persistent damp or black mould around the window, that's a ventilation and insulation problem covered in our [damp and mould guide for UK renters](/blog/damp-mould-renters-guide-uk).
 
 ## Related reading
 

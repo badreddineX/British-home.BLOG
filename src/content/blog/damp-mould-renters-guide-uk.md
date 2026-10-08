@@ -26,6 +26,8 @@ faqs:
     a: "Send a written report (email or posted letter) with dated photographs, a description of the affected areas, how long the problem has existed, and any health symptoms. Keep copies of everything. A written record is essential if the issue escalates to the council or court."
 ---
 
+Damp and mould often affects kitchens and bathrooms worst — our [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk) guide covers ventilation and extraction fixes for the kitchen specifically.
+
 Damp and mould in rented homes is not a cosmetic nuisance. It is a serious health hazard that causes respiratory infections, worsens asthma, and in the most tragic case on record, contributed to the death of two-year-old Awaab Ishak in Rochdale in 2020. His death prompted a national reckoning with how damp and mould complaints are handled in rented housing, leading to significant legal changes that strengthen renter protections.
 
 This guide covers what those legal changes mean for you as a renter, how to identify and report damp and mould effectively, what your landlord is and is not responsible for, and what to do when complaints are ignored.

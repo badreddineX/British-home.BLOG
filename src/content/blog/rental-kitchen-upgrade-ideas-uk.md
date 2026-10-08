@@ -3,7 +3,7 @@ title: "11 Rental Kitchen Upgrades UK (No Permission, Fully Reversible)"
 description: "11 rental kitchen upgrade ideas for UK tenants — no landlord permission needed. Peel-and-stick tiles, swappable handles, removable splashbacks. All deposit-safe."
 image: "/images/kitchen-worktop-wood.jpg"
 datePublished: "2026-07-10"
-dateModified: "2026-08-27"
+dateModified: "2026-10-08"
 author: "Badreddine"
 tags: ["rental kitchen upgrade ideas uk", "renter friendly kitchen ideas", "rental kitchen ideas uk", "landlord friendly kitchen updates uk", "temporary kitchen makeover renter uk", "renter kitchen uk"]
 featured: false
@@ -139,6 +139,26 @@ Here's a sensible order to work through it in, starting with what's free.
 Start with steps one to three if your budget or your patience is limited. They cost under £60 combined and take a single weekend. If you complete only that much, the kitchen will already feel noticeably more yours.
 
 The full list still comes in well under £300, and for renters who move every year or two, that's a far better return than sinking money into a kitchen someone else owns. If you're tackling the rest of the flat too, [rented flat makeover UK](/blog/rented-flat-makeover-uk/) covers the same reversible-first approach room by room.
+
+---
+
+## How Do You Fix Bad Lighting in a Rented Kitchen?
+
+Lighting is the change most renters overlook, and it makes more difference than the splashback. Most rented kitchens have a single central ceiling fitting that throws your own shadow onto the worktop when you face it.
+
+- **Swap the bulb to warm white (2700K).** This costs £2–£4 and takes ten seconds. Cool white fluorescent bulbs make a tired kitchen look clinical; warm white makes the same space feel calm.
+- **Add stick-on or plug-in LED strips under the wall cabinets.** Battery-powered versions ($8–$15 from Amazon UK or Wilko) need no wiring and no drilling. Plug-in strips with an adhesive backing ($12–$25) are brighter and last longer. Either way, lighting the worktop from above removes the shadow problem entirely.
+- **Use a plug-in pendant or clip-on lamp** over the dining area if you eat in the kitchen. A £15–£25 plug-in pendant from Dunelm or IKEA hangs from a ceiling hook (adhesive, renter-safe) and creates a second light zone without touching the existing fitting.
+
+Keep the original bulbs in the same labelled bag as the original handles — they go back at move-out.
+
+## What About Damp and Mould in a Rented Kitchen?
+
+Rented kitchens, especially in older flats and terraces, are prone to condensation on cold external walls and around windows. Cooking without proper extraction makes it worse, and black mould around the window frame or behind the fridge is common.
+
+This is a landlord responsibility under the [Homes (Fitness for Human Habitation) Act 2018](https://www.legislation.gov.uk/ukpga/2018/34), but in practice, managing moisture day-to-day falls on you. Open the window or run the extractor fan while cooking, wipe condensation off the window sill each morning, and keep furniture 50–100mm away from external walls so air circulates behind it.
+
+Our [damp and mould guide for UK renters](/blog/damp-mould-renters-guide-uk) covers what's your responsibility, what's the landlord's, and when to escalate.
 
 ---
 
