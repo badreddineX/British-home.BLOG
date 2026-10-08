@@ -185,6 +185,57 @@ Cost: nothing. Set aside an hour to edit without adding anything.
 
 ---
 
+## How Big Is the Average UK Living Room?
+
+The average new-build living room in the UK is around 17 sq m (183 sq ft) — but that number hides a huge range. Victorian terraces often have front rooms of 12–14 sq m, while 1930s semis can be 18–22 sq m. Flats built after 2010, especially in London and other cities, are often smaller still.
+
+Understanding your actual room size helps calibrate expectations:
+
+| Room Size | What to Expect |
+|---|---|
+| Under 12 sq m | Very tight. Two-seater sofa max, no coffee table (use nesting tables), wall-mounted everything. |
+| 12–16 sq m | The most common small UK living room. Compact three-seater or two-seater, one side table, floating shelves. |
+| 16–20 sq m | Still compact but workable. Room for a three-seater, coffee table, and a small TV unit. |
+| Over 20 sq m | Not small by UK standards. Most layout and space-saving tricks still help but aren't essential. |
+
+Measure your room before making any decisions. A tape measure and a quick sketch save you from buying furniture that doesn't fit — the single most expensive mistake in a small living room.
+
+## North-Facing vs South-Facing: Why It Matters in the UK
+
+UK rooms face a problem that southern-hemisphere and equatorial countries don't: directional light that changes everything about how a room feels.
+
+**North-facing rooms** get no direct sunlight. They tend to feel cold, flat, and grey — especially in winter. The fixes:
+- Use warm-toned paint (Dulux Goose Down, Farrow & Ball Joa's White) rather than cool greys or bright whites.
+- Maximise artificial warmth with lamps at multiple levels — table lamps, floor lamps, wall lights.
+- Place mirrors to bounce whatever light enters deeper into the room.
+
+**South-facing rooms** get direct sunlight for most of the day. These rooms can handle cooler tones and darker colours without feeling oppressive — a small south-facing room in a deep green or navy can feel genuinely luxurious.
+
+**East and west-facing rooms** get morning or afternoon sun respectively. Work with the light you get: warm colours in east-facing rooms (which lose sun by afternoon), and cooler tones in west-facing rooms (which get warm afternoon light).
+
+## Small Living Room Storage That Doesn't Look Like Storage
+
+In a small living room, every visible surface should either be useful or beautiful — ideally both. The best storage in a small room is invisible:
+
+- **Ottoman with hidden storage** — replaces a coffee table, holds blankets and remote controls. Dunelm has several from ~£60.
+- **TV unit with closed cabinets** — hides cables, games, and clutter. A unit with doors rather than open shelves keeps the room looking calm.
+- **Console table behind the sofa** — thin enough to not take walkway space, wide enough to hold a lamp and a few books.
+- **Baskets under side tables** — a woven basket under a side table stores magazines, chargers, or throws without looking cluttered.
+
+For the full guide to storage furniture that hides everything, see [Small Living Room Layout Ideas](/blog/small-living-room-layout-ideas/).
+
+## Where to Shop for Small Living Room Furniture in the UK
+
+Not all UK retailers stock apartment-size furniture. These do:
+
+- **IKEA** — the widest range of compact furniture in the UK. The SÖDERHAMN, KIVIK, and FRIHETEN sofas are all available in apartment sizes.
+- **Dunelm** — rugs, mirrors, nesting tables, and cushions at prices that make sense for a small room.
+- **Made.com** — modern compact sofas and shelving, with dimensions clearly listed.
+- **Habitat** — small-space-friendly designs, especially for side tables and coffee tables.
+- **Argos** — budget furniture that ships fast. The Home collection has several compact ranges.
+
+For bedroom-specific furniture in a small flat, see [Small Bedroom Ideas UK](/blog/small-bedroom-budget-uk/). For the whole-flat approach, [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) covers every room.
+
 ## Priority Order
 
 | Step | What to do | Approx cost |
@@ -201,3 +252,7 @@ Cost: nothing. Set aside an hour to edit without adding anything.
 → Renting? See [renter-friendly living room ideas](/blog/renter-friendly-living-room-ideas-uk/) for no-damage, deposit-safe changes.
 → Need to furnish on a budget? [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) covers reversible upgrades room by room.
 → Ready for the kitchen? [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) is the most-read guide on the site.
+→ Small bedroom? [Small Bedroom Ideas UK](/blog/small-bedroom-budget-uk/) covers budget refreshes under £150.
+→ Tiny bathroom? [Small Bathroom Ideas UK](/blog/small-bathroom-ideas-uk/) handles wet rooms and cloakrooms.
+→ Hallway feeling dark? [Hallway Ideas UK](/blog/hallway-decor-ideas-uk/) fixes narrow and small hallways.
+→ One room does everything? [Studio Flat Ideas UK](/blog/studio-flat-ideas-uk/) covers zoning, storage, and layout.
