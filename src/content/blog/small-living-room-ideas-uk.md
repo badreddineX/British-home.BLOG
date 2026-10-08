@@ -3,7 +3,7 @@ title: "11 Small Living Room Ideas UK"
 description: "11 practical small living room ideas for UK flats — layout tricks, mirror placement, rug sizing, lighting and furniture tips. Real fixes for small spaces."
 image: "/images/pexels-276583.jpg"
 datePublished: "2025-12-08"
-dateModified: "2026-09-26"
+dateModified: "2026-10-08"
 author: "Badreddine"
 tags: ["small living room ideas uk", "very small living room ideas", "small flat living room ideas", "small lounge ideas uk", "compact living room uk", "living room ideas small space"]
 featured: false
@@ -256,3 +256,6 @@ For bedroom-specific furniture in a small flat, see [Small Bedroom Ideas UK](/bl
 → Tiny bathroom? [Small Bathroom Ideas UK](/blog/small-bathroom-ideas-uk/) handles wet rooms and cloakrooms.
 → Hallway feeling dark? [Hallway Ideas UK](/blog/hallway-decor-ideas-uk/) fixes narrow and small hallways.
 → One room does everything? [Studio Flat Ideas UK](/blog/studio-flat-ideas-uk/) covers zoning, storage, and layout.
+→ Terraced house? [Terraced House Hallway Ideas UK](/blog/terraced-house-hallway-ideas-uk) covers Victorian and Edwardian layouts.
+→ Got a box room? [Small Box Room Ideas UK](/blog/small-box-room-ideas-uk) turns 6-8 sqm into a bedroom, office, or nursery.
+→ Need a full layout guide? [Renter-Friendly Living Room Layout Ideas UK](/blog/renter-friendly-living-room-layout-ideas-uk) covers L-shaped rooms, through-lounges, and bay windows.

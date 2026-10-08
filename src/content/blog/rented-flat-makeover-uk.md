@@ -3,7 +3,7 @@ title: "Rented Flat Makeover UK"
 description: "How to transform a rented flat without losing your deposit — 12 reversible changes covering every room, with UK product picks under £200 total."
 image: "/images/pexels-1643383.jpg"
 datePublished: "2025-12-12"
-dateModified: "2026-09-05"
+dateModified: "2026-10-08"
 author: "Badreddine"
 tags: ["rented flat makeover UK", "rented flat ideas uk", "renter decor ideas uk", "rental makeover UK", "rented home decor UK", "tenant home decor UK"]
 featured: false
@@ -212,4 +212,6 @@ Read more: [small living room ideas UK](/blog/small-living-room-ideas-uk/)
 → For the bathroom specifically, [small bathroom ideas UK](/blog/small-bathroom-ideas-uk/) covers layouts and no-drill solutions for tiny rental bathrooms. And for the kitchen, [Rental Kitchen Upgrade Ideas UK (No Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/) covers cramped rental kitchens.
 → Wondering what a landlord can actually deduct if any of this goes wrong? [Deposit Deductions UK: What Landlords Actually Charge For](/blog/deposit-deductions-uk/) breaks down the real data by category.
 
-**Related reading:** [Studio Flat Ideas UK](/blog/studio-flat-ideas-uk/)
+**Related reading:**
+- [Studio Flat Ideas UK](/blog/studio-flat-ideas-uk/)
+- [Electric Prepayment Meter Guide for Rented Flats](/blog/electric-prepayment-meter-rented-flat-uk)
