@@ -24,6 +24,10 @@ faqs:
     a: "Take gas and electricity meter readings on move-in day. Contact the current supplier (ask your landlord or check meters for the supplier name) to register and provide readings. You are free to switch to any supplier. For broadband, compare deals on comparison sites and book installation — it can take 1-2 weeks."
   - q: "What is a deposit protection scheme in the UK?"
     a: "Your landlord must place your deposit in a government-backed tenancy deposit scheme (TDS, DPS, or mydeposits) within 30 days of receiving it. If they do not, you can claim up to 3 times the deposit amount through the courts. Ask for the scheme certificate and keep it."
+relatedPosts:
+  - rented-flat-makeover-uk
+  - electric-prepayment-meter-rented-flat-uk
+  - deposit-deductions-uk
 ---
 
 Moving into your first rented flat is one of those milestones that feels exciting until you realise nobody teaches you how to actually do it. The keys are in your hand, the flat is empty, and there is a surprisingly long list of practical tasks between "I have a flat" and "I live here comfortably."

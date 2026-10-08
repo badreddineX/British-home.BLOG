@@ -26,6 +26,10 @@ faqs:
     a: "You have to return the property to the same standard of cleanliness it was in at check-in, as recorded on the inventory — not necessarily via a professional clean, unless your tenancy agreement specifically requires one (a common but not universal clause). A landlord cannot charge for cleaning that improves on the check-in standard, and cleaning is the single most common cause of deposit disputes, so it's worth doing properly regardless."
   - q: "How do I dispute an unfair deposit deduction UK?"
     a: "If your deposit is protected in a government-backed scheme (TDS, DPS or mydeposits — check with your landlord which one), you can raise a free dispute directly with that scheme once your landlord proposes a deduction you disagree with. You'll need your check-in inventory, photos, and any evidence the claim is for wear and tear or betterment rather than genuine damage. About 1% of deposits end up in formal adjudication, and the process is free for tenants."
+relatedPosts:
+  - rented-flat-makeover-uk
+  - electric-prepayment-meter-rented-flat-uk
+  - first-time-renter-flat-setup-checklist-uk
 ---
 
 

@@ -24,6 +24,10 @@ faqs:
     a: "Most tenancy agreements allow small picture hooks, but check yours. [Command Picture Hanging Strips](https://link.amazon/B044BUtBI) are a safer option — they hold up to 3.6kg per strip pair and remove cleanly without damaging plaster or paint."
   - q: "How do I make a rented flat feel like home UK?"
     a: "Layer familiar textiles (your own bedding, throws, cushions), add warm lighting rather than relying on overhead bulbs, bring in plants, and create dedicated zones with rugs. These are the same principles interior designers use — none require fixing anything permanently."
+relatedPosts:
+  - electric-prepayment-meter-rented-flat-uk
+  - renter-friendly-living-room-ideas-uk
+  - first-time-renter-flat-setup-checklist-uk
 ---
 
 
@@ -41,7 +45,7 @@ Three of them were furnished. One had a carpet the colour of dried mustard. Here
 
 This is the highest-impact change in any rented flat and it costs under £20. Most British rentals come fitted with either bare bulbs or 4000K-6500K "cool white" or "daylight" bulbs. These make every room feel like a waiting room.
 
-Replace every bulb in the flat — kitchen, bathroom, [hallway](/blog/hallway-decor-ideas-uk/), bedroom, living room — with 2700K warm white LEDs, using 4-packs from ~£8 on Amazon UK. A full-flat swap typically runs £15-£25 total, making it the cheapest, highest-impact change available in any British rental. The difference is immediate and dramatic: the flat stops feeling like a rental and starts feeling like a home, even before anything else changes.
+Replace every bulb in the flat — kitchen, bathroom, [hallway](/blog/hallway-decor-ideas-uk/), bedroom, living room — with 2700K warm white LEDs. If you're on a [prepayment meter](/blog/electric-prepayment-meter-rented-flat-uk/), LED swaps also cut your energy costs noticeably. Replace all bulbs, using 4-packs from ~£8 on Amazon UK. A full-flat swap typically runs £15-£25 total, making it the cheapest, highest-impact change available in any British rental. The difference is immediate and dramatic: the flat stops feeling like a rental and starts feeling like a home, even before anything else changes.
 
 Keep the original bulbs in a bag and reinstall them when you leave. Your tenancy agreement requires the property to be returned as found. Bulbs back in, no issue.
 

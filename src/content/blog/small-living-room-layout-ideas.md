@@ -26,6 +26,10 @@ faqs:
     a: "Large L-shape sofas (they dominate the room), glass coffee tables (they reflect everything and create visual noise), tall bookcases on multiple walls (can make the room feel oppressive), and too many small pieces of furniture (five small items reads as more cluttered than two larger ones)."
   - q: "How do I lay out a small front room?"
     a: "A small front room follows the same rules as any small living room — the terms mean the same thing in most British homes. Identify the focal point, float the sofa slightly off the wall, and use one large rug to unify the seating area. Front rooms in Victorian and Edwardian terraces often have a chimney breast alcove on one side, which is usually the best spot for a media unit or bookcase rather than seating."
+relatedPosts:
+  - small-living-room-ideas-uk
+  - terraced-house-hallway-ideas-uk
+  - renter-friendly-living-room-layout-ideas-uk
 ---
 
 

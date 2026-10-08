@@ -24,6 +24,10 @@ faqs:
     a: "Peel-and-stick luxury vinyl tiles go directly over existing smooth lino or vinyl with no adhesive to the subfloor. They lift cleanly at move-out and cost roughly £50–£90 for an average kitchen floor."
   - q: "How do I make a rental kitchen look better without spending much UK?"
     a: "Start with the free changes: declutter the worktop, swap in warm white bulbs, and use tension-rod shelving. Add a peel-and-stick splashback (from £25) and new handles (from £15) once budget allows."
+relatedPosts:
+  - rented-flat-makeover-uk
+  - electric-prepayment-meter-rented-flat-uk
+  - kitchen-on-a-budget-uk
 ---
 
 According to the [English Housing Survey 2023-24](https://www.gov.uk/government/collections/english-housing-survey) from the Department for Levelling Up, Housing and Communities, 4.6 million households in England now rent privately. A huge share of those live with a kitchen someone else chose, in a colour someone else picked, that they're not allowed to touch.

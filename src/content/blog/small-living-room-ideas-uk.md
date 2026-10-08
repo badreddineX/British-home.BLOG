@@ -26,6 +26,11 @@ faqs:
     a: "Warm neutrals and soft whites work best in small rooms — Dulux Goose Down, Crown Fossil, or Farrow & Ball Pavilion Grey. Dark colours can work in small rooms if the lighting is excellent, but they're less forgiving. Avoid cool greys in north-facing UK rooms as they read flat and cold."
   - q: "How do I decorate a very small living room?"
     a: "In a very small living room (under 12 square metres), the priority order changes: get the sofa off the wall it shares with the door, use a two-seater or a corner sofa rather than a three-seater, hang curtains at ceiling height and let them cover the wall either side of the window, and add one large mirror opposite the light source. Skip the coffee table for nesting tables or a small round side table. One larger piece of furniture always reads better than several small ones fighting for the floor."
+relatedPosts:
+  - terraced-house-hallway-ideas-uk
+  - small-box-room-ideas-uk
+  - renter-friendly-living-room-layout-ideas-uk
+  - small-living-room-layout-ideas
 ---
 
 
@@ -41,7 +46,7 @@ Here's what actually works.
 
 ---
 
-Read more: [small living room layout ideas](/blog/small-living-room-layout-ideas/)
+Read more: [small living room layout ideas](/blog/small-living-room-layout-ideas/) · [renter-friendly living room layouts for L-shapes, through-lounges and bay windows](/blog/renter-friendly-living-room-layout-ideas-uk/)
 
 ## 1. How Do You Hang Curtains to Make a Small Room Feel Taller?
 
@@ -187,7 +192,7 @@ Cost: nothing. Set aside an hour to edit without adding anything.
 
 ## How Big Is the Average UK Living Room?
 
-The average new-build living room in the UK is around 17 sq m (183 sq ft) — but that number hides a huge range. Victorian terraces often have front rooms of 12–14 sq m, while 1930s semis can be 18–22 sq m. Flats built after 2010, especially in London and other cities, are often smaller still.
+The average new-build living room in the UK is around 17 sq m (183 sq ft) — but that number hides a huge range. Victorian terraces often have front rooms of 12–14 sq m (and their [narrow hallways](/blog/terraced-house-hallway-ideas-uk/) need the same space-saving thinking), while 1930s semis can be 18–22 sq m. Flats built after 2010, especially in London and other cities, are often smaller still.
 
 Understanding your actual room size helps calibrate expectations:
 
@@ -234,7 +239,7 @@ Not all UK retailers stock apartment-size furniture. These do:
 - **Habitat** — small-space-friendly designs, especially for side tables and coffee tables.
 - **Argos** — budget furniture that ships fast. The Home collection has several compact ranges.
 
-For bedroom-specific furniture in a small flat, see [Small Bedroom Ideas UK](/blog/small-bedroom-budget-uk/). For the whole-flat approach, [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) covers every room.
+For bedroom-specific furniture in a small flat, see [Small Bedroom Ideas UK](/blog/small-bedroom-budget-uk/). If you're working with a [box room](/blog/small-box-room-ideas-uk/), the same less-is-more principle applies even more strictly. For the whole-flat approach, [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) covers every room.
 
 ## Priority Order
 

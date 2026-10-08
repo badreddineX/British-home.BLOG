@@ -24,6 +24,10 @@ faqs:
     a: "Freestanding coat racks, leaned mirrors, plug-in pendant lights, and Command strip picture rails cover nearly every hallway need without damaging walls. Command hooks rated to 3.6kg handle coats reliably. See our full [rented home decor ideas UK](/blog/rented-flat-makeover-uk/) guide for deposit-safe tactics across every room."
   - q: "What's the best flooring for a small UK hallway?"
     a: "Geometric encaustic-style tiles give a period-appropriate look and are practical underfoot — B&Q and Topps Tiles both stock them from around £20 per square metre. If you can't retile, a coir or geometric runner rug achieves a similar effect on top of existing flooring and costs from £25 at Dunelm."
+relatedPosts:
+  - small-living-room-ideas-uk
+  - terraced-house-hallway-ideas-uk
+  - rented-flat-makeover-uk
 ---
 
 
