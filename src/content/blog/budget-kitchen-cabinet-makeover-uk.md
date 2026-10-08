@@ -1,9 +1,9 @@
 ---
 title: "Kitchen Cabinet Makeover UK: 4 Cheap Ways (With Prices)"
-description: "Budget kitchen cabinet makeover options for UK homes compared: DIY paint, respray, vinyl wrap and new doors, with prices from B&Q, Wickes and Screwfix."
+description: "4 ways to transform tired kitchen cabinets from £30 (DIY paint) to £3,500 (professional respray): real UK prices from B&Q, Wickes and Screwfix compared side by side."
 image: "/images/kitchen-white-cabinets.jpg"
 datePublished: "2026-05-27"
-dateModified: "2026-08-29"
+dateModified: "2026-10-08"
 author: "Badreddine"
 tags: ["affordable kitchen cabinets uk", "kitchen cabinet makeover uk", "cheap kitchen cabinets uk", "kitchen cabinet respray cost uk", "vinyl wrap kitchen cabinets", "cheap kitchen cabinet doors uk", "kitchen cabinet makeover"]
 featured: false
