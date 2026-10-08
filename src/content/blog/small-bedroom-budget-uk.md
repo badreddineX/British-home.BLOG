@@ -139,6 +139,18 @@ If your flat has a studio layout where the bedroom and living room share a singl
 
 ---
 
+## How to Make a Small Bedroom Smell Better on a Budget
+
+A bedroom that looks refreshed but smells stale undermines the whole effort. Most small UK bedrooms, especially in flats with limited ventilation, develop a closed-in smell over winter that no amount of new bedding fixes on its own.
+
+**Open windows for 10 minutes every morning**, even in winter. This single habit does more for bedroom air quality than any product. In a flat with trickle vents above the windows, make sure they are open, not painted shut, which is common in older conversions.
+
+**Wash the mattress protector monthly**, not just the sheets. Most bedroom smells come from the mattress protector absorbing body oil and sweat over months. A 60°C wash kills the bacteria that cause the musty smell.
+
+**Skip plug-in air fresheners.** They mask rather than remove odour, and the chemical smell clashes with clean bedding in a small room. A small bowl of baking soda on the windowsill (replaced monthly) absorbs ambient odour for free.
+
+**Dry laundry outside the bedroom.** Drying clothes on a rack in a small bedroom raises humidity, which promotes the damp, musty smell that is common in UK flats during autumn and winter. If there is no alternative, open the window while the rack is up and close the bedroom door to stop moisture spreading to the rest of the flat.
+
 Do the five steps in order, bedding, lighting, mirror, rug, wall art, and stop wherever your budget runs out. Even the first two steps alone, for under £55, change how a small bedroom feels far more than most people expect.
 
 **Related reading you might find useful:**

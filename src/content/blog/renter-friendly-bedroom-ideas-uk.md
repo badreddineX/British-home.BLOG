@@ -11,7 +11,7 @@ category: "Bedroom"
 relatedPosts:
   - "rented-flat-makeover-uk"
   - "small-bedroom-budget-uk"
-readTime: "9 min read"
+readTime: "11 min read"
 excerpt: "Six deposit-safe bedroom updates for UK renters, from Command strip gallery walls to peel-and-stick wallpaper, with real retailer prices and no drilling."
 tldr:
   - "Peel-and-stick wallpaper on one accent wall (£15-£35 a roll, B&Q or Wayfair) is the single biggest visual change you can make without touching the plaster."
@@ -109,6 +109,20 @@ Pair the curtain with a draught excluder (£8-£15) along the base of the door f
 
 
 ---
+
+## How Bedding and Textiles Transform a Rented Bedroom
+
+New bedding is the single fastest way to change how a rented bedroom feels, and it requires zero alterations to the property. A duvet cover set in a colour or pattern you actually chose, rather than the one that came with the flat, shifts the entire room's mood in the time it takes to make the bed.
+
+**Duvet cover sets** (£15-£40, Dunelm, Primark Home, or IKEA): A plain white or neutral linen-look set photographs well and makes the room feel cleaner and more intentional than a patterned set from the landlord's airing cupboard. Linen-look cotton blends from Dunelm start at about £20 for a double and wash well over a tenancy.
+
+**Layered throws** (£10-£30, TK Maxx or Primark Home): A textured throw folded across the foot of the bed adds depth without any wall changes. Waffle-knit and chunky cotton throws photograph best and feel heavier than they cost.
+
+**Cushions as a headboard substitute** (£5-£15 each, Primark Home or Dunelm): If the bed has no headboard, or the headboard is dated, stack two or three euro-square cushions (65 x 65 cm) against the wall behind the pillows. It creates a visual headboard effect for under £30, removes in seconds, and adds insulation between you and a cold rented wall in winter.
+
+**Rug beside the bed** (£15-£40, Dunelm or IKEA): A runner or small rug on the floor beside the bed covers dated carpet or cold laminate, softens the room's acoustics, and makes getting out of bed in a cold UK flat noticeably more pleasant. It lifts straight up on move-out day.
+
+Together, a new duvet set, a throw, two cushions, and a bedside rug cost £65-£140 and change the bedroom more visibly than most wall treatments.
 
 None of these changes need a landlord's permission or a drill. Start with Command strips and one roll of peel-and-stick wallpaper. Together they cost under £50 and change the whole feel of a rented bedroom by the weekend.
 

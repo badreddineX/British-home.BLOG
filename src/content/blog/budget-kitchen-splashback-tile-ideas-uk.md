@@ -3,7 +3,7 @@ title: "Budget Kitchen Splashback & Tile Ideas UK"
 description: "Cheap kitchen splashback ideas UK: peel-and-stick tiles, tile paint, and acrylic sheets compared, with real prices and a fitting guide that avoids peeling."
 image: "/images/kitchen-subway-tile-splashback.jpg"
 datePublished: "2026-06-18"
-dateModified: "2026-08-27"
+dateModified: "2026-10-08"
 author: "Badreddine"
 tags: ["cheap kitchen splashback ideas uk", "kitchen splashback ideas uk", "budget tile ideas uk", "peel and stick tiles kitchen uk", "budget kitchen tile alternatives", "kitchen splashback UK"]
 featured: false
@@ -112,6 +112,18 @@ If you're renting or simply not ready to commit, start with peel-and-stick tile 
 ---
 
 None of these options need a tradesperson, and most can be finished in a single afternoon. Start with the cheapest reversible option, peel-and-stick sheets, if you're renting or unsure about committing. Move up to tile paint or acrylic sheets once you know the look you actually want to keep.
+
+## How Long Does Each Splashback Option Actually Last?
+
+Durability matters as much as cost when you are choosing between these options, because a splashback that needs replacing after six months is not cheaper than one that lasts three years.
+
+**Peel-and-stick tiles** last one to three years on a properly degreased wall. They start to lift at corners near the hob first, usually from heat rather than adhesive failure. If you see a corner curling, press it back immediately with a hairdryer on low heat and firm pressure — catching it early extends the life significantly. Expect to replace individual sheets near the hob every 12-18 months in a kitchen used daily.
+
+**Tile paint** lasts two to five years depending on how much direct splashing the surface takes. The weak point is the area directly behind the taps, where repeated water contact eventually wears through the paint layer. A clear sealant coat over the paint (£8-£12, B&Q) extends this by roughly a year.
+
+**Acrylic splashback sheets** are effectively permanent if properly sealed at the edges. The silicone seal needs replacing every three to five years to prevent moisture getting behind the panel, but the panel itself does not degrade under normal kitchen conditions. This makes acrylic the best long-term value despite the higher upfront cost.
+
+**Toughened glass** is also effectively permanent, with an even harder surface than acrylic. The premium price buys heat resistance right up to the hob edge and a surface that does not scratch when cleaned with abrasive pads.
 
 For the rest of the kitchen refresh, from cabinet paint to new handles, see the full [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) guide for the complete room-by-room breakdown.
 
