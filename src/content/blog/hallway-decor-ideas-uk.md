@@ -69,7 +69,7 @@ Paint cost: ~£20–£28 per 2.5L from B&Q or Dulux Direct.
 ## Is a Console Table Worth It in a Narrow Hall?
 
 
-A slim console table transforms a hallway from a through-space into a proper room. The critical dimension is depth: anything over 30cm will block the corridor in a standard [Victorian terrace](/blog/victorian-terrace-interior-ideas-uk/). Most high-street console tables are 35–40cm deep, which is too wide for the job.
+A slim console table transforms a hallway from a through-space into a proper room. The critical dimension is depth: anything over 30cm will block the corridor in a standard Victorian terrace. Most high-street console tables are 35–40cm deep, which is too wide for the job.
 
 Of twelve UK console tables checked for hallway suitability, only four measured under the crucial 30cm depth threshold — Argos's Hallie at 25cm (~£65) and Wayfair's Vasylchenko at 28cm (~£89) were among the handful genuinely slim enough for a narrow Victorian terrace.
 
@@ -117,7 +117,7 @@ Size matters more than style. A round mirror under 50cm wide looks decorative bu
 
 **Large round statement mirror.** Currently the most popular choice in British interiors. John Lewis has options from ~£55. Wayfair UK frequently stocks oversized round mirrors (80–100cm diameter) from ~£45 during sale periods.
 
-A mirror does double duty on light, too — see our [living room lighting ideas UK](/blog/living-room-lighting-ideas-uk/) guide for more ways to maximise natural and warm light in a [rented flat](/blog/rented-flat-makeover-uk/).
+A mirror does double duty on light, too — see our [renter-friendly living room ideas UK](/blog/renter-friendly-living-room-ideas-uk/) guide for more ways to maximise natural and warm light in a [rented flat](/blog/rented-flat-makeover-uk/).
 
 Large round mirror: from ~£45 at John Lewis or Wayfair UK. Full-length leaned mirror: from ~£45 at Next Home.
 
@@ -164,7 +164,7 @@ Pendant light: from ~£35 at John Lewis. Plug-in pendant (renter option): from ~
 
 The stair wall is one of the best opportunities in a British terraced house — a long, naturally vertical surface that climbs with the staircase and can be seen from both the hallway and the upper landing. Most people leave it bare. That's a missed opportunity.
 
-Ten IKEA Ribba frames at £3.50 each, filled with free Rijksmuseum prints or 9p Boots Photo prints, bring a full stair [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk/) to under £50 total — proof that the stair wall's visual impact doesn't require a big budget.
+Ten IKEA Ribba frames at £3.50 each, filled with free Rijksmuseum prints or 9p Boots Photo prints, bring a full stair [gallery wall](/blog/rented-flat-makeover-uk/) to under £50 total — proof that the stair wall's visual impact doesn't require a big budget.
 
 The approach is simpler than it looks. Start with a central anchor piece at eye height on the middle step, then build outward and upward, following the diagonal line of the staircase. Mix frame sizes but keep the frame colour consistent — all black or all white — so the arrangement reads as curated rather than chaotic.
 
@@ -172,7 +172,7 @@ IKEA Ribba frames start at £3.50. For content: Unsplash has free high-quality p
 
 For renters: Command Picture Hanging Strips (rated to 3.6kg per pair, from ~£6 at Amazon or Wilko) hold frames reliably on most painted plaster. They remove cleanly when peeled slowly downward rather than pulled outward.
 
-For more layout and hanging tips, see our [renter-friendly gallery wall ideas UK](/blog/renter-friendly-gallery-wall-ideas-uk/) guide.
+For more layout and hanging tips, see our [rented flat makeover UK](/blog/rented-flat-makeover-uk/) guide.
 
 Stair gallery wall: ~£20–£50 total using IKEA Ribba frames and self-printed images.
 
@@ -218,4 +218,4 @@ See our full [rented home decor ideas UK](/blog/rented-flat-makeover-uk/) guide 
 
 The hallway doesn't need a renovation to feel like a proper part of your home. Paint and lighting cost under £70 combined and do more than any piece of furniture ever will. Get those right first, then add the mirror, the hooks, and the slim console. What was a dumping corridor becomes the room that sets the tone for everything behind it.
 
-For the rooms beyond the hallway, see our [living room ideas UK](/blog/small-living-room-ideas-uk/) and [bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/) guides. Renters should read [rented home decor ideas UK](/blog/rented-flat-makeover-uk/) before spending anything. And at the end of the hall, [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) is the most-read guide on the site.
+For the rooms beyond the hallway, see our [living room ideas UK](/blog/small-living-room-ideas-uk/) and [renter-friendly bedroom ideas UK](/blog/renter-friendly-bedroom-ideas-uk/) guides. Renters should read [rented home decor ideas UK](/blog/rented-flat-makeover-uk/) before spending anything. And at the end of the hall, [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) is the most-read guide on the site.

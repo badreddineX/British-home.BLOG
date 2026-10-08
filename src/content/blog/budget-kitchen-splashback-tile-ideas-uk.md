@@ -41,7 +41,7 @@ Read more: [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) for the wider
 
 Peel-and-stick sheets suit a [rented flat](/blog/rented-flat-makeover-uk/) where retiling isn't allowed, even behind a gas hob when fitted with a proper heat gap. Well-fitted sheets can pass for real tile. Brands worth considering are Crearreda and Vinyltiles, both widely stocked on Amazon UK, plus Wilko's own-brand mosaic-effect sheets from around £6 per A4 panel.
 
-Coverage varies by brand. A3-sized sheets (roughly 42cm x 30cm) need six to eight sheets for a standard splashback behind a single hob run, so budget on the higher end if your kitchen has a wide gap between [worktop](/blog/budget-kitchen-worktop-makeover-uk/) and wall units. Metro, hexagon, and Moroccan-tile patterns are the most convincing from a normal viewing distance — a blue zellige-effect sheet is a newer option worth checking stock for if you want something with more visual texture than a flat metro tile.
+Coverage varies by brand. A3-sized sheets (roughly 42cm x 30cm) need six to eight sheets for a standard splashback behind a single hob run, so budget on the higher end if your kitchen has a wide gap between [worktop](/blog/budget-kitchen-cabinet-makeover-uk/) and wall units. Metro, hexagon, and Moroccan-tile patterns are the most convincing from a normal viewing distance — a blue zellige-effect sheet is a newer option worth checking stock for if you want something with more visual texture than a flat metro tile.
 
 > Peel-and-stick tile sheets cost £25–£45 for a standard UK kitchen splashback and require no grout or permanent adhesive, making them the most renter-friendly budget splashback option currently available ([Dunelm, 2026](https://www.dunelm.com)).
 
@@ -117,9 +117,7 @@ For the rest of the kitchen refresh, from cabinet paint to new handles, see the 
 
 **The budget kitchen series** — each part in depth:
 
-- [Cheap Kitchen Makeover UK: 14 Affordable Ideas](/blog/kitchen-on-a-budget-uk/) — the room-by-room overview
+- [Kitchen on a Budget UK: 14 Affordable Ideas](/blog/kitchen-on-a-budget-uk/) — the room-by-room overview
 - [Budget Kitchen Cabinet Makeover Ideas UK](/blog/budget-kitchen-cabinet-makeover-uk/)
-- [Budget Kitchen Worktop Makeover Ideas UK](/blog/budget-kitchen-worktop-makeover-uk/)
-- [Budget Kitchen Flooring Ideas UK](/blog/budget-kitchen-flooring-ideas-uk/)
 - [Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/)
-- [Small Kitchen Storage Ideas on a Budget UK](/blog/small-kitchen-storage-ideas-budget-uk/)
+- [Galley Kitchen Ideas UK](/blog/galley-kitchen-ideas-uk/)

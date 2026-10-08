@@ -192,5 +192,5 @@ Damp and mould in your rented home is not something you should accept or try to 
 
 **Related reading:**
 - [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/)
-- [Budget Home Makeover UK](/blog/budget-home-makeover-uk/)
-- [Victorian Terrace Interior Ideas UK](/blog/victorian-terrace-interior-ideas-uk/)
+- [Deposit Deductions UK](/blog/deposit-deductions-uk/)
+- [Hallway Decor Ideas UK](/blog/hallway-decor-ideas-uk/)

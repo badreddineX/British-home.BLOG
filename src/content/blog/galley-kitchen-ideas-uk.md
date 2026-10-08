@@ -28,13 +28,13 @@ faqs:
     a: "Paint the cabinet doors and frames with a cabinet-specific paint, swap every handle, and add a peel-and-stick tile splashback (£15 to £40 for a galley run). Put up a tension or screw-fixed rail along the splashback for utensils, add one shelf above the worktop, and fit clip-on or stick-on under-cabinet LED strips. That is under £120 of materials and a weekend, and none of it stops you reinstating the kitchen when you leave."
 relatedPosts:
   - "kitchen-on-a-budget-uk"
-  - "small-kitchen-storage-ideas-budget-uk"
-  - "unfitted-kitchen-ideas-uk"
+  - "budget-kitchen-cabinet-makeover-uk"
+  - "budget-kitchen-splashback-tile-ideas-uk"
   - "rental-kitchen-upgrade-ideas-uk"
 ---
 
 
-The gap was fine, it was the light. One wall didn't need to be closed cupboards. And nothing used the vertical space above the [worktop](/blog/budget-kitchen-worktop-makeover-uk/).
+The gap was fine, it was the light. One wall didn't need to be closed cupboards. And nothing used the vertical space above the [worktop](/blog/budget-kitchen-cabinet-makeover-uk/).
 
 A galley kitchen is the most efficient layout there is — everything is one pivot away. The problems are almost always the gap being wrong, both runs being heavy and closed, and bad lighting. Here's how to lay one out and fix those, most of it without touching the units.
 
@@ -82,7 +82,7 @@ Use the walls and the ceiling. A galley has two full runs of wall and usually de
 - **The back of the door.** An over-door or screw-mounted rack holds tea towels, foil, cleaning spray and a chopping board.
 - **A tall pull-out larder** in place of one base-and-wall stack. A 300mm pull-out holds more than a 600mm cupboard you have to unpack to see into.
 
-Our [small kitchen storage ideas on a budget UK](/blog/small-kitchen-storage-ideas-budget-uk/) goes through the cheap versions of each of these in more detail.
+Our [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) guide goes through the cheap versions of each of these in more detail.
 
 ## How Do You Make a Narrow Galley Kitchen Feel Bigger and Lighter?
 
@@ -91,7 +91,7 @@ Keep the lower run one continuous colour, open up one wall, run the flooring len
 A galley feels like a corridor when the eye keeps hitting edges and shadows. Smooth them out:
 
 - **One colour on the base units and worktop**, carried the full length of both runs. A pale, continuous line down each side makes the room read as longer, not shorter. Save any contrast colour for the wall above or a single tall unit.
-- **Open shelves on at least one run.** Two solid walls of cupboard to the ceiling is what makes a galley claustrophobic. Swapping one side's wall cabinets for open shelves or a plate rack lifts the visual weight. [Unfitted kitchen ideas UK](/blog/unfitted-kitchen-ideas-uk/) leans into this look with freestanding and open pieces.
+- **Open shelves on at least one run.** Two solid walls of cupboard to the ceiling is what makes a galley claustrophobic. Swapping one side's wall cabinets for open shelves or a plate rack lifts the visual weight. [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) covers this look with freestanding and open pieces.
 - **Floorboards or planks laid lengthways**, down the room rather than across it, pull the eye to the far end and make the space feel deeper.
 - Wall cabinets throw the worktop into shadow; a strip of LED underneath (stick-on battery or plug-in, £10 to £30 a run) puts light where you chop and makes the whole kitchen feel less like a cupboard.
 - **A larger splashback tile or a sheet splashback** rather than small mosaics — fewer grout lines is calmer in a tight space.
@@ -173,7 +173,6 @@ Do the lighting and the paint first — between them they fix the two things tha
 ## Related reading
 
 - [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/)
-- [Small Kitchen Storage Ideas on a Budget UK](/blog/small-kitchen-storage-ideas-budget-uk/)
-- [Unfitted Kitchen Ideas UK](/blog/unfitted-kitchen-ideas-uk/)
+- [Budget Kitchen Cabinet Makeover UK](/blog/budget-kitchen-cabinet-makeover-uk/) if the cupboards are the tired part
+- [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk/)
 - [Rental Kitchen Upgrade Ideas UK](/blog/rental-kitchen-upgrade-ideas-uk/)
-- [Kitchen Cabinet Makeover UK: 4 Cheap Ways](/blog/budget-kitchen-cabinet-makeover-uk/) if the cupboards are the tired part

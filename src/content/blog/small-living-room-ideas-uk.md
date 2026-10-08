@@ -31,7 +31,7 @@ faqs:
 
 The average new-build living room in the UK measures around 17 square metres — and many older flats, particularly in London and other major cities, are significantly smaller than that.
 
-This guide covers visual tricks — colour, curtains, mirrors, rug size — and they matter most in a *very* small living room, the kind you find in a one-bed flat or a 1930s semi. For general living room styling with no space constraint, see [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/); for furniture arrangement and floor plans specifically, see [Small Living Room Layout Ideas](/blog/small-living-room-layout-ideas/).
+This guide covers visual tricks — colour, curtains, mirrors, rug size — and they matter most in a *very* small living room, the kind you find in a one-bed flat or a 1930s semi. For furniture arrangement and floor plans specifically, see [Small Living Room Layout Ideas](/blog/small-living-room-layout-ideas/).
 
 We're working with less space than almost any other European country. And most advice about "making rooms feel bigger" was written for spaces that are already considerably larger than most British flats.
 
@@ -41,7 +41,7 @@ Here's what actually works.
 
 ---
 
-Read more: [living room styling guide](/blog/how-to-style-a-living-room-uk/)
+Read more: [small living room layout ideas](/blog/small-living-room-layout-ideas/)
 
 ## 1. How Do You Hang Curtains to Make a Small Room Feel Taller?
 
@@ -197,9 +197,7 @@ Cost: nothing. Set aside an hour to edit without adding anything.
 | 6 | Apply warm neutral paint | ~£22–£35 |
 | 7 | Add floating shelves to replace floor units | ~£8–£25 |
 
-→ For more living room styling advice see [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/).
-→ For budget-specific ideas see [Small Living Room on a Budget UK](/blog/small-living-room-budget-uk/).
-→ For clever storage solutions see [Small Living Room Storage Ideas UK](/blog/small-living-room-storage-ideas-uk/).
-→ Want a softer, romantic look instead? [Cottagecore home decor ideas](/blog/cottagecore-home-decor-uk/) covers that style direction.
-→ Prefer bold and layered over minimal? [Maximalist living room decor](/blog/maximalist-living-room-decor-uk/) is the opposite approach, done properly.
+→ For layout tips that work in awkward UK rooms, see [Small Living Room Layout Ideas](/blog/small-living-room-layout-ideas/).
+→ Renting? See [renter-friendly living room ideas](/blog/renter-friendly-living-room-ideas-uk/) for no-damage, deposit-safe changes.
+→ Need to furnish on a budget? [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) covers reversible upgrades room by room.
 → Ready for the kitchen? [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) is the most-read guide on the site.

@@ -13,7 +13,7 @@ excerpt: "14 ways to upgrade a UK kitchen without a full renovation — from cab
 tldr:
   - "Painting kitchen cabinet doors costs £30–£60 in paint and transforms the whole kitchen — Rust-Oleum Kitchen Cupboard Paint is the most durable option."
   - "Swapping handles is a 30-minute job costing £15–£40 that makes budget flatpack kitchens look custom."
-  - "Open shelving from IKEA Boaxel costs under £50 and adds storage and character without touching the existing layout. If you have the floor space, a freestanding island (see our [small kitchen island ideas](/blog/small-kitchen-island-ideas-uk/) guide) adds even more without any building work."
+  - "Open shelving from IKEA Boaxel costs under £50 and adds storage and character without touching the existing layout. If you have the floor space, a freestanding island (see our [galley kitchen ideas](/blog/galley-kitchen-ideas-uk/) guide) adds even more without any building work."
   - "New taps (from £45 at B&Q) and a peel-and-stick splashback tile sheet (from £25) do more visual work than almost anything else in a kitchen refresh."
 faqs:
   - q: "How can I update my kitchen cheaply in the UK?"
@@ -29,7 +29,7 @@ faqs:
 
 The average full kitchen renovation in the UK costs between £8,000 and £25,000 — nowhere near affordable for most people. Most British homeowners simply don't have that sitting around, so a cheap kitchen makeover that skips the fitter entirely is the realistic option. And yet almost every kitchen in a terrace, a flat, or a 1990s semi looks tired in exactly the same ways: dated handles, grimy grout, wonky cabinet doors, and that one drawer that's been broken for three years.
 
-The usual culprits are dated oak-effect flatpack units, a beige laminate [worktop](/blog/budget-kitchen-worktop-makeover-uk/) with a burn mark near the hob, and taps that take five seconds of wiggling before water comes out. All of it is fixable on about £180 with no fitter.
+The usual culprits are dated oak-effect flatpack units, a beige laminate [worktop](/blog/budget-kitchen-cabinet-makeover-uk/) with a burn mark near the hob, and taps that take five seconds of wiggling before water comes out. All of it is fixable on about £180 with no fitter.
 
 What followed was three weekends and some genuinely satisfying before-and-after results. This post covers the full list, plus what to add if you have a little more to spend.
 
@@ -44,7 +44,7 @@ You don't need a new kitchen. You need about two weekends and four things:
 
 The 14 changes below can be done individually or stacked for a full refresh — most cost under £50 each, and none require a tradesperson.
 
-Read more: [budget home transformation framework](/blog/budget-home-makeover-uk/)
+Read more: [rented flat makeover framework](/blog/rented-flat-makeover-uk/)
 
 ---
 
@@ -163,7 +163,7 @@ Two tins of Dulux Kitchen Matt at around £40 total changes the entire atmospher
 
 A full DIY worktop swap in laminate can come in under £120 for a standard 3-metre run, and wrap film is a cheaper still option from around £20–£30 a roll if replacement feels too ambitious.
 
-Full cost breakdown by material (laminate, wrap film, solid wood) and fitting steps: [Budget Kitchen Worktop Makeover Ideas UK](/blog/budget-kitchen-worktop-makeover-uk/).
+Full cost breakdown for cabinet updates including doors, paint, and wrap film: [Budget Kitchen Cabinet Makeover Ideas UK](/blog/budget-kitchen-cabinet-makeover-uk/).
 
 ---
 
@@ -204,7 +204,7 @@ Pair a new sink with the tap upgrade from point four and you've replaced the ent
 
 Dated sheet vinyl or ceramic tile can be refreshed with specialist floor paint for a short-term fix, or replaced with peel-and-stick vinyl tiles — £50–£90 for a standard 3m x 3m kitchen floor, no adhesive needed, and renter-removable.
 
-Full options including real ceramic tile and fitting costs: [Budget Kitchen Flooring Ideas UK](/blog/budget-kitchen-flooring-ideas-uk/).
+For the renter-friendly version of these fixes, see [Rental Kitchen Upgrade Ideas UK](/blog/rental-kitchen-upgrade-ideas-uk/).
 
 ---
 
@@ -219,7 +219,7 @@ In a budget refresh, adding a basil plant, a wooden board, and removing all the 
 
 ---
 
-Read more: [living room budget ideas UK](/blog/budget-home-makeover-uk/)
+Read more: [small living room ideas UK](/blog/small-living-room-ideas-uk/)
 
 ## Renting? What You Can Change Without Losing Your Deposit
 
@@ -260,20 +260,12 @@ The full list, priced at mid-range, comes to roughly £410–£830. That sounds 
 
 **Related reading you might find useful:**
 
-- [Budget Home Makeover UK: Transform Any Room for Under £150](/blog/budget-home-makeover-uk/)
+- [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/)
 
 **Going deeper on kitchens specifically:**
 
 - [Budget Kitchen Cabinet Makeover Ideas UK](/blog/budget-kitchen-cabinet-makeover-uk/)
+- [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk/)
 - [Galley Kitchen Ideas UK](/blog/galley-kitchen-ideas-uk/) for narrow, two-run layouts
 - [Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/)
-- [Small Kitchen Storage Ideas on a Budget UK](/blog/small-kitchen-storage-ideas-budget-uk/)
-- [Budget Kitchen Worktop Makeover Ideas UK](/blog/budget-kitchen-worktop-makeover-uk/)
-- [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk/)
-- [Budget Kitchen Flooring Ideas UK](/blog/budget-kitchen-flooring-ideas-uk/)
-- [Kitchen Decor Ideas UK](/blog/kitchen-decor-ideas-uk/) for the styling layer once the budget renovation is done
-- [Earthy Neutral Kitchen Colour Trends UK](/blog/earthy-neutral-kitchen-colour-trends-uk/) for a two-tone cabinet colour scheme under £500
-- [Grandma Core Kitchen Ideas UK](/blog/grandma-core-kitchen-ideas-uk/) for a specific budget aesthetic direction
-- [Hidden Pantry Ideas for Small UK Kitchens](/blog/hidden-pantry-ideas-uk/) for kitchens with no dedicated pantry space
-- [Small Kitchen Island Ideas for UK Flats](/blog/small-kitchen-island-ideas-uk/) for adding worktop and storage without a full refit
-- [Unfitted Kitchen Ideas UK](/blog/unfitted-kitchen-ideas-uk/) for a freestanding-furniture alternative to fitted units
+- [Utility Room Ideas UK](/blog/utility-room-ideas-uk/)

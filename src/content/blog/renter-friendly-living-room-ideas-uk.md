@@ -67,7 +67,7 @@ Yes, and in many period conversions you already have the tool built into the roo
 
 Victorian and Edwardian flats across the UK were built with a picture rail as standard, a moulded strip running near the ceiling. If your flat has one, it was designed for exactly this. Clip a hook over the top, run picture cord or chain down to your frame height, and adjust the length whenever you rearrange.
 
-**No picture rail? [Command picture hanging strips](https://link.amazon/B0cezZuvf) (~£8 for a set) hold frames up to about 7kg** and remove without marking painted plaster, provided you follow the pull-tab removal method rather than yanking straight off. For a fuller approach to arranging frames this way, see our [renter-friendly gallery wall ideas UK](/blog/renter-friendly-gallery-wall-ideas-uk/).
+**No picture rail? [Command picture hanging strips](https://link.amazon/B0cezZuvf) (~£8 for a set) hold frames up to about 7kg** and remove without marking painted plaster, provided you follow the pull-tab removal method rather than yanking straight off. For a fuller approach to arranging frames this way, see our [rented flat makeover UK](/blog/rented-flat-makeover-uk/).
 
 ![A picture rail hook holding framed art on cord in a period UK flat living room](/images/pexels-6538933.jpg)
 
@@ -87,7 +87,7 @@ A freestanding bookcase, a console table on legs instead of a wall-mounted media
 
 Most rental advice pushes wall-mounted storage as the "space-saving" option, but in practice freestanding furniture on slim legs frees up more usable floor space, because it lifts clutter off the ground entirely rather than fixing it at eye level where it visually crowds the room.
 
-For the layout and styling side once your furniture is sorted, our guide on [how to style a living room UK](/blog/how-to-style-a-living-room-uk/) covers arrangement and proportion in more depth.
+For the layout and styling side once your furniture is sorted, our guide on [small living room ideas UK](/blog/small-living-room-ideas-uk/) covers arrangement and proportion in more depth.
 
 ## How Do You Get Better Lighting Without Rewiring a Rental?
 
@@ -135,7 +135,7 @@ Every change on this list shares the same test: does it come off clean, and does
 
 **Related reading you might find useful:**
 
-- [Renter-friendly gallery wall ideas UK](/blog/renter-friendly-gallery-wall-ideas-uk/) for hanging art without drilling, in more detail
-- [How to style a living room UK](/blog/how-to-style-a-living-room-uk/) once the deposit-safe basics are in place
+- [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) for the full deposit-safe approach across every room
+- [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/) once the deposit-safe basics are in place
 - [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same renter-safe approach in the kitchen
 - [Deposit Deductions UK: What Landlords Actually Charge For](/blog/deposit-deductions-uk/) for what actually happens if any of this goes wrong at check-out

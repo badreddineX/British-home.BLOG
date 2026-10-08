@@ -71,11 +71,11 @@ Dunelm stocks a 200x290cm jute-style rug for ~£85. IKEA's STOENSE range offers 
 
 ## 4. How Do You Bring In Freestanding Furniture to Create Structure?
 
-Most rented flats in the UK have two defining characteristics: not enough storage and not enough structure. Both are solved by freestanding furniture that belongs to you, goes with you, and requires nothing fixed to any wall. See [21 small flat storage ideas UK](/blog/small-bedroom-storage-uk/) for the full room-by-room breakdown.
+Most rented flats in the UK have two defining characteristics: not enough storage and not enough structure. Both are solved by freestanding furniture that belongs to you, goes with you, and requires nothing fixed to any wall. See [small bedroom on a budget UK](/blog/small-bedroom-budget-uk/) for the full room-by-room breakdown.
 
 IKEA's KALLAX shelving unit (from ~£45 for the 2x2 configuration, ~£115 for the 4x4) is the single most versatile piece of freestanding furniture available to UK renters. It works as a room divider, a bookshelf, a TV unit, and a storage system simultaneously, and the 4x4 configuration covers an entire wall without touching it.
 
-IKEA's BILLY bookcase (from ~£55) gives height and vertical structure to any room. A pair of identical units flanking a sofa or bed creates a built-in look without any building work. For [bedroom storage](/blog/small-bedroom-storage-uk/), a freestanding wardrobe (IKEA PAX from ~£115 without doors) frequently provides better storage than the built-in alternatives in older rented flats — and it moves with you when you leave.
+IKEA's BILLY bookcase (from ~£55) gives height and vertical structure to any room. A pair of identical units flanking a sofa or bed creates a built-in look without any building work. For [bedroom ideas](/blog/small-bedroom-budget-uk/), a freestanding wardrobe (IKEA PAX from ~£115 without doors) frequently provides better storage than the built-in alternatives in older rented flats — and it moves with you when you leave.
 
 A console table (from ~£45 at Wayfair) in the hallway defines the entrance and provides both surface and storage. It's the hallway version of what a rug does for the living room: it makes the space feel deliberate rather than transitional.
 
@@ -105,7 +105,7 @@ Dunelm's curtain range starts at ~£22 per pair, with blackout lining from ~£35
 
 ## 7. How Do You Build a Gallery Wall With Command Strips?
 
-A [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk/) built with Command Picture Hanging Strips is fully deposit-safe, takes an afternoon, and does more to make a rented space feel personally yours than almost any other single intervention. Command strips hold up to 3.6kg per pair, apply to plaster and painted walls cleanly, and remove without damage by pulling the release tab slowly downward.
+A gallery wall built with Command Picture Hanging Strips is fully deposit-safe, takes an afternoon, and does more to make a rented space feel personally yours than almost any other single intervention. Command strips hold up to 3.6kg per pair, apply to plaster and painted walls cleanly, and remove without damage by pulling the release tab slowly downward.
 
 The process: collect frames in two or three sizes (IKEA Ribba from £3.50 each, all in white or all in black — never mixed). Fill them with personal photographs, printed-at-home art, or free downloads from the Rijksmuseum's online collection. Lay the whole arrangement on the floor first. Then mount it. A full gallery wall built this way typically costs under £40 in total.
 
@@ -209,11 +209,7 @@ Read more: [small living room ideas UK](/blog/small-living-room-ideas-uk/)
 | 12 | Surface styling and scent | ~£10-£25 | None |
 
 → For ideas on making a small rented living room work harder see [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/) or [Renter-Friendly Living Room Ideas UK (No Permission)](/blog/renter-friendly-living-room-ideas-uk/).
-→ For the bathroom specifically, [bathroom storage ideas UK](/blog/bathroom-storage-ideas-uk/) covers no-drill solutions sized for tiny rental bathrooms. And for the kitchen, [small kitchen storage ideas on a budget](/blog/small-kitchen-storage-ideas-budget-uk/) and [Rental Kitchen Upgrade Ideas UK (No Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/) do the same for cramped rental kitchens.
-→ Running out of floor space across the whole flat? [12 vertical storage ideas for small UK flats](/blog/vertical-storage-ideas-uk-flats/) covers wall-mounted, deposit-safe storage for every room, and [Smart Multifunctional Furniture for UK Rented Flats](/blog/multifunctional-furniture-ideas-uk/) covers furniture that does double duty in a small footprint.
-→ Building a gallery wall as part of this makeover? [Renter-Friendly Gallery Wall Ideas UK](/blog/renter-friendly-gallery-wall-ideas-uk/) has the full layout guide for step 7.
+→ For the bathroom specifically, [small bathroom ideas UK](/blog/small-bathroom-ideas-uk/) covers layouts and no-drill solutions for tiny rental bathrooms. And for the kitchen, [Rental Kitchen Upgrade Ideas UK (No Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/) covers cramped rental kitchens.
 → Wondering what a landlord can actually deduct if any of this goes wrong? [Deposit Deductions UK: What Landlords Actually Charge For](/blog/deposit-deductions-uk/) breaks down the real data by category.
-
-**Related reading:** [Small Home Office Ideas UK: Box Room, Bedroom & Alcove Setups](/blog/small-home-office-ideas-uk/)
 
 **Related reading:** [Studio Flat Ideas UK](/blog/studio-flat-ideas-uk/)

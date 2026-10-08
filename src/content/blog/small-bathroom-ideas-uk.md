@@ -27,16 +27,16 @@ faqs:
   - q: "Can I update a rented bathroom without permission UK?"
     a: "Stick to reversible changes: a peel-and-stick vinyl floor over the existing one, a tension or rail-hung shower caddy instead of drilled shelves, a freestanding or over-toilet storage unit, a clip-on shower head, new (kept) accessories, and a grout pen to refresh tired grout. Avoid anything that needs drilling into tiles or changing a fitting — those need the landlord's sign-off and usually aren't worth it on a tenancy."
 relatedPosts:
-  - "bathroom-storage-ideas-uk"
-  - "bathroom-colour-ideas-uk"
   - "rented-flat-makeover-uk"
+  - "small-bedroom-budget-uk"
+  - "kitchen-on-a-budget-uk"
 ---
 
 The UK bathroom is small by default. In a terrace it's often a room carved out of a back bedroom; in a flat it's an internal box with no window; in a lot of 1930s semis it's 1.7 by 2 metres with the bath under the window and no room to swing the door.
 
 This guide covers the small versions specifically: how to lay out a tiny bathroom, when a wet room is the right call, how to fit a downstairs cloakroom into a cupboard, and what's worth changing on a budget or in a [rented flat](/blog/rented-flat-makeover-uk/).
 
-Read more: [bathroom storage ideas UK](/blog/bathroom-storage-ideas-uk/) for the fittings and clever storage that go into the layout below.
+Read more: [rented flat makeover UK](/blog/rented-flat-makeover-uk/) for deposit-safe changes that go into the layout below.
 
 > **Key Takeaways**
 > - Lay it out in order: door swing, then basin, then toilet, then bath or shower along the longest wall.
@@ -138,6 +138,4 @@ For the same reversible approach across the rest of a rented home, see [rented f
 
 A small UK bathroom rewards planning over ambition. Get the door swing right, place the fittings from the door inward, be honest about whether you use the bath, and spend the money on waterproofing and light rather than on a suite that's too big for the room. A tiny bathroom laid out well beats a slightly bigger one laid out badly every time.
 
-→ Next: [bathroom storage ideas UK](/blog/bathroom-storage-ideas-uk/) for fitting everything in, and [bathroom colour ideas UK](/blog/bathroom-colour-ideas-uk/) for the paint and tile palette.
-
-**Related reading:** [Small Wet Room Ideas UK: Layout, Cost & Waterproofing Basics](/blog/small-wet-room-ideas-uk/)
+→ Next: [rented flat makeover UK](/blog/rented-flat-makeover-uk/) for deposit-safe changes across every room, and [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same approach in the kitchen.

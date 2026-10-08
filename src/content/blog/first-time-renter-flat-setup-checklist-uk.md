@@ -239,5 +239,5 @@ Moving into your first flat can feel overwhelming, but most of the admin takes a
 
 **Related reading:**
 - [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/)
-- [Budget Home Makeover UK](/blog/budget-home-makeover-uk/)
-- [Small Bedroom Storage UK](/blog/small-bedroom-storage-uk/)
+- [Deposit Deductions UK](/blog/deposit-deductions-uk/)
+- [Small Bedroom on a Budget UK](/blog/small-bedroom-budget-uk/)

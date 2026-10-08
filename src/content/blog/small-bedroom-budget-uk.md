@@ -9,8 +9,8 @@ tags: ["small bedroom ideas uk", "small bedroom on a budget uk", "cheap bedroom 
 featured: false
 category: "Bedroom"
 relatedPosts:
-  - "small-living-room-budget-uk"
-  - "bedroom-decor-ideas-uk"
+  - "small-living-room-ideas-uk"
+  - "renter-friendly-bedroom-ideas-uk"
 readTime: "8 min read"
 excerpt: "A five-step, under-£150 small bedroom refresh for UK renters: bedding first, then lighting, a mirror, a rug, and wall art, with real prices."
 tldr:
@@ -49,7 +49,7 @@ A plain [duvet cover set](https://link.amazon/B08fDMT4C) in a warm neutral (oatm
 
 **Cost:** £25-£35 total.
 
-If you're also rethinking wall colour alongside bedding, our guide to [bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk/) covers which shades photograph well in small, low-light UK bedrooms.
+If you're also rethinking wall colour alongside bedding, our guide to [renter-friendly bedroom ideas UK](/blog/renter-friendly-bedroom-ideas-uk/) covers which changes work well in small, low-light UK bedrooms.
 
 
 ## What's the Best Way to Fix Bad Lighting Without an Electrician?
@@ -95,7 +95,7 @@ Amazon UK, B&M, and IKEA all stock A4 or A3 framed prints in the £5-£10 range.
 
 **Cost:** £15-£20.
 
-If storage clutter is competing with your new decor for attention, tackling that alongside this refresh helps the room read as finished rather than just decorated. Our guide to [small bedroom storage ideas UK](/blog/small-bedroom-storage-uk/) covers renter-friendly fixes that pair well with this budget.
+If storage clutter is competing with your new decor for attention, tackling that alongside this refresh helps the room read as finished rather than just decorated. Our guide to [small bedroom layout ideas UK](/blog/small-bedroom-layout-ideas-uk/) covers renter-friendly fixes that pair well with this budget.
 
 
 ---
@@ -127,7 +127,7 @@ Do the five steps in order, bedding, lighting, mirror, rug, wall art, and stop w
 
 **Related reading you might find useful:**
 
-- [Small bedroom storage ideas UK](/blog/small-bedroom-storage-uk/) to pair with this refresh once the visual side is sorted
-- [Bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk/) if you're choosing a wall colour or bedding shade before you shop
-- [Bedroom makeover UK](/blog/bedroom-makeover-uk/) for a fuller room-by-room approach beyond the £150 refresh
+- [Small Bedroom Layout Ideas UK](/blog/small-bedroom-layout-ideas-uk/) to pair with this refresh once the visual side is sorted
+- [Renter-Friendly Bedroom Ideas UK](/blog/renter-friendly-bedroom-ideas-uk/) for deposit-safe changes
 - [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same under-£200 approach in the kitchen
+- [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) for the full room-by-room approach

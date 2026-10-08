@@ -46,7 +46,7 @@ Read more: [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the equiv
 
 Most assured shorthold tenancies (ASTs) require the property returned in the same condition it was handed over in, fair wear and tear excepted, a standard clause referenced by [Shelter England's tenant rights guidance](https://england.shelter.org.uk/), 2024. That single clause decides which kitchen upgrades are safe.
 
-It's not that landlords are being difficult. Standard AST wording, the kind most letting agents use without amendment, treats drilled holes, painted units, and adhesive residue as damage rather than wear and tear. That's why every idea below avoids drilling into tiles or walls, avoids gluing anything to the [worktop](/blog/budget-kitchen-worktop-makeover-uk/) or floor itself, and keeps every original part of the kitchen intact and stored.
+It's not that landlords are being difficult. Standard AST wording, the kind most letting agents use without amendment, treats drilled holes, painted units, and adhesive residue as damage rather than wear and tear. That's why every idea below avoids drilling into tiles or walls, avoids gluing anything to the [worktop](/blog/budget-kitchen-cabinet-makeover-uk/) or floor itself, and keeps every original part of the kitchen intact and stored.
 
 
 The practical rule is simple: if you can't undo it in under an hour with nothing left behind, don't do it in a rented kitchen.
@@ -152,9 +152,7 @@ None of this needs a landlord's sign-off, and none of it puts your deposit at ri
 
 **The budget kitchen series** — each part in depth:
 
-- [Cheap Kitchen Makeover UK: 14 Affordable Ideas](/blog/kitchen-on-a-budget-uk/) — the room-by-room overview
+- [Kitchen on a Budget UK: 14 Affordable Ideas](/blog/kitchen-on-a-budget-uk/) — the room-by-room overview
 - [Budget Kitchen Cabinet Makeover Ideas UK](/blog/budget-kitchen-cabinet-makeover-uk/)
-- [Budget Kitchen Worktop Makeover Ideas UK](/blog/budget-kitchen-worktop-makeover-uk/)
 - [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk/)
-- [Budget Kitchen Flooring Ideas UK](/blog/budget-kitchen-flooring-ideas-uk/)
-- [Small Kitchen Storage Ideas on a Budget UK](/blog/small-kitchen-storage-ideas-budget-uk/)
+- [Galley Kitchen Ideas UK](/blog/galley-kitchen-ideas-uk/)

@@ -157,5 +157,5 @@ Peel-and-stick wallpaper is a genuinely useful tool for UK renters who want to p
 
 **Related reading:**
 - [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/)
-- [Budget Home Makeover UK](/blog/budget-home-makeover-uk/)
-- [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/)
+- [Renter-Friendly Living Room Ideas UK](/blog/renter-friendly-living-room-ideas-uk/)
+- [Renter-Friendly Bedroom Ideas UK](/blog/renter-friendly-bedroom-ideas-uk/)

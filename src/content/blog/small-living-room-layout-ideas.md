@@ -29,9 +29,9 @@ faqs:
 ---
 
 
-British living rooms present a very specific problem. They're not just small — they're small in specific, awkward ways. A chimney breast that juts into the middle of the room. A bay window that takes up an entire wall. A [Victorian terrace](/blog/victorian-terrace-interior-ideas-uk/) lounge that's barely wider than the sofa is long. A modern flat where the front door opens directly into the seating area.
+British living rooms present a very specific problem. They're not just small — they're small in specific, awkward ways. A chimney breast that juts into the middle of the room. A bay window that takes up an entire wall. A Victorian terrace lounge that's barely wider than the sofa is long. A modern flat where the front door opens directly into the seating area.
 
-This guide is specifically about furniture arrangement and floor plans for awkward room shapes. For general styling, see [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/); for small-space visual tricks like colour and curtain height, see [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
+This guide is specifically about furniture arrangement and floor plans for awkward room shapes. For small-space visual tricks like colour and curtain height, see [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
 
 We're not working with the kind of square footage you see in American home tours or Scandinavian design blogs. We're working with real British rooms.
 
@@ -318,8 +318,7 @@ Aim for at least 30% visible floor in any small living room arrangement. If you 
 | 8 | Mount the TV on the wall and remove the TV unit | ~£25-£50 for bracket |
 
 → For small living room decorating ideas beyond layout see [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
-→ For broader living room styling advice see [Living Room Ideas UK](/blog/small-living-room-ideas-uk/).
 → Planning the kitchen layout too? See [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/).
-→ For the full room-styling sequence layout fits into, see [How to Style a Living Room UK](/blog/how-to-style-a-living-room-uk/).
+→ Renting? See [Renter-Friendly Living Room Ideas UK](/blog/renter-friendly-living-room-ideas-uk/) for deposit-safe changes.
 
 **Related reading:** [Studio Flat Ideas UK](/blog/studio-flat-ideas-uk/)

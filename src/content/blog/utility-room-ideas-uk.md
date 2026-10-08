@@ -27,18 +27,18 @@ faqs:
   - q: "How do I make a utility room look nice and not just functional?"
     a: "Paint it a proper colour rather than leaving it white — a deep green or clay tone hides scuffs and makes a windowless room feel deliberate. Add closed storage so cleaning products aren't on show, a runner or washable mat, one framed print, and warm lighting instead of a bare bulb. It costs under £60 and changes the room entirely."
 relatedPosts:
-  - "small-kitchen-storage-ideas-budget-uk"
   - "kitchen-on-a-budget-uk"
-  - "hidden-pantry-ideas-uk"
+  - "rental-kitchen-upgrade-ideas-uk"
+  - "rented-flat-makeover-uk"
 ---
 
-Most utility room ideas you find online show a room the size of a small bedroom, with a butler sink, a boot bench, and a dog-washing station. That is not the UK utility room. Here, a utility room is usually a cupboard off the kitchen, a slice of the garage, a lean-to at the back, or — for a lot of renters — no room at all, just the washing machine wedged under the kitchen [worktop](/blog/budget-kitchen-worktop-makeover-uk/) and an airer that lives permanently in the hall.
+Most utility room ideas you find online show a room the size of a small bedroom, with a butler sink, a boot bench, and a dog-washing station. That is not the UK utility room. Here, a utility room is usually a cupboard off the kitchen, a slice of the garage, a lean-to at the back, or — for a lot of renters — no room at all, just the washing machine wedged under the kitchen [worktop](/blog/budget-kitchen-cabinet-makeover-uk/) and an airer that lives permanently in the hall.
 
 A good utility zone does four jobs — house the appliance, give you a surface to fold on, dry a load without taking over a room, and hide the cleaning kit — and you can fit all four into a 60cm cupboard if you plan it in the right order.
 
 This guide covers the small and awkward versions: the utility cupboard, the corner-of-the-kitchen conversion, and the renter setup that needs no building work at all.
 
-Read more: [small kitchen ideas UK](/blog/small-kitchen-storage-ideas-budget-uk/) for the same space-first approach applied to the kitchen itself.
+Read more: [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same space-first approach applied to the kitchen itself.
 
 > **Key Takeaways**
 > - Four jobs, in order: appliance, folding worktop above it, a drying rail, closed storage for cleaning kit.
@@ -126,4 +126,4 @@ What actually changes how it looks, for under £60 total:
 
 The utility room is proof that in a UK home, planning beats square footage. A cupboard laid out in the right order — appliance, worktop, drying, closed storage — does everything a proper room does, and a coat of dark green paint makes it look like you meant it.
 
-→ Next: [hidden pantry ideas UK](/blog/hidden-pantry-ideas-uk/) for the food-storage equivalent, and [small kitchen ideas UK](/blog/small-kitchen-storage-ideas-budget-uk/) for the kitchen itself.
+→ Next: [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the kitchen itself, and [rental kitchen upgrade ideas UK](/blog/rental-kitchen-upgrade-ideas-uk/) for renter-friendly changes.

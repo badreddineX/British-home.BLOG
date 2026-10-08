@@ -31,7 +31,7 @@ faqs:
 
 Most small bedroom advice assumes a rectangular box with the door and window in sensible places. UK flats rarely offer that. **TL;DR:** start with the longest unbroken wall for the bed head, use floating nightstands to save floor space in every layout, and treat awkward corners (eaves, alcoves, the short leg of an L) as storage zones rather than places to force a bed into.
 
-This guide goes shape by shape. If storage is your bigger problem right now rather than layout, our [small bedroom storage ideas UK](/blog/small-bedroom-storage-uk/) piece covers that separately. If you're planning a full room refresh once the layout is sorted, see our [bedroom makeover UK](/blog/bedroom-makeover-uk/) guide.
+This guide goes shape by shape. If storage is your bigger problem right now rather than layout, our [small bedroom on a budget UK](/blog/small-bedroom-budget-uk/) piece covers that separately. If you're planning a full room refresh once the layout is sorted, see our [renter-friendly bedroom ideas UK](/blog/renter-friendly-bedroom-ideas-uk/) guide.
 
 ## General Layout Principles Before You Touch the Furniture
 
@@ -113,9 +113,7 @@ Once the bed and wardrobe positions are settled, smaller changes (floating night
 
 **Related reading you might find useful:**
 
-- [Small bedroom storage ideas UK](/blog/small-bedroom-storage-uk/) for the storage side once the layout is settled
-- [Bedroom makeover UK](/blog/bedroom-makeover-uk/) if you're planning the whole room, layout included
-- [Bedroom colour ideas UK](/blog/bedroom-colour-ideas-uk/) for making an awkward shape feel bigger through colour once the furniture is in place
+- [Small Bedroom on a Budget UK](/blog/small-bedroom-budget-uk/) for the budget refresh once the layout is settled
+- [Renter-Friendly Bedroom Ideas UK](/blog/renter-friendly-bedroom-ideas-uk/) for deposit-safe changes
 - [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same space-planning-first approach in the kitchen
-
-**Related reading:** [Small Home Office Ideas UK: Box Room, Bedroom & Alcove Setups](/blog/small-home-office-ideas-uk/)
+- [Studio Flat Ideas UK](/blog/studio-flat-ideas-uk/) for combined living and sleeping spaces

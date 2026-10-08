@@ -10,7 +10,7 @@ featured: false
 category: "Bedroom"
 relatedPosts:
   - "rented-flat-makeover-uk"
-  - "small-bedroom-storage-uk"
+  - "small-bedroom-budget-uk"
 readTime: "9 min read"
 excerpt: "Six deposit-safe bedroom updates for UK renters, from Command strip gallery walls to peel-and-stick wallpaper, with real retailer prices and no drilling."
 tldr:
@@ -32,7 +32,7 @@ faqs:
     a: "Command's large picture-hanging strips hold up to 7.3kg per set for mirrors and shelves, and the standard strips hold 2.5kg for frames, according to 3M's own product specifications. Always check the weight rating printed on the pack before hanging anything heavy."
 ---
 
-Most rented bedrooms in the UK come with magnolia walls, a fitted wardrobe you can't stand, and a strict no-drilling clause in the tenancy agreement. **TL;DR:** Peel-and-stick wallpaper on one wall, Command strips for a [gallery wall](/blog/renter-friendly-gallery-wall-ideas-uk/), freestanding furniture instead of anything fitted, clip-on or plug-in lighting, and a door curtain for draughts. Every change here removes cleanly at check-out and none of it touches the landlord's plaster, paint, or wiring.
+Most rented bedrooms in the UK come with magnolia walls, a fitted wardrobe you can't stand, and a strict no-drilling clause in the tenancy agreement. **TL;DR:** Peel-and-stick wallpaper on one wall, Command strips for a [gallery wall](/blog/rented-flat-makeover-uk/), freestanding furniture instead of anything fitted, clip-on or plug-in lighting, and a door curtain for draughts. Every change here removes cleanly at check-out and none of it touches the landlord's plaster, paint, or wiring.
 
 The trick isn't decorating less. It's decorating in ways that come apart as easily as they went up.
 
@@ -88,7 +88,7 @@ A freestanding wardrobe assembles with an Allen key and stands on its own weight
 | Door curtain | £20-£40 | Yes |
 | Wired wall sconce | £25-£60 | No, requires an electrician |
 
-For more of the visual side, our guide to [bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/) covers colour and layout choices that pair well with freestanding furniture once storage is sorted.
+For more of the visual side, our guide to [small bedroom on a budget UK](/blog/small-bedroom-budget-uk/) covers colour and layout choices that pair well with freestanding furniture once storage is sorted.
 
 ## Can You Get Wall-Lit Reading Lights Without an Electrician?
 
@@ -112,10 +112,8 @@ None of these changes need a landlord's permission or a drill. Start with Comman
 
 **Related reading you might find useful:**
 
-- [Renter-friendly gallery wall ideas UK](/blog/renter-friendly-gallery-wall-ideas-uk/) for a full layout guide once you've got your Command strips
-- [Bedroom decor ideas UK](/blog/bedroom-decor-ideas-uk/) for colour and styling once the no-damage basics are in place
-- [Small bedroom storage ideas UK](/blog/small-bedroom-storage-uk/) for the storage side of a rented bedroom
+- [Small Bedroom on a Budget UK](/blog/small-bedroom-budget-uk/) for the budget refresh once the no-damage basics are in place
+- [Small Bedroom Layout Ideas UK](/blog/small-bedroom-layout-ideas-uk/) for furniture arrangement in awkward rooms
 - [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same no-damage approach in the kitchen
-- [13 Bedroom Makeover Ideas UK](/blog/bedroom-makeover-uk/) for the full makeover sequence these no-damage basics fit into
 - [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) for the same deposit-safe approach applied to every other room
 - [Deposit Deductions UK: What Landlords Actually Charge For](/blog/deposit-deductions-uk/) for the real data on what triggers a deduction
