@@ -29,7 +29,7 @@ faqs:
 ---
 
 
-That gap is what this page is about. The UK's three deposit protection schemes — TDS, DPS and mydeposits — each publish dispute data every year, but it's scattered across separate PDF reports nobody reads unless they're already mid-dispute. This page pulls it into one place, and ties every category back to the actual decor and cleaning decisions that cause it — the part a legal or tenant-rights site usually skips.
+UK deposit schemes publish detailed dispute data every year, yet most renters only see how much they could lose once a deduction has already been proposed. The UK's three deposit protection schemes — TDS, DPS and mydeposits — each publish dispute data every year, but it's scattered across separate PDF reports nobody reads unless they're already mid-dispute. This page pulls it into one place, and ties every category back to the actual decor and cleaning decisions that cause it — the part a legal or tenant-rights site usually skips.
 
 **Last updated: 5 September 2026.** Next update expected when the schemes publish their 2026/27 statistics.
 
@@ -86,12 +86,12 @@ Tenants tend to win disputes where the landlord has no signed inventory, relies 
 ### Cleaning (29.38% of claims — the biggest category)
 This is almost entirely about matching the check-in standard, not achieving a professional-grade clean from nothing. The renter decisions that cause disputes here: skipping the oven and extractor fan, leaving limescale in the bathroom, and not cleaning inside cupboards and behind appliances — all things a decor-focused move-out clean often misses because it's focused on how the room *looks* rather than a literal item-by-item match to the inventory.
 
-**Avoid it:** book a professional end-of-tenancy clean if your agreement requires one (or pick up a [cleaning kit](https://link.amazon/B03b9gDJK) and do it yourself) (or even if it doesn't — a typical clean for a 2–3 bed home costs roughly £200–£350, usually far less than the deduction it prevents), and photograph every room, including the inside of the oven and cupboards, the day you hand back the keys.
+**Avoid it:** book a professional end-of-tenancy clean if your agreement requires one (or pick up a [cleaning kit](https://www.amazon.co.uk/s?k=end+of+tenancy+cleaning+kit) and do it yourself) (or even if it doesn't — a typical clean for a 2–3 bed home costs roughly £200–£350, usually far less than the deduction it prevents), and photograph every room, including the inside of the oven and cupboards, the day you hand back the keys.
 
 ### Damage (18.42%)
 The renter-decor decisions that show up here most often: nail and screw holes from hanging shelves or art, marks from Command strips or blu-tack that weren't fully removed, and scratches or dents from furniture moved without protection.
 
-**Avoid it:** fill and touch-up small nail holes before you leave (a [filler paste](https://link.amazon/B07hsgxlY) costs a few pounds), use only strips rated for the surface and remove them per the instructions (warm, slow peel — never yank), and use felt pads under furniture legs throughout the tenancy, not just at the end.
+**Avoid it:** fill and touch-up small nail holes before you leave (a [filler paste](https://www.amazon.co.uk/s?k=wall+filler+paste+small+holes) costs a few pounds), use only strips rated for the surface and remove them per the instructions (warm, slow peel — never yank), and use felt pads under furniture legs throughout the tenancy, not just at the end.
 
 ### Rent arrears (16.45%)
 Not a decor issue, but worth flagging: a landlord can deduct outstanding rent from a deposit, and this is one of the few categories with essentially no dispute grey area if the arrears are genuine.
@@ -99,7 +99,7 @@ Not a decor issue, but worth flagging: a landlord can deduct outstanding rent fr
 ### Redecoration (10.88%)
 This is where paint colour choices matter. Painting a wall a bold or dark colour without permission, then not repainting it back to the original neutral before leaving, is one of the more common — and more expensive — redecoration disputes, because a full repaint of a room genuinely costs money.
 
-**Avoid it:** if you paint, check the tenancy agreement first, and budget the time and [touch up paint](https://link.amazon/B0j4GUXsd) to return the wall to its original colour before check-out (or agree in writing that you can leave it, which some landlords are happy to do since a fresh colour can help re-letting).
+**Avoid it:** if you paint, check the tenancy agreement first, and budget the time and [touch up paint](https://www.amazon.co.uk/s?k=white+touch+up+paint+wall) to return the wall to its original colour before check-out (or agree in writing that you can leave it, which some landlords are happy to do since a fresh colour can help re-letting).
 
 ---
 
