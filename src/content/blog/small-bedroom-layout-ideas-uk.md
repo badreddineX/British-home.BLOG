@@ -27,6 +27,10 @@ faqs:
     a: "Use the shorter leg of the L as a dedicated zone, a wardrobe corner, a desk nook, or a reading chair, rather than trying to fit the bed across the awkward corner. The bed goes in the main rectangular part of the room, on its longest wall."
   - q: "Can you put a bed in front of a chimney breast alcove?"
     a: "Yes, but the alcove itself works better as storage. Fit slim shelving or a narrow wardrobe into the recess either side of the chimney breast, and place the bed against the flat wall opposite or beside it, not squeezed into the alcove."
+relatedPosts:
+  - "small-bedroom-budget-uk"
+  - "small-bedroom-storage-uk"
+  - "renter-friendly-bedroom-ideas-uk"
 ---
 
 For the living room equivalent of this guide, our [small living room ideas UK](/blog/small-living-room-ideas-uk) covers layout and styling for the room that gets the most daily use.

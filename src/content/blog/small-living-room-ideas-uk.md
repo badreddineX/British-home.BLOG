@@ -30,6 +30,7 @@ relatedPosts:
   - "small-living-room-layout-ideas"
   - "renter-friendly-living-room-ideas-uk"
   - "living-room-colour-schemes-uk"
+  - "vertical-storage-ideas-uk-flats"
 ---
 
 

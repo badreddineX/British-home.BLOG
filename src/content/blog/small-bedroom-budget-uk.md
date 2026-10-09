@@ -12,6 +12,7 @@ relatedPosts:
   - "small-living-room-ideas-uk"
   - "renter-friendly-bedroom-ideas-uk"
   - "bedroom-colour-ideas-uk"
+  - "small-bedroom-storage-uk"
 readTime: "8 min read"
 excerpt: "A five-step, under-£150 small bedroom refresh for UK renters: bedding first, then lighting, a mirror, a rug, and wall art, with real prices."
 tldr:

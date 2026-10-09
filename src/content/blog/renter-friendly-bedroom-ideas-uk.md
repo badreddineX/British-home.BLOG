@@ -12,6 +12,7 @@ relatedPosts:
   - "rented-flat-makeover-uk"
   - "small-bedroom-budget-uk"
   - "bedroom-colour-ideas-uk"
+  - "cosy-bedroom-ideas-uk"
 readTime: "11 min read"
 excerpt: "Six deposit-safe bedroom updates for UK renters, from Command strip gallery walls to peel-and-stick wallpaper, with real retailer prices and no drilling."
 tldr:

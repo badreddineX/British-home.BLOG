@@ -26,6 +26,10 @@ faqs:
     a: "Keep one consistent floor finish across the whole room, paint the walls and any dividers the same pale colour so the eye doesn't hit hard edges, use furniture with legs so you can see floor underneath, and put a large mirror on the wall opposite the window. Low, long furniture reads as more spacious than tall pieces; keep anything above waist height against the walls."
   - q: "What size is a typical UK studio flat?"
     a: "New-build studios in England must be at least 37 square metres under national space standards, but many older converted studios are 20 to 30 square metres, and ex-local-authority bedsits can be smaller. Under about 25 square metres, prioritise a real divider and multi-use furniture hard; above 30, you have room for distinct zones with a bit of space between them."
+relatedPosts:
+  - "small-living-room-ideas-uk"
+  - "vertical-storage-ideas-uk-flats"
+  - "renter-friendly-living-room-ideas-uk"
 ---
 
 
