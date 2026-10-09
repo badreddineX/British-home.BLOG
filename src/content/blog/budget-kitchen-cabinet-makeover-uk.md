@@ -1,6 +1,6 @@
 ---
-title: "Kitchen Cabinet Makeover UK: 4 Cheap Ways (With Prices)"
-description: "4 ways to transform tired kitchen cabinets from £30 (DIY paint) to £3,500 (professional respray): real UK prices from B&Q, Wickes and Screwfix compared side by side."
+title: "Budget Kitchen Makeover UK: 4 Cheap Ways (With Prices)"
+description: "4 budget kitchen makeover ideas from £30 DIY paint to £800 new doors: real UK prices from B&Q, Wickes and Screwfix compared side by side."
 image: "/images/kitchen-white-cabinets.jpg"
 datePublished: "2026-05-27"
 dateModified: "2026-10-08"
