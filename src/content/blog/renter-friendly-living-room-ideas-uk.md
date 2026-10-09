@@ -50,7 +50,7 @@ If a change fails any of these, skip it, no matter how good it looks in a photo.
 
 ## How Do I Add Colour Without Painting a Rented Wall?
 
-[Peel-and-stick wallpaper](https://link.amazon/B0htyOtH1) on a single feature wall gives you a full colour or pattern change for around £15-£40 a roll, and it removes cleanly from sound painted plaster ([B&Q](https://www.diy.com/), 2025). No paint, no primer, no landlord conversation needed.
+[Peel-and-stick wallpaper](https://www.amazon.co.uk/s?k=peel-and-stick+wallpaper) on a single feature wall gives you a full colour or pattern change for around £15-£40 a roll, and it removes cleanly from sound painted plaster ([B&Q](https://www.diy.com/), 2025). No paint, no primer, no landlord conversation needed.
 
 Behind a sofa, a soft sage botanical print from B&Q can transform the whole room for about £45 across three rolls. Test a corner behind the sofa first and leave it a week before committing to the full wall, since some plaster takes adhesive better than others.
 
@@ -67,7 +67,7 @@ Yes, and in many period conversions you already have the tool built into the roo
 
 Victorian and Edwardian flats across the UK were built with a picture rail as standard, a moulded strip running near the ceiling. If your flat has one, it was designed for exactly this. Clip a hook over the top, run picture cord or chain down to your frame height, and adjust the length whenever you rearrange.
 
-**No picture rail? [Command picture hanging strips](https://link.amazon/B0cezZuvf) (~£8 for a set) hold frames up to about 7kg** and remove without marking painted plaster, provided you follow the pull-tab removal method rather than yanking straight off. For a fuller approach to arranging frames this way, see our [rented flat makeover UK](/blog/rented-flat-makeover-uk/).
+**No picture rail? [Command picture hanging strips](https://www.amazon.co.uk/s?k=command+picture+hanging+strips) (~£8 for a set) hold frames up to about 7kg** and remove without marking painted plaster, provided you follow the pull-tab removal method rather than yanking straight off. For a fuller approach to arranging frames this way, see our [rented flat makeover UK](/blog/rented-flat-makeover-uk/).
 
 ![A picture rail hook holding framed art on cord in a period UK flat living room](/images/pexels-6538933.jpg)
 
@@ -83,7 +83,7 @@ Switching from a drilled curtain pole to Command brackets makes little differenc
 
 Freestanding furniture wins every time in a rental, because it moves with you and needs no wall fixing at all. Fitted shelving units and built-in TV cabinets are landlord territory, and even landlord-approved versions can't travel to your next flat.
 
-A freestanding bookcase, a console table on legs instead of a wall-mounted media unit, and a set of stacking storage cubes all do the job a fitted unit would, minus the commitment. IKEA's KALLAX and BILLY [freestanding shelving](https://link.amazon/B05CaPemG) ranges (from around £40-£90) are the obvious UK renter defaults for exactly this reason.
+A freestanding bookcase, a console table on legs instead of a wall-mounted media unit, and a set of stacking storage cubes all do the job a fitted unit would, minus the commitment. IKEA's KALLAX and BILLY [freestanding shelving](https://www.amazon.co.uk/s?k=freestanding+shelving) ranges (from around £40-£90) are the obvious UK renter defaults for exactly this reason.
 
 Most rental advice pushes wall-mounted storage as the "space-saving" option, but in practice freestanding furniture on slim legs frees up more usable floor space, because it lifts clutter off the ground entirely rather than fixing it at eye level where it visually crowds the room.
 

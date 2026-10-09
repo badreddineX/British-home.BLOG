@@ -78,7 +78,7 @@ Use the walls and the ceiling. A galley has two full runs of wall and usually de
 
 - **Wall units to the ceiling on one run.** Standard wall cabinets leave a 30 to 40cm dead gap above that collects dust. Taking units (or adding a topper cabinet, from about £30) to the ceiling on one side turns that into cupboard space for things you use twice a year.
 - **A shelf above the worktop on the other run**, instead of wall cabinets. It holds everyday plates, mugs and oils within reach and keeps that side visually light so the room doesn't feel boxed in on both sides.
-- **A rail along the [splashback](/blog/budget-kitchen-splashback-tile-ideas-uk/).** An IKEA KUNGSFORS or HULTARP [wall mounted rack](https://link.amazon/B00NuqT3K), or any screw-fixed rail (£8 to £25 per run), gets utensils, a knife strip, hooks and a small basket off the worktop.
+- **A rail along the [splashback](/blog/budget-kitchen-splashback-tile-ideas-uk/).** An IKEA KUNGSFORS or HULTARP [wall mounted rack](https://www.amazon.co.uk/s?k=wall+mounted+rack), or any screw-fixed rail (£8 to £25 per run), gets utensils, a knife strip, hooks and a small basket off the worktop.
 - **The back of the door.** An over-door or screw-mounted rack holds tea towels, foil, cleaning spray and a chopping board.
 - **A tall pull-out larder** in place of one base-and-wall stack. A 300mm pull-out holds more than a 600mm cupboard you have to unpack to see into.
 
@@ -104,7 +104,7 @@ Almost everything that matters, without touching the carcasses. A galley is smal
 - **Swap every handle.** A galley might have 12 to 16 handles; at £2 to £5 each that's £30 to £70 to completely change the feel. Keep the originals in a bag for moving day.
 - **Peel-and-stick splashback.** A galley run is short, so £15 to £40 of vinyl tile or a splashback panel covers it. Comes off with a hairdryer and slow peeling.
 - **Tension rod and clip-on lights.** A rail along the splashback and stick-on under-cabinet LEDs — no drilling, both reversible.
-- **A freestanding [slim kitchen trolley](https://link.amazon/B0aAAazIN)** at the open end of the galley for the storage the units don't give you.
+- **A freestanding [slim kitchen trolley](https://www.amazon.co.uk/s?k=slim+kitchen+trolley)** at the open end of the galley for the storage the units don't give you.
 
 For the full renter kit and what's worth doing in a rented kitchen, [rental kitchen upgrade ideas UK](/blog/rental-kitchen-upgrade-ideas-uk/) has the complete list.
 
@@ -162,7 +162,7 @@ This is a renter-safe refresh of an existing galley — no new units, nothing th
 | New handles (12–16) | £30–£70 |
 | Peel-and-stick splashback for one galley run | £15–£40 |
 | Splashback rail + hooks (both runs) | £16–£50 |
-| [Magnetic spice jars](https://link.amazon/B0ivjq36V) | £10–£15 |
+| [Magnetic spice jars](https://www.amazon.co.uk/s?k=magnetic+spice+jars) | £10–£15 |
 | Stick-on / plug-in under-cabinet LED strips (both runs) | £20–£60 |
 | One shelf above the worktop | £10–£25 |
 | Freestanding trolley or shelf unit for the end | £20–£60 |

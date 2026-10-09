@@ -37,7 +37,7 @@ Read more: [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) for the wider
 
 ## What's the Cheapest Kitchen Splashback Option in the UK?
 
-[Peel-and-stick tile sheets](https://link.amazon/B03M36Mj6) are the cheapest genuine splashback option available, costing £25–£45 for a standard area at Dunelm, Wilko, or Amazon UK ([Dunelm, 2026](https://www.dunelm.com)). They need no adhesive, no grout, and no tools beyond scissors and a credit card for smoothing.
+[Peel-and-stick tile sheets](https://www.amazon.co.uk/s?k=peel-and-stick+tile+sheets) are the cheapest genuine splashback option available, costing £25–£45 for a standard area at Dunelm, Wilko, or Amazon UK ([Dunelm, 2026](https://www.dunelm.com)). They need no adhesive, no grout, and no tools beyond scissors and a credit card for smoothing.
 
 Peel-and-stick sheets suit a [rented flat](/blog/rented-flat-makeover-uk/) where retiling isn't allowed, even behind a gas hob when fitted with a proper heat gap. Well-fitted sheets can pass for real tile. Brands worth considering are Crearreda and Vinyltiles, both widely stocked on Amazon UK, plus Wilko's own-brand mosaic-effect sheets from around £6 per A4 panel.
 
@@ -51,11 +51,11 @@ Coverage varies by brand. A3-sized sheets (roughly 42cm x 30cm) need six to eigh
 
 Yes, tile paint is a genuine option if your existing tiles are structurally sound but visually dated, and a two-part tile paint kit costs from £25–£35 at B&Q or Screwfix. It's the cheapest fix when the tiles themselves aren't the problem, just the colour or grout.
 
-[Ronseal One Coat Tile Paint](https://link.amazon/B0fZXGEJr) and Rust-Oleum's tile paint range are the two most reliable options sold in the UK. Both need a thorough clean with sugar soap, light sanding to key the glazed surface, and two coats with proper drying time between each. Skip the sanding and the paint will peel within months.
+[Ronseal One Coat Tile Paint](https://www.amazon.co.uk/s?k=ronseal+one+coat+tile+paint) and Rust-Oleum's tile paint range are the two most reliable options sold in the UK. Both need a thorough clean with sugar soap, light sanding to key the glazed surface, and two coats with proper drying time between each. Skip the sanding and the paint will peel within months.
 
 Most guides treat tile paint as a last resort, but it is arguably underused. It's the only option on this list that also refreshes the grout lines in the same step, since the paint coats everything in one continuous colour. That single detail makes a dated multicoloured 1990s splashback look genuinely modern for under £30.
 
-[Tile transfer stickers](https://link.amazon/B0h9gV6JQ) (individual adhesive tile-front designs, from £1–£2 each at Amazon or Etsy UK) are a lighter-touch alternative if the existing tiles are plain white and just need pattern rather than a full colour change. They stick directly onto individual tiles and can be removed later without paint scraping.
+[Tile transfer stickers](https://www.amazon.co.uk/s?k=tile+transfer+stickers) (individual adhesive tile-front designs, from £1–£2 each at Amazon or Etsy UK) are a lighter-touch alternative if the existing tiles are plain white and just need pattern rather than a full colour change. They stick directly onto individual tiles and can be removed later without paint scraping.
 
 Tile paint only works on tiles that are firmly bonded to the wall. Tap each tile first: a hollow sound means it's come loose behind the surface, and paint won't fix that.
 
