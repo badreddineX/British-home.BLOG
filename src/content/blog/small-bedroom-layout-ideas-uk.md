@@ -41,7 +41,7 @@ Before dealing with any specific awkward shape, three rules apply to almost ever
 
 **Bed against the longest wall.** The longest unbroken wall, one without a door, radiator, or window cutting through it, gives the headboard full support and usually leaves the most usable floor space on either side. In an oddly shaped room this single decision does most of the work.
 
-**Floating nightstands over floor-standing ones.** A standard bedside table takes up 40-50cm of floor space per side. An IKEA [LACK floating shelf](https://link.amazon/B04NmXhyf) (~£9) fixed at nightstand height with a heavy-duty wall fixing does the same job with zero footprint. In a tight room this alone can be the difference between walking round the bed comfortably and shuffling sideways.
+**Floating nightstands over floor-standing ones.** A standard bedside table takes up 40-50cm of floor space per side. An IKEA LACK floating shelf (~£9) fixed at nightstand height with a heavy-duty wall fixing does the same job with zero footprint. In a tight room this alone can be the difference between walking round the bed comfortably and shuffling sideways.
 
 **Wardrobe in the least useful corner.** Every awkward room has one corner that's hard to use for anything else: a low eave, the dead space beside a chimney breast, the short end of an L. That's exactly where a wardrobe belongs, because you were never going to use that spot for walking around anyway.
 
@@ -53,7 +53,7 @@ Loft conversions and top-floor flats often have a sloped ceiling on one or two s
 
 **Bed placement:** position the bed so the headboard sits at the tallest wall, with the foot of the bed pointing towards the slope. You never need to stand at the foot of the bed, so the low ceiling there doesn't matter.
 
-**Storage in the eaves:** the triangular space under a sloped ceiling is dead space for anything you need to stand up in, but it's ideal for drawers, boxes, or a low run of built-in cupboards. IKEA doesn't make a dedicated eaves range, but PAX corner units and simple [flat-pack drawer units](https://link.amazon/B033bqGMt) both fit here if measured carefully first.
+**Storage in the eaves:** the triangular space under a sloped ceiling is dead space for anything you need to stand up in, but it's ideal for drawers, boxes, or a low run of built-in cupboards. IKEA doesn't make a dedicated eaves range, but PAX corner units and simple [flat-pack drawer units](https://www.amazon.co.uk/s?k=flat-pack+drawer+units) both fit here if measured carefully first.
 
 **Skip the tall wardrobe.** A tall freestanding wardrobe won't fit under a slope at all. Keep hanging storage on the tallest wall instead, and use the eaves purely for folded items and boxes.
 
@@ -61,7 +61,7 @@ Most UK box rooms measure somewhere between 6 and 8 square metres, which is enou
 
 **Single bed box rooms (under 7 sqm):** a single bed against the long wall leaves enough space for a narrow wardrobe on the opposite wall and still a walkable gap between them. Don't add a bedside table on the wall side; a floating shelf does the same job without narrowing the path.
 
-**Small double box rooms (7-8 sqm):** a small double just fits lengthways, but only if the wardrobe goes on the wall furthest from the door, so you're not opening wardrobe doors into the bed. A slimline [PAX wardrobe](https://link.amazon/B026ubHYS) (35cm deep instead of the standard 58cm) buys back valuable centimetres here.
+**Small double box rooms (7-8 sqm):** a small double just fits lengthways, but only if the wardrobe goes on the wall furthest from the door, so you're not opening wardrobe doors into the bed. A slimline PAX wardrobe (35cm deep instead of the standard 58cm) buys back valuable centimetres here.
 
 **What doesn't work:** placing the bed under the window in a box room. It looks tidy in photos but blocks the window from opening fully and puts the headboard against cold glass in winter, which UK flats already struggle to heat evenly.
 

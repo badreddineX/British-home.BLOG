@@ -1,4 +1,4 @@
-const AFFILIATE_HOSTS = ['amzn.to', 'link.amazon', 'amazon.co.uk'];
+const AFFILIATE_HOSTS = ['amzn.to', 'amazon.co.uk'];
 
 /** @type {import('satteri').HastPluginDefinition} */
 const affiliateLinksPlugin = {

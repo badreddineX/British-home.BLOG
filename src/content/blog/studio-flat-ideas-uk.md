@@ -69,7 +69,7 @@ Whatever you use, paint or choose it the same colour as the walls. A divider tha
 
 One piece per job, and pick pieces that comfortably do two. The studio mistake is buying flexible furniture you never actually flex.
 
-- **Bed**: a real [bed with storage](https://link.amazon/B0a0carIf) if it fits, with storage drawers underneath or an ottoman lift. A sofa bed *only* if you'll fold it every single day — see the FAQ. A small double (120cm) instead of a full double (135cm) can be the difference that lets a sofa fit too.
+- **Bed**: a real [bed with storage](https://www.amazon.co.uk/s?k=bed+with+storage) if it fits, with storage drawers underneath or an ottoman lift. A sofa bed *only* if you'll fold it every single day — see the FAQ. A small double (120cm) instead of a full double (135cm) can be the difference that lets a sofa fit too.
 - **Sofa**: a two-seater, ideally with legs so the floor shows underneath and the room breathes. Skip the corner sofa — it eats a studio.
 - **Table**: a drop-leaf or wall-mounted fold-down table is desk, dining table and [worktop](/blog/budget-kitchen-cabinet-makeover-uk/) in one. Open for meals, half-open as a desk, flat to the wall the rest of the time. £40–£120.
 - **Storage**: vertical, against the walls, above waist height only at the edges of the room. The KALLAX divider does a lot of this; a tall narrow shelf unit in a corner does the rest.
@@ -93,10 +93,10 @@ Everything above works freestanding or ceiling-fixed. Here's a studio setup that
 
 | Item | Cost (approx) |
 | --- | --- |
-| [Room divider](https://link.amazon/B00llMDWc) / IKEA KALLAX 2x4 as bed divider + storage | £60–£75 |
+| [Room divider](https://www.amazon.co.uk/s?k=room+divider) / IKEA KALLAX 2x4 as bed divider + storage | £60–£75 |
 | Ceiling curtain track + blackout curtain | £15–£40 |
 | Freestanding clothes rail + fabric cover | £25–£55 |
-| [Foldable desk](https://link.amazon/B07Dh6Fk2) / drop-leaf table | £40–£120 |
+| [Foldable desk](https://www.amazon.co.uk/s?k=foldable+desk) / drop-leaf table | £40–£120 |
 | Two-seat sofa (second-hand / Facebook Marketplace) | £60–£200 |
 | Large leaning mirror | £30–£70 |
 | One large rug | £30–£90 |
