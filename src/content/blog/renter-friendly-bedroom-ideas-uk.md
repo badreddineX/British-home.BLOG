@@ -11,6 +11,7 @@ category: "Bedroom"
 relatedPosts:
   - "rented-flat-makeover-uk"
   - "small-bedroom-budget-uk"
+  - "bedroom-colour-ideas-uk"
 readTime: "11 min read"
 excerpt: "Six deposit-safe bedroom updates for UK renters, from Command strip gallery walls to peel-and-stick wallpaper, with real retailer prices and no drilling."
 tldr:
@@ -62,6 +63,8 @@ Choose one wall, usually the headboard wall, rather than the whole room. This li
 - Older period conversions with soft or flaking plaster are the main risk. Modern plasterboard walls are generally fine
 
 Most renters overestimate how risky peel-and-stick wallpaper is and underestimate how much a full wall of paint-effect wallpaper transforms a room compared with three framed prints. One accent wall does more for the room's mood than most of the smaller decor purchases on this list combined.
+
+Not sure which shade actually helps you sleep? See [Bedroom Colour Ideas UK](/blog/bedroom-colour-ideas-uk/) for which tones work by room aspect, and how to build the same scheme through bedding alone if you'd rather skip the wall entirely.
 
 ## Do Removable Border Decals Work as a Cheaper Alternative?
 

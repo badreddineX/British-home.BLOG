@@ -3,7 +3,7 @@ title: "Cheap Kitchen Makeover UK: 14 Affordable Ideas"
 description: "14 cheap kitchen upgrades for UK homes under £500 — paint cabinets, swap handles, add shelving, refresh worktops. Real costs from B&Q, IKEA, Wickes."
 image: "/images/pexels-1080721.jpg"
 datePublished: "2025-11-01"
-dateModified: "2026-08-29"
+dateModified: "2026-10-09"
 author: "Badreddine"
 tags: ["cheap kitchen UK", "cheap kitchen", "budget kitchens", "kitchen makeover budget", "kitchen on a budget UK", "budget kitchen ideas UK", "kitchen upgrade UK", "cheap kitchen makeover UK"]
 featured: false
@@ -24,6 +24,10 @@ faqs:
     a: "An affordable kitchen renovation means working with the existing layout and carcasses rather than a full refit — painting cabinets, swapping handles and taps, and adding open shelving. Done this way, a full budget kitchen refresh typically costs £150–£400, versus £8,000+ for a fitted replacement."
   - q: "How do budget kitchens compare to a full kitchen renovation?"
     a: "A budget kitchen makeover keeps the existing cabinet boxes, worktop, and layout, and changes only the surface elements — doors, handles, paint, and lighting. A full renovation replaces everything including plumbing and electrics. For most UK homes, a budget refresh delivers 70-80% of the visual impact at 2-5% of the cost."
+  - q: "What is the cheapest kitchen flooring in the UK?"
+    a: "Peel-and-stick vinyl floor tiles are the cheapest practical option, from £50-£90 for a standard 3m x 3m kitchen floor including the tiles themselves. Vinyl click flooring (£15-£25 per square metre) is the next step up and copes better with heavy daily use. Both go over most existing hard floors without removing what's underneath, and both are renter-removable if you need them to be."
+  - q: "Can you put new flooring over old kitchen tiles or vinyl?"
+    a: "In most cases, yes. Peel-and-stick vinyl tiles and click vinyl flooring can go directly over a sound, flat existing floor — old sheet vinyl or ceramic tile — as long as it isn't lifting, cracked, or uneven. A badly damaged or uneven subfloor needs levelling compound first, but that's still far cheaper than ripping up the original floor."
 ---
 
 
@@ -200,11 +204,25 @@ Pair a new sink with the tap upgrade from point four and you've replaced the ent
 
 ---
 
-## Paint or Tile the Floor
+## What's the Cheapest Way to Update Kitchen Flooring?
 
-Dated sheet vinyl or ceramic tile can be refreshed with specialist floor paint for a short-term fix, or replaced with peel-and-stick vinyl tiles — £50–£90 for a standard 3m x 3m kitchen floor, no adhesive needed, and renter-removable.
+A worn kitchen floor is one of the most common things people assume needs a full replacement, when it almost never does. Three options cover most budgets, and none of them require lifting the existing floor first.
 
-For the renter-friendly version of these fixes, see [Rental Kitchen Upgrade Ideas UK](/blog/rental-kitchen-upgrade-ideas-uk/).
+**Peel-and-stick vinyl tiles** are the cheapest route: £50–£90 for a standard 3m x 3m kitchen floor, no adhesive or tools needed, and they go straight over sound existing vinyl or tile. They're also fully renter-removable, which makes them the default choice if you don't own the place.
+
+**Click vinyl flooring** costs more — £15–£25 per square metre — but handles heavy daily kitchen traffic better over time and looks closer to real wood or stone from a short distance. It floats over the existing floor rather than sticking to it, so it's still reversible, just a bigger job to lay (a full weekend rather than an afternoon).
+
+**Specialist floor paint** is the short-term option for tired ceramic tile or vinyl you're not ready to cover yet. A tin of floor paint (around £30–£45 for enough to cover a kitchen floor) buys another year or two before you need to commit to either of the above, but it wears faster underfoot than either flooring option and needs recoating sooner than you'd expect.
+
+| Option | Typical cost | Best for |
+|---|---|---|
+| Specialist floor paint | £30–£45 | A short-term refresh before a bigger decision |
+| Peel-and-stick vinyl tiles | £50–£90 (3m x 3m) | Renters, and anyone wanting the quickest fix |
+| Click vinyl flooring | £15–£25 per m² | Heavier daily use, a more durable finish |
+
+Check the existing floor is flat and sound before laying either vinyl option — a cracked or seriously uneven subfloor needs a thin layer of self-levelling compound first, which adds roughly £20–£30 to the job but prevents the new flooring telegraphing every dip and crack underneath.
+
+For the fully renter-friendly version of this and every other change on this list, see [Rental Kitchen Upgrade Ideas UK](/blog/rental-kitchen-upgrade-ideas-uk/).
 
 ---
 

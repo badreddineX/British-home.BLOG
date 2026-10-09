@@ -11,6 +11,7 @@ category: "Living Room"
 relatedPosts:
   - "rented-flat-makeover-uk"
   - "small-living-room-ideas-uk"
+  - "living-room-colour-schemes-uk"
 readTime: "9 min read"
 excerpt: "12 renter-friendly living room ideas for UK flats, from £8 Command hooks to a £30 rug layer, all deposit-safe and reversible on moving day."
 tldr:
@@ -55,6 +56,8 @@ If a change fails any of these, skip it, no matter how good it looks in a photo.
 Behind a sofa, a soft sage botanical print from B&Q can transform the whole room for about £45 across three rolls. Test a corner behind the sofa first and leave it a week before committing to the full wall, since some plaster takes adhesive better than others.
 
 **Where to buy:** B&Q, Wilko, and Amazon UK all stock peel-and-stick ranges from £15 a roll. Choose a matte finish over a textured one; textured surfaces sometimes leave faint marks on removal.
+
+For picking the actual colour or pattern — which shades suit which aspect, and how to layer colour through cushions and rugs if you'd rather not commit to a wall at all — see [Living Room Colour Schemes UK](/blog/living-room-colour-schemes-uk/).
 
 **A few things to know:**
 - Apply to a clean, dry, painted wall, never over fresh paint (wait at least four weeks after any repaint)

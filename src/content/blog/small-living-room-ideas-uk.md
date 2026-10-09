@@ -26,6 +26,10 @@ faqs:
     a: "Warm neutrals and soft whites work best in small rooms — Dulux Goose Down, Crown Fossil, or Farrow & Ball Pavilion Grey. Dark colours can work in small rooms if the lighting is excellent, but they're less forgiving. Avoid cool greys in north-facing UK rooms as they read flat and cold."
   - q: "How do I decorate a very small living room?"
     a: "In a very small living room (under 12 square metres), the priority order changes: get the sofa off the wall it shares with the door, use a two-seater or a corner sofa rather than a three-seater, hang curtains at ceiling height and let them cover the wall either side of the window, and add one large mirror opposite the light source. Skip the coffee table for nesting tables or a small round side table. One larger piece of furniture always reads better than several small ones fighting for the floor."
+relatedPosts:
+  - "small-living-room-layout-ideas"
+  - "renter-friendly-living-room-ideas-uk"
+  - "living-room-colour-schemes-uk"
 ---
 
 
@@ -106,6 +110,8 @@ Warm neutrals like Dulux Goose Down, at around £22 for 2.5L from B&Q, avoid the
 Warm neutrals — Dulux Goose Down, Crown Fossil, Farrow & Ball Pavilion Grey (which despite its name reads very warm) — work better. They add warmth, they read as brighter than they are because warm tones respond well to lamplight in the evening, and they don't draw attention to the room's limited size the way that a very particular or saturated colour might.
 
 Warm neutral paint — Dulux Goose Down ~£22 per 2.5L from B&Q.
+
+For a full colour scheme rather than just the base wall colour — secondary and accent colours, and what to do if you can't paint at all — see [Living Room Colour Schemes UK](/blog/living-room-colour-schemes-uk/).
 
 ---
 
