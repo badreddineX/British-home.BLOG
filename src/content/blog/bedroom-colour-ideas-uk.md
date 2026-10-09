@@ -33,9 +33,9 @@ relatedPosts:
   - "living-room-colour-schemes-uk"
 ---
 
-A bedroom colour has one job the rest of the house doesn't: it needs to help you fall asleep in it, not just look good in daylight photos. A colour that's lively and energising in a kitchen can be the exact wrong choice for a bedroom, however good it looks on the paint chart.
+The best bedroom colours for sleep are muted, low-saturation tones — sage green, dusty blue, warm taupe, or a soft off-white like Dulux Goose Down — rather than bright or highly saturated colours, whatever the paint tin's name suggests.
 
-These are 9 bedroom colour ideas that actually work for sleep in a typical British bedroom, with named Dulux and Farrow & Ball paints matched to your room's light, plus how to build the same look without painting if you're renting.
+A bedroom colour has one job the rest of the house doesn't: it needs to help you fall asleep in it, not just look good in daylight photos. Below are 9 bedroom colour ideas that actually work for sleep in a typical British bedroom, with named Dulux and Farrow & Ball paints matched to your room's light, plus how to build the same look without painting if you're renting.
 
 ---
 

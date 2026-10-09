@@ -33,9 +33,9 @@ relatedPosts:
   - "bedroom-colour-ideas-uk"
 ---
 
-Most living room colour advice is written for a converted barn with floor-to-ceiling south-facing glass. Yours is probably a north-facing Victorian terrace, a new-build with one window, or a rented flat where painting isn't on the table at all. The colour scheme that works depends almost entirely on which of those you're dealing with — not on whatever's trending this year.
+The living room colour that works depends on which way your windows face, more than anything else: north-facing rooms need warm shades like Dulux Goose Down or Dulux Heritage Rich Mahogany; south and west-facing rooms can carry cooler tones like Little Greene Dock Blue or a true grey without looking cold.
 
-These are 11 living room colour schemes that hold up in real British light, grouped by room aspect, with named Dulux and Farrow & Ball paints rather than vague colour categories. If you're renting, skip to the no-paint version near the end.
+Most living room colour advice ignores this and is written for a converted barn with floor-to-ceiling south-facing glass. Yours is probably a north-facing Victorian terrace, a new-build with one window, or a rented flat where painting isn't on the table at all. Below are 11 living room colour schemes grouped by room aspect, with named Dulux and Farrow & Ball paints rather than vague colour categories. If you're renting, skip to the no-paint version near the end.
 
 ---
 
