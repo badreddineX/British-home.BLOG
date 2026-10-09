@@ -50,7 +50,7 @@ There are two types you'll encounter in UK rentals:
 
 **Smart prepayment meters (SMETS2)** work on the same prepay principle but allow you to top up remotely — via your supplier's app, online, by phone, or at PayPoint. The credit is sent to the meter over the wireless network. Most smart prepayment meters also have an in-home display (IHD) that shows your balance, daily spend, and remaining credit in real time.
 
-The key difference for renters: smart meters make prepayment far less inconvenient. No trips to the shop in the rain. No forgetting the key at work. No coming home to a cold, dark flat because the corner shop was closed. If your rented flat still has a traditional prepayment meter, requesting a smart meter upgrade from your supplier is free and usually takes one engineer visit.
+The key difference for renters: smart meters make prepayment far less inconvenient. No trips to the shop in the rain. No forgetting the key at work. No coming home to a cold, dark flat because the corner shop was closed. If your [rented flat](/blog/rented-flat-makeover-uk) still has a traditional prepayment meter, requesting a smart meter upgrade from your supplier is free and usually takes one engineer visit.
 
 ---
 

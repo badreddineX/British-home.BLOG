@@ -89,7 +89,7 @@ Storage in a box room can't follow normal bedroom rules. There isn't room for a 
 
 **Under-bed storage is non-negotiable.** If your bed frame doesn't have built-in drawers, get a bed with enough clearance for rolling storage boxes underneath. The IKEA MALM bed frame with built-in drawers (from around £229 for a single) is purpose-built for this. Alternatively, vacuum storage bags under a divan bed compress duvets and seasonal clothes to a fraction of their size.
 
-**Vertical storage on every wall.** Floating shelves above the bed, above the desk, above the door. A slim wall-mounted bookcase (the IKEA BILLY at 28cm deep fits on most box room walls without blocking the walking path). In rented places, tall freestanding shelving units like the IKEA KALLAX 1x4 (42cm wide, 147cm tall) lean against a wall and hold a surprising amount.
+**[Vertical storage](/blog/vertical-storage-ideas-uk-flats) on every wall.** Floating shelves above the bed, above the desk, above the door. A slim wall-mounted bookcase (the IKEA BILLY at 28cm deep fits on most box room walls without blocking the walking path). In rented places, tall freestanding shelving units like the IKEA KALLAX 1x4 (42cm wide, 147cm tall) lean against a wall and hold a surprising amount.
 
 **Over-door organisers.** The back of the door is dead space in every room, but in a box room it's premium storage. A fabric over-door organiser with pockets (around £8-12 from Dunelm or Amazon) holds shoes, accessories, stationery, or baby supplies depending on how you use the room.
 
@@ -127,7 +127,7 @@ Beyond colour and lighting, several other decisions affect how spacious a box ro
 
 **Use the same flooring as the [hallway](/blog/hallway-decor-ideas-uk).** If your box room has different flooring to the corridor outside, the visual break at the doorway makes the room feel like a separate, contained space. Matching flooring (or a runner that continues the hallway look) creates flow and borrows perceived space from outside.
 
-**Door swing.** If the door opens inward and hits the bed or the desk, switch the handle so it opens outward, or replace it with a sliding door if the hallway allows it. A door that can't open fully makes the room feel cramped every time you enter it.
+**Door swing.** If the door opens inward and hits the bed or the desk, switch the handle so it opens outward, or replace it with a sliding door if the [hallway](/blog/hallway-decor-ideas-uk) allows it. A door that can't open fully makes the room feel cramped every time you enter it.
 
 **Curtain rod above the frame.** If you do use curtains, mount the rod as close to the ceiling as possible and extend it 10-15cm past each side of the window frame. This makes the window appear larger than it is and lets you stack the curtain fabric entirely off the glass when open.
 

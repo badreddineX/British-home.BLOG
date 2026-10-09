@@ -59,7 +59,7 @@ Write these numbers down before opening a single furniture website. The most com
 
 ## L-Shaped Living Rooms
 
-L-shaped living rooms turn up in two situations: conversions where a wall was partially removed, and flats where the room wraps around a hallway or bathroom. The short arm of the L is almost always the problem — too narrow for a full seating area, too wide to ignore.
+L-shaped living rooms turn up in two situations: conversions where a wall was partially removed, and flats where the room wraps around a [hallway](/blog/hallway-decor-ideas-uk) or bathroom. The short arm of the L is almost always the problem — too narrow for a full seating area, too wide to ignore.
 
 **How to lay it out:**
 

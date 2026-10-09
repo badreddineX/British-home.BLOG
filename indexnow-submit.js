@@ -15,6 +15,7 @@ const urlList = [
   "https://britishhomeinterior.co.uk/blog/bedroom-colour-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/budget-kitchen-cabinet-makeover-uk/",
   "https://britishhomeinterior.co.uk/blog/budget-kitchen-splashback-tile-ideas-uk/",
+  "https://britishhomeinterior.co.uk/blog/cosy-bedroom-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/damp-mould-renters-guide-uk/",
   "https://britishhomeinterior.co.uk/blog/deposit-deductions-uk/",
   "https://britishhomeinterior.co.uk/blog/electric-prepayment-meter-rented-flat-uk/",
@@ -32,12 +33,14 @@ const urlList = [
   "https://britishhomeinterior.co.uk/blog/small-bathroom-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/small-bedroom-budget-uk/",
   "https://britishhomeinterior.co.uk/blog/small-bedroom-layout-ideas-uk/",
+  "https://britishhomeinterior.co.uk/blog/small-bedroom-storage-uk/",
   "https://britishhomeinterior.co.uk/blog/small-box-room-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/small-living-room-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/small-living-room-layout-ideas/",
   "https://britishhomeinterior.co.uk/blog/studio-flat-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/terraced-house-hallway-ideas-uk/",
   "https://britishhomeinterior.co.uk/blog/utility-room-ideas-uk/",
+  "https://britishhomeinterior.co.uk/blog/vertical-storage-ideas-uk-flats/",
 ];
 
 async function main() {

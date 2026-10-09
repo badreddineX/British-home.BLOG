@@ -61,7 +61,7 @@ The application itself takes an afternoon rather than a weekend. Clean the exist
 
 Removal, when moving-out day arrives, is just as straightforward. Warm the edge gently with a hairdryer, then peel slowly from one corner. On painted plaster or existing ceramic tile, this leaves no mark behind. It's worth testing a small offcut in a hidden spot first, particularly on older tile grout, before committing to the full [splashback](/blog/budget-kitchen-splashback-tile-ideas-uk).
 
-In short: self-adhesive splashback tile sheets from UK retailers such as Dunelm and Amazon cost £20–£45 per kitchen and apply directly over existing tile or painted wall with no drilling required, according to product specifications published by leading peel-and-stick tile brands including Vinyltiles (2024).
+In short: self-adhesive [splashback](/blog/budget-kitchen-splashback-tile-ideas-uk) tile sheets from UK retailers such as Dunelm and Amazon cost £20–£45 per kitchen and apply directly over existing tile or painted wall with no drilling required, according to product specifications published by leading peel-and-stick tile brands including Vinyltiles (2024).
 
 If your kitchen has bare wall instead of tile behind the hob, the same sheets work there too, just on a smooth painted surface rather than over existing grout lines.
 

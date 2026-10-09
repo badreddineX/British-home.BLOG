@@ -141,7 +141,7 @@ This is the rental equivalent of changing cushion covers: small, reversible, and
 
 New handles cost £2-£4 each from B&Q, or from ~£18 for a coordinated set of 10 on [Amazon UK](https://link.amazon/B0boTgVvf), and the whole swap takes about 20 minutes with a screwdriver. Keep the original handles in a bag and reinstall them when you leave.
 
-This also works on interior doors if your rented flat has builder-standard white lever handles. A set of matte black door handles from B&Q (~£6-£8 each) changes the entire feel of the hallway and every room it leads to. Store the originals carefully. Reinstall on exit. No deposit impact. For more kitchen-specific upgrades in the same range, see [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/).
+This also works on interior doors if your rented flat has builder-standard white lever handles. A set of matte black door handles from B&Q (~£6-£8 each) changes the entire feel of the [hallway](/blog/hallway-decor-ideas-uk) and every room it leads to. Store the originals carefully. Reinstall on exit. No deposit impact. For more kitchen-specific upgrades in the same range, see [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/).
 
 ---
 

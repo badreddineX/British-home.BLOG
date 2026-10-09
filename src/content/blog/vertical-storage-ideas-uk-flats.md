@@ -55,7 +55,7 @@ An over-door organiser (£10-£20, Dunelm or Amazon) hangs over the top of any s
 
 ### 3. Command Strip Hook Rails
 
-A row of Command strip hooks (£8-£15 for a set of 6-8) along a hallway or bedroom wall turns dead vertical space into hanging storage for bags, coats, or kitchen utensils. Weight-rated per hook, so check the pack before hanging anything heavy.
+A row of Command strip hooks (£8-£15 for a set of 6-8) along a [hallway](/blog/hallway-decor-ideas-uk) or bedroom wall turns dead vertical space into hanging storage for bags, coats, or kitchen utensils. Weight-rated per hook, so check the pack before hanging anything heavy.
 
 ### 4. Freestanding Ladder Shelves
 
@@ -71,7 +71,7 @@ A tall, narrow bookcase (IKEA BILLY from ~£55) against any spare stretch of wal
 
 ### 7. Over-the-Toilet Ladder Shelving
 
-In a small bathroom, a freestanding ladder unit or tension rod positioned over the toilet cistern uses the one vertical gap almost every small UK bathroom has spare. See [small bathroom ideas UK](/blog/small-bathroom-ideas-uk/) for the full bathroom-specific version.
+In a [small bathroom](/blog/small-bathroom-ideas-uk), a freestanding ladder unit or tension rod positioned over the toilet cistern uses the one vertical gap almost every small UK bathroom has spare. See [small bathroom ideas UK](/blog/small-bathroom-ideas-uk/) for the full bathroom-specific version.
 
 ### 8. Stackable Storage Cubes
 
