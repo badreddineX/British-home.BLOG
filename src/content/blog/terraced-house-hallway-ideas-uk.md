@@ -32,7 +32,7 @@ relatedPosts:
   - small-living-room-ideas-uk
 ---
 
-The terraced house hallway is one of the hardest rooms to get right in the UK. It's narrow, it's dark, and every member of the household dumps coats, shoes and bags in it twice a day.
+The terraced house [hallway](/blog/hallway-decor-ideas-uk) is one of the hardest rooms to get right in the UK. It's narrow, it's dark, and every member of the household dumps coats, shoes and bags in it twice a day.
 
 Most hallway inspiration online assumes you have a wide American foyer or a Scandinavian-style open-plan entrance. Neither applies here. A standard Victorian terrace gives you a corridor roughly 90cm wide and 4-5 metres long with no natural light beyond whatever filters through the front door glass. Edwardian terraces are marginally wider; 1930s semis shift the staircase back but still leave a tight entry.
 

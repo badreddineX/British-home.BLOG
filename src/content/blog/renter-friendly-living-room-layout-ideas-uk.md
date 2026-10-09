@@ -44,7 +44,7 @@ Before moving anything, measure three things:
 
 1. **The room itself.** Length, width, and the position of every door, window, radiator, and socket. Sketch it on graph paper or use a free app like MagicPlan.
 2. **The doorways.** UK standard internal doors are 762mm wide (just under 30 inches). The frame and trim reduce the clear opening to roughly 720-740mm. If you have a Victorian terrace, the doors may be even narrower.
-3. **The hallway and stairwell.** A sofa that fits through the living room door still has to get past the front door, through the hallway, and around any corners. Delivery teams typically refuse to attempt furniture wider than 77cm at its narrowest packed dimension.
+3. **The [hallway](/blog/hallway-decor-ideas-uk) and stairwell.** A sofa that fits through the living room door still has to get past the front door, through the hallway, and around any corners. Delivery teams typically refuse to attempt furniture wider than 77cm at its narrowest packed dimension.
 
 Write these numbers down before opening a single furniture website. The most common layout mistake in UK rentals is buying a three-seater sofa that physically cannot enter the room.
 

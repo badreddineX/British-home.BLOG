@@ -77,7 +77,7 @@ IKEA's KALLAX shelving unit (from ~£45 for the 2x2 configuration, ~£115 for th
 
 IKEA's BILLY bookcase (from ~£55) gives height and vertical structure to any room. A pair of identical units flanking a sofa or bed creates a built-in look without any building work. For [bedroom ideas](/blog/small-bedroom-budget-uk/), a freestanding wardrobe (IKEA PAX from ~£115 without doors) frequently provides better storage than the built-in alternatives in older rented flats — and it moves with you when you leave.
 
-A console table (from ~£45 at Wayfair) in the hallway defines the entrance and provides both surface and storage. It's the hallway version of what a rug does for the living room: it makes the space feel deliberate rather than transitional.
+A console table (from ~£45 at Wayfair) in the [hallway](/blog/hallway-decor-ideas-uk) defines the entrance and provides both surface and storage. It's the hallway version of what a rug does for the living room: it makes the space feel deliberate rather than transitional.
 
 ---
 

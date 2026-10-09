@@ -94,7 +94,7 @@ A galley feels like a corridor when the eye keeps hitting edges and shadows. Smo
 - **Open shelves on at least one run.** Two solid walls of cupboard to the ceiling is what makes a galley claustrophobic. Swapping one side's wall cabinets for open shelves or a plate rack lifts the visual weight. [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) covers this look with freestanding and open pieces.
 - **Floorboards or planks laid lengthways**, down the room rather than across it, pull the eye to the far end and make the space feel deeper.
 - Wall cabinets throw the worktop into shadow; a strip of LED underneath (stick-on battery or plug-in, £10 to £30 a run) puts light where you chop and makes the whole kitchen feel less like a cupboard.
-- **A larger splashback tile or a sheet splashback** rather than small mosaics — fewer grout lines is calmer in a tight space.
+- **A larger [splashback](/blog/budget-kitchen-splashback-tile-ideas-uk) tile or a sheet splashback** rather than small mosaics — fewer grout lines is calmer in a tight space.
 
 ## What Can Renters Change in a Galley Kitchen?
 
@@ -172,7 +172,7 @@ Do the lighting and the paint first — between them they fix the two things tha
 
 ## How Do You Deal With Cooking Smells in a Galley?
 
-A galley kitchen is enclosed on two sides and often has no window or only a small one at the end. Cooking smells and steam have nowhere to go, and in a rented flat with no extractor fan, grease settles on every surface within weeks.
+A galley kitchen is enclosed on two sides and often has no window or only a small one at the end. Cooking smells and steam have nowhere to go, and in a [rented flat](/blog/rented-flat-makeover-uk) with no extractor fan, grease settles on every surface within weeks.
 
 - **If you have an extractor fan, use it.** Sounds obvious, but many renters never switch it on because it's noisy. Run it for 10 minutes after cooking, not just during. If the filters are clogged, a replacement charcoal filter from Amazon UK or Screwfix costs £8–£15 and takes five minutes to swap.
 - **If you don't have one,** open the end window and put a small desk fan on the worktop near the hob, aimed toward the window. This creates a cross-draft that pulls steam and cooking smells out rather than letting them coat the cabinets.

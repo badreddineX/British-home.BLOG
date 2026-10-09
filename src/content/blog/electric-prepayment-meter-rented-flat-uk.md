@@ -32,7 +32,7 @@ relatedPosts:
   - first-time-renter-flat-setup-checklist-uk
 ---
 
-If you've just moved into a rented flat and found a prepayment meter under the stairs or mounted on the wall, you're not alone. Prepayment meters are disproportionately common in UK rental properties — particularly in older housing stock, lower-income areas, and flats where previous tenants had energy debt.
+If you've just moved into a [rented flat](/blog/rented-flat-makeover-uk) and found a prepayment meter under the stairs or mounted on the wall, you're not alone. Prepayment meters are disproportionately common in UK rental properties — particularly in older housing stock, lower-income areas, and flats where previous tenants had energy debt.
 
 The short answer to whether you're stuck with it: **you're not.** You have a legal right to request a switch, your landlord cannot override that, and under current Ofgem rules, prepayment meter rates are now aligned with direct debit. But the practical reality is more nuanced than that, and understanding how the system actually works will save you both money and frustration.
 

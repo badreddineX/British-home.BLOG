@@ -125,7 +125,7 @@ Beyond colour and lighting, several other decisions affect how spacious a box ro
 
 **Clear the floor.** Everything that can go on the wall or under the bed should. A visible floor area, even a small one, registers as space. A floor covered in bags, shoes, and stacked boxes registers as clutter regardless of the room's actual size.
 
-**Use the same flooring as the hallway.** If your box room has different flooring to the corridor outside, the visual break at the doorway makes the room feel like a separate, contained space. Matching flooring (or a runner that continues the hallway look) creates flow and borrows perceived space from outside.
+**Use the same flooring as the [hallway](/blog/hallway-decor-ideas-uk).** If your box room has different flooring to the corridor outside, the visual break at the doorway makes the room feel like a separate, contained space. Matching flooring (or a runner that continues the hallway look) creates flow and borrows perceived space from outside.
 
 **Door swing.** If the door opens inward and hits the bed or the desk, switch the handle so it opens outward, or replace it with a sliding door if the hallway allows it. A door that can't open fully makes the room feel cramped every time you enter it.
 

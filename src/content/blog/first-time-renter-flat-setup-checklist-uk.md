@@ -26,7 +26,7 @@ faqs:
     a: "Your landlord must place your deposit in a government-backed tenancy deposit scheme (TDS, DPS, or mydeposits) within 30 days of receiving it. If they do not, you can claim up to 3 times the deposit amount through the courts. Ask for the scheme certificate and keep it."
 ---
 
-Moving into your first rented flat is one of those milestones that feels exciting until you realise nobody teaches you how to actually do it. The keys are in your hand, the flat is empty, and there is a surprisingly long list of practical tasks between "I have a flat" and "I live here comfortably."
+Moving into your first [rented flat](/blog/rented-flat-makeover-uk) is one of those milestones that feels exciting until you realise nobody teaches you how to actually do it. The keys are in your hand, the flat is empty, and there is a surprisingly long list of practical tasks between "I have a flat" and "I live here comfortably."
 
 This checklist covers everything a first-time renter in the UK needs to handle, organised by when to do it: before move-in day, on the day itself, and during the first week.
 
