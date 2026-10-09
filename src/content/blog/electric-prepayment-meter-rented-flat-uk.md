@@ -185,7 +185,7 @@ If you're struggling with energy costs, several UK government and supplier schem
 
 ## What to Do When You First Move In
 
-When you pick up the keys to a rented flat with a prepayment meter:
+When you pick up the keys to a [rented flat](/blog/rented-flat-makeover-uk) with a prepayment meter:
 
 1. **Take a meter reading immediately.** Photograph the meter display showing the current reading and any outstanding debt. Send this to your supplier so you're not charged for the previous tenant's usage.
 2. **Find out who supplies the property.** If you don't know, call the Meter Point Administration Service (MPAS) on 0870 608 1524 for electricity, or Xoserve on 0870 608 1524 for gas. They'll tell you which supplier is registered.

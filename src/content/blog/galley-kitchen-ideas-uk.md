@@ -42,7 +42,7 @@ A galley kitchen is the most efficient layout there is — everything is one piv
 
 ## What Counts as a Galley Kitchen?
 
-A galley kitchen has worktop and units along two parallel walls with a walkway between them. A version with units on one wall only and a clear walkway opposite is a single galley.
+A galley kitchen has [worktop](/blog/budget-kitchen-worktop-makeover-uk) and units along two parallel walls with a walkway between them. A version with units on one wall only and a clear walkway opposite is a single galley.
 
 It's the default shape for a lot of British homes:
 
@@ -103,7 +103,7 @@ Almost everything that matters, without touching the carcasses. A galley is smal
 - **Paint the doors and frames** with a cabinet-specific paint (Rust-Oleum, Frenchic, Johnstone's — about £20 to £30 a tin, enough for a galley). Degrease, light sand, two coats. This is the change people notice first.
 - **Swap every handle.** A galley might have 12 to 16 handles; at £2 to £5 each that's £30 to £70 to completely change the feel. Keep the originals in a bag for moving day.
 - **Peel-and-stick [splashback](/blog/budget-kitchen-splashback-tile-ideas-uk).** A galley run is short, so £15 to £40 of vinyl tile or a splashback panel covers it. Comes off with a hairdryer and slow peeling.
-- **Tension rod and clip-on lights.** A rail along the splashback and stick-on under-cabinet LEDs — no drilling, both reversible.
+- **Tension rod and clip-on lights.** A rail along the [splashback](/blog/budget-kitchen-splashback-tile-ideas-uk) and stick-on under-cabinet LEDs — no drilling, both reversible.
 - **A freestanding [slim kitchen trolley](https://link.amazon/B0aAAazIN)** at the open end of the galley for the storage the units don't give you.
 
 For the full renter kit and what's worth doing in a rented kitchen, [rental kitchen upgrade ideas UK](/blog/rental-kitchen-upgrade-ideas-uk/) has the complete list.

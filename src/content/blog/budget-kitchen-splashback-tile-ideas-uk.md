@@ -81,7 +81,7 @@ If budget allows the step up, acrylic behind a hob genuinely looks like a fitted
 
 The most common cause of early peeling is grease left on the wall before application, so a thorough degrease with sugar soap is the single step people skip most often. Get this wrong and even the best sheets lift within weeks.
 
-**Measure first.** Measure the width and height of the area between your worktop and the underside of your wall units, then add roughly 5% extra to account for pattern matching at the edges. Most splashback runs behind a single hob need between 0.6 and 1.2 square metres of coverage.
+**Measure first.** Measure the width and height of the area between your [worktop](/blog/budget-kitchen-worktop-makeover-uk) and the underside of your wall units, then add roughly 5% extra to account for pattern matching at the edges. Most splashback runs behind a single hob need between 0.6 and 1.2 square metres of coverage.
 
 **Clean properly.** Wipe the entire wall down with sugar soap (around £3 from B&Q or Screwfix) and a clean cloth, then let it dry fully. Kitchen walls near a hob accumulate a fine layer of cooking grease even if they look clean, and that residue stops adhesive backing from bonding properly.
 

@@ -61,7 +61,9 @@ const skipLine = (l) =>
   /^\s{0,3}>/.test(l) ||               // blockquote
   /^\s{0,3}!\[/.test(l) ||             // image
   /^\s*\|/.test(l) ||                  // table row
-  /^\s{0,3}(```|~~~)/.test(l);         // fence marker
+  /^\s{0,3}(```|~~~)/.test(l) ||       // fence marker
+  /^\s*<\/?[a-zA-Z]/.test(l);          // raw HTML/SVG tag line (e.g. <desc>, <svg>, <figure>) — a
+                                        // markdown link inserted here renders as literal text, not a link
 
 let totalLinks = 0;
 const perPost = [];

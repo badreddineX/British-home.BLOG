@@ -50,7 +50,7 @@ Read more: [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same 
 
 ## How Small Can a Utility Room Actually Be?
 
-A utility room needs about 1.5 to 1.8 square metres to work as a room — space for the appliance, a worktop above it, and enough clearance to open the door and stand in front of the machine. Below that, stop thinking "room" and start thinking "cupboard."
+A utility room needs about 1.5 to 1.8 square metres to work as a room — space for the appliance, a [worktop](/blog/budget-kitchen-worktop-makeover-uk) above it, and enough clearance to open the door and stand in front of the machine. Below that, stop thinking "room" and start thinking "cupboard."
 
 A utility cupboard is a 60cm-wide unit, deep enough to take a washing machine (so at least 60cm deep, ideally 65cm), with the machine at the bottom, a fixed shelf or two above, and a folding or curtained front. In a UK terrace or a flat, this is often the only realistic option, and it works fine — nationally described space standards for new homes don't require a separate utility room at all, which is why so few flats have one.
 

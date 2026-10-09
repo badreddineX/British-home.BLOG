@@ -71,9 +71,9 @@ For permanent-change equivalents if you own your kitchen or have full landlord s
 
 ## Can You Cover a Dated Worktop Without Replacing It?
 
-Yes. Self-adhesive [contact paper](https://link.amazon/B0boTgVvf) or worktop film covers a dated or damaged laminate worktop for £20–£30 and lifts off completely at the end of a tenancy, unlike a replaced or painted worktop which can't be reversed. Rolls from Dunelm and Amazon UK come in marble, concrete, and wood-effect finishes designed specifically for flat surfaces.
+Yes. Self-adhesive [contact paper](https://link.amazon/B0boTgVvf) or [worktop](/blog/budget-kitchen-worktop-makeover-uk) film covers a dated or damaged laminate worktop for £20–£30 and lifts off completely at the end of a tenancy, unlike a replaced or painted worktop which can't be reversed. Rolls from Dunelm and Amazon UK come in marble, concrete, and wood-effect finishes designed specifically for flat surfaces.
 
-The film works best on a worktop that's structurally sound but cosmetically tired, think burn marks, faded laminate, or a colour you simply can't live with for another year. Wipe the surface down, apply the film in one continuous pull working from one end, and smooth out bubbles with the same credit-card technique used for splashback tiles.
+The film works best on a worktop that's structurally sound but cosmetically tired, think burn marks, faded laminate, or a colour you simply can't live with for another year. Wipe the surface down, apply the film in one continuous pull working from one end, and smooth out bubbles with the same credit-card technique used for [splashback](/blog/budget-kitchen-splashback-tile-ideas-uk) tiles.
 
 It won't withstand a hot pan set directly on it, so a trivet is worth keeping nearby. But for everyday use, a well-applied worktop film convincingly disguises a tired surface and peels away cleanly whenever you're ready to move out.
 

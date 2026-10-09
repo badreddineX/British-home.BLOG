@@ -44,7 +44,7 @@ Here is what actually works, in the order it matters most.
 
 ## Terraced House Hallway Dimensions: What You're Working With
 
-Before buying anything, measure your hallway. Not roughly — properly, wall to wall at its narrowest point, usually beside the radiator or at the foot of the stairs.
+Before buying anything, measure your [hallway](/blog/hallway-decor-ideas-uk). Not roughly — properly, wall to wall at its narrowest point, usually beside the radiator or at the foot of the stairs.
 
 **Victorian terraces (1840s-1900s):** Hallways typically run 85-100cm wide and 4-5m long. The front door opens directly onto the corridor. The staircase rises immediately to the right or left, eating into the width. Ceiling height is generous at 2.7-3m, which is the one advantage.
 

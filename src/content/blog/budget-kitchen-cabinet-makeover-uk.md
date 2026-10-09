@@ -28,6 +28,11 @@ faqs:
     a: "Rust-Oleum Kitchen Cupboard Paint (around £18 per tin) is the most durable consumer option. Frenchic Al Fresco and Farrow & Ball Estate Eggshell also work well on properly primed surfaces."
   - q: "Is it worth painting kitchen cupboards UK?"
     a: "Yes — especially on solid wood or MDF doors. Painting saves thousands versus replacing units and can last 5–7 years with proper prep and the right paint. Avoid painting thermofoil or laminate doors without specialist primer."
+relatedPosts:
+  - "kitchen-on-a-budget-uk"
+  - "budget-kitchen-worktop-makeover-uk"
+  - "budget-kitchen-splashback-tile-ideas-uk"
+  - "galley-kitchen-ideas-uk"
 ---
 
 Her kitchen units were structurally fine, just dated: orange pine doors from the early 2000s, brass handles, the works. We spent an evening going through every option, and the price differences genuinely surprised her.
@@ -107,7 +112,7 @@ Vinyl wrap suits renters, anyone unsure about committing to a colour, or kitchen
 
 Replacement cabinet doors that fit your existing carcass cost £800–£2,500 for an average UK kitchen, roughly a third of the price of a full unit replacement. Companies including Kitchen Door Workshop and B&Q's made-to-measure door service both offer this service.
 
-The principle is straightforward: your existing cabinet boxes (the carcasses) stay bolted to the wall and floor exactly where they are. Only the doors, drawer fronts, and sometimes the worktop get swapped. This avoids the biggest costs in a kitchen renovation: new carcasses, re-plumbing, and re-wiring behind the units.
+The principle is straightforward: your existing cabinet boxes (the carcasses) stay bolted to the wall and floor exactly where they are. Only the doors, drawer fronts, and sometimes the [worktop](/blog/budget-kitchen-worktop-makeover-uk) get swapped. This avoids the biggest costs in a kitchen renovation: new carcasses, re-plumbing, and re-wiring behind the units.
 
 A full new fitted kitchen with carcasses, doors, and worktop typically starts around £4,000–£6,000 for a modest UK kitchen and climbs well beyond that for larger spaces or premium finishes. Replacement doors alone land at £800–£2,500 for the same footprint, which is why this option appeals to anyone whose layout still works but whose doors look dated or damaged.
 

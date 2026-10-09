@@ -24,6 +24,11 @@ faqs:
     a: "Yes. Everything on this list — bulbs, fairy lights, throws, cushions, rugs, curtains on a tension rod, candles — is freestanding, plug-in, or fixing-free. None of it needs landlord permission or risks a deposit deduction."
   - q: "What colour bulb is best for a cosy bedroom?"
     a: "Warm white, labelled 2700K on UK packaging, not cool white or daylight bulbs (4000K and above). The lower colour temperature reads as warmer and softer, and it's the single biggest lighting factor in whether a bedroom feels cosy or clinical."
+relatedPosts:
+  - "renter-friendly-bedroom-ideas-uk"
+  - "small-bedroom-budget-uk"
+  - "bedroom-colour-ideas-uk"
+  - "bedroom-makeover-uk"
 ---
 
 Warm, dim, layered light does more for a cosy bedroom than any single piece of furniture — swapping a cool-white overhead bulb for a 2700K warm one changes the feel of a room more than most people expect, and it costs the price of a lightbulb.

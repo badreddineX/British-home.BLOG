@@ -28,12 +28,17 @@ faqs:
     a: "Peel-and-stick vinyl floor tiles are the cheapest practical option, from £50-£90 for a standard 3m x 3m kitchen floor including the tiles themselves. Vinyl click flooring (£15-£25 per square metre) is the next step up and copes better with heavy daily use. Both go over most existing hard floors without removing what's underneath, and both are renter-removable if you need them to be."
   - q: "Can you put new flooring over old kitchen tiles or vinyl?"
     a: "In most cases, yes. Peel-and-stick vinyl tiles and click vinyl flooring can go directly over a sound, flat existing floor — old sheet vinyl or ceramic tile — as long as it isn't lifting, cracked, or uneven. A badly damaged or uneven subfloor needs levelling compound first, but that's still far cheaper than ripping up the original floor."
+relatedPosts:
+  - "budget-kitchen-cabinet-makeover-uk"
+  - "budget-kitchen-worktop-makeover-uk"
+  - "budget-kitchen-splashback-tile-ideas-uk"
+  - "rental-kitchen-upgrade-ideas-uk"
 ---
 
 
 The average full kitchen renovation in the UK costs between £8,000 and £25,000 — nowhere near affordable for most people. Most British homeowners simply don't have that sitting around, so a cheap kitchen makeover that skips the fitter entirely is the realistic option. And yet almost every kitchen in a terrace, a flat, or a 1990s semi looks tired in exactly the same ways: dated handles, grimy grout, wonky cabinet doors, and that one drawer that's been broken for three years.
 
-The usual culprits are dated oak-effect flatpack units, a beige laminate [worktop](/blog/budget-kitchen-cabinet-makeover-uk/) with a burn mark near the hob, and taps that take five seconds of wiggling before water comes out. All of it is fixable on about £180 with no fitter.
+The usual culprits are dated oak-effect flatpack units, a beige laminate [worktop](/blog/budget-kitchen-worktop-makeover-uk/) with a burn mark near the hob, and taps that take five seconds of wiggling before water comes out. All of it is fixable on about £180 with no fitter.
 
 What followed was three weekends and some genuinely satisfying before-and-after results. This post covers the full list, plus what to add if you have a little more to spend.
 
@@ -141,7 +146,7 @@ Full breakdown of both options, product picks, and step-by-step application: [Bu
 
 ## How Do You Upgrade the Lighting?
 
-Most UK kitchens suffer from one central ceiling light and permanent shadows on the worktop. [Under-cabinet LED strip lights](https://link.amazon/B0bEl4f3B) fix this immediately — one of the cheapest fixes for a kitchen's most common lighting problem. Luminoodle and LE make USB-powered or plug-in strips available on Amazon for £12–£25 for a 2–3 metre run; B&Q's own-brand kits are around £18 and come with a simple adhesive backing.
+Most UK kitchens suffer from one central ceiling light and permanent shadows on the [worktop](/blog/budget-kitchen-worktop-makeover-uk). [Under-cabinet LED strip lights](https://link.amazon/B0bEl4f3B) fix this immediately — one of the cheapest fixes for a kitchen's most common lighting problem. Luminoodle and LE make USB-powered or plug-in strips available on Amazon for £12–£25 for a 2–3 metre run; B&Q's own-brand kits are around £18 and come with a simple adhesive backing.
 
 Under-cabinet lighting eliminates the shadow that a ceiling pendant casts over worktop areas, making food prep easier and the kitchen look significantly better in photos. It's also one of the easiest upgrades on this list — peel, stick, and plug in.
 
@@ -167,7 +172,7 @@ Two tins of Dulux Kitchen Matt at around £40 total changes the entire atmospher
 
 A full DIY worktop swap in laminate can come in under £120 for a standard 3-metre run, and wrap film is a cheaper still option from around £20–£30 a roll if replacement feels too ambitious.
 
-Full cost breakdown for cabinet updates including doors, paint, and wrap film: [Budget Kitchen Cabinet Makeover Ideas UK](/blog/budget-kitchen-cabinet-makeover-uk/).
+Full cost breakdown of wrap film, worktop paint, and a full replacement, plus which suits your worktop's actual condition: [Budget Kitchen Worktop Makeover Ideas UK](/blog/budget-kitchen-worktop-makeover-uk/).
 
 ---
 

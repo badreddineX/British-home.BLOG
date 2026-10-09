@@ -30,6 +30,7 @@ relatedPosts:
   - "rented-flat-makeover-uk"
   - "small-bedroom-budget-uk"
   - "kitchen-on-a-budget-uk"
+  - "bathroom-storage-ideas-uk"
 ---
 
 For the living room and other small rooms, our [small living room ideas UK](/blog/small-living-room-ideas-uk) guide covers the same space-maximising approach applied to the room you use most.

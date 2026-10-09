@@ -180,7 +180,7 @@ This section exists because it saves money. Returning a sofa that does not fit t
 
 **Before ordering any large furniture:**
 
-1. Measure the narrowest point between the front door and the living room. Include hallway width, any 90-degree turns, and the stairwell if you are above the ground floor.
+1. Measure the narrowest point between the front door and the living room. Include [hallway](/blog/hallway-decor-ideas-uk) width, any 90-degree turns, and the stairwell if you are above the ground floor.
 2. Check the product dimensions for the **packed/boxed size**, not just the assembled size. A sofa with removable legs and back cushions may pack down to 65cm wide. A solid-frame sofa may not.
 3. Look for "sofa in a box" options. Brands like MADE.com, Swyft (from around £700), and IKEA's FRIHETEN range ship compressed and flat-packed specifically for UK doorways. Snug sofas (from about £750) are designed to fit through a 52cm opening.
 4. If the sofa is second-hand, measure it yourself with a tape measure and check whether the legs and arms detach.
