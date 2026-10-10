@@ -5,7 +5,7 @@ image: "/images/galley-kitchen-narrow-uk.jpg"
 datePublished: "2026-09-02"
 dateModified: "2026-10-09"
 author: "Badreddine"
-tags: ["galley kitchen ideas uk", "galley kitchen ideas", "small galley kitchen uk", "galley kitchen layout uk", "narrow kitchen ideas uk", "galley kitchen renter"]
+tags: ["small kitchen ideas uk", "galley kitchen ideas uk", "narrow kitchen ideas uk", "galley kitchen layout uk", "small galley kitchen uk", "galley kitchen storage uk"]
 featured: false
 category: "Kitchen"
 readTime: "8 min read"

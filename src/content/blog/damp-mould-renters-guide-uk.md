@@ -5,7 +5,7 @@ image: "/images/cosy-home-library-bookshelves.jpg"
 datePublished: "2026-10-07"
 dateModified: "2026-10-07"
 author: "Badreddine"
-tags: ["damp", "mould", "renters-rights", "awaabs-law", "landlord", "uk"]
+tags: ["mould in rented property uk", "damp rented flat uk", "black mould uk", "renters rights damp uk", "awaabs law uk", "landlord mould responsibility uk"]
 category: "Renter Tips"
 featured: false
 readTime: "12 min read"

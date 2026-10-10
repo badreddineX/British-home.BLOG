@@ -5,7 +5,7 @@ image: "/images/pexels-1457842.jpg"
 datePublished: "2026-10-07"
 dateModified: "2026-10-07"
 author: "Badreddine"
-tags: ["first-time-renter", "checklist", "move-in", "utilities", "uk"]
+tags: ["first time renter uk", "moving into first flat uk", "renting for first time uk", "first flat checklist uk", "move in checklist uk", "renting tips uk"]
 category: "Renter Tips"
 featured: false
 readTime: "10 min read"

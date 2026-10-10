@@ -5,7 +5,7 @@ image: "/images/kitchen-worktop-wood.jpg"
 datePublished: "2026-07-10"
 dateModified: "2026-10-08"
 author: "Badreddine"
-tags: ["rental kitchen upgrade ideas uk", "renter friendly kitchen ideas", "rental kitchen ideas uk", "landlord friendly kitchen updates uk", "temporary kitchen makeover renter uk", "renter kitchen uk"]
+tags: ["small kitchen ideas uk", "rental kitchen ideas uk", "renter friendly kitchen ideas uk", "landlord friendly kitchen updates uk", "kitchen rented flat uk", "temporary kitchen makeover uk"]
 featured: false
 category: "Kitchen"
 readTime: "7 min read"

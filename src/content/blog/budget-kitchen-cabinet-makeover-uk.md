@@ -5,7 +5,7 @@ image: "/images/kitchen-white-cabinets.jpg"
 datePublished: "2026-05-27"
 dateModified: "2026-10-08"
 author: "Badreddine"
-tags: ["affordable kitchen cabinets uk", "kitchen cabinet makeover uk", "cheap kitchen cabinets uk", "kitchen cabinet respray cost uk", "vinyl wrap kitchen cabinets", "cheap kitchen cabinet doors uk", "kitchen cabinet makeover"]
+tags: ["kitchen cupboard paint", "painting kitchen cabinets uk", "kitchen cabinet makeover uk", "cheap kitchen cabinet doors uk", "vinyl wrap kitchen cabinets uk", "kitchen cupboard makeover uk"]
 featured: false
 category: "Kitchen"
 readTime: "8 min read"

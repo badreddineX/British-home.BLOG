@@ -5,7 +5,7 @@ image: "/images/bedroom-bedside-tables-neutral.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-08-10"
 author: "Badreddine"
-tags: ["small bedroom layout ideas", "small bedroom layout UK", "awkward bedroom shapes", "loft bedroom layout UK", "box room ideas UK", "L-shaped bedroom layout"]
+tags: ["small bedroom ideas", "small bedroom layout uk", "bedroom ideas uk", "awkward bedroom shapes uk", "loft bedroom layout uk", "small bedroom furniture layout uk"]
 featured: false
 category: "Bedroom"
 readTime: "8 min read"

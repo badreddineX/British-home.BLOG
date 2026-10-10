@@ -5,7 +5,7 @@ image: "/images/pexels-1571453.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-09-05"
 author: "Badreddine"
-tags: ["renter friendly living room UK", "living room ideas UK renters", "deposit safe decorating UK", "no drill decorating UK", "rental living room ideas"]
+tags: ["small living room ideas uk", "renter friendly living room uk", "living room ideas uk renters", "deposit safe decorating uk", "no drill living room decor uk", "rental living room ideas uk"]
 featured: false
 category: "Living Room"
 relatedPosts:

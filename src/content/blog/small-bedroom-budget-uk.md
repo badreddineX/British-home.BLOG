@@ -5,7 +5,7 @@ image: "/images/minimalist-bedroom-single-bed.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-10-08"
 author: "Badreddine"
-tags: ["small bedroom ideas uk", "small bedroom on a budget uk", "cheap bedroom makeover uk", "budget bedroom ideas uk", "renter bedroom uk"]
+tags: ["small bedroom ideas", "small bedroom ideas uk", "bedroom ideas uk", "small bedroom on a budget uk", "cheap bedroom makeover uk", "budget bedroom ideas uk"]
 featured: false
 category: "Bedroom"
 relatedPosts:

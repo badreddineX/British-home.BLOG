@@ -5,7 +5,7 @@ image: "/images/studio-flat-zoned-uk.jpg"
 datePublished: "2026-09-01"
 dateModified: "2026-10-08"
 author: "Badreddine"
-tags: ["studio flat ideas uk", "studio flat design ideas", "studio flat layout ideas", "room divider ideas uk", "small studio flat uk", "studio flat renter"]
+tags: ["studio flat uk", "studio flat ideas uk", "studio flat layout ideas uk", "small studio flat uk", "studio flat design ideas uk", "room divider ideas uk"]
 featured: false
 category: "Room Makeovers"
 readTime: "9 min read"

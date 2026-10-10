@@ -5,7 +5,7 @@ image: "/images/pexels-90317.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-10-08"
 author: "Badreddine"
-tags: ["renter friendly bedroom ideas UK", "no drill bedroom decor", "deposit safe bedroom updates", "peel and stick wallpaper UK", "renter bedroom decor UK", "small bedroom ideas UK"]
+tags: ["small bedroom ideas uk", "bedroom ideas uk", "renter friendly bedroom ideas uk", "no drill bedroom decor uk", "deposit safe bedroom updates uk", "small bedroom on a budget uk"]
 featured: false
 category: "Bedroom"
 relatedPosts:

@@ -5,7 +5,7 @@ image: "/images/pexels-1571460.jpg"
 datePublished: "2026-10-08"
 dateModified: "2026-10-08"
 author: "Badreddine"
-tags: ["terraced house hallway ideas uk", "narrow hallway ideas uk", "Victorian hallway", "terraced house entrance", "hallway storage", "hallway lighting uk", "under stairs storage", "hallway flooring uk"]
+tags: ["hallway ideas uk", "terraced house hallway ideas uk", "narrow hallway ideas uk", "Victorian hallway ideas uk", "hallway storage uk", "hallway flooring uk"]
 featured: false
 category: "Room Makeovers"
 readTime: "10 min read"

@@ -5,7 +5,7 @@ image: "/images/dramatic-velvet-living-room.jpg"
 datePublished: "2026-10-09"
 dateModified: "2026-10-09"
 author: "Badreddine"
-tags: ["living room colour schemes uk", "living room colour ideas uk", "small living room colours uk", "rented flat colour schemes uk", "living room paint ideas uk"]
+tags: ["living room colour ideas uk", "living room colour schemes uk", "living room paint ideas uk", "small living room colours uk", "lounge colour schemes uk", "rented flat colour schemes uk"]
 category: "Living Room"
 featured: false
 readTime: "9 min read"

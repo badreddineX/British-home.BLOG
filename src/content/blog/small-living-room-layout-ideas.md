@@ -5,7 +5,7 @@ image: "/images/pexels-6538933.jpg"
 datePublished: "2026-04-18"
 dateModified: "2026-08-06"
 author: "Badreddine"
-tags: ["small living room layout ideas UK", "small front room layouts", "small living room layouts", "ideas for small living rooms uk", "small lounge layout UK", "tiny living room UK", "furniture arrangement UK"]
+tags: ["small living room ideas uk", "small living room layout ideas uk", "small front room layout uk", "living room layout ideas uk", "small lounge layout uk", "tiny living room uk"]
 featured: false
 category: "Living Room"
 readTime: "8 min read"

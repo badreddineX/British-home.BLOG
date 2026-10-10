@@ -5,7 +5,7 @@ image: "/images/pexels-7641991.jpg"
 datePublished: "2026-09-05"
 dateModified: "2026-09-05"
 author: "Badreddine"
-tags: ["deposit deductions uk", "what can a landlord deduct from a deposit", "average deposit deduction uk", "unfair deposit deductions", "tenancy deposit disputes uk", "fair wear and tear"]
+tags: ["deposit deductions uk", "tenancy deposit uk", "what can a landlord deduct from a deposit", "unfair deposit deductions uk", "fair wear and tear uk", "tenancy deposit disputes uk"]
 featured: true
 category: "Room Makeovers"
 readTime: "10 min read"

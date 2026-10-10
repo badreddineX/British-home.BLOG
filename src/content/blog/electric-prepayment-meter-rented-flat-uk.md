@@ -5,7 +5,7 @@ image: "/images/armchair-task-lighting-corner.jpg"
 datePublished: "2026-10-08"
 dateModified: "2026-10-08"
 author: "Badreddine"
-tags: ["electric meter prepayment rented flat uk", "prepayment meter uk renter", "energy costs rented flat uk", "switch prepayment meter direct debit", "ofgem price cap prepayment", "renter energy tips uk"]
+tags: ["prepayment meter", "prepayment meter uk", "prepayment meter rented flat uk", "switch prepayment meter direct debit uk", "energy costs rented flat uk", "smart meter prepayment uk"]
 featured: false
 category: "Renter Tips"
 readTime: "11 min read"
