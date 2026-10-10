@@ -28,8 +28,8 @@ faqs:
     a: "Paint it a proper colour rather than leaving it white — a deep green or clay tone hides scuffs and makes a windowless room feel deliberate. Add closed storage so cleaning products aren't on show, a runner or washable mat, one framed print, and warm lighting instead of a bare bulb. It costs under £60 and changes the room entirely."
 relatedPosts:
   - "kitchen-on-a-budget-uk"
-  - "rental-kitchen-upgrade-ideas-uk"
-  - "rented-flat-makeover-uk"
+  - "budget-kitchen-cabinet-makeover-uk"
+  - "galley-kitchen-ideas-uk"
 ---
 
 Most utility room ideas you find online show a room the size of a small bedroom, with a butler sink, a boot bench, and a dog-washing station. That is not the UK utility room. Here, a utility room is usually a cupboard off the kitchen, a slice of the garage, a lean-to at the back, or — for a lot of renters — no room at all, just the washing machine wedged under the kitchen [worktop](/blog/budget-kitchen-cabinet-makeover-uk/) and an airer that lives permanently in the hall.
@@ -96,7 +96,7 @@ The renter kit, with real UK prices:
 - **[Lidded storage baskets](https://link.amazon/B0imtehX9)**, £6–£12 each (Dunelm, B&M) — closed storage so it doesn't look like a jumble.
 - **A tension rod** across a narrow alcove, £8, to corral the ironing board and mop.
 
-Total: £70–£110 for a working utility zone that comes apart in ten minutes on moving day. See [rental kitchen upgrade ideas UK](/blog/rental-kitchen-upgrade-ideas-uk/) for the same reversible approach across the rest of the kitchen.
+Total: £70–£110 for a working utility zone that comes apart in ten minutes on moving day. See [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same reversible approach across the rest of the kitchen.
 
 ![Storage baskets on a shelf keeping utility clutter contained](/images/bathroom-storage-baskets-shelf.jpg)
 
@@ -126,4 +126,4 @@ What actually changes how it looks, for under £60 total:
 
 The utility room is proof that in a UK home, planning beats square footage. A cupboard laid out in the right order — appliance, worktop, drying, closed storage — does everything a proper room does, and a coat of dark green paint makes it look like you meant it.
 
-→ Next: [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the kitchen itself, and [rental kitchen upgrade ideas UK](/blog/rental-kitchen-upgrade-ideas-uk/) for renter-friendly changes.
+→ Next: [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the kitchen itself, including renter-friendly changes.

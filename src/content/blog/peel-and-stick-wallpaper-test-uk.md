@@ -156,6 +156,6 @@ For comparison, traditional wallpaper and paste for the same wall would cost £3
 Peel-and-stick wallpaper is a genuinely useful tool for UK renters who want to personalise magnolia walls without risking their deposit. The key is matching the right product to your specific wall surface, testing before committing, and removing carefully when you leave. On smooth, well-painted walls, it works remarkably well. On woodchip, save your money.
 
 **Related reading:**
-- [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/)
+- [Renter-Friendly Living Room Layout Ideas UK](/blog/renter-friendly-living-room-layout-ideas-uk/)
 - [Renter-Friendly Living Room Ideas UK](/blog/renter-friendly-living-room-ideas-uk/)
 - [Renter-Friendly Bedroom Ideas UK](/blog/renter-friendly-bedroom-ideas-uk/)

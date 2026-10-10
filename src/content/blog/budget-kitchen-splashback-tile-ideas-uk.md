@@ -39,7 +39,7 @@ Read more: [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) for the wider
 
 [Peel-and-stick tile sheets](https://link.amazon/B03M36Mj6) are the cheapest genuine splashback option available, costing £25–£45 for a standard area at Dunelm, Wilko, or Amazon UK ([Dunelm, 2026](https://www.dunelm.com)). They need no adhesive, no grout, and no tools beyond scissors and a credit card for smoothing.
 
-Peel-and-stick sheets suit a [rented flat](/blog/rented-flat-makeover-uk/) where retiling isn't allowed, even behind a gas hob when fitted with a proper heat gap. Well-fitted sheets can pass for real tile. Brands worth considering are Crearreda and Vinyltiles, both widely stocked on Amazon UK, plus Wilko's own-brand mosaic-effect sheets from around £6 per A4 panel.
+Peel-and-stick sheets suit a rented flat where retiling isn't allowed, even behind a gas hob when fitted with a proper heat gap. Well-fitted sheets can pass for real tile. Brands worth considering are Crearreda and Vinyltiles, both widely stocked on Amazon UK, plus Wilko's own-brand mosaic-effect sheets from around £6 per A4 panel.
 
 Coverage varies by brand. A3-sized sheets (roughly 42cm x 30cm) need six to eight sheets for a standard splashback behind a single hob run, so budget on the higher end if your kitchen has a wide gap between [worktop](/blog/budget-kitchen-cabinet-makeover-uk/) and wall units. Metro, hexagon, and Moroccan-tile patterns are the most convincing from a normal viewing distance — a blue zellige-effect sheet is a newer option worth checking stock for if you want something with more visual texture than a flat metro tile.
 
@@ -69,7 +69,7 @@ A cut-to-size acrylic splashback sheet costs £60–£150 depending on dimension
 
 Acrylic splashback sheets are sold pre-cut to standard hob widths (typically 60cm, 70cm, and 90cm) by suppliers like Wickes and various specialist splashback retailers who deliver UK-wide. You fit them with a combination of panel adhesive and a silicone seal around the edges, a job most confident DIYers can manage in an afternoon.
 
-The advantage over tiles, stick-on or real, is the total absence of grout lines. That means nothing for grease and steam to sit in, which matters more than people expect in a kitchen used daily. The downside is permanence: once an acrylic sheet is adhered and silicone-sealed, it isn't a renter-friendly, remove-without-a-trace option the way peel-and-stick sheets are — for the fully reversible options, see our [rental kitchen upgrade guide](/blog/rental-kitchen-upgrade-ideas-uk/).
+The advantage over tiles, stick-on or real, is the total absence of grout lines. That means nothing for grease and steam to sit in, which matters more than people expect in a kitchen used daily. The downside is permanence: once an acrylic sheet is adhered and silicone-sealed, it isn't a renter-friendly, remove-without-a-trace option the way peel-and-stick sheets are — for the fully reversible options, see our [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) guide.
 
 If budget allows the step up, acrylic behind a hob genuinely looks like a fitted kitchen upgrade rather than a DIY fix, particularly in a bold colour or a marble-effect print.
 
@@ -131,5 +131,4 @@ For the rest of the kitchen refresh, from cabinet paint to new handles, see the 
 
 - [Kitchen on a Budget UK: 14 Affordable Ideas](/blog/kitchen-on-a-budget-uk/) — the room-by-room overview
 - [Budget Kitchen Cabinet Makeover Ideas UK](/blog/budget-kitchen-cabinet-makeover-uk/)
-- [Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/)
 - [Galley Kitchen Ideas UK](/blog/galley-kitchen-ideas-uk/)

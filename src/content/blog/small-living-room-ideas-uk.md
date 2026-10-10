@@ -17,7 +17,7 @@ tldr:
   - "Mirrors opposite or adjacent to windows are essential in small, often north-facing British living rooms — from ~£25 at Dunelm."
 faqs:
   - q: "How do I make my small living room look bigger in the UK?"
-    a: "The most effective techniques: hang curtains close to the ceiling, use furniture with visible legs, place a large mirror opposite the window, choose a correctly sized rug (not too small), and keep colours light and warm rather than dark and heavy. For furniture arrangement in a tight room, see [Small Living Room Layout Ideas](/blog/small-living-room-layout-ideas/)."
+    a: "The most effective techniques: hang curtains close to the ceiling, use furniture with visible legs, place a large mirror opposite the window, choose a correctly sized rug (not too small), and keep colours light and warm rather than dark and heavy. For furniture arrangement in a tight room, see [Renter-Friendly Living Room Layout Ideas UK](/blog/renter-friendly-living-room-layout-ideas-uk/)."
   - q: "What size rug should I use in a small living room?"
     a: "In a small UK living room, a rug that's too small makes the space feel more cramped, not less. The minimum for a small living room is typically 120x170cm. If possible, go 160x230cm — the correct sizing reads as intentional and grounds the seating area properly."
   - q: "What furniture works best in a small British living room?"
@@ -31,7 +31,7 @@ faqs:
 
 The average new-build living room in the UK measures around 17 square metres — and many older flats, particularly in London and other major cities, are significantly smaller than that.
 
-This guide covers visual tricks — colour, curtains, mirrors, rug size — and they matter most in a *very* small living room, the kind you find in a one-bed flat or a 1930s semi. For furniture arrangement and floor plans specifically, see [Small Living Room Layout Ideas](/blog/small-living-room-layout-ideas/).
+This guide covers visual tricks — colour, curtains, mirrors, rug size — and they matter most in a *very* small living room, the kind you find in a one-bed flat or a 1930s semi. For furniture arrangement and floor plans specifically, see [Renter-Friendly Living Room Layout Ideas UK](/blog/renter-friendly-living-room-layout-ideas-uk/).
 
 We're working with less space than almost any other European country. And most advice about "making rooms feel bigger" was written for spaces that are already considerably larger than most British flats.
 
@@ -41,7 +41,7 @@ Here's what actually works.
 
 ---
 
-Read more: [small living room layout ideas](/blog/small-living-room-layout-ideas/)
+Read more: [renter-friendly living room layout ideas UK](/blog/renter-friendly-living-room-layout-ideas-uk/)
 
 ## 1. How Do You Hang Curtains to Make a Small Room Feel Taller?
 
@@ -222,7 +222,7 @@ In a small living room, every visible surface should either be useful or beautif
 - **Console table behind the sofa** — thin enough to not take walkway space, wide enough to hold a lamp and a few books.
 - **Baskets under side tables** — a woven basket under a side table stores magazines, chargers, or throws without looking cluttered.
 
-For the full guide to storage furniture that hides everything, see [Small Living Room Layout Ideas](/blog/small-living-room-layout-ideas/).
+For the full guide to storage furniture that hides everything, see [Renter-Friendly Living Room Layout Ideas UK](/blog/renter-friendly-living-room-layout-ideas-uk/).
 
 ## Where to Shop for Small Living Room Furniture in the UK
 
@@ -234,7 +234,7 @@ Not all UK retailers stock apartment-size furniture. These do:
 - **Habitat** — small-space-friendly designs, especially for side tables and coffee tables.
 - **Argos** — budget furniture that ships fast. The Home collection has several compact ranges.
 
-For bedroom-specific furniture in a small flat, see [Small Bedroom Ideas UK](/blog/small-bedroom-budget-uk/). For the whole-flat approach, [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) covers every room.
+For bedroom-specific furniture in a small flat, see [Small Bedroom Ideas UK](/blog/small-bedroom-budget-uk/). For the whole-flat approach, [renter-friendly living room ideas UK](/blog/renter-friendly-living-room-ideas-uk/) covers deposit-safe changes.
 
 ## Priority Order
 
@@ -248,14 +248,11 @@ For bedroom-specific furniture in a small flat, see [Small Bedroom Ideas UK](/bl
 | 6 | Apply warm neutral paint | ~£22–£35 |
 | 7 | Add floating shelves to replace floor units | ~£8–£25 |
 
-→ For layout tips that work in awkward UK rooms, see [Small Living Room Layout Ideas](/blog/small-living-room-layout-ideas/).
+→ For layout tips that work in awkward UK rooms, see [Renter-Friendly Living Room Layout Ideas UK](/blog/renter-friendly-living-room-layout-ideas-uk/).
 → Renting? See [renter-friendly living room ideas](/blog/renter-friendly-living-room-ideas-uk/) for no-damage, deposit-safe changes.
-→ Need to furnish on a budget? [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) covers reversible upgrades room by room.
 → Ready for the kitchen? [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/) is the most-read guide on the site.
 → Small bedroom? [Small Bedroom Ideas UK](/blog/small-bedroom-budget-uk/) covers budget refreshes under £150.
 → Tiny bathroom? [Small Bathroom Ideas UK](/blog/small-bathroom-ideas-uk/) handles wet rooms and cloakrooms.
 → Hallway feeling dark? [Hallway Ideas UK](/blog/hallway-decor-ideas-uk/) fixes narrow and small hallways.
-→ One room does everything? [Studio Flat Ideas UK](/blog/studio-flat-ideas-uk/) covers zoning, storage, and layout.
-→ Terraced house? [Terraced House Hallway Ideas UK](/blog/terraced-house-hallway-ideas-uk) covers Victorian and Edwardian layouts.
 → Got a box room? [Small Box Room Ideas UK](/blog/small-box-room-ideas-uk) turns 6-8 sqm into a bedroom, office, or nursery.
 → Need a full layout guide? [Renter-Friendly Living Room Layout Ideas UK](/blog/renter-friendly-living-room-layout-ideas-uk) covers L-shaped rooms, through-lounges, and bay windows.

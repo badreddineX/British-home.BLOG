@@ -178,11 +178,10 @@ There's no single right answer here, it genuinely depends on your doors, your bu
 **Related reading you might find useful:**
 
 - [Kitchen on a Budget UK: 14 Ideas](/blog/kitchen-on-a-budget-uk/)
-- [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/)
+- [Renter-Friendly Living Room Ideas UK](/blog/renter-friendly-living-room-ideas-uk/)
 
 **The budget kitchen series** — each part in depth:
 
 - [Kitchen on a Budget UK: 14 Affordable Ideas](/blog/kitchen-on-a-budget-uk/) — the room-by-room overview
 - [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk/)
-- [Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/)
 - [Galley Kitchen Ideas UK](/blog/galley-kitchen-ideas-uk/)

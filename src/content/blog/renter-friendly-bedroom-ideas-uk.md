@@ -9,7 +9,7 @@ tags: ["small bedroom ideas uk", "bedroom ideas uk", "renter friendly bedroom id
 featured: false
 category: "Bedroom"
 relatedPosts:
-  - "rented-flat-makeover-uk"
+  - "small-bedroom-budget-uk"
   - "small-bedroom-budget-uk"
 readTime: "11 min read"
 excerpt: "Six deposit-safe bedroom updates for UK renters, from Command strip gallery walls to peel-and-stick wallpaper, with real retailer prices and no drilling."
@@ -34,7 +34,7 @@ faqs:
 
 If you're refreshing the whole flat, our [small living room ideas UK](/blog/small-living-room-ideas-uk) guide covers the room that gets the most foot traffic — start there, then come back here for the bedroom.
 
-Most rented bedrooms in the UK come with magnolia walls, a fitted wardrobe you can't stand, and a strict no-drilling clause in the tenancy agreement. **TL;DR:** Peel-and-stick wallpaper on one wall, Command strips for a [gallery wall](/blog/rented-flat-makeover-uk/), freestanding furniture instead of anything fitted, clip-on or plug-in lighting, and a door curtain for draughts. Every change here removes cleanly at check-out and none of it touches the landlord's plaster, paint, or wiring.
+Most rented bedrooms in the UK come with magnolia walls, a fitted wardrobe you can't stand, and a strict no-drilling clause in the tenancy agreement. **TL;DR:** Peel-and-stick wallpaper on one wall, Command strips for a gallery wall, freestanding furniture instead of anything fitted, clip-on or plug-in lighting, and a door curtain for draughts. Every change here removes cleanly at check-out and none of it touches the landlord's plaster, paint, or wiring.
 
 The trick isn't decorating less. It's decorating in ways that come apart as easily as they went up.
 
@@ -129,7 +129,6 @@ None of these changes need a landlord's permission or a drill. Start with Comman
 **Related reading you might find useful:**
 
 - [Small Bedroom on a Budget UK](/blog/small-bedroom-budget-uk/) for the budget refresh once the no-damage basics are in place
-- [Small Bedroom Layout Ideas UK](/blog/small-bedroom-layout-ideas-uk/) for furniture arrangement in awkward rooms
+- [Small Bedroom on a Budget UK](/blog/small-bedroom-budget-uk/) for furniture arrangement and storage in small bedrooms
 - [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same no-damage approach in the kitchen
-- [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) for the same deposit-safe approach applied to every other room
-- [Deposit Deductions UK: What Landlords Actually Charge For](/blog/deposit-deductions-uk/) for the real data on what triggers a deduction
+- [Renter-Friendly Living Room Ideas UK](/blog/renter-friendly-living-room-ideas-uk/) for the same deposit-safe approach in the living room

@@ -30,7 +30,7 @@ relatedPosts:
   - "kitchen-on-a-budget-uk"
   - "budget-kitchen-cabinet-makeover-uk"
   - "budget-kitchen-splashback-tile-ideas-uk"
-  - "rental-kitchen-upgrade-ideas-uk"
+  - "kitchen-on-a-budget-uk"
 ---
 
 
@@ -106,7 +106,7 @@ Almost everything that matters, without touching the carcasses. A galley is smal
 - **Tension rod and clip-on lights.** A rail along the splashback and stick-on under-cabinet LEDs — no drilling, both reversible.
 - **A freestanding [slim kitchen trolley](https://link.amazon/B0aAAazIN)** at the open end of the galley for the storage the units don't give you.
 
-For the full renter kit and what's worth doing in a rented kitchen, [rental kitchen upgrade ideas UK](/blog/rental-kitchen-upgrade-ideas-uk/) has the complete list.
+For the full renter kit and what's worth doing in a kitchen on a budget, [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) has the complete list.
 
 ## 8 Galley Kitchen Layout Ideas That Work in UK Homes
 
@@ -180,11 +180,10 @@ A galley kitchen is enclosed on two sides and often has no window or only a smal
 
 In winter, when opening the window means losing all your heat, cook with lids on and wipe down the splashback and cabinets near the hob weekly. Grease buildup in a galley happens faster than in an open kitchen because the volume of air is so much smaller.
 
-If your galley has persistent damp or black mould around the window, that's a ventilation and insulation problem covered in our [damp and mould guide for UK renters](/blog/damp-mould-renters-guide-uk).
+If your galley has persistent damp or black mould around the window, that's a ventilation and insulation problem — contact your landlord, as they're legally required to address it under the Homes (Fitness for Human Habitation) Act 2018.
 
 ## Related reading
 
 - [Kitchen on a Budget UK](/blog/kitchen-on-a-budget-uk/)
 - [Budget Kitchen Cabinet Makeover UK](/blog/budget-kitchen-cabinet-makeover-uk/) if the cupboards are the tired part
 - [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk/)
-- [Rental Kitchen Upgrade Ideas UK](/blog/rental-kitchen-upgrade-ideas-uk/)

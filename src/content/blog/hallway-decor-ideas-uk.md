@@ -21,7 +21,7 @@ faqs:
   - q: "How do I decorate a narrow hallway in a Victorian terraced house?"
     a: "Keep furniture under 30cm deep — slim console tables, wall-mounted coat hooks rather than freestanding hallstands. Use vertical space aggressively: hooks high on the wall, tall mirrors, a stair gallery wall. A runner rug adds warmth without reducing floor width. The same tight-space principles apply in a [small living room](/blog/small-living-room-ideas-uk/)."
   - q: "What hallway ideas work for renters who can't drill?"
-    a: "Freestanding coat racks, leaned mirrors, plug-in pendant lights, and Command strip picture rails cover nearly every hallway need without damaging walls. Command hooks rated to 3.6kg handle coats reliably. See our full [rented home decor ideas UK](/blog/rented-flat-makeover-uk/) guide for deposit-safe tactics across every room."
+    a: "Freestanding coat racks, leaned mirrors, plug-in pendant lights, and Command strip picture rails cover nearly every hallway need without damaging walls. Command hooks rated to 3.6kg handle coats reliably. See our [renter-friendly living room ideas UK](/blog/renter-friendly-living-room-ideas-uk/) guide for more deposit-safe tactics."
   - q: "What's the best flooring for a small UK hallway?"
     a: "Geometric encaustic-style tiles give a period-appropriate look and are practical underfoot — B&Q and Topps Tiles both stock them from around £20 per square metre. If you can't retile, a coir or geometric runner rug achieves a similar effect on top of existing flooring and costs from £25 at Dunelm."
 ---
@@ -117,7 +117,7 @@ Size matters more than style. A round mirror under 50cm wide looks decorative bu
 
 **Large round statement mirror.** Currently the most popular choice in British interiors. John Lewis has options from ~£55. Wayfair UK frequently stocks oversized round mirrors (80–100cm diameter) from ~£45 during sale periods.
 
-A mirror does double duty on light, too — see our [renter-friendly living room ideas UK](/blog/renter-friendly-living-room-ideas-uk/) guide for more ways to maximise natural and warm light in a [rented flat](/blog/rented-flat-makeover-uk/).
+A mirror does double duty on light, too — see our [renter-friendly living room ideas UK](/blog/renter-friendly-living-room-ideas-uk/) guide for more ways to maximise natural and warm light in a rented flat.
 
 Large round mirror: from ~£45 at John Lewis or Wayfair UK. Full-length leaned mirror: from ~£45 at Next Home.
 
@@ -164,7 +164,7 @@ Pendant light: from ~£35 at John Lewis. Plug-in pendant (renter option): from ~
 
 The stair wall is one of the best opportunities in a British terraced house — a long, naturally vertical surface that climbs with the staircase and can be seen from both the hallway and the upper landing. Most people leave it bare. That's a missed opportunity.
 
-Ten IKEA Ribba frames at £3.50 each, filled with free Rijksmuseum prints or 9p Boots Photo prints, bring a full stair [gallery wall](/blog/rented-flat-makeover-uk/) to under £50 total — proof that the stair wall's visual impact doesn't require a big budget.
+Ten IKEA Ribba frames at £3.50 each, filled with free Rijksmuseum prints or 9p Boots Photo prints, bring a full stair gallery wall to under £50 total — proof that the stair wall's visual impact doesn't require a big budget.
 
 The approach is simpler than it looks. Start with a central anchor piece at eye height on the middle step, then build outward and upward, following the diagonal line of the staircase. Mix frame sizes but keep the frame colour consistent — all black or all white — so the arrangement reads as curated rather than chaotic.
 
@@ -172,7 +172,7 @@ IKEA Ribba frames start at £3.50. For content: Unsplash has free high-quality p
 
 For renters: Command Picture Hanging Strips (rated to 3.6kg per pair, from ~£6 at Amazon or Wilko) hold frames reliably on most painted plaster. They remove cleanly when peeled slowly downward rather than pulled outward.
 
-For more layout and hanging tips, see our [rented flat makeover UK](/blog/rented-flat-makeover-uk/) guide.
+For more layout and hanging tips, see our [renter-friendly living room ideas UK](/blog/renter-friendly-living-room-ideas-uk/) guide.
 
 Stair gallery wall: ~£20–£50 total using IKEA Ribba frames and self-printed images.
 
@@ -197,7 +197,7 @@ Command hooks rated to 3.6kg (from ~£6 for four) and a freestanding coat rack f
 
 **Freestanding shelving.** An IKEA Hyllis or Kallax unit provides surface space and storage without any wall fixing. From ~£15.
 
-See our full [rented home decor ideas UK](/blog/rented-flat-makeover-uk/) guide for deposit-safe ideas across every room.
+See our [renter-friendly living room ideas UK](/blog/renter-friendly-living-room-ideas-uk/) guide for more deposit-safe ideas.
 
 ---
 
@@ -218,4 +218,4 @@ See our full [rented home decor ideas UK](/blog/rented-flat-makeover-uk/) guide 
 
 The hallway doesn't need a renovation to feel like a proper part of your home. Paint and lighting cost under £70 combined and do more than any piece of furniture ever will. Get those right first, then add the mirror, the hooks, and the slim console. What was a dumping corridor becomes the room that sets the tone for everything behind it.
 
-For the rooms beyond the hallway, see our [living room ideas UK](/blog/small-living-room-ideas-uk/) and [renter-friendly bedroom ideas UK](/blog/renter-friendly-bedroom-ideas-uk/) guides. Renters should read [rented home decor ideas UK](/blog/rented-flat-makeover-uk/) before spending anything. And at the end of the hall, [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) is the most-read guide on the site.
+For the rooms beyond the hallway, see our [living room ideas UK](/blog/small-living-room-ideas-uk/) and [renter-friendly bedroom ideas UK](/blog/renter-friendly-bedroom-ideas-uk/) guides. Renters should read [renter-friendly living room ideas UK](/blog/renter-friendly-living-room-ideas-uk/) before spending anything. And at the end of the hall, [kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) is the most-read guide on the site.

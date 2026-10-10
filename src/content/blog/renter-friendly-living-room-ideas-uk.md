@@ -9,7 +9,7 @@ tags: ["small living room ideas uk", "renter friendly living room uk", "living r
 featured: false
 category: "Living Room"
 relatedPosts:
-  - "rented-flat-makeover-uk"
+  - "small-living-room-ideas-uk"
   - "small-living-room-ideas-uk"
 readTime: "9 min read"
 excerpt: "12 renter-friendly living room ideas for UK flats, from £8 Command hooks to a £30 rug layer, all deposit-safe and reversible on moving day."
@@ -67,7 +67,7 @@ Yes, and in many period conversions you already have the tool built into the roo
 
 Victorian and Edwardian flats across the UK were built with a picture rail as standard, a moulded strip running near the ceiling. If your flat has one, it was designed for exactly this. Clip a hook over the top, run picture cord or chain down to your frame height, and adjust the length whenever you rearrange.
 
-**No picture rail? [Command picture hanging strips](https://link.amazon/B0cezZuvf) (~£8 for a set) hold frames up to about 7kg** and remove without marking painted plaster, provided you follow the pull-tab removal method rather than yanking straight off. For a fuller approach to arranging frames this way, see our [rented flat makeover UK](/blog/rented-flat-makeover-uk/).
+**No picture rail? [Command picture hanging strips](https://link.amazon/B0cezZuvf) (~£8 for a set) hold frames up to about 7kg** and remove without marking painted plaster, provided you follow the pull-tab removal method rather than yanking straight off. For a fuller approach to arranging frames this way, see our [renter-friendly living room layout ideas UK](/blog/renter-friendly-living-room-layout-ideas-uk/).
 
 ![A picture rail hook holding framed art on cord in a period UK flat living room](/images/pexels-6538933.jpg)
 
@@ -135,7 +135,6 @@ Every change on this list shares the same test: does it come off clean, and does
 
 **Related reading you might find useful:**
 
-- [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) for the full deposit-safe approach across every room
+- [Renter-Friendly Living Room Layout Ideas UK](/blog/renter-friendly-living-room-layout-ideas-uk/) for furniture arrangement in rented living rooms
 - [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk/) once the deposit-safe basics are in place
 - [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same renter-safe approach in the kitchen
-- [Deposit Deductions UK: What Landlords Actually Charge For](/blog/deposit-deductions-uk/) for what actually happens if any of this goes wrong at check-out

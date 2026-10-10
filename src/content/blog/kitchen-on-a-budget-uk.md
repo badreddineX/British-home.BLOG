@@ -44,7 +44,7 @@ You don't need a new kitchen. You need about two weekends and four things:
 
 The 14 changes below can be done individually or stacked for a full refresh — most cost under £50 each, and none require a tradesperson.
 
-Read more: [rented flat makeover framework](/blog/rented-flat-makeover-uk/)
+Read more: [renter-friendly living room ideas](/blog/renter-friendly-living-room-ideas-uk/) for the same deposit-safe approach in other rooms
 
 ---
 
@@ -204,7 +204,7 @@ Pair a new sink with the tap upgrade from point four and you've replaced the ent
 
 Dated sheet vinyl or ceramic tile can be refreshed with specialist floor paint for a short-term fix, or replaced with peel-and-stick vinyl tiles — £50–£90 for a standard 3m x 3m kitchen floor, no adhesive needed, and renter-removable.
 
-For the renter-friendly version of these fixes, see [Rental Kitchen Upgrade Ideas UK](/blog/rental-kitchen-upgrade-ideas-uk/).
+For more renter-friendly kitchen ideas, see the section above on changes that need no landlord permission.
 
 ---
 
@@ -229,7 +229,7 @@ Fully reversible, no landlord permission needed: painting cabinet doors (repaint
 
 Needs a quick conversation with your landlord first: replacing taps or the sink (plumbing changes), and drilling for wall-mounted shelving like the Boaxel system — most letting agents are fine with this if you offer to patch and repaint before you leave, but get it in writing rather than assuming.
 
-If your kitchen situation is specifically a [rented flat](/blog/rented-flat-makeover-uk/) and you want the full no-permission-needed version of this list — including how to store your original fittings for a stress-free move-out — see [Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/).
+If your kitchen situation is specifically a rented flat and you want the no-permission-needed version of this list, focus on the reversible changes above — peel-and-stick tiles, contact paper on worktops, freestanding storage, and lighting swaps — and store your original fittings for a stress-free move-out.
 
 ## Where to Start: A Priority Table
 
@@ -260,12 +260,11 @@ The full list, priced at mid-range, comes to roughly £410–£830. That sounds 
 
 **Related reading you might find useful:**
 
-- [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/)
+- [Renter-Friendly Living Room Ideas UK](/blog/renter-friendly-living-room-ideas-uk/)
 
 **Going deeper on kitchens specifically:**
 
 - [Budget Kitchen Cabinet Makeover Ideas UK](/blog/budget-kitchen-cabinet-makeover-uk/)
 - [Budget Kitchen Splashback & Tile Ideas UK](/blog/budget-kitchen-splashback-tile-ideas-uk/)
 - [Galley Kitchen Ideas UK](/blog/galley-kitchen-ideas-uk/) for narrow, two-run layouts
-- [Rental Kitchen Upgrade Ideas UK (No Landlord Permission Needed)](/blog/rental-kitchen-upgrade-ideas-uk/)
 - [Utility Room Ideas UK](/blog/utility-room-ideas-uk/)

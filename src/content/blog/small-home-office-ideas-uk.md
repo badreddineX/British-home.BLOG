@@ -160,6 +160,5 @@ The box room home office is visible in video calls, which matters if you're on c
 
 **Related:**
 - [Small Box Room Ideas UK](/blog/small-box-room-ideas-uk) — bedroom, nursery and storage options for the same space
-- [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk) — whole-flat approach for renters
+- [Renter-Friendly Living Room Ideas UK](/blog/renter-friendly-living-room-ideas-uk/) — deposit-safe approach for renters
 - [Small Bedroom Ideas UK](/blog/small-bedroom-budget-uk) — budget refresh ideas for small rooms
-- [First-Time Renter's UK Flat Setup Checklist](/blog/first-time-renter-flat-setup-checklist-uk) — the full move-in checklist

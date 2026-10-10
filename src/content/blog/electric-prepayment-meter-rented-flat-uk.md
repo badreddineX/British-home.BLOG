@@ -27,16 +27,16 @@ faqs:
   - q: "Can I switch energy supplier if I have a prepayment meter?"
     a: "Yes. You can switch supplier with a prepayment meter just as you would on any other tariff. Use comparison sites like Uswitch or the Ofgem-accredited Energy Helpline. If you owe money to your current supplier, they may object to a switch if the debt exceeds £500."
 relatedPosts:
-  - rented-flat-makeover-uk
-  - deposit-deductions-uk
-  - first-time-renter-flat-setup-checklist-uk
+  - renter-friendly-living-room-ideas-uk
+  - kitchen-on-a-budget-uk
+  - small-bedroom-budget-uk
 ---
 
 If you've just moved into a rented flat and found a prepayment meter under the stairs or mounted on the wall, you're not alone. Prepayment meters are disproportionately common in UK rental properties — particularly in older housing stock, lower-income areas, and flats where previous tenants had energy debt.
 
 The short answer to whether you're stuck with it: **you're not.** You have a legal right to request a switch, your landlord cannot override that, and under current Ofgem rules, prepayment meter rates are now aligned with direct debit. But the practical reality is more nuanced than that, and understanding how the system actually works will save you both money and frustration.
 
-This sits alongside our broader guide to [making a rented flat feel like home](/blog/rented-flat-makeover-uk/) — because managing energy costs is just as much a part of comfortable renting as choosing the right furniture or lighting.
+Managing energy costs is just as much a part of comfortable renting as choosing the right furniture or lighting.
 
 ---
 
@@ -105,7 +105,7 @@ If you're going to stay on prepayment (and some renters prefer to), upgrading to
 
 The smart meter rollout across England, Scotland, and Wales is supplier-led. Contact yours and ask for a SMETS2 meter installation. First-generation SMETS1 meters had compatibility issues when switching suppliers — SMETS2 meters don't have this problem and are the current standard.
 
-If you're [setting up a rented flat for the first time](/blog/first-time-renter-flat-setup-checklist-uk/), requesting a smart meter during the first week is a good habit. It gives you immediate visibility into what your energy is actually costing.
+If you're setting up a rented flat for the first time, requesting a smart meter during the first week is a good habit. It gives you immediate visibility into what your energy is actually costing.
 
 ---
 
@@ -137,7 +137,7 @@ If you genuinely cannot afford to top up, contact your supplier immediately. The
 
 Whether you stay on prepayment or switch to direct debit, these practical steps reduce what you actually spend:
 
-**Draught-proof the flat.** Renters can use removable draught excluders on doors and windows without any permanent modification. Self-adhesive foam strips around window frames and a brush strip under the front door make a measurable difference, especially in older Victorian or Edwardian conversions common in UK cities. This pairs well with the [deposit-safe improvements](/blog/deposit-deductions-uk/) we cover separately.
+**Draught-proof the flat.** Renters can use removable draught excluders on doors and windows without any permanent modification. Self-adhesive foam strips around window frames and a brush strip under the front door make a measurable difference, especially in older Victorian or Edwardian conversions common in UK cities. These are all deposit-safe improvements that remove cleanly when you move out.
 
 **Use the in-home display.** If you have a smart meter, the IHD shows real-time spend. Most people who actively monitor it reduce their usage by 5-15% simply through awareness — turning off standby devices, running the washing machine at full loads, and being deliberate about heating.
 
@@ -197,6 +197,5 @@ When you pick up the keys to a rented flat with a prepayment meter:
 
 ## Related Reading
 
-- [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) — reversible changes that transform a rental without risking your deposit
-- [Deposit Deductions UK](/blog/deposit-deductions-uk/) — what landlords can and can't deduct, and how to protect yourself
-- [First-Time Renter Flat Setup Checklist UK](/blog/first-time-renter-flat-setup-checklist-uk/) — everything to sort in your first week
+- [Renter-Friendly Living Room Ideas UK](/blog/renter-friendly-living-room-ideas-uk/) — reversible changes that transform a rental without risking your deposit
+- [Renter-Friendly Bedroom Ideas UK](/blog/renter-friendly-bedroom-ideas-uk/) — deposit-safe bedroom upgrades on a budget

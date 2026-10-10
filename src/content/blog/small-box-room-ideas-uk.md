@@ -27,7 +27,7 @@ faqs:
   - q: "Are box room ideas renter-friendly?"
     a: "Most of them. Stick to command strips instead of screws, freestanding furniture instead of built-ins, and removable wallpaper or paint that you can cover when you leave. Over-door hooks and tension rods need zero holes in walls."
 relatedPosts:
-  - small-bedroom-layout-ideas-uk
+  - small-home-office-ideas-uk
   - small-bedroom-budget-uk
   - renter-friendly-bedroom-ideas-uk
 ---
@@ -46,7 +46,7 @@ The most common use for a box room, and the one that needs the most careful plan
 
 **Skip the bedside table.** A floating shelf fixed at mattress height (IKEA LACK shelf, around £9) or a small wall-mounted ledge does the same job with zero floor footprint. If you're renting and can't drill, a slim clip-on shelf that hooks over the headboard works too, roughly £15-20 on Amazon.
 
-For more bedroom layout strategies that work in tight UK rooms, our [small bedroom layout ideas](/blog/small-bedroom-layout-ideas-uk) guide goes deeper on bed positioning for awkward shapes like L-rooms and sloped ceilings.
+For more bedroom layout strategies that work in tight UK rooms, our [small bedroom on a budget](/blog/small-bedroom-budget-uk/) guide goes deeper on storage and furniture for small bedrooms.
 
 ## Box Room Bed Size Guide
 
@@ -175,6 +175,6 @@ The budget end gets you a fully functional, good-looking box room. The mid-range
 
 ## Related Reading
 
-- [Small Bedroom Layout Ideas for Awkward UK Rooms](/blog/small-bedroom-layout-ideas-uk) covers bed placement and furniture arrangement for sloped ceilings, L-shapes, and chimney breast rooms.
+- [Small Bedroom on a Budget UK](/blog/small-bedroom-budget-uk/) covers affordable furniture and storage for tight bedrooms.
 - [Small Bedroom on a Budget UK](/blog/small-bedroom-budget-uk) focuses on storage solutions and affordable furniture for tight bedrooms.
 - [Renter-Friendly Bedroom Ideas UK](/blog/renter-friendly-bedroom-ideas-uk) covers no-drill, no-damage upgrades for bedrooms in rented flats.

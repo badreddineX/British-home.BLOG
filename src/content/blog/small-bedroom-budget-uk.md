@@ -70,7 +70,7 @@ One overhead light plus one lamp beats one overhead light alone, every time. Pos
 
 Yes, and a large leaning mirror costs £35-£45 at IKEA or B&M, which is genuinely worth the spend. A mirror placed opposite or near a window bounces natural daylight deeper into the room and adds visual depth that a flat wall doesn't have.
 
-IKEA's HOVET or NISSEDAL leaning mirrors run £35-£65 depending on size, and B&M regularly stocks similar full-length leaning mirrors from £30-£40. A leaning mirror needs no drilling and no wall fixings, which matters in a [rented flat](/blog/rented-flat-makeover-uk/).
+IKEA's HOVET or NISSEDAL leaning mirrors run £35-£65 depending on size, and B&M regularly stocks similar full-length leaning mirrors from £30-£40. A leaning mirror needs no drilling and no wall fixings, which matters in a rented flat.
 
 
 **Cost:** £35-£45.
@@ -97,7 +97,7 @@ Amazon UK, B&M, and IKEA all stock A4 or A3 framed prints in the £5-£10 range.
 
 **Cost:** £15-£20.
 
-If storage clutter is competing with your new decor for attention, tackling that alongside this refresh helps the room read as finished rather than just decorated. Our guide to [small bedroom layout ideas UK](/blog/small-bedroom-layout-ideas-uk/) covers renter-friendly fixes that pair well with this budget.
+If storage clutter is competing with your new decor for attention, tackling that alongside this refresh helps the room read as finished rather than just decorated. Our guide to [renter-friendly bedroom ideas UK](/blog/renter-friendly-bedroom-ideas-uk/) covers deposit-safe fixes that pair well with this budget.
 
 
 ---
@@ -133,9 +133,9 @@ A bedroom that looks refreshed but still has clothes piled on a chair and shoes 
 - **A slim over-door organiser** (£10–£15, Amazon UK) on the wardrobe door adds pockets for scarves, belts, and accessories that would otherwise clutter the shelf or the floor.
 - **Matching hangers** sound trivial, but swapping a mixed set for slim velvet hangers (£8–£12 for 30 at Amazon UK) recovers 20–30% of rail space in a small wardrobe and makes the inside look intentional rather than chaotic.
 
-These three storage fixes add roughly £25–£40 to the refresh budget and take under an hour to set up. For a full bedroom layout rethink — where the bed sits, how to fit a desk, what to do with an awkward alcove — see our [small bedroom layout ideas UK](/blog/small-bedroom-layout-ideas-uk) guide.
+These three storage fixes add roughly £25–£40 to the refresh budget and take under an hour to set up. For a full bedroom layout rethink — where the bed sits, how to fit a desk, what to do with an awkward alcove — see our [renter-friendly bedroom ideas UK](/blog/renter-friendly-bedroom-ideas-uk/) guide.
 
-If your flat has a studio layout where the bedroom and living room share a single space, our [studio flat ideas UK](/blog/studio-flat-ideas-uk) guide covers how to zone the room so each area feels separate.
+If your flat has a studio layout where the bedroom and living room share a single space, our [small living room ideas UK](/blog/small-living-room-ideas-uk/) guide covers how to make the most of a compact room.
 
 ---
 
@@ -155,7 +155,6 @@ Do the five steps in order, bedding, lighting, mirror, rug, wall art, and stop w
 
 **Related reading you might find useful:**
 
-- [Small Bedroom Layout Ideas UK](/blog/small-bedroom-layout-ideas-uk/) to pair with this refresh once the visual side is sorted
 - [Renter-Friendly Bedroom Ideas UK](/blog/renter-friendly-bedroom-ideas-uk/) for deposit-safe changes
 - [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same under-£200 approach in the kitchen
-- [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk/) for the full room-by-room approach
+- [Renter-Friendly Living Room Ideas UK](/blog/renter-friendly-living-room-ideas-uk/) for the living room version

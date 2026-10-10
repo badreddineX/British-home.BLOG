@@ -10,7 +10,7 @@ featured: false
 category: "Room Makeovers"
 relatedPosts:
   - "small-living-room-ideas-uk"
-  - "rented-flat-makeover-uk"
+  - "renter-friendly-living-room-ideas-uk"
   - "renter-friendly-living-room-ideas-uk"
 readTime: "11 min read"
 excerpt: "Layout fixes for the five most common awkward UK living rooms — L-shapes, through-lounges, bay windows, chimney breasts, and radiator-blocked walls — all renter-safe and reversible."
@@ -85,7 +85,7 @@ Divide the room into a front zone and a back zone. The chimney breast is your na
 - **Back zone (closer to the kitchen/garden):** Use this as a dining area or workspace. A table seating four (around 120x75cm) fits comfortably in most back sections. If you do not need a dining table, a low console or sideboard along the back wall with a floor lamp creates a distinct reading area.
 - **The divider:** A low bookcase, a narrow console table, or even a large plant placed at the chimney breast line separates the zones without blocking the walk-through. Do not use a tall piece of furniture here — it will make the back zone feel like a separate, darker room.
 
-For more ideas on making a long terrace room feel cohesive, the [rented flat makeover guide](/blog/rented-flat-makeover-uk) has a section on zoning without permanent changes.
+For more ideas on making a long terrace room feel cohesive, the [renter-friendly living room ideas](/blog/renter-friendly-living-room-ideas-uk/) guide has tips on zoning without permanent changes.
 
 ---
 
@@ -212,5 +212,5 @@ Spend twenty minutes with painter's tape on the floor marking out where furnitur
 ## Related Reading
 
 - [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk) — space-saving principles for rooms under 15 square metres
-- [Rented Flat Makeover UK](/blog/rented-flat-makeover-uk) — full room-by-room deposit-safe decorating guide
+- [Renter-Friendly Living Room Ideas UK](/blog/renter-friendly-living-room-ideas-uk/) — deposit-safe decorating ideas for rental living rooms
 - [Renter-Friendly Living Room Ideas UK](/blog/renter-friendly-living-room-ideas-uk) — reversible decorating ideas (wallpaper, lighting, rugs) for rental living rooms
