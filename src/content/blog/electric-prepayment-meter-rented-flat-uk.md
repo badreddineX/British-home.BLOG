@@ -1,6 +1,6 @@
 ---
-title: "Electric Prepayment Meters in UK Rented Flats: What Renters Need to Know"
-description: "Everything UK renters need to know about electric prepayment meters — how they work, your right to switch to direct debit, Ofgem price cap protections, emergency credit, and practical tips to reduce energy costs in a rented flat."
+title: "Prepayment Meter in a UK Rented Flat: Rights, Costs & How to Switch"
+description: "Prepayment meter guide for UK renters — how they work, your legal right to switch to direct debit, Ofgem price cap protections, emergency credit and tips to cut energy costs in a rented flat."
 image: "/images/armchair-task-lighting-corner.jpg"
 datePublished: "2026-10-08"
 dateModified: "2026-10-08"

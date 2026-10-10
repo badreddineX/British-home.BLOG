@@ -1,6 +1,6 @@
 ---
-title: "Renter-Friendly Bedroom Ideas UK (No Nails, No Damage)"
-description: "Renter-friendly bedroom ideas for UK flats — Command strips, peel-and-stick wallpaper, and clip-on lighting. Every change here is deposit-safe."
+title: "Small Bedroom Ideas UK: Renter-Friendly Changes (No Nails)"
+description: "Small bedroom ideas for UK renters — Command strips, peel-and-stick wallpaper and clip-on lighting. Every change is deposit-safe and fully reversible."
 image: "/images/pexels-90317.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-10-08"

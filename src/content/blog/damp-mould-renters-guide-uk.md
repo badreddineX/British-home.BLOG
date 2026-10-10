@@ -1,6 +1,6 @@
 ---
-title: "Damp & Mould in UK Rentals: Renter's Action Guide"
-description: "UK renter's guide to damp and mould: Awaab's Law timelines, Renters' Rights Act 2025, how to report properly, and what to do if your landlord ignores you."
+title: "Mould in Rented Property UK: Your Rights & Action Guide (2026)"
+description: "Mould in rented property UK — Awaab's Law timelines, Renters' Rights Act 2025, how to report damp and mould properly, and what to do when your landlord ignores you."
 image: "/images/cosy-home-library-bookshelves.jpg"
 datePublished: "2026-10-07"
 dateModified: "2026-10-07"

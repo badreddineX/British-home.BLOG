@@ -1,6 +1,6 @@
 ---
-title: "11 Rental Kitchen Upgrades UK (No Permission, Fully Reversible)"
-description: "11 rental kitchen upgrades for UK tenants — no landlord permission needed. Peel-and-stick tiles, swappable handles, removable splashbacks. Deposit-safe."
+title: "Rental Kitchen Ideas UK: 11 Reversible Upgrades (No Permission)"
+description: "Rental kitchen ideas for UK tenants — 11 fully reversible upgrades including peel-and-stick tiles, swappable handles and removable splashbacks. No landlord permission needed, deposit-safe."
 image: "/images/kitchen-worktop-wood.jpg"
 datePublished: "2026-07-10"
 dateModified: "2026-10-08"

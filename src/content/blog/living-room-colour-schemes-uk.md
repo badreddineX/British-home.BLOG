@@ -1,6 +1,6 @@
 ---
-title: "Living Room Colour Schemes UK: 12 Ideas That Work in Rented Flats"
-description: "Living room colour schemes for UK homes and rented flats: warm neutrals, sage greens, period-appropriate palettes and how to add colour without painting."
+title: "Living Room Colour Ideas UK: 12 Schemes That Work in Rented Flats"
+description: "Living room colour ideas for UK homes and rented flats — warm neutrals, sage greens, period palettes and how to add colour without painting the walls."
 image: "/images/dramatic-velvet-living-room.jpg"
 datePublished: "2026-10-09"
 dateModified: "2026-10-09"

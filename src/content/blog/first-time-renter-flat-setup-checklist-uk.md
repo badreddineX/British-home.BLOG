@@ -1,6 +1,6 @@
 ---
-title: "First-Time Renter's UK Flat Setup Checklist"
-description: "Complete UK first-time renter checklist: utilities, contents insurance, deposit protection, move-in inspection, and first-week admin that protects your deposit."
+title: "First Time Renter UK: Complete Flat Setup Checklist"
+description: "First time renting in the UK — complete checklist covering utilities, contents insurance, deposit protection, move-in inspection and the first-week admin that protects your deposit."
 image: "/images/pexels-1457842.jpg"
 datePublished: "2026-10-07"
 dateModified: "2026-10-07"

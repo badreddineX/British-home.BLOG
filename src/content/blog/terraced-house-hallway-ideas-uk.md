@@ -1,6 +1,6 @@
 ---
-title: "Terraced House Hallway Ideas UK: Making a Narrow Entry Work"
-description: "Practical terraced house hallway ideas for UK homes — lighting, storage, flooring and colour for narrow Victorian, Edwardian and 1930s entries, with UK prices."
+title: "Hallway Ideas UK: Terraced House & Narrow Entry Fixes"
+description: "Hallway ideas for UK terraced houses — lighting, storage, flooring and colour for narrow Victorian, Edwardian and 1930s entries, with real UK prices and renter-safe options."
 image: "/images/pexels-1571460.jpg"
 datePublished: "2026-10-08"
 dateModified: "2026-10-08"
