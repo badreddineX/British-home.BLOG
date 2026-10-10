@@ -15,7 +15,7 @@ readTime: "11 min read"
 excerpt: "Six deposit-safe bedroom updates for UK renters, from Command strip gallery walls to peel-and-stick wallpaper, with real retailer prices and no drilling."
 tldr:
   - "Peel-and-stick wallpaper on one accent wall (£15-£35 a roll, B&Q or Wayfair) is the single biggest visual change you can make without touching the plaster."
-  - "Command strips (from £5, Amazon UK) hold frames up to 2.5kg and come off clean, no filler needed at check-out."
+  - "Command strips (from £5, Amazon UK) hold standard frames up to 2.5kg, or up to 7.3kg with the large strips, and come off clean, no filler needed at check-out."
   - "Freestanding furniture like an IKEA PAX wardrobe or a clothes rail replaces fitted storage entirely and moves with you when you move flats."
   - "A door curtain (£20-£40, Dunelm) cuts draughts from period flat doors without a single screw."
   - "Every idea in this guide is fully reversible and inspection-safe, so none of it risks your deposit."
@@ -42,7 +42,7 @@ The trick isn't decorating less. It's decorating in ways that come apart as easi
 
 ## Can You Do a Gallery Wall Without Drilling in a Rented Bedroom?
 
-Yes, and [Command strips](https://link.amazon/B0cezZuvf) are rated to hold frames up to 2.5kg without any filler or drilling ([3M UK](https://www.command.com/3M/en_GB/command/), 2026). A gallery wall built entirely from Command strips looks identical to a drilled one but leaves zero marks when you peel it off at the end of your tenancy.
+Yes, and [Command strips](https://link.amazon/B0cezZuvf) are rated to hold standard frames up to 2.5kg, or up to 7.3kg per set with the large picture-hanging strips for mirrors and shelves, without any filler or drilling ([3M UK](https://www.command.com/3M/en_GB/command/), 2026). A gallery wall built entirely from Command strips looks identical to a drilled one but leaves zero marks when you peel it off at the end of your tenancy.
 
 Buy the variety pack (£8-£12, Amazon UK or Wilko) so you have both small and large strip sizes on hand. Small strips suit postcards and light prints. The large picture-hanging strips handle framed prints up to A3 size.
 

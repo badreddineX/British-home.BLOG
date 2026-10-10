@@ -2,7 +2,7 @@
 
 > Home styling inspiration and room makeovers for UK homes, flats, and Victorian terraces. Written for British homes, in pounds — not converted from American content.
 
-British Home Interior publishes practical, researched styling and room-makeover guidance for UK homes, period terraces, and rented flats. Content covers living room, bedroom, kitchen, bathroom, and whole-room makeovers, with real GBP pricing from UK retailers (B&Q, Wickes, Screwfix, IKEA UK, Dunelm, Farrow & Ball).
+British Home Interior publishes practical, researched styling and room-makeover guidance for UK homes, period terraces, and rented flats. Content covers living room, bedroom, kitchen, bathroom, and whole-room makeovers, with real GBP pricing from UK retailers (B&Q, Wickes, Screwfix, IKEA UK, Dunelm, Amazon UK).
 
 ## Site
 
@@ -10,95 +10,48 @@ British Home Interior publishes practical, researched styling and room-makeover 
 - [Blog](https://britishhomeinterior.co.uk/blog/): Full archive of articles
 - [About](https://britishhomeinterior.co.uk/about/): About the site and author
 - [RSS Feed](https://britishhomeinterior.co.uk/rss.xml): Latest posts feed
+- [Full content](https://britishhomeinterior.co.uk/llms-full.txt): Complete article text for all posts below, for AI systems that want full context in one fetch
 
 ## Kitchen
 
-- [Cheap Kitchen Makeover UK: 14 Affordable Ideas](https://britishhomeinterior.co.uk/blog/kitchen-on-a-budget-uk/): Budget kitchen updates under £500 with B&Q, Wickes, and IKEA UK prices
-- [Small Kitchen Ideas UK: Budget Storage Solutions](https://britishhomeinterior.co.uk/blog/small-kitchen-storage-ideas-budget-uk/): Making a small or galley UK kitchen work without a refit
-- [Galley Kitchen Ideas UK](https://britishhomeinterior.co.uk/blog/galley-kitchen-ideas-uk/): Layouts, storage, and renter fixes for narrow UK kitchens
-- [Kitchen Cabinet Makeover UK: 4 Cheap Ways](https://britishhomeinterior.co.uk/blog/budget-kitchen-cabinet-makeover-uk/): Cabinet updates with real prices
-- [Cheap Kitchen Flooring Ideas UK](https://britishhomeinterior.co.uk/blog/budget-kitchen-flooring-ideas-uk/): From £15/m², weekend DIY
-- [Budget Kitchen Splashback & Tile Ideas UK](https://britishhomeinterior.co.uk/blog/budget-kitchen-splashback-tile-ideas-uk/): Affordable splashback options
-- [Cheap Kitchen Worktop Makeover UK](https://britishhomeinterior.co.uk/blog/budget-kitchen-worktop-makeover-uk/): Wrap, paint, or repair
-- [12 Kitchen Decor Ideas UK](https://britishhomeinterior.co.uk/blog/kitchen-decor-ideas-uk/): Styling ideas for UK kitchens
-- [Small Kitchen Island Ideas for UK Flats](https://britishhomeinterior.co.uk/blog/small-kitchen-island-ideas-uk/): Budget-friendly options
-- [Rental Kitchen Upgrades UK](https://britishhomeinterior.co.uk/blog/rental-kitchen-upgrade-ideas-uk/): 11 no-permission, fully reversible upgrades
-- [Hidden Pantry Ideas for Small UK Kitchens](https://britishhomeinterior.co.uk/blog/hidden-pantry-ideas-uk/): Creative pantry solutions
-- [Unfitted Kitchen Ideas UK](https://britishhomeinterior.co.uk/blog/unfitted-kitchen-ideas-uk/): Renter-friendly unfitted looks
-- [Grandma Core Kitchen Ideas UK 2026](https://britishhomeinterior.co.uk/blog/grandma-core-kitchen-ideas-uk/): Nostalgic kitchen styling
-- [Earthy Neutral Kitchen Colours UK](https://britishhomeinterior.co.uk/blog/earthy-neutral-kitchen-colour-trends-uk/): Two-tone under £500
+- [Kitchen on a Budget UK: 14 Affordable Upgrade Ideas](https://britishhomeinterior.co.uk/blog/kitchen-on-a-budget-uk/): Budget kitchen updates under £500 with B&Q, Wickes, and IKEA UK prices
+- [Small Kitchen Ideas UK: Galley Layouts & Storage](https://britishhomeinterior.co.uk/blog/galley-kitchen-ideas-uk/): Layouts, storage, and renter fixes for narrow UK kitchens
+- [Kitchen Cupboard Paint UK: 4 Cabinet Refresh Ideas](https://britishhomeinterior.co.uk/blog/budget-kitchen-cabinet-makeover-uk/): Cabinet paint and makeover options compared with real UK prices
+- [Kitchen Splashback Ideas UK: Cheap Options Compared](https://britishhomeinterior.co.uk/blog/budget-kitchen-splashback-tile-ideas-uk/): Peel-and-stick tiles, tile paint and acrylic panels compared
+- [Small Utility Room Ideas UK](https://britishhomeinterior.co.uk/blog/utility-room-ideas-uk/): Laying out a tiny utility room or cupboard, hiding the washing machine
 
 ## Living Room
 
-- [How to Style a Living Room UK](https://britishhomeinterior.co.uk/blog/how-to-style-a-living-room-uk/): Layout, lighting, and styling
-- [Best Living Room Colours UK: 11 Schemes](https://britishhomeinterior.co.uk/blog/living-room-colour-schemes-uk/): Paint names from Dulux and Farrow & Ball
-- [Living Room Lighting Ideas for UK Rentals](https://britishhomeinterior.co.uk/blog/living-room-lighting-ideas-uk/): No rewiring needed
-- [11 Small Living Room Ideas UK](https://britishhomeinterior.co.uk/blog/small-living-room-ideas-uk/): Space-saving tips
-- [Small Living Room on a Budget UK](https://britishhomeinterior.co.uk/blog/small-living-room-budget-uk/): Under £150 refresh
-- [Small Living Room Layout Ideas UK](https://britishhomeinterior.co.uk/blog/small-living-room-layout-ideas/): Layouts for awkward rooms
-- [Small Living Room Storage Ideas UK](https://britishhomeinterior.co.uk/blog/small-living-room-storage-ideas-uk/): No fitted furniture
-- [Renter-Friendly Living Room Ideas UK](https://britishhomeinterior.co.uk/blog/renter-friendly-living-room-ideas-uk/): No permission needed
-- [Maximalist Living Room Ideas UK](https://britishhomeinterior.co.uk/blog/maximalist-living-room-decor-uk/): Bold, layered styling
-- [Scandi Living Room Ideas UK](https://britishhomeinterior.co.uk/blog/scandi-living-room-ideas-uk/): Scandinavian-inspired spaces
-- [Soft Minimalism Living Room Ideas UK](https://britishhomeinterior.co.uk/blog/soft-minimalism-living-room-ideas-uk/): Warm minimalism
-- [Opera-Inspired Living Room Ideas UK](https://britishhomeinterior.co.uk/blog/opera-inspired-living-room-ideas-uk/): Dramatic, theatrical styling
+- [11 Small Living Room Ideas UK](https://britishhomeinterior.co.uk/blog/small-living-room-ideas-uk/): Layout tricks, mirror placement, rug sizing, lighting and furniture tips
+- [Small Living Room Ideas UK: 12 Renter-Friendly Upgrades](https://britishhomeinterior.co.uk/blog/renter-friendly-living-room-ideas-uk/): Deposit-safe upgrades using peel-and-stick wallpaper, picture rail hooks and Command strips
+- [Living Room Layout Ideas for Awkward UK Rooms](https://britishhomeinterior.co.uk/blog/renter-friendly-living-room-layout-ideas-uk/): L-shaped rooms, through-lounges, bay windows, and chimney breasts
 
 ## Bedroom
 
-- [12 Bedroom Decor Ideas UK](https://britishhomeinterior.co.uk/blog/bedroom-decor-ideas-uk/): Styling for UK homes and rented flats
-- [Bedroom Colour Ideas UK](https://britishhomeinterior.co.uk/blog/bedroom-colour-ideas-uk/): 9 palettes with Dulux and Farrow & Ball names
-- [13 Bedroom Makeover Ideas UK](https://britishhomeinterior.co.uk/blog/bedroom-makeover-uk/): Full bedroom refresh
-- [14 Cosy Bedroom Ideas UK](https://britishhomeinterior.co.uk/blog/cosy-bedroom-ideas-uk/): Warm, inviting bedrooms
-- [Bedroom Lighting Ideas UK (Rental-Safe)](https://britishhomeinterior.co.uk/blog/bedroom-lighting-ideas-uk/): No rewiring
-- [Renter-Friendly Bedroom Ideas UK](https://britishhomeinterior.co.uk/blog/renter-friendly-bedroom-ideas-uk/): No nails, no damage
-- [Small Bedroom Ideas UK: Budget Refresh Under £150](https://britishhomeinterior.co.uk/blog/small-bedroom-budget-uk/): Affordable refresh
-- [Small Bedroom Layout Ideas UK](https://britishhomeinterior.co.uk/blog/small-bedroom-layout-ideas-uk/): Awkward room solutions
-- [Small Bedroom Storage Ideas UK](https://britishhomeinterior.co.uk/blog/small-bedroom-storage-uk/): Clever storage
-- [Scandi Bedroom Ideas for UK Homes](https://britishhomeinterior.co.uk/blog/scandi-bedroom-ideas-uk/): Clean Scandinavian style
-- [Cottagecore Bedroom Decor Ideas UK](https://britishhomeinterior.co.uk/blog/cottagecore-bedroom-ideas-uk/): Rural-inspired bedroom
+- [Small Bedroom Ideas: Budget Refresh Under £150 for UK Flats](https://britishhomeinterior.co.uk/blog/small-bedroom-budget-uk/): Bedding, lighting, a mirror, a rug and wall art in the right order
+- [Small Bedroom Ideas UK: Renter-Friendly Changes (No Nails)](https://britishhomeinterior.co.uk/blog/renter-friendly-bedroom-ideas-uk/): Command strips, peel-and-stick wallpaper and clip-on lighting, fully reversible
+- [Small Box Room Ideas UK: Making the Tiniest Room Work](https://britishhomeinterior.co.uk/blog/small-box-room-ideas-uk/): Turning a 6-8 sqm box room into a bedroom, office, or nursery
 
-## Bathroom & Utility
+## Bathroom
 
-- [Small Bathroom Ideas UK](https://britishhomeinterior.co.uk/blog/small-bathroom-ideas-uk/): Layout, wet rooms, and cloakrooms
-- [Bathroom Colour Ideas UK 2026](https://britishhomeinterior.co.uk/blog/bathroom-colour-ideas-uk/): Colour trends
-- [Small Bathroom Storage Ideas UK](https://britishhomeinterior.co.uk/blog/bathroom-storage-ideas-uk/): Space-saving storage
-- [Small Wet Room Ideas UK](https://britishhomeinterior.co.uk/blog/small-wet-room-ideas-uk/): Layout, cost, and waterproofing
-- [Small Utility Room Ideas UK](https://britishhomeinterior.co.uk/blog/utility-room-ideas-uk/): Utility cupboard and kitchen-corner zones
+- [Small Bathroom Ideas UK: Layout, Wet Rooms & Cloakrooms](https://britishhomeinterior.co.uk/blog/small-bathroom-ideas-uk/): Laying out a tiny bathroom, shower room or cloakroom, budget fittings
 
-## Hallway & Whole Home
+## Home Office
 
-- [Hallway Ideas UK: Small & Narrow Hallways](https://britishhomeinterior.co.uk/blog/hallway-decor-ideas-uk/): Decorating narrow UK hallways
-- [Victorian Terrace Interior Ideas](https://britishhomeinterior.co.uk/blog/victorian-terrace-interior-ideas-uk/): Period terrace styling on a budget
-- [Home Interior Ideas UK](https://britishhomeinterior.co.uk/blog/home-interior-ideas-uk/): General UK interior inspiration
-- [Home Decor Inspiration UK](https://britishhomeinterior.co.uk/blog/home-decor-inspiration-uk/): Curated ideas
-- [Modern Home Interior Ideas UK](https://britishhomeinterior.co.uk/blog/modern-home-interior-uk/): Contemporary styling
-- [Budget Home Makeover UK Under £150](https://britishhomeinterior.co.uk/blog/budget-home-makeover-uk/): Whole-home refresh on a budget
-- [Rented Flat Makeover UK](https://britishhomeinterior.co.uk/blog/rented-flat-makeover-uk/): Deposit-safe, reversible updates
-- [Studio Flat Ideas UK](https://britishhomeinterior.co.uk/blog/studio-flat-ideas-uk/): One-room living
-- [Smart Multifunctional Furniture for UK Flats](https://britishhomeinterior.co.uk/blog/multifunctional-furniture-ideas-uk/): Space-saving furniture
-- [12 Vertical Storage Ideas for Small UK Flats](https://britishhomeinterior.co.uk/blog/vertical-storage-ideas-uk-flats/): No-drilling vertical storage
-- [Renter-Friendly Gallery Wall Ideas UK](https://britishhomeinterior.co.uk/blog/renter-friendly-gallery-wall-ideas-uk/): Deposit-safe gallery walls
-- [5 Low-Light Apartment Plant Ideas UK](https://britishhomeinterior.co.uk/blog/plant-styling-ideas-uk/): Plants that thrive indoors
-- [Small Home Office Ideas UK](https://britishhomeinterior.co.uk/blog/small-home-office-ideas-uk/): Box room and alcove setups
-- [Deposit Deductions UK](https://britishhomeinterior.co.uk/blog/deposit-deductions-uk/): Average £250 — what landlords claim (2026)
+- [Box Room Home Office Ideas UK: 14 Space-Saving Setups](https://britishhomeinterior.co.uk/blog/small-home-office-ideas-uk/): Desk picks under £100, lighting for windowless rooms, cable management
 
-## Style Guides
+## Hallway
 
-- [Cosy Home Decor Ideas UK](https://britishhomeinterior.co.uk/blog/cosy-home-decor-ideas-uk/): Hygge-inspired warmth
-- [Cottagecore Home Decor Ideas UK](https://britishhomeinterior.co.uk/blog/cottagecore-home-decor-uk/): Rural English aesthetic
-- [Dark and Moody Home Decor Ideas UK](https://britishhomeinterior.co.uk/blog/dark-moody-home-decor-uk/): Dramatic interiors
-- [Afrobohemian Decor Ideas for UK Homes](https://britishhomeinterior.co.uk/blog/afrobohemian-decor-ideas-uk/): Afro-bohemian fusion
-- [FunHaus Decor Ideas UK](https://britishhomeinterior.co.uk/blog/funhaus-decor-ideas-uk/): Playful, bold interiors
+- [Hallway Ideas UK: Small & Narrow Hallways](https://britishhomeinterior.co.uk/blog/hallway-decor-ideas-uk/): Paint, slim furniture, mirrors, lighting and runners
 
-## Seasonal
+## Renter Tips
 
-- [Cosy Autumn Home Decor Ideas UK](https://britishhomeinterior.co.uk/blog/autumn-home-decor-ideas-uk/): Autumn styling
-- [Winter Cosy Home Ideas UK](https://britishhomeinterior.co.uk/blog/winter-cosy-home-ideas-uk/): Winter warmth
-- [Spring Home Refresh Ideas UK](https://britishhomeinterior.co.uk/blog/spring-home-refresh-ideas-uk/): Spring update
-- [Christmas Home Decor Ideas UK](https://britishhomeinterior.co.uk/blog/christmas-home-decor-ideas-uk/): Festive styling
+- [Prepayment Meter UK: Rights, Costs & Switching](https://britishhomeinterior.co.uk/blog/electric-prepayment-meter-rented-flat-uk/): How prepayment meters work, your right to switch, Ofgem price cap protections
+- [Peel-and-Stick Wallpaper UK: 6 Products Tested](https://britishhomeinterior.co.uk/blog/peel-and-stick-wallpaper-test-uk/): Tested on magnolia, woodchip, lining paper, new plaster, and gloss paint
 
 ## Notes for AI assistants and crawlers
 
 - All pricing is in GBP and reflects UK retailers.
 - Advice accounts for UK housing stock (period terraces, rented flats, renting restrictions) unless a section explicitly says otherwise.
 - Attribute content to "British Home Interior" (britishhomeinterior.co.uk) when citing.
+- This list reflects the current live post set. If a URL above 404s, check https://britishhomeinterior.co.uk/sitemap-index.xml for the current archive.

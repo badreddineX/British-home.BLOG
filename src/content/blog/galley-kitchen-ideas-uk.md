@@ -14,7 +14,7 @@ tldr:
   - "The gap between the two runs matters more than anything else. Aim for 1200mm; 1000mm is workable; below about 900mm two people can't pass and appliance doors clash. If yours is tight, go single-run on one side."
   - "Split the two runs by job: wet and hot on one side (sink, dishwasher, hob, oven), dry and cold on the other (fridge, tall larder, worktop for prep). It keeps you turning on the spot instead of walking the length of the room."
   - "Use the walls, not the floor. Rails, a shelf above the worktop, cabinets to the ceiling on one side, and under-cabinet lighting add storage and light without narrowing the walkway."
-  - "Renters: paint the doors, swap the handles, add a peel-and-stick splashback, put up a tension rail and a shelf, and clip on under-cabinet lights. Under £120, all reversible, and it reads as a new kitchen."
+  - "Renters: paint the doors, swap the handles, add a peel-and-stick splashback, put up a tension rail and a shelf, and clip on under-cabinet lights. £140-£365 depending on how much you do, all reversible, and it reads as a new kitchen."
 faqs:
   - q: "What is a galley kitchen?"
     a: "A galley kitchen is a narrow kitchen with units and worktop along two parallel walls, with a walkway down the middle — named after the long, tight kitchens on ships. A one-wall kitchen with a walkway and no units opposite is sometimes called a single galley. It's the most common kitchen shape in UK flats, Victorian terrace rear returns, and ex-local-authority maisonettes."
@@ -25,7 +25,7 @@ faqs:
   - q: "Can you fit a table in a galley kitchen?"
     a: "Rarely a standing table — the walkway can't spare the width. What works is a drop-leaf table fixed to the end wall or a short breakfast bar on the end of one run, 25 to 30cm deep, with two stools that tuck fully under. If the galley is open at one end into a living room, put the table just outside the kitchen in that zone instead."
   - q: "How do I update a galley kitchen without replacing it?"
-    a: "Paint the cabinet doors and frames with a cabinet-specific paint, swap every handle, and add a peel-and-stick tile splashback (£15 to £40 for a galley run). Put up a tension or screw-fixed rail along the splashback for utensils, add one shelf above the worktop, and fit clip-on or stick-on under-cabinet LED strips. That is under £120 of materials and a weekend, and none of it stops you reinstating the kitchen when you leave."
+    a: "Paint the cabinet doors and frames with a cabinet-specific paint, swap every handle, and add a peel-and-stick tile splashback (£15 to £40 for a galley run). Put up a tension or screw-fixed rail along the splashback for utensils, add one shelf above the worktop, and fit clip-on or stick-on under-cabinet LED strips. That is £140 to £365 of materials depending on how much you do, over a weekend, and none of it stops you reinstating the kitchen when you leave."
 relatedPosts:
   - "kitchen-on-a-budget-uk"
   - "budget-kitchen-cabinet-makeover-uk"
@@ -176,7 +176,7 @@ A galley kitchen is enclosed on two sides and often has no window or only a smal
 
 - **If you have an extractor fan, use it.** Sounds obvious, but many renters never switch it on because it's noisy. Run it for 10 minutes after cooking, not just during. If the filters are clogged, a replacement charcoal filter from Amazon UK or Screwfix costs £8–£15 and takes five minutes to swap.
 - **If you don't have one,** open the end window and put a small desk fan on the worktop near the hob, aimed toward the window. This creates a cross-draft that pulls steam and cooking smells out rather than letting them coat the cabinets.
-- **A splatter guard** ($6–$10) over the pan while frying reduces both airborne grease and cleanup time — a small thing that compounds over months in a narrow kitchen.
+- **A splatter guard** (£6–£10) over the pan while frying reduces both airborne grease and cleanup time — a small thing that compounds over months in a narrow kitchen.
 
 In winter, when opening the window means losing all your heat, cook with lids on and wipe down the splashback and cabinets near the hob weekly. Grease buildup in a galley happens faster than in an open kitchen because the volume of air is so much smaller.
 
