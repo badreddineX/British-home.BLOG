@@ -188,7 +188,7 @@ If you're struggling with energy costs, several UK government and supplier schem
 When you pick up the keys to a rented flat with a prepayment meter:
 
 1. **Take a meter reading immediately.** Photograph the meter display showing the current reading and any outstanding debt. Send this to your supplier so you're not charged for the previous tenant's usage.
-2. **Find out who supplies the property.** If you don't know, call the Meter Point Administration Service (MPAS) on 0870 608 1524 for electricity, or Xoserve on 0870 608 1524 for gas. They'll tell you which supplier is registered.
+2. **Find out who supplies the property.** If you don't know, use the Meter Point Administration Service (MPAS) lookup for electricity or Xoserve's "Find My Supplier" service for gas — both are searchable online by postcode and meter point reference, and will tell you which supplier is registered.
 3. **Set up an account in your name.** Contact the supplier, give them the meter readings, and register the account to you. Until you do this, you may be on a deemed contract at higher rates.
 4. **Decide whether to stay on prepayment or switch.** If you want to switch, request it now — waiting costs nothing extra under the equalised price cap, but getting on direct debit early means you avoid the risk of self-disconnection.
 5. **Request a smart meter if you don't have one.** Free installation, better control, remote top-up.

@@ -30,7 +30,6 @@ relatedPosts:
   - "kitchen-on-a-budget-uk"
   - "budget-kitchen-cabinet-makeover-uk"
   - "budget-kitchen-splashback-tile-ideas-uk"
-  - "kitchen-on-a-budget-uk"
 ---
 
 

@@ -10,7 +10,7 @@ featured: false
 category: "Living Room"
 relatedPosts:
   - "small-living-room-ideas-uk"
-  - "small-living-room-ideas-uk"
+  - "renter-friendly-living-room-layout-ideas-uk"
 readTime: "9 min read"
 excerpt: "12 renter-friendly living room ideas for UK flats, from £8 Command hooks to a £30 rug layer, all deposit-safe and reversible on moving day."
 tldr:

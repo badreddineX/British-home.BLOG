@@ -11,7 +11,6 @@ category: "Room Makeovers"
 relatedPosts:
   - "small-living-room-ideas-uk"
   - "renter-friendly-living-room-ideas-uk"
-  - "renter-friendly-living-room-ideas-uk"
 readTime: "11 min read"
 excerpt: "Layout fixes for the five most common awkward UK living rooms — L-shapes, through-lounges, bay windows, chimney breasts, and radiator-blocked walls — all renter-safe and reversible."
 tldr:
@@ -212,5 +211,4 @@ Spend twenty minutes with painter's tape on the floor marking out where furnitur
 ## Related Reading
 
 - [Small Living Room Ideas UK](/blog/small-living-room-ideas-uk) — space-saving principles for rooms under 15 square metres
-- [Renter-Friendly Living Room Ideas UK](/blog/renter-friendly-living-room-ideas-uk/) — deposit-safe decorating ideas for rental living rooms
-- [Renter-Friendly Living Room Ideas UK](/blog/renter-friendly-living-room-ideas-uk) — reversible decorating ideas (wallpaper, lighting, rugs) for rental living rooms
+- [Renter-Friendly Living Room Ideas UK](/blog/renter-friendly-living-room-ideas-uk/) — deposit-safe, reversible decorating ideas (wallpaper, lighting, rugs) for rental living rooms

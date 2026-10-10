@@ -10,7 +10,7 @@ featured: false
 category: "Bedroom"
 relatedPosts:
   - "small-bedroom-budget-uk"
-  - "small-bedroom-budget-uk"
+  - "small-box-room-ideas-uk"
 readTime: "11 min read"
 excerpt: "Six deposit-safe bedroom updates for UK renters, from Command strip gallery walls to peel-and-stick wallpaper, with real retailer prices and no drilling."
 tldr:
@@ -128,7 +128,6 @@ None of these changes need a landlord's permission or a drill. Start with Comman
 
 **Related reading you might find useful:**
 
-- [Small Bedroom on a Budget UK](/blog/small-bedroom-budget-uk/) for the budget refresh once the no-damage basics are in place
-- [Small Bedroom on a Budget UK](/blog/small-bedroom-budget-uk/) for furniture arrangement and storage in small bedrooms
+- [Small Bedroom on a Budget UK](/blog/small-bedroom-budget-uk/) for the budget refresh and furniture arrangement once the no-damage basics are in place
 - [Kitchen on a budget UK](/blog/kitchen-on-a-budget-uk/) for the same no-damage approach in the kitchen
 - [Renter-Friendly Living Room Ideas UK](/blog/renter-friendly-living-room-ideas-uk/) for the same deposit-safe approach in the living room

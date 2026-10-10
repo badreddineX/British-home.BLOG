@@ -60,7 +60,7 @@ Painting is only one of four ways to update tired cabinets, though — respray, 
 
 Cabinet handles are one of those things you stop noticing — until you see a kitchen where they've been changed. Replacing brass bar pulls from 2002 with something modern takes thirty minutes and a screwdriver. The visual difference is disproportionate to the effort.
 
-A full kitchen of twenty handles costs between £30 and £80, whether you choose IKEA's BLANKETT range from ~£2–£3 each or Etsy cup pulls from £1.50–£4 each, and the whole swap takes about thirty minutes with a screwdriver.
+A full kitchen of twenty handles costs between £15 and £40, whether you choose IKEA's BLANKETT range from ~£0.75–£2 each or Etsy cup pulls from £1.50–£4 each, and the whole swap takes about thirty minutes with a screwdriver.
 
 IKEA sells simple brushed nickel bar pulls (the BLANKETT range) for around £2–£3 per handle. For a more premium feel, check Dunelm's hardware section or Etsy UK sellers — cup pulls in antique brass or matte black run from £1.50 to £4 each.
 

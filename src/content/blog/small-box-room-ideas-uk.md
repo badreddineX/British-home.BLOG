@@ -176,5 +176,4 @@ The budget end gets you a fully functional, good-looking box room. The mid-range
 ## Related Reading
 
 - [Small Bedroom on a Budget UK](/blog/small-bedroom-budget-uk/) covers affordable furniture and storage for tight bedrooms.
-- [Small Bedroom on a Budget UK](/blog/small-bedroom-budget-uk) focuses on storage solutions and affordable furniture for tight bedrooms.
 - [Renter-Friendly Bedroom Ideas UK](/blog/renter-friendly-bedroom-ideas-uk) covers no-drill, no-damage upgrades for bedrooms in rented flats.
