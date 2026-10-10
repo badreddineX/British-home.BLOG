@@ -1,6 +1,6 @@
 ---
-title: "Small Kitchen Ideas UK: Galley Layouts, Storage & Renter Fixes"
-description: "Small kitchen ideas for UK flats and terraces — galley layout rules, the worktop gap you actually need, wall-height storage and renter-safe updates that need no permission."
+title: "Small Kitchen Ideas UK: Galley Layouts & Storage"
+description: "Small kitchen ideas for UK flats — galley layout rules, worktop gap you need, wall-height storage and renter-safe updates."
 image: "/images/galley-kitchen-narrow-uk.jpg"
 datePublished: "2026-09-02"
 dateModified: "2026-10-09"

@@ -1,6 +1,6 @@
 ---
 title: "Small Living Room Ideas UK: 12 Renter-Friendly Upgrades"
-description: "Small living room ideas for UK renters — 12 deposit-safe upgrades using peel-and-stick wallpaper, picture rail hooks and Command strips. No drilling, no permission needed."
+description: "Small living room ideas for UK renters — 12 deposit-safe upgrades using peel-and-stick wallpaper, picture rail hooks and Command strips."
 image: "/images/pexels-1571453.jpg"
 datePublished: "2026-08-10"
 dateModified: "2026-09-05"

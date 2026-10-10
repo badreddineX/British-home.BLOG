@@ -1,6 +1,6 @@
 ---
 title: "Box Room Home Office Ideas UK: 14 Space-Saving Setups"
-description: "Box room home office ideas for UK flats and terraced houses — desk picks under £100, lighting that works in a windowless room, cable management and storage without drilling."
+description: "Box room home office ideas for UK flats — desk picks under £100, lighting for windowless rooms, cable management and storage."
 image: "/images/small-home-office-uk.jpg"
 datePublished: "2026-10-09"
 dateModified: "2026-10-09"

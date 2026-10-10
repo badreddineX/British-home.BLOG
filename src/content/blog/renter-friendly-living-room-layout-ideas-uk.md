@@ -1,5 +1,5 @@
 ---
-title: "Renter-Friendly Living Room Layout Ideas for Awkward UK Rooms"
+title: "Living Room Layout Ideas for Awkward UK Rooms"
 description: "Practical living room layout solutions for L-shaped rooms, through-lounges, bay windows, and chimney breasts in UK rentals. No drilling, no deposit risk."
 image: "/images/scandinavian-living-room-wood.jpg"
 datePublished: "2026-10-08"

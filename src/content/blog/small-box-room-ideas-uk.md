@@ -1,6 +1,6 @@
 ---
 title: "Small Box Room Ideas UK: Making the Tiniest Room Work"
-description: "Practical small box room ideas for UK homes. Turn a 6-8 sqm box room into a bedroom, home office, or nursery with smart storage, lighting, and renter-friendly solutions."
+description: "Small box room ideas for UK homes — turn a 6-8 sqm box room into a bedroom, office, or nursery with smart storage."
 image: "/images/minimalist-bedroom-single-bed.jpg"
 datePublished: "2026-10-08"
 dateModified: "2026-10-08"

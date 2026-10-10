@@ -1,6 +1,6 @@
 ---
 title: "Kitchen Splashback Ideas UK: Cheap Options Compared"
-description: "Kitchen splashback ideas for UK kitchens on a budget — peel-and-stick tiles, tile paint and acrylic panels compared with real prices and a fitting guide that avoids peeling."
+description: "Kitchen splashback ideas on a budget — peel-and-stick tiles, tile paint and acrylic panels compared with real UK prices."
 image: "/images/kitchen-subway-tile-splashback.jpg"
 datePublished: "2026-06-18"
 dateModified: "2026-10-08"

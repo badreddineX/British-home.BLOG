@@ -1,6 +1,6 @@
 ---
-title: "Kitchen Cupboard Paint UK: 4 Ways to Refresh Cabinets (With Prices)"
-description: "Kitchen cupboard paint and makeover options compared — DIY brush paint from £30, professional respray, vinyl wrap and new doors, with real UK prices from B&Q, Wickes and Screwfix."
+title: "Kitchen Cupboard Paint UK: 4 Cabinet Refresh Ideas"
+description: "Kitchen cupboard paint and makeover options compared — DIY paint, respray, vinyl wrap and new doors, with real UK prices."
 image: "/images/kitchen-white-cabinets.jpg"
 datePublished: "2026-05-27"
 dateModified: "2026-10-08"
